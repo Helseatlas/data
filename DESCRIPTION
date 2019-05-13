@@ -9,3 +9,9 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 RoxygenNote: 6.1.1
 Encoding: UTF-8
+Imports:
+  magrittr,
+  tibble,
+  jsonlite
+Suggests: 
+    testthat
