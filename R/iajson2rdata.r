@@ -224,5 +224,9 @@ read_iajson <- function(json_file = NULL) {
     }
   }
 
+  if (!is.null(rdata_file)) {
+    save(all_data, file = rdata_file)
+  }
+  
   return(all_data)
 }
