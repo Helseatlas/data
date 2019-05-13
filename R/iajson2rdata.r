@@ -186,6 +186,7 @@ iajson2rdata <- function(json_file = NULL, rdata_file = NULL) {
   if (!is.null(rdata_file)) {
     save(all_data, file = rdata_file)
   }
-  
+
+  # Have to return something, due to testing.
   return(all_data)
 }
