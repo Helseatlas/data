@@ -1,3 +1,3 @@
-library(jsonfiles)
+library(data)
 
-testthat::test_check("jsonfiles")
+testthat::test_check("data")
