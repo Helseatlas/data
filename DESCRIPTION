@@ -1,14 +1,16 @@
 Package: data
 Type: Package
-Title: What the package does (short line)
+Title: Package containing data for the Helseatlas website
 Version: 0.1
 Date: 2019-05-13
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: SKDE/Helse Førde HF
+Maintainer: Arnfinn Hykkerud Steindal <arnfinn.steindal@skde.no>
+Description: Data in R format and json format. After installing the package, the data can be used by running data::<atlasname>.
+Depends: R (>= 3.4.0)
+License: file LICENSE
 RoxygenNote: 6.1.1
 Encoding: UTF-8
+LazyData: true
 Imports:
   magrittr,
   tibble,

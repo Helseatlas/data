@@ -5,6 +5,9 @@
 #' data into a data frame.
 #'
 #' @param json_file The json file used by IA
+#' @param rdata_file The name of the RData file to be saved.
+#' Will return an R object if NULL.
+#' Default: NULL
 #'
 #' @return A data frame
 #' @export
@@ -12,7 +15,6 @@
 #'
 iajson2rdata <- function(json_file = NULL, rdata_file = NULL) {
 
-  library(magrittr)
   # Read the json file
   # NOTE: The js-file HAS to be converted from UTF-8 BOM to UTF-8 (in notepad++) before this will work!
   json_data <- jsonlite::fromJSON(json_file)

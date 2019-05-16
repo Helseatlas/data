@@ -8,6 +8,10 @@ iajson2rdata(json_file = NULL, rdata_file = NULL)
 }
 \arguments{
 \item{json_file}{The json file used by IA}
+
+\item{rdata_file}{The name of the RData file to be saved.
+Will return an R object if NULL.
+Default: NULL}
 }
 \value{
 A data frame
