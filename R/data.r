@@ -1,17 +1,3 @@
-#' Dataset with data from the children healthcare atlas
-#'
-#' @docType data
-#' @keywords datasets
-#' @name barn
-NULL
-
-#' Dataset with data from the children healthcare atlas, english version
-#'
-#' @docType data
-#' @keywords datasets
-#' @name barn_en
-NULL
-
 #' Dataset with data from the day surgery healthcare atlas
 #'
 #' @docType data
@@ -26,32 +12,46 @@ NULL
 #' @name dagkir_en
 NULL
 
-#' Dataset with data from the day surgery healthcare atlas 2013-2017
+#' Dataset with data from the children healthcare atlas
 #'
 #' @docType data
 #' @keywords datasets
-#' @name dagkir2
+#' @name barn
 NULL
 
-#' Dataset with data from the day surgery healthcare atlas 2013-2017, english version
+#' Dataset with data from the children healthcare atlas, english version
 #'
 #' @docType data
 #' @keywords datasets
-#' @name dagkir2_en
+#' @name barn_en
 NULL
 
-#' Dataset with data from the birth healthcare atlas
+#' Dataset with data from the neonatal healthcare atlas
 #'
 #' @docType data
 #' @keywords datasets
-#' @name fodsel
+#' @name nyfodt
 NULL
 
-#' Dataset with data from the gynaecology healthcare atlas
+#' Dataset with data from the neonatal healthcare atlas, english version
 #'
 #' @docType data
 #' @keywords datasets
-#' @name gyn
+#' @name nyfodt_en
+NULL
+
+#' Dataset with data from the elderly healthcare atlas
+#'
+#' @docType data
+#' @keywords datasets
+#' @name eldre
+NULL
+
+#' Dataset with data from the elderly healthcare atlas, english version
+#'
+#' @docType data
+#' @keywords datasets
+#' @name eldre_en
 NULL
 
 #' Dataset with data from the COPD healthcare atlas
@@ -68,9 +68,44 @@ NULL
 #' @name kols_en
 NULL
 
-#' Dataset with data from the neonatal healthcare atlas
+#' Dataset with data from the day surgery healthcare atlas 2013-2017
 #'
 #' @docType data
 #' @keywords datasets
-#' @name nyfodt
+#' @name dagkir2
+NULL
+
+#' Dataset with data from the day surgery healthcare atlas 2013-2017, english version
+#'
+#' @docType data
+#' @keywords datasets
+#' @name dagkir2_en
+NULL
+
+#' Dataset with data from the ortopedic healthcare atlas
+#'
+#' @docType data
+#' @keywords datasets
+#' @name ortopedi
+NULL
+
+#' Dataset with data from the gynaecology healthcare atlas
+#'
+#' @docType data
+#' @keywords datasets
+#' @name gyn
+NULL
+
+#' Dataset with data from the gynaecology healthcare atlas, english version
+#'
+#' @docType data
+#' @keywords datasets
+#' @name gyn_en
+NULL
+
+#' Dataset with data from the birth healthcare atlas
+#'
+#' @docType data
+#' @keywords datasets
+#' @name fodsel
 NULL
