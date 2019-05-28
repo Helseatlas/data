@@ -1,476 +1,476 @@
 area;level3;level3_en;area_en;level2;level2_en;Level1;level1_en;value;denominator;numerator;type;name_cil;name_ciu;name_denominator;name_numerator;Period
-1;1;All contacts;Finnmark;1;Primary healthcare;1;Children 0–16 years, total;158098;15332;24086;Rate;ll;ul;Inhabitants;Number;2011-2014
-2;1;All contacts;UNN;1;Primary healthcare;1;Children 0–16 years, total;160652;37609;60291;Rate;ll;ul;Inhabitants;Number;2011-2014
-3;1;All contacts;Nordland;1;Primary healthcare;1;Children 0–16 years, total;154949;43186;66383;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;1;All contacts;Nord-Trøndelag;1;Primary healthcare;1;Children 0–16 years, total;172279;29056;49585;Rate;ll;ul;Inhabitants;Number;2011-2014
-7;1;All contacts;St. Olavs;1;Primary healthcare;1;Children 0–16 years, total;160625;62253;100562;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;1;All contacts;Møre og Romsdal;1;Primary healthcare;1;Children 0–16 years, total;164622;54199;88575;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;1;All contacts;Førde;1;Primary healthcare;1;Children 0–16 years, total;165661;23330;38251;Rate;ll;ul;Inhabitants;Number;2011-2014
-11;1;All contacts;Bergen;1;Primary healthcare;1;Children 0–16 years, total;153231;91673;141518;Rate;ll;ul;Inhabitants;Number;2011-2014
-12;1;All contacts;Fonna;1;Primary healthcare;1;Children 0–16 years, total;162108;39744;64176;Rate;ll;ul;Inhabitants;Number;2011-2014
-13;1;All contacts;Stavanger;1;Primary healthcare;1;Children 0–16 years, total;166592;81507;137743;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;1;All contacts;Østfold;1;Primary healthcare;1;Children 0–16 years, total;173040;57341;98262;Rate;ll;ul;Inhabitants;Number;2011-2014
-15;1;All contacts;Akershus;1;Primary healthcare;1;Children 0–16 years, total;181220;108469;196474;Rate;ll;ul;Inhabitants;Number;2011-2014
-16;1;All contacts;OUS;1;Primary healthcare;1;Children 0–16 years, total;164244;95564;166702;Rate;ll;ul;Inhabitants;Number;2011-2014
-19;1;All contacts;Innlandet;1;Primary healthcare;1;Children 0–16 years, total;165394;75231;122865;Rate;ll;ul;Inhabitants;Number;2011-2014
-20;1;All contacts;Vestre Viken;1;Primary healthcare;1;Children 0–16 years, total;178204;100582;178110;Rate;ll;ul;Inhabitants;Number;2011-2014
-21;1;All contacts;Vestfold;1;Primary healthcare;1;Children 0–16 years, total;181195;45330;81297;Rate;ll;ul;Inhabitants;Number;2011-2014
-22;1;All contacts;Telemark;1;Primary healthcare;1;Children 0–16 years, total;154442;33344;50973;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;1;All contacts;Sørlandet;1;Primary healthcare;1;Children 0–16 years, total;174781;63768;111357;Rate;ll;ul;Inhabitants;Number;2011-2014
-8888;1;All contacts;Norway;1;Primary healthcare;1;Children 0–16 years, total;167731;1057514;1777206;Rate;ll;ul;Inhabitants;Number;2011-2014
-1;2;All contacts;Finnmark;2;Specialist health service;1;Children 0–16 years, total;72062;15332;11026;Rate;ll;ul;Inhabitants;Number;2011-2014
-2;2;All contacts;UNN;2;Specialist health service;1;Children 0–16 years, total;72337;37609;27187;Rate;ll;ul;Inhabitants;Number;2011-2014
-3;2;All contacts;Nordland;2;Specialist health service;1;Children 0–16 years, total;76965;43186;33056;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;2;All contacts;Nord-Trøndelag;2;Specialist health service;1;Children 0–16 years, total;92527;29056;26802;Rate;ll;ul;Inhabitants;Number;2011-2014
-7;2;All contacts;St. Olavs;2;Specialist health service;1;Children 0–16 years, total;85418;62253;53287;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;2;All contacts;Møre og Romsdal;2;Specialist health service;1;Children 0–16 years, total;83777;54199;45280;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;2;All contacts;Førde;2;Specialist health service;1;Children 0–16 years, total;86411;23330;20073;Rate;ll;ul;Inhabitants;Number;2011-2014
-11;2;All contacts;Bergen;2;Specialist health service;1;Children 0–16 years, total;86385;91673;79433;Rate;ll;ul;Inhabitants;Number;2011-2014
-12;2;All contacts;Fonna;2;Specialist health service;1;Children 0–16 years, total;73029;39744;28979;Rate;ll;ul;Inhabitants;Number;2011-2014
-13;2;All contacts;Stavanger;2;Specialist health service;1;Children 0–16 years, total;66872;81507;55077;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;2;All contacts;Østfold;2;Specialist health service;1;Children 0–16 years, total;82009;57341;46864;Rate;ll;ul;Inhabitants;Number;2011-2014
-15;2;All contacts;Akershus;2;Specialist health service;1;Children 0–16 years, total;87167;108469;94540;Rate;ll;ul;Inhabitants;Number;2011-2014
-16;2;All contacts;OUS;2;Specialist health service;1;Children 0–16 years, total;89548;95564;86036;Rate;ll;ul;Inhabitants;Number;2011-2014
-19;2;All contacts;Innlandet;2;Specialist health service;1;Children 0–16 years, total;76079;75231;57060;Rate;ll;ul;Inhabitants;Number;2011-2014
-20;2;All contacts;Vestre Viken;2;Specialist health service;1;Children 0–16 years, total;78673;100582;78955;Rate;ll;ul;Inhabitants;Number;2011-2014
-21;2;All contacts;Vestfold;2;Specialist health service;1;Children 0–16 years, total;76506;45330;34508;Rate;ll;ul;Inhabitants;Number;2011-2014
-22;2;All contacts;Telemark;2;Specialist health service;1;Children 0–16 years, total;79504;33344;26364;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;2;All contacts;Sørlandet;2;Specialist health service;1;Children 0–16 years, total;94737;63768;60343;Rate;ll;ul;Inhabitants;Number;2011-2014
-8888;2;All contacts;Norway;2;Specialist health service;1;Children 0–16 years, total;81759;1057514;864867;Rate;ll;ul;Inhabitants;Number;2011-2014
-1;3;Admissions;Finnmark;2;Specialist health service;1;Children 0–16 years, total;6449;15332;974;Rate;ll;ul;Inhabitants;Number;2011-2014
-2;3;Admissions;UNN;2;Specialist health service;1;Children 0–16 years, total;4697;37609;1757;Rate;ll;ul;Inhabitants;Number;2011-2014
-3;3;Admissions;Nordland;2;Specialist health service;1;Children 0–16 years, total;7292;43186;3080;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;3;Admissions;Nord-Trøndelag;2;Specialist health service;1;Children 0–16 years, total;6853;29056;1951;Rate;ll;ul;Inhabitants;Number;2011-2014
-7;3;Admissions;St. Olavs;2;Specialist health service;1;Children 0–16 years, total;5359;62253;3380;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;3;Admissions;Møre og Romsdal;2;Specialist health service;1;Children 0–16 years, total;6533;54199;3495;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;3;Admissions;Førde;2;Specialist health service;1;Children 0–16 years, total;7034;23330;1600;Rate;ll;ul;Inhabitants;Number;2011-2014
-11;3;Admissions;Bergen;2;Specialist health service;1;Children 0–16 years, total;5804;91673;5399;Rate;ll;ul;Inhabitants;Number;2011-2014
-12;3;Admissions;Fonna;2;Specialist health service;1;Children 0–16 years, total;6380;39744;2521;Rate;ll;ul;Inhabitants;Number;2011-2014
-13;3;Admissions;Stavanger;2;Specialist health service;1;Children 0–16 years, total;5155;81507;4314;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;3;Admissions;Østfold;2;Specialist health service;1;Children 0–16 years, total;5264;57341;2959;Rate;ll;ul;Inhabitants;Number;2011-2014
-15;3;Admissions;Akershus;2;Specialist health service;1;Children 0–16 years, total;5064;108469;5482;Rate;ll;ul;Inhabitants;Number;2011-2014
-16;3;Admissions;OUS;2;Specialist health service;1;Children 0–16 years, total;4251;95564;4540;Rate;ll;ul;Inhabitants;Number;2011-2014
-19;3;Admissions;Innlandet;2;Specialist health service;1;Children 0–16 years, total;6861;75231;5008;Rate;ll;ul;Inhabitants;Number;2011-2014
-20;3;Admissions;Vestre Viken;2;Specialist health service;1;Children 0–16 years, total;4487;100582;4468;Rate;ll;ul;Inhabitants;Number;2011-2014
-21;3;Admissions;Vestfold;2;Specialist health service;1;Children 0–16 years, total;7851;45330;3476;Rate;ll;ul;Inhabitants;Number;2011-2014
-22;3;Admissions;Telemark;2;Specialist health service;1;Children 0–16 years, total;7768;33344;2527;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;3;Admissions;Sørlandet;2;Specialist health service;1;Children 0–16 years, total;7054;63768;4492;Rate;ll;ul;Inhabitants;Number;2011-2014
-8888;3;Admissions;Norway;2;Specialist health service;1;Children 0–16 years, total;5779;1057514;61420;Rate;ll;ul;Inhabitants;Number;2011-2014
-1;4;Outpatient/day patient services;Finnmark;2;Specialist health service;1;Children 0–16 years, total;65605;15332;10052;Rate;ll;ul;Inhabitants;Number;2011-2014
-2;4;Outpatient/day patient services;UNN;2;Specialist health service;1;Children 0–16 years, total;67641;37609;25430;Rate;ll;ul;Inhabitants;Number;2011-2014
-3;4;Outpatient/day patient services;Nordland;2;Specialist health service;1;Children 0–16 years, total;69673;43186;29976;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;4;Outpatient/day patient services;Nord-Trøndelag;2;Specialist health service;1;Children 0–16 years, total;85678;29056;24851;Rate;ll;ul;Inhabitants;Number;2011-2014
-7;4;Outpatient/day patient services;St. Olavs;2;Specialist health service;1;Children 0–16 years, total;80049;62253;49907;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;4;Outpatient/day patient services;Møre og Romsdal;2;Specialist health service;1;Children 0–16 years, total;77243;54199;41785;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;4;Outpatient/day patient services;Førde;2;Specialist health service;1;Children 0–16 years, total;79378;23330;18473;Rate;ll;ul;Inhabitants;Number;2011-2014
-11;4;Outpatient/day patient services;Bergen;2;Specialist health service;1;Children 0–16 years, total;80571;91673;74034;Rate;ll;ul;Inhabitants;Number;2011-2014
-12;4;Outpatient/day patient services;Fonna;2;Specialist health service;1;Children 0–16 years, total;66647;39744;26458;Rate;ll;ul;Inhabitants;Number;2011-2014
-13;4;Outpatient/day patient services;Stavanger;2;Specialist health service;1;Children 0–16 years, total;61704;81507;50763;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;4;Outpatient/day patient services;Østfold;2;Specialist health service;1;Children 0–16 years, total;76751;57341;43905;Rate;ll;ul;Inhabitants;Number;2011-2014
-15;4;Outpatient/day patient services;Akershus;2;Specialist health service;1;Children 0–16 years, total;82109;108469;89058;Rate;ll;ul;Inhabitants;Number;2011-2014
-16;4;Outpatient/day patient services;OUS;2;Specialist health service;1;Children 0–16 years, total;85246;95564;81496;Rate;ll;ul;Inhabitants;Number;2011-2014
-19;4;Outpatient/day patient services;Innlandet;2;Specialist health service;1;Children 0–16 years, total;69226;75231;52052;Rate;ll;ul;Inhabitants;Number;2011-2014
-20;4;Outpatient/day patient services;Vestre Viken;2;Specialist health service;1;Children 0–16 years, total;74190;100582;74488;Rate;ll;ul;Inhabitants;Number;2011-2014
-21;4;Outpatient/day patient services;Vestfold;2;Specialist health service;1;Children 0–16 years, total;68665;45330;31033;Rate;ll;ul;Inhabitants;Number;2011-2014
-22;4;Outpatient/day patient services;Telemark;2;Specialist health service;1;Children 0–16 years, total;71733;33344;23838;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;4;Outpatient/day patient services;Sørlandet;2;Specialist health service;1;Children 0–16 years, total;87681;63768;55851;Rate;ll;ul;Inhabitants;Number;2011-2014
-8888;4;Outpatient/day patient services;Norway;2;Specialist health service;1;Children 0–16 years, total;75973;1057514;803447;Rate;ll;ul;Inhabitants;Number;2011-2014
+1;1;All contacts;Finnmark;1;Primary healthcare;1;Children 0â€“16 years, total;158098;15332;24086;Rate;ll;ul;Inhabitants;Number;2011-2014
+2;1;All contacts;UNN;1;Primary healthcare;1;Children 0â€“16 years, total;160652;37609;60291;Rate;ll;ul;Inhabitants;Number;2011-2014
+3;1;All contacts;Nordland;1;Primary healthcare;1;Children 0â€“16 years, total;154949;43186;66383;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;1;All contacts;Nord-TrÃ¸ndelag;1;Primary healthcare;1;Children 0â€“16 years, total;172279;29056;49585;Rate;ll;ul;Inhabitants;Number;2011-2014
+7;1;All contacts;St. Olavs;1;Primary healthcare;1;Children 0â€“16 years, total;160625;62253;100562;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;1;All contacts;MÃ¸re og Romsdal;1;Primary healthcare;1;Children 0â€“16 years, total;164622;54199;88575;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;1;All contacts;FÃ¸rde;1;Primary healthcare;1;Children 0â€“16 years, total;165661;23330;38251;Rate;ll;ul;Inhabitants;Number;2011-2014
+11;1;All contacts;Bergen;1;Primary healthcare;1;Children 0â€“16 years, total;153231;91673;141518;Rate;ll;ul;Inhabitants;Number;2011-2014
+12;1;All contacts;Fonna;1;Primary healthcare;1;Children 0â€“16 years, total;162108;39744;64176;Rate;ll;ul;Inhabitants;Number;2011-2014
+13;1;All contacts;Stavanger;1;Primary healthcare;1;Children 0â€“16 years, total;166592;81507;137743;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;1;All contacts;Ã˜stfold;1;Primary healthcare;1;Children 0â€“16 years, total;173040;57341;98262;Rate;ll;ul;Inhabitants;Number;2011-2014
+15;1;All contacts;Akershus;1;Primary healthcare;1;Children 0â€“16 years, total;181220;108469;196474;Rate;ll;ul;Inhabitants;Number;2011-2014
+16;1;All contacts;OUS;1;Primary healthcare;1;Children 0â€“16 years, total;164244;95564;166702;Rate;ll;ul;Inhabitants;Number;2011-2014
+19;1;All contacts;Innlandet;1;Primary healthcare;1;Children 0â€“16 years, total;165394;75231;122865;Rate;ll;ul;Inhabitants;Number;2011-2014
+20;1;All contacts;Vestre Viken;1;Primary healthcare;1;Children 0â€“16 years, total;178204;100582;178110;Rate;ll;ul;Inhabitants;Number;2011-2014
+21;1;All contacts;Vestfold;1;Primary healthcare;1;Children 0â€“16 years, total;181195;45330;81297;Rate;ll;ul;Inhabitants;Number;2011-2014
+22;1;All contacts;Telemark;1;Primary healthcare;1;Children 0â€“16 years, total;154442;33344;50973;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;1;All contacts;SÃ¸rlandet;1;Primary healthcare;1;Children 0â€“16 years, total;174781;63768;111357;Rate;ll;ul;Inhabitants;Number;2011-2014
+8888;1;All contacts;Norway;1;Primary healthcare;1;Children 0â€“16 years, total;167731;1057514;1777206;Rate;ll;ul;Inhabitants;Number;2011-2014
+1;2;All contacts;Finnmark;2;Specialist health service;1;Children 0â€“16 years, total;72062;15332;11026;Rate;ll;ul;Inhabitants;Number;2011-2014
+2;2;All contacts;UNN;2;Specialist health service;1;Children 0â€“16 years, total;72337;37609;27187;Rate;ll;ul;Inhabitants;Number;2011-2014
+3;2;All contacts;Nordland;2;Specialist health service;1;Children 0â€“16 years, total;76965;43186;33056;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;2;All contacts;Nord-TrÃ¸ndelag;2;Specialist health service;1;Children 0â€“16 years, total;92527;29056;26802;Rate;ll;ul;Inhabitants;Number;2011-2014
+7;2;All contacts;St. Olavs;2;Specialist health service;1;Children 0â€“16 years, total;85418;62253;53287;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;2;All contacts;MÃ¸re og Romsdal;2;Specialist health service;1;Children 0â€“16 years, total;83777;54199;45280;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;2;All contacts;FÃ¸rde;2;Specialist health service;1;Children 0â€“16 years, total;86411;23330;20073;Rate;ll;ul;Inhabitants;Number;2011-2014
+11;2;All contacts;Bergen;2;Specialist health service;1;Children 0â€“16 years, total;86385;91673;79433;Rate;ll;ul;Inhabitants;Number;2011-2014
+12;2;All contacts;Fonna;2;Specialist health service;1;Children 0â€“16 years, total;73029;39744;28979;Rate;ll;ul;Inhabitants;Number;2011-2014
+13;2;All contacts;Stavanger;2;Specialist health service;1;Children 0â€“16 years, total;66872;81507;55077;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;2;All contacts;Ã˜stfold;2;Specialist health service;1;Children 0â€“16 years, total;82009;57341;46864;Rate;ll;ul;Inhabitants;Number;2011-2014
+15;2;All contacts;Akershus;2;Specialist health service;1;Children 0â€“16 years, total;87167;108469;94540;Rate;ll;ul;Inhabitants;Number;2011-2014
+16;2;All contacts;OUS;2;Specialist health service;1;Children 0â€“16 years, total;89548;95564;86036;Rate;ll;ul;Inhabitants;Number;2011-2014
+19;2;All contacts;Innlandet;2;Specialist health service;1;Children 0â€“16 years, total;76079;75231;57060;Rate;ll;ul;Inhabitants;Number;2011-2014
+20;2;All contacts;Vestre Viken;2;Specialist health service;1;Children 0â€“16 years, total;78673;100582;78955;Rate;ll;ul;Inhabitants;Number;2011-2014
+21;2;All contacts;Vestfold;2;Specialist health service;1;Children 0â€“16 years, total;76506;45330;34508;Rate;ll;ul;Inhabitants;Number;2011-2014
+22;2;All contacts;Telemark;2;Specialist health service;1;Children 0â€“16 years, total;79504;33344;26364;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;2;All contacts;SÃ¸rlandet;2;Specialist health service;1;Children 0â€“16 years, total;94737;63768;60343;Rate;ll;ul;Inhabitants;Number;2011-2014
+8888;2;All contacts;Norway;2;Specialist health service;1;Children 0â€“16 years, total;81759;1057514;864867;Rate;ll;ul;Inhabitants;Number;2011-2014
+1;3;Admissions;Finnmark;2;Specialist health service;1;Children 0â€“16 years, total;6449;15332;974;Rate;ll;ul;Inhabitants;Number;2011-2014
+2;3;Admissions;UNN;2;Specialist health service;1;Children 0â€“16 years, total;4697;37609;1757;Rate;ll;ul;Inhabitants;Number;2011-2014
+3;3;Admissions;Nordland;2;Specialist health service;1;Children 0â€“16 years, total;7292;43186;3080;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;3;Admissions;Nord-TrÃ¸ndelag;2;Specialist health service;1;Children 0â€“16 years, total;6853;29056;1951;Rate;ll;ul;Inhabitants;Number;2011-2014
+7;3;Admissions;St. Olavs;2;Specialist health service;1;Children 0â€“16 years, total;5359;62253;3380;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;3;Admissions;MÃ¸re og Romsdal;2;Specialist health service;1;Children 0â€“16 years, total;6533;54199;3495;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;3;Admissions;FÃ¸rde;2;Specialist health service;1;Children 0â€“16 years, total;7034;23330;1600;Rate;ll;ul;Inhabitants;Number;2011-2014
+11;3;Admissions;Bergen;2;Specialist health service;1;Children 0â€“16 years, total;5804;91673;5399;Rate;ll;ul;Inhabitants;Number;2011-2014
+12;3;Admissions;Fonna;2;Specialist health service;1;Children 0â€“16 years, total;6380;39744;2521;Rate;ll;ul;Inhabitants;Number;2011-2014
+13;3;Admissions;Stavanger;2;Specialist health service;1;Children 0â€“16 years, total;5155;81507;4314;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;3;Admissions;Ã˜stfold;2;Specialist health service;1;Children 0â€“16 years, total;5264;57341;2959;Rate;ll;ul;Inhabitants;Number;2011-2014
+15;3;Admissions;Akershus;2;Specialist health service;1;Children 0â€“16 years, total;5064;108469;5482;Rate;ll;ul;Inhabitants;Number;2011-2014
+16;3;Admissions;OUS;2;Specialist health service;1;Children 0â€“16 years, total;4251;95564;4540;Rate;ll;ul;Inhabitants;Number;2011-2014
+19;3;Admissions;Innlandet;2;Specialist health service;1;Children 0â€“16 years, total;6861;75231;5008;Rate;ll;ul;Inhabitants;Number;2011-2014
+20;3;Admissions;Vestre Viken;2;Specialist health service;1;Children 0â€“16 years, total;4487;100582;4468;Rate;ll;ul;Inhabitants;Number;2011-2014
+21;3;Admissions;Vestfold;2;Specialist health service;1;Children 0â€“16 years, total;7851;45330;3476;Rate;ll;ul;Inhabitants;Number;2011-2014
+22;3;Admissions;Telemark;2;Specialist health service;1;Children 0â€“16 years, total;7768;33344;2527;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;3;Admissions;SÃ¸rlandet;2;Specialist health service;1;Children 0â€“16 years, total;7054;63768;4492;Rate;ll;ul;Inhabitants;Number;2011-2014
+8888;3;Admissions;Norway;2;Specialist health service;1;Children 0â€“16 years, total;5779;1057514;61420;Rate;ll;ul;Inhabitants;Number;2011-2014
+1;4;Outpatient/day patient services;Finnmark;2;Specialist health service;1;Children 0â€“16 years, total;65605;15332;10052;Rate;ll;ul;Inhabitants;Number;2011-2014
+2;4;Outpatient/day patient services;UNN;2;Specialist health service;1;Children 0â€“16 years, total;67641;37609;25430;Rate;ll;ul;Inhabitants;Number;2011-2014
+3;4;Outpatient/day patient services;Nordland;2;Specialist health service;1;Children 0â€“16 years, total;69673;43186;29976;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;4;Outpatient/day patient services;Nord-TrÃ¸ndelag;2;Specialist health service;1;Children 0â€“16 years, total;85678;29056;24851;Rate;ll;ul;Inhabitants;Number;2011-2014
+7;4;Outpatient/day patient services;St. Olavs;2;Specialist health service;1;Children 0â€“16 years, total;80049;62253;49907;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;4;Outpatient/day patient services;MÃ¸re og Romsdal;2;Specialist health service;1;Children 0â€“16 years, total;77243;54199;41785;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;4;Outpatient/day patient services;FÃ¸rde;2;Specialist health service;1;Children 0â€“16 years, total;79378;23330;18473;Rate;ll;ul;Inhabitants;Number;2011-2014
+11;4;Outpatient/day patient services;Bergen;2;Specialist health service;1;Children 0â€“16 years, total;80571;91673;74034;Rate;ll;ul;Inhabitants;Number;2011-2014
+12;4;Outpatient/day patient services;Fonna;2;Specialist health service;1;Children 0â€“16 years, total;66647;39744;26458;Rate;ll;ul;Inhabitants;Number;2011-2014
+13;4;Outpatient/day patient services;Stavanger;2;Specialist health service;1;Children 0â€“16 years, total;61704;81507;50763;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;4;Outpatient/day patient services;Ã˜stfold;2;Specialist health service;1;Children 0â€“16 years, total;76751;57341;43905;Rate;ll;ul;Inhabitants;Number;2011-2014
+15;4;Outpatient/day patient services;Akershus;2;Specialist health service;1;Children 0â€“16 years, total;82109;108469;89058;Rate;ll;ul;Inhabitants;Number;2011-2014
+16;4;Outpatient/day patient services;OUS;2;Specialist health service;1;Children 0â€“16 years, total;85246;95564;81496;Rate;ll;ul;Inhabitants;Number;2011-2014
+19;4;Outpatient/day patient services;Innlandet;2;Specialist health service;1;Children 0â€“16 years, total;69226;75231;52052;Rate;ll;ul;Inhabitants;Number;2011-2014
+20;4;Outpatient/day patient services;Vestre Viken;2;Specialist health service;1;Children 0â€“16 years, total;74190;100582;74488;Rate;ll;ul;Inhabitants;Number;2011-2014
+21;4;Outpatient/day patient services;Vestfold;2;Specialist health service;1;Children 0â€“16 years, total;68665;45330;31033;Rate;ll;ul;Inhabitants;Number;2011-2014
+22;4;Outpatient/day patient services;Telemark;2;Specialist health service;1;Children 0â€“16 years, total;71733;33344;23838;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;4;Outpatient/day patient services;SÃ¸rlandet;2;Specialist health service;1;Children 0â€“16 years, total;87681;63768;55851;Rate;ll;ul;Inhabitants;Number;2011-2014
+8888;4;Outpatient/day patient services;Norway;2;Specialist health service;1;Children 0â€“16 years, total;75973;1057514;803447;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;5;All contacts;Finnmark;3;Type of contact;2;Medical conditions, the specialist health service;48807;15332;7445;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;5;All contacts;UNN;3;Type of contact;2;Medical conditions, the specialist health service;47332;37609;17768;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;5;All contacts;Nordland;3;Type of contact;2;Medical conditions, the specialist health service;52598;43186;22466;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;5;All contacts;Nord-Trøndelag;3;Type of contact;2;Medical conditions, the specialist health service;60638;29056;17469;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;5;All contacts;Nord-TrÃ¸ndelag;3;Type of contact;2;Medical conditions, the specialist health service;60638;29056;17469;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;5;All contacts;St. Olavs;3;Type of contact;2;Medical conditions, the specialist health service;61026;62253;38149;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;5;All contacts;Møre og Romsdal;3;Type of contact;2;Medical conditions, the specialist health service;54270;54199;29205;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;5;All contacts;Førde;3;Type of contact;2;Medical conditions, the specialist health service;57031;23330;13171;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;5;All contacts;MÃ¸re og Romsdal;3;Type of contact;2;Medical conditions, the specialist health service;54270;54199;29205;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;5;All contacts;FÃ¸rde;3;Type of contact;2;Medical conditions, the specialist health service;57031;23330;13171;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;5;All contacts;Bergen;3;Type of contact;2;Medical conditions, the specialist health service;58052;91673;53578;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;5;All contacts;Fonna;3;Type of contact;2;Medical conditions, the specialist health service;47944;39744;18990;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;5;All contacts;Stavanger;3;Type of contact;2;Medical conditions, the specialist health service;47053;81507;38984;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;5;All contacts;Østfold;3;Type of contact;2;Medical conditions, the specialist health service;59735;57341;34001;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;5;All contacts;Ã˜stfold;3;Type of contact;2;Medical conditions, the specialist health service;59735;57341;34001;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;5;All contacts;Akershus;3;Type of contact;2;Medical conditions, the specialist health service;59967;108469;65038;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;5;All contacts;OUS;3;Type of contact;2;Medical conditions, the specialist health service;56467;95564;55771;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;5;All contacts;Innlandet;3;Type of contact;2;Medical conditions, the specialist health service;50991;75231;37941;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;5;All contacts;Vestre Viken;3;Type of contact;2;Medical conditions, the specialist health service;57388;100582;57493;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;5;All contacts;Vestfold;3;Type of contact;2;Medical conditions, the specialist health service;53148;45330;23862;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;5;All contacts;Telemark;3;Type of contact;2;Medical conditions, the specialist health service;54428;33344;17912;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;5;All contacts;Sørlandet;3;Type of contact;2;Medical conditions, the specialist health service;66563;63768;42388;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;5;All contacts;SÃ¸rlandet;3;Type of contact;2;Medical conditions, the specialist health service;66563;63768;42388;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;5;All contacts;Norway;3;Type of contact;2;Medical conditions, the specialist health service;55898;1057514;591628;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;6;Admissions;Finnmark;3;Type of contact;2;Medical conditions, the specialist health service;4441;15332;665;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;6;Admissions;UNN;3;Type of contact;2;Medical conditions, the specialist health service;3209;37609;1193;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;6;Admissions;Nordland;3;Type of contact;2;Medical conditions, the specialist health service;5296;43186;2217;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;6;Admissions;Nord-Trøndelag;3;Type of contact;2;Medical conditions, the specialist health service;4916;29056;1385;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;6;Admissions;Nord-TrÃ¸ndelag;3;Type of contact;2;Medical conditions, the specialist health service;4916;29056;1385;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;6;Admissions;St. Olavs;3;Type of contact;2;Medical conditions, the specialist health service;3524;62253;2237;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;6;Admissions;Møre og Romsdal;3;Type of contact;2;Medical conditions, the specialist health service;4407;54199;2342;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;6;Admissions;Førde;3;Type of contact;2;Medical conditions, the specialist health service;4902;23330;1104;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;6;Admissions;MÃ¸re og Romsdal;3;Type of contact;2;Medical conditions, the specialist health service;4407;54199;2342;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;6;Admissions;FÃ¸rde;3;Type of contact;2;Medical conditions, the specialist health service;4902;23330;1104;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;6;Admissions;Bergen;3;Type of contact;2;Medical conditions, the specialist health service;4026;91673;3769;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;6;Admissions;Fonna;3;Type of contact;2;Medical conditions, the specialist health service;4519;39744;1778;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;6;Admissions;Stavanger;3;Type of contact;2;Medical conditions, the specialist health service;3586;81507;3035;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;6;Admissions;Østfold;3;Type of contact;2;Medical conditions, the specialist health service;3768;57341;2090;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;6;Admissions;Ã˜stfold;3;Type of contact;2;Medical conditions, the specialist health service;3768;57341;2090;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;6;Admissions;Akershus;3;Type of contact;2;Medical conditions, the specialist health service;3658;108469;3945;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;6;Admissions;OUS;3;Type of contact;2;Medical conditions, the specialist health service;3044;95564;3406;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;6;Admissions;Innlandet;3;Type of contact;2;Medical conditions, the specialist health service;5049;75231;3645;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;6;Admissions;Vestre Viken;3;Type of contact;2;Medical conditions, the specialist health service;3015;100582;2978;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;6;Admissions;Vestfold;3;Type of contact;2;Medical conditions, the specialist health service;6030;45330;2643;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;6;Admissions;Telemark;3;Type of contact;2;Medical conditions, the specialist health service;5923;33344;1912;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;6;Admissions;Sørlandet;3;Type of contact;2;Medical conditions, the specialist health service;5365;63768;3406;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;6;Admissions;SÃ¸rlandet;3;Type of contact;2;Medical conditions, the specialist health service;5365;63768;3406;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;6;Admissions;Norway;3;Type of contact;2;Medical conditions, the specialist health service;4112;1057514;43747;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;7;Outpatient/day patient services;Finnmark;3;Type of contact;2;Medical conditions, the specialist health service;44364;15332;6780;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;7;Outpatient/day patient services;UNN;3;Type of contact;2;Medical conditions, the specialist health service;44131;37609;16575;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;7;Outpatient/day patient services;Nordland;3;Type of contact;2;Medical conditions, the specialist health service;47308;43186;20249;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;7;Outpatient/day patient services;Nord-Trøndelag;3;Type of contact;2;Medical conditions, the specialist health service;55739;29056;16084;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;7;Outpatient/day patient services;Nord-TrÃ¸ndelag;3;Type of contact;2;Medical conditions, the specialist health service;55739;29056;16084;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;7;Outpatient/day patient services;St. Olavs;3;Type of contact;2;Medical conditions, the specialist health service;57488;62253;35912;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;7;Outpatient/day patient services;Møre og Romsdal;3;Type of contact;2;Medical conditions, the specialist health service;49871;54199;26863;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;7;Outpatient/day patient services;Førde;3;Type of contact;2;Medical conditions, the specialist health service;52142;23330;12067;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;7;Outpatient/day patient services;MÃ¸re og Romsdal;3;Type of contact;2;Medical conditions, the specialist health service;49871;54199;26863;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;7;Outpatient/day patient services;FÃ¸rde;3;Type of contact;2;Medical conditions, the specialist health service;52142;23330;12067;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;7;Outpatient/day patient services;Bergen;3;Type of contact;2;Medical conditions, the specialist health service;54014;91673;49809;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;7;Outpatient/day patient services;Fonna;3;Type of contact;2;Medical conditions, the specialist health service;43432;39744;17212;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;7;Outpatient/day patient services;Stavanger;3;Type of contact;2;Medical conditions, the specialist health service;43451;81507;35949;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;7;Outpatient/day patient services;Østfold;3;Type of contact;2;Medical conditions, the specialist health service;55986;57341;31912;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;7;Outpatient/day patient services;Ã˜stfold;3;Type of contact;2;Medical conditions, the specialist health service;55986;57341;31912;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;7;Outpatient/day patient services;Akershus;3;Type of contact;2;Medical conditions, the specialist health service;56328;108469;61093;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;7;Outpatient/day patient services;OUS;3;Type of contact;2;Medical conditions, the specialist health service;53345;95564;52364;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;7;Outpatient/day patient services;Innlandet;3;Type of contact;2;Medical conditions, the specialist health service;45962;75231;34296;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;7;Outpatient/day patient services;Vestre Viken;3;Type of contact;2;Medical conditions, the specialist health service;54389;100582;54515;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;7;Outpatient/day patient services;Vestfold;3;Type of contact;2;Medical conditions, the specialist health service;47155;45330;21219;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;7;Outpatient/day patient services;Telemark;3;Type of contact;2;Medical conditions, the specialist health service;48510;33344;16000;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;7;Outpatient/day patient services;Sørlandet;3;Type of contact;2;Medical conditions, the specialist health service;61206;63768;38982;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;7;Outpatient/day patient services;SÃ¸rlandet;3;Type of contact;2;Medical conditions, the specialist health service;61206;63768;38982;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;7;Outpatient/day patient services;Norway;3;Type of contact;2;Medical conditions, the specialist health service;51780;1057514;547881;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;8;Selected acute diagnoses;Finnmark;3;Type of contact;2;Medical conditions, the specialist health service;1970;15332;293;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;8;Selected acute diagnoses;UNN;3;Type of contact;2;Medical conditions, the specialist health service;2648;37609;979;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;8;Selected acute diagnoses;Nordland;3;Type of contact;2;Medical conditions, the specialist health service;3415;43186;1416;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;8;Selected acute diagnoses;Nord-Trøndelag;3;Type of contact;2;Medical conditions, the specialist health service;3983;29056;1104;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;8;Selected acute diagnoses;Nord-TrÃ¸ndelag;3;Type of contact;2;Medical conditions, the specialist health service;3983;29056;1104;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;8;Selected acute diagnoses;St. Olavs;3;Type of contact;2;Medical conditions, the specialist health service;4249;62253;2706;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;8;Selected acute diagnoses;Møre og Romsdal;3;Type of contact;2;Medical conditions, the specialist health service;2594;54199;1360;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;8;Selected acute diagnoses;Førde;3;Type of contact;2;Medical conditions, the specialist health service;3142;23330;696;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;8;Selected acute diagnoses;MÃ¸re og Romsdal;3;Type of contact;2;Medical conditions, the specialist health service;2594;54199;1360;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;8;Selected acute diagnoses;FÃ¸rde;3;Type of contact;2;Medical conditions, the specialist health service;3142;23330;696;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;8;Selected acute diagnoses;Bergen;3;Type of contact;2;Medical conditions, the specialist health service;8056;91673;7616;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;8;Selected acute diagnoses;Fonna;3;Type of contact;2;Medical conditions, the specialist health service;2365;39744;924;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;8;Selected acute diagnoses;Stavanger;3;Type of contact;2;Medical conditions, the specialist health service;2438;81507;2081;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;8;Selected acute diagnoses;Østfold;3;Type of contact;2;Medical conditions, the specialist health service;3847;57341;2112;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;8;Selected acute diagnoses;Ã˜stfold;3;Type of contact;2;Medical conditions, the specialist health service;3847;57341;2112;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;8;Selected acute diagnoses;Akershus;3;Type of contact;2;Medical conditions, the specialist health service;3510;108469;3789;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;8;Selected acute diagnoses;OUS;3;Type of contact;2;Medical conditions, the specialist health service;4347;95564;4877;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;8;Selected acute diagnoses;Innlandet;3;Type of contact;2;Medical conditions, the specialist health service;3138;75231;2228;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;8;Selected acute diagnoses;Vestre Viken;3;Type of contact;2;Medical conditions, the specialist health service;3851;100582;3799;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;8;Selected acute diagnoses;Vestfold;3;Type of contact;2;Medical conditions, the specialist health service;2542;45330;1105;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;8;Selected acute diagnoses;Telemark;3;Type of contact;2;Medical conditions, the specialist health service;3247;33344;1037;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;8;Selected acute diagnoses;Sørlandet;3;Type of contact;2;Medical conditions, the specialist health service;4228;63768;2673;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;8;Selected acute diagnoses;SÃ¸rlandet;3;Type of contact;2;Medical conditions, the specialist health service;4228;63768;2673;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;8;Selected acute diagnoses;Norway;3;Type of contact;2;Medical conditions, the specialist health service;3837;1057514;40792;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;9;Viral gastroenteritis;Finnmark;4;Medical admissions;2;Medical conditions, the specialist health service;482;15332;73;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;9;Viral gastroenteritis;UNN;4;Medical admissions;2;Medical conditions, the specialist health service;366;37609;137;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;9;Viral gastroenteritis;Nordland;4;Medical admissions;2;Medical conditions, the specialist health service;536;43186;226;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;9;Viral gastroenteritis;Nord-Trøndelag;4;Medical admissions;2;Medical conditions, the specialist health service;508;29056;145;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;9;Viral gastroenteritis;Nord-TrÃ¸ndelag;4;Medical admissions;2;Medical conditions, the specialist health service;508;29056;145;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;9;Viral gastroenteritis;St. Olavs;4;Medical admissions;2;Medical conditions, the specialist health service;446;62253;283;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;9;Viral gastroenteritis;Møre og Romsdal;4;Medical admissions;2;Medical conditions, the specialist health service;502;54199;268;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;9;Viral gastroenteritis;Førde;4;Medical admissions;2;Medical conditions, the specialist health service;558;23330;127;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;9;Viral gastroenteritis;MÃ¸re og Romsdal;4;Medical admissions;2;Medical conditions, the specialist health service;502;54199;268;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;9;Viral gastroenteritis;FÃ¸rde;4;Medical admissions;2;Medical conditions, the specialist health service;558;23330;127;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;9;Viral gastroenteritis;Bergen;4;Medical admissions;2;Medical conditions, the specialist health service;543;91673;505;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;9;Viral gastroenteritis;Fonna;4;Medical admissions;2;Medical conditions, the specialist health service;558;39744;222;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;9;Viral gastroenteritis;Stavanger;4;Medical admissions;2;Medical conditions, the specialist health service;398;81507;330;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;9;Viral gastroenteritis;Østfold;4;Medical admissions;2;Medical conditions, the specialist health service;509;57341;282;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;9;Viral gastroenteritis;Ã˜stfold;4;Medical admissions;2;Medical conditions, the specialist health service;509;57341;282;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;9;Viral gastroenteritis;Akershus;4;Medical admissions;2;Medical conditions, the specialist health service;400;108469;432;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;9;Viral gastroenteritis;OUS;4;Medical admissions;2;Medical conditions, the specialist health service;368;95564;391;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;9;Viral gastroenteritis;Innlandet;4;Medical admissions;2;Medical conditions, the specialist health service;628;75231;463;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;9;Viral gastroenteritis;Vestre Viken;4;Medical admissions;2;Medical conditions, the specialist health service;289;100582;287;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;9;Viral gastroenteritis;Vestfold;4;Medical admissions;2;Medical conditions, the specialist health service;505;45330;223;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;9;Viral gastroenteritis;Telemark;4;Medical admissions;2;Medical conditions, the specialist health service;616;33344;201;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;9;Viral gastroenteritis;Sørlandet;4;Medical admissions;2;Medical conditions, the specialist health service;594;63768;377;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;9;Viral gastroenteritis;SÃ¸rlandet;4;Medical admissions;2;Medical conditions, the specialist health service;594;63768;377;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;9;Viral gastroenteritis;Norway;4;Medical admissions;2;Medical conditions, the specialist health service;468;1057514;4971;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;10;Viral and respiratory tract infections;Finnmark;4;Medical admissions;2;Medical conditions, the specialist health service;371;15332;54;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;10;Viral and respiratory tract infections;UNN;4;Medical admissions;2;Medical conditions, the specialist health service;434;37609;161;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;10;Viral and respiratory tract infections;Nordland;4;Medical admissions;2;Medical conditions, the specialist health service;533;43186;220;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;10;Viral and respiratory tract infections;Nord-Trøndelag;4;Medical admissions;2;Medical conditions, the specialist health service;603;29056;168;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;10;Viral and respiratory tract infections;Nord-TrÃ¸ndelag;4;Medical admissions;2;Medical conditions, the specialist health service;603;29056;168;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;10;Viral and respiratory tract infections;St. Olavs;4;Medical admissions;2;Medical conditions, the specialist health service;418;62253;267;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;10;Viral and respiratory tract infections;Møre og Romsdal;4;Medical admissions;2;Medical conditions, the specialist health service;467;54199;244;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;10;Viral and respiratory tract infections;Førde;4;Medical admissions;2;Medical conditions, the specialist health service;606;23330;133;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;10;Viral and respiratory tract infections;MÃ¸re og Romsdal;4;Medical admissions;2;Medical conditions, the specialist health service;467;54199;244;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;10;Viral and respiratory tract infections;FÃ¸rde;4;Medical admissions;2;Medical conditions, the specialist health service;606;23330;133;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;10;Viral and respiratory tract infections;Bergen;4;Medical admissions;2;Medical conditions, the specialist health service;689;91673;654;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;10;Viral and respiratory tract infections;Fonna;4;Medical admissions;2;Medical conditions, the specialist health service;438;39744;171;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;10;Viral and respiratory tract infections;Stavanger;4;Medical admissions;2;Medical conditions, the specialist health service;385;81507;330;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;10;Viral and respiratory tract infections;Østfold;4;Medical admissions;2;Medical conditions, the specialist health service;413;57341;227;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;10;Viral and respiratory tract infections;Ã˜stfold;4;Medical admissions;2;Medical conditions, the specialist health service;413;57341;227;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;10;Viral and respiratory tract infections;Akershus;4;Medical admissions;2;Medical conditions, the specialist health service;245;108469;264;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;10;Viral and respiratory tract infections;OUS;4;Medical admissions;2;Medical conditions, the specialist health service;281;95564;331;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;10;Viral and respiratory tract infections;Innlandet;4;Medical admissions;2;Medical conditions, the specialist health service;552;75231;385;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;10;Viral and respiratory tract infections;Vestre Viken;4;Medical admissions;2;Medical conditions, the specialist health service;281;100582;275;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;10;Viral and respiratory tract infections;Vestfold;4;Medical admissions;2;Medical conditions, the specialist health service;589;45330;254;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;10;Viral and respiratory tract infections;Telemark;4;Medical admissions;2;Medical conditions, the specialist health service;671;33344;214;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;10;Viral and respiratory tract infections;Sørlandet;4;Medical admissions;2;Medical conditions, the specialist health service;667;63768;422;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;10;Viral and respiratory tract infections;SÃ¸rlandet;4;Medical admissions;2;Medical conditions, the specialist health service;667;63768;422;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;10;Viral and respiratory tract infections;Norway;4;Medical admissions;2;Medical conditions, the specialist health service;448;1057514;4771;Rate;ll;ul;Inhabitants;Number;2011-2014
-1;11;Bronchiolitis, children 0–3 years;Finnmark;4;Medical admissions;2;Medical conditions, the specialist health service;656;3320;22;Rate;ll;ul;Inhabitants;Number;2011-2014
-2;11;Bronchiolitis, children 0–3 years;UNN;4;Medical admissions;2;Medical conditions, the specialist health service;715;8463;61;Rate;ll;ul;Inhabitants;Number;2011-2014
-3;11;Bronchiolitis, children 0–3 years;Nordland;4;Medical admissions;2;Medical conditions, the specialist health service;952;9293;88;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;11;Bronchiolitis, children 0–3 years;Nord-Trøndelag;4;Medical admissions;2;Medical conditions, the specialist health service;763;6257;48;Rate;ll;ul;Inhabitants;Number;2011-2014
-7;11;Bronchiolitis, children 0–3 years;St. Olavs;4;Medical admissions;2;Medical conditions, the specialist health service;1440;14974;217;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;11;Bronchiolitis, children 0–3 years;Møre og Romsdal;4;Medical admissions;2;Medical conditions, the specialist health service;980;11884;116;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;11;Bronchiolitis, children 0–3 years;Førde;4;Medical admissions;2;Medical conditions, the specialist health service;847;4962;42;Rate;ll;ul;Inhabitants;Number;2011-2014
-11;11;Bronchiolitis, children 0–3 years;Bergen;4;Medical admissions;2;Medical conditions, the specialist health service;1656;22221;371;Rate;ll;ul;Inhabitants;Number;2011-2014
-12;11;Bronchiolitis, children 0–3 years;Fonna;4;Medical admissions;2;Medical conditions, the specialist health service;976;8986;87;Rate;ll;ul;Inhabitants;Number;2011-2014
-13;11;Bronchiolitis, children 0–3 years;Stavanger;4;Medical admissions;2;Medical conditions, the specialist health service;804;20414;166;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;11;Bronchiolitis, children 0–3 years;Østfold;4;Medical admissions;2;Medical conditions, the specialist health service;1651;12414;203;Rate;ll;ul;Inhabitants;Number;2011-2014
-15;11;Bronchiolitis, children 0–3 years;Akershus;4;Medical admissions;2;Medical conditions, the specialist health service;934;24866;230;Rate;ll;ul;Inhabitants;Number;2011-2014
-16;11;Bronchiolitis, children 0–3 years;OUS;4;Medical admissions;2;Medical conditions, the specialist health service;1043;30061;324;Rate;ll;ul;Inhabitants;Number;2011-2014
-19;11;Bronchiolitis, children 0–3 years;Innlandet;4;Medical admissions;2;Medical conditions, the specialist health service;1667;15673;259;Rate;ll;ul;Inhabitants;Number;2011-2014
-20;11;Bronchiolitis, children 0–3 years;Vestre Viken;4;Medical admissions;2;Medical conditions, the specialist health service;650;22237;142;Rate;ll;ul;Inhabitants;Number;2011-2014
-21;11;Bronchiolitis, children 0–3 years;Vestfold;4;Medical admissions;2;Medical conditions, the specialist health service;1628;9797;158;Rate;ll;ul;Inhabitants;Number;2011-2014
-22;11;Bronchiolitis, children 0–3 years;Telemark;4;Medical admissions;2;Medical conditions, the specialist health service;1322;7216;96;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;11;Bronchiolitis, children 0–3 years;Sørlandet;4;Medical admissions;2;Medical conditions, the specialist health service;1384;14594;202;Rate;ll;ul;Inhabitants;Number;2011-2014
-8888;11;Bronchiolitis, children 0–3 years;Norway;4;Medical admissions;2;Medical conditions, the specialist health service;1141;247630;2830;Rate;ll;ul;Inhabitants;Number;2011-2014
+1;11;Bronchiolitis, children 0â€“3 years;Finnmark;4;Medical admissions;2;Medical conditions, the specialist health service;656;3320;22;Rate;ll;ul;Inhabitants;Number;2011-2014
+2;11;Bronchiolitis, children 0â€“3 years;UNN;4;Medical admissions;2;Medical conditions, the specialist health service;715;8463;61;Rate;ll;ul;Inhabitants;Number;2011-2014
+3;11;Bronchiolitis, children 0â€“3 years;Nordland;4;Medical admissions;2;Medical conditions, the specialist health service;952;9293;88;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;11;Bronchiolitis, children 0â€“3 years;Nord-TrÃ¸ndelag;4;Medical admissions;2;Medical conditions, the specialist health service;763;6257;48;Rate;ll;ul;Inhabitants;Number;2011-2014
+7;11;Bronchiolitis, children 0â€“3 years;St. Olavs;4;Medical admissions;2;Medical conditions, the specialist health service;1440;14974;217;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;11;Bronchiolitis, children 0â€“3 years;MÃ¸re og Romsdal;4;Medical admissions;2;Medical conditions, the specialist health service;980;11884;116;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;11;Bronchiolitis, children 0â€“3 years;FÃ¸rde;4;Medical admissions;2;Medical conditions, the specialist health service;847;4962;42;Rate;ll;ul;Inhabitants;Number;2011-2014
+11;11;Bronchiolitis, children 0â€“3 years;Bergen;4;Medical admissions;2;Medical conditions, the specialist health service;1656;22221;371;Rate;ll;ul;Inhabitants;Number;2011-2014
+12;11;Bronchiolitis, children 0â€“3 years;Fonna;4;Medical admissions;2;Medical conditions, the specialist health service;976;8986;87;Rate;ll;ul;Inhabitants;Number;2011-2014
+13;11;Bronchiolitis, children 0â€“3 years;Stavanger;4;Medical admissions;2;Medical conditions, the specialist health service;804;20414;166;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;11;Bronchiolitis, children 0â€“3 years;Ã˜stfold;4;Medical admissions;2;Medical conditions, the specialist health service;1651;12414;203;Rate;ll;ul;Inhabitants;Number;2011-2014
+15;11;Bronchiolitis, children 0â€“3 years;Akershus;4;Medical admissions;2;Medical conditions, the specialist health service;934;24866;230;Rate;ll;ul;Inhabitants;Number;2011-2014
+16;11;Bronchiolitis, children 0â€“3 years;OUS;4;Medical admissions;2;Medical conditions, the specialist health service;1043;30061;324;Rate;ll;ul;Inhabitants;Number;2011-2014
+19;11;Bronchiolitis, children 0â€“3 years;Innlandet;4;Medical admissions;2;Medical conditions, the specialist health service;1667;15673;259;Rate;ll;ul;Inhabitants;Number;2011-2014
+20;11;Bronchiolitis, children 0â€“3 years;Vestre Viken;4;Medical admissions;2;Medical conditions, the specialist health service;650;22237;142;Rate;ll;ul;Inhabitants;Number;2011-2014
+21;11;Bronchiolitis, children 0â€“3 years;Vestfold;4;Medical admissions;2;Medical conditions, the specialist health service;1628;9797;158;Rate;ll;ul;Inhabitants;Number;2011-2014
+22;11;Bronchiolitis, children 0â€“3 years;Telemark;4;Medical admissions;2;Medical conditions, the specialist health service;1322;7216;96;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;11;Bronchiolitis, children 0â€“3 years;SÃ¸rlandet;4;Medical admissions;2;Medical conditions, the specialist health service;1384;14594;202;Rate;ll;ul;Inhabitants;Number;2011-2014
+8888;11;Bronchiolitis, children 0â€“3 years;Norway;4;Medical admissions;2;Medical conditions, the specialist health service;1141;247630;2830;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;12;Constipation (obstipation);Finnmark;4;Medical admissions;2;Medical conditions, the specialist health service;150;15332;23;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;12;Constipation (obstipation);UNN;4;Medical admissions;2;Medical conditions, the specialist health service;69;37609;26;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;12;Constipation (obstipation);Nordland;4;Medical admissions;2;Medical conditions, the specialist health service;216;43186;91;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;12;Constipation (obstipation);Nord-Trøndelag;4;Medical admissions;2;Medical conditions, the specialist health service;187;29056;54;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;12;Constipation (obstipation);Nord-TrÃ¸ndelag;4;Medical admissions;2;Medical conditions, the specialist health service;187;29056;54;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;12;Constipation (obstipation);St. Olavs;4;Medical admissions;2;Medical conditions, the specialist health service;133;62253;83;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;12;Constipation (obstipation);Møre og Romsdal;4;Medical admissions;2;Medical conditions, the specialist health service;163;54199;88;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;12;Constipation (obstipation);Førde;4;Medical admissions;2;Medical conditions, the specialist health service;233;23330;53;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;12;Constipation (obstipation);MÃ¸re og Romsdal;4;Medical admissions;2;Medical conditions, the specialist health service;163;54199;88;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;12;Constipation (obstipation);FÃ¸rde;4;Medical admissions;2;Medical conditions, the specialist health service;233;23330;53;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;12;Constipation (obstipation);Bergen;4;Medical admissions;2;Medical conditions, the specialist health service;133;91673;122;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;12;Constipation (obstipation);Fonna;4;Medical admissions;2;Medical conditions, the specialist health service;117;39744;46;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;12;Constipation (obstipation);Stavanger;4;Medical admissions;2;Medical conditions, the specialist health service;134;81507;110;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;12;Constipation (obstipation);Østfold;4;Medical admissions;2;Medical conditions, the specialist health service;98;57341;55;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;12;Constipation (obstipation);Ã˜stfold;4;Medical admissions;2;Medical conditions, the specialist health service;98;57341;55;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;12;Constipation (obstipation);Akershus;4;Medical admissions;2;Medical conditions, the specialist health service;112;108469;122;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;12;Constipation (obstipation);OUS;4;Medical admissions;2;Medical conditions, the specialist health service;79;95564;77;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;12;Constipation (obstipation);Innlandet;4;Medical admissions;2;Medical conditions, the specialist health service;176;75231;129;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;12;Constipation (obstipation);Vestre Viken;4;Medical admissions;2;Medical conditions, the specialist health service;97;100582;97;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;12;Constipation (obstipation);Vestfold;4;Medical admissions;2;Medical conditions, the specialist health service;215;45330;96;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;12;Constipation (obstipation);Telemark;4;Medical admissions;2;Medical conditions, the specialist health service;177;33344;58;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;12;Constipation (obstipation);Sørlandet;4;Medical admissions;2;Medical conditions, the specialist health service;269;63768;170;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;12;Constipation (obstipation);SÃ¸rlandet;4;Medical admissions;2;Medical conditions, the specialist health service;269;63768;170;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;12;Constipation (obstipation);Norway;4;Medical admissions;2;Medical conditions, the specialist health service;142;1057514;1499;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;13;Epilepsy;Finnmark;4;Medical admissions;2;Medical conditions, the specialist health service;282;15332;44;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;13;Epilepsy;UNN;4;Medical admissions;2;Medical conditions, the specialist health service;213;37609;80;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;13;Epilepsy;Nordland;4;Medical admissions;2;Medical conditions, the specialist health service;348;43186;151;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;13;Epilepsy;Nord-Trøndelag;4;Medical admissions;2;Medical conditions, the specialist health service;221;29056;65;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;13;Epilepsy;Nord-TrÃ¸ndelag;4;Medical admissions;2;Medical conditions, the specialist health service;221;29056;65;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;13;Epilepsy;St. Olavs;4;Medical admissions;2;Medical conditions, the specialist health service;151;62253;94;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;13;Epilepsy;Møre og Romsdal;4;Medical admissions;2;Medical conditions, the specialist health service;262;54199;143;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;13;Epilepsy;Førde;4;Medical admissions;2;Medical conditions, the specialist health service;272;23330;64;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;13;Epilepsy;MÃ¸re og Romsdal;4;Medical admissions;2;Medical conditions, the specialist health service;262;54199;143;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;13;Epilepsy;FÃ¸rde;4;Medical admissions;2;Medical conditions, the specialist health service;272;23330;64;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;13;Epilepsy;Bergen;4;Medical admissions;2;Medical conditions, the specialist health service;212;91673;194;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;13;Epilepsy;Fonna;4;Medical admissions;2;Medical conditions, the specialist health service;330;39744;131;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;13;Epilepsy;Stavanger;4;Medical admissions;2;Medical conditions, the specialist health service;209;81507;171;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;13;Epilepsy;Østfold;4;Medical admissions;2;Medical conditions, the specialist health service;207;57341;119;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;13;Epilepsy;Ã˜stfold;4;Medical admissions;2;Medical conditions, the specialist health service;207;57341;119;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;13;Epilepsy;Akershus;4;Medical admissions;2;Medical conditions, the specialist health service;218;108469;237;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;13;Epilepsy;OUS;4;Medical admissions;2;Medical conditions, the specialist health service;175;95564;169;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;13;Epilepsy;Innlandet;4;Medical admissions;2;Medical conditions, the specialist health service;401;75231;304;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;13;Epilepsy;Vestre Viken;4;Medical admissions;2;Medical conditions, the specialist health service;334;100582;337;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;13;Epilepsy;Vestfold;4;Medical admissions;2;Medical conditions, the specialist health service;377;45330;171;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;13;Epilepsy;Telemark;4;Medical admissions;2;Medical conditions, the specialist health service;425;33344;142;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;13;Epilepsy;Sørlandet;4;Medical admissions;2;Medical conditions, the specialist health service;420;63768;268;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;13;Epilepsy;SÃ¸rlandet;4;Medical admissions;2;Medical conditions, the specialist health service;420;63768;268;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;13;Epilepsy;Norway;4;Medical admissions;2;Medical conditions, the specialist health service;273;1057514;2881;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;14;Bedwetting and urinary incontinence;Finnmark;5;Medical outpatient services;2;Medical conditions, the specialist health service;455;15332;69;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;14;Bedwetting and urinary incontinence;UNN;5;Medical outpatient services;2;Medical conditions, the specialist health service;356;37609;133;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;14;Bedwetting and urinary incontinence;Nordland;5;Medical outpatient services;2;Medical conditions, the specialist health service;588;43186;252;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;14;Bedwetting and urinary incontinence;Nord-Trøndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;1199;29056;347;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;14;Bedwetting and urinary incontinence;Nord-TrÃ¸ndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;1199;29056;347;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;14;Bedwetting and urinary incontinence;St. Olavs;5;Medical outpatient services;2;Medical conditions, the specialist health service;907;62253;560;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;14;Bedwetting and urinary incontinence;Møre og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;623;54199;340;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;14;Bedwetting and urinary incontinence;Førde;5;Medical outpatient services;2;Medical conditions, the specialist health service;585;23330;137;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;14;Bedwetting and urinary incontinence;MÃ¸re og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;623;54199;340;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;14;Bedwetting and urinary incontinence;FÃ¸rde;5;Medical outpatient services;2;Medical conditions, the specialist health service;585;23330;137;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;14;Bedwetting and urinary incontinence;Bergen;5;Medical outpatient services;2;Medical conditions, the specialist health service;968;91673;876;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;14;Bedwetting and urinary incontinence;Fonna;5;Medical outpatient services;2;Medical conditions, the specialist health service;469;39744;187;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;14;Bedwetting and urinary incontinence;Stavanger;5;Medical outpatient services;2;Medical conditions, the specialist health service;249;81507;199;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;14;Bedwetting and urinary incontinence;Østfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;792;57341;452;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;14;Bedwetting and urinary incontinence;Ã˜stfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;792;57341;452;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;14;Bedwetting and urinary incontinence;Akershus;5;Medical outpatient services;2;Medical conditions, the specialist health service;545;108469;593;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;14;Bedwetting and urinary incontinence;OUS;5;Medical outpatient services;2;Medical conditions, the specialist health service;613;95564;557;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;14;Bedwetting and urinary incontinence;Innlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;860;75231;644;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;14;Bedwetting and urinary incontinence;Vestre Viken;5;Medical outpatient services;2;Medical conditions, the specialist health service;758;100582;767;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;14;Bedwetting and urinary incontinence;Vestfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;1018;45330;463;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;14;Bedwetting and urinary incontinence;Telemark;5;Medical outpatient services;2;Medical conditions, the specialist health service;699;33344;232;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;14;Bedwetting and urinary incontinence;Sørlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;487;63768;307;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;14;Bedwetting and urinary incontinence;SÃ¸rlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;487;63768;307;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;14;Bedwetting and urinary incontinence;Norway;5;Medical outpatient services;2;Medical conditions, the specialist health service;676;1057514;7113;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;15;Gastrointestinal diseases;Finnmark;5;Medical outpatient services;2;Medical conditions, the specialist health service;1908;15332;295;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;15;Gastrointestinal diseases;UNN;5;Medical outpatient services;2;Medical conditions, the specialist health service;2479;37609;933;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;15;Gastrointestinal diseases;Nordland;5;Medical outpatient services;2;Medical conditions, the specialist health service;3188;43186;1381;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;15;Gastrointestinal diseases;Nord-Trøndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;4086;29056;1186;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;15;Gastrointestinal diseases;Nord-TrÃ¸ndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;4086;29056;1186;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;15;Gastrointestinal diseases;St. Olavs;5;Medical outpatient services;2;Medical conditions, the specialist health service;3984;62253;2476;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;15;Gastrointestinal diseases;Møre og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;3378;54199;1834;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;15;Gastrointestinal diseases;Førde;5;Medical outpatient services;2;Medical conditions, the specialist health service;3362;23330;785;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;15;Gastrointestinal diseases;MÃ¸re og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;3378;54199;1834;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;15;Gastrointestinal diseases;FÃ¸rde;5;Medical outpatient services;2;Medical conditions, the specialist health service;3362;23330;785;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;15;Gastrointestinal diseases;Bergen;5;Medical outpatient services;2;Medical conditions, the specialist health service;4218;91673;3862;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;15;Gastrointestinal diseases;Fonna;5;Medical outpatient services;2;Medical conditions, the specialist health service;2279;39744;909;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;15;Gastrointestinal diseases;Stavanger;5;Medical outpatient services;2;Medical conditions, the specialist health service;2185;81507;1778;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;15;Gastrointestinal diseases;Østfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;3667;57341;2095;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;15;Gastrointestinal diseases;Ã˜stfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;3667;57341;2095;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;15;Gastrointestinal diseases;Akershus;5;Medical outpatient services;2;Medical conditions, the specialist health service;2870;108469;3114;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;15;Gastrointestinal diseases;OUS;5;Medical outpatient services;2;Medical conditions, the specialist health service;2874;95564;2778;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;15;Gastrointestinal diseases;Innlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;2618;75231;1975;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;15;Gastrointestinal diseases;Vestre Viken;5;Medical outpatient services;2;Medical conditions, the specialist health service;3458;100582;3476;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;15;Gastrointestinal diseases;Vestfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;2214;45330;1007;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;15;Gastrointestinal diseases;Telemark;5;Medical outpatient services;2;Medical conditions, the specialist health service;3293;33344;1097;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;15;Gastrointestinal diseases;Sørlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;5608;63768;3565;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;15;Gastrointestinal diseases;SÃ¸rlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;5608;63768;3565;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;15;Gastrointestinal diseases;Norway;5;Medical outpatient services;2;Medical conditions, the specialist health service;3269;1057514;34543;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;16;Cardiac medicine;Finnmark;5;Medical outpatient services;2;Medical conditions, the specialist health service;1338;15332;199;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;16;Cardiac medicine;UNN;5;Medical outpatient services;2;Medical conditions, the specialist health service;1138;37609;424;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;16;Cardiac medicine;Nordland;5;Medical outpatient services;2;Medical conditions, the specialist health service;1536;43186;646;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;16;Cardiac medicine;Nord-Trøndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;1181;29056;335;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;16;Cardiac medicine;Nord-TrÃ¸ndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;1181;29056;335;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;16;Cardiac medicine;St. Olavs;5;Medical outpatient services;2;Medical conditions, the specialist health service;1768;62253;1118;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;16;Cardiac medicine;Møre og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;2028;54199;1074;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;16;Cardiac medicine;Førde;5;Medical outpatient services;2;Medical conditions, the specialist health service;2271;23330;514;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;16;Cardiac medicine;MÃ¸re og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;2028;54199;1074;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;16;Cardiac medicine;FÃ¸rde;5;Medical outpatient services;2;Medical conditions, the specialist health service;2271;23330;514;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;16;Cardiac medicine;Bergen;5;Medical outpatient services;2;Medical conditions, the specialist health service;1637;91673;1525;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;16;Cardiac medicine;Fonna;5;Medical outpatient services;2;Medical conditions, the specialist health service;1399;39744;552;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;16;Cardiac medicine;Stavanger;5;Medical outpatient services;2;Medical conditions, the specialist health service;1756;81507;1488;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;16;Cardiac medicine;Østfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;1608;57341;895;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;16;Cardiac medicine;Ã˜stfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;1608;57341;895;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;16;Cardiac medicine;Akershus;5;Medical outpatient services;2;Medical conditions, the specialist health service;1450;108469;1566;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;16;Cardiac medicine;OUS;5;Medical outpatient services;2;Medical conditions, the specialist health service;1127;95564;1225;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;16;Cardiac medicine;Innlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;1433;75231;1032;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;16;Cardiac medicine;Vestre Viken;5;Medical outpatient services;2;Medical conditions, the specialist health service;1046;100582;1036;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;16;Cardiac medicine;Vestfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;1556;45330;684;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;16;Cardiac medicine;Telemark;5;Medical outpatient services;2;Medical conditions, the specialist health service;1369;33344;443;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;16;Cardiac medicine;Sørlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;1713;63768;1087;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;16;Cardiac medicine;SÃ¸rlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;1713;63768;1087;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;16;Cardiac medicine;Norway;5;Medical outpatient services;2;Medical conditions, the specialist health service;1492;1057514;15841;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;17;Asthma;Finnmark;5;Medical outpatient services;2;Medical conditions, the specialist health service;3106;15332;468;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;17;Asthma;UNN;5;Medical outpatient services;2;Medical conditions, the specialist health service;2400;37609;899;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;17;Asthma;Nordland;5;Medical outpatient services;2;Medical conditions, the specialist health service;3483;43186;1462;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;17;Asthma;Nord-Trøndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;3593;29056;1032;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;17;Asthma;Nord-TrÃ¸ndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;3593;29056;1032;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;17;Asthma;St. Olavs;5;Medical outpatient services;2;Medical conditions, the specialist health service;3586;62253;2241;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;17;Asthma;Møre og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;2830;54199;1516;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;17;Asthma;Førde;5;Medical outpatient services;2;Medical conditions, the specialist health service;3742;23330;854;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;17;Asthma;MÃ¸re og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;2830;54199;1516;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;17;Asthma;FÃ¸rde;5;Medical outpatient services;2;Medical conditions, the specialist health service;3742;23330;854;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;17;Asthma;Bergen;5;Medical outpatient services;2;Medical conditions, the specialist health service;3611;91673;3327;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;17;Asthma;Fonna;5;Medical outpatient services;2;Medical conditions, the specialist health service;2449;39744;969;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;17;Asthma;Stavanger;5;Medical outpatient services;2;Medical conditions, the specialist health service;1922;81507;1545;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;17;Asthma;Østfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;2338;57341;1333;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;17;Asthma;Ã˜stfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;2338;57341;1333;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;17;Asthma;Akershus;5;Medical outpatient services;2;Medical conditions, the specialist health service;6430;108469;6979;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;17;Asthma;OUS;5;Medical outpatient services;2;Medical conditions, the specialist health service;4274;95564;4068;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;17;Asthma;Innlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;3650;75231;2712;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;17;Asthma;Vestre Viken;5;Medical outpatient services;2;Medical conditions, the specialist health service;5043;100582;5057;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;17;Asthma;Vestfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;1680;45330;757;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;17;Asthma;Telemark;5;Medical outpatient services;2;Medical conditions, the specialist health service;2566;33344;843;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;17;Asthma;Sørlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;5062;63768;3225;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;17;Asthma;SÃ¸rlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;5062;63768;3225;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;17;Asthma;Norway;5;Medical outpatient services;2;Medical conditions, the specialist health service;3713;1057514;39288;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;18;Constipation (obstipation);Finnmark;5;Medical outpatient services;2;Medical conditions, the specialist health service;724;15332;108;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;18;Constipation (obstipation);UNN;5;Medical outpatient services;2;Medical conditions, the specialist health service;626;37609;232;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;18;Constipation (obstipation);Nordland;5;Medical outpatient services;2;Medical conditions, the specialist health service;985;43186;411;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;18;Constipation (obstipation);Nord-Trøndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;2488;29056;709;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;18;Constipation (obstipation);Nord-TrÃ¸ndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;2488;29056;709;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;18;Constipation (obstipation);St. Olavs;5;Medical outpatient services;2;Medical conditions, the specialist health service;2230;62253;1387;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;18;Constipation (obstipation);Møre og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;984;54199;525;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;18;Constipation (obstipation);Førde;5;Medical outpatient services;2;Medical conditions, the specialist health service;1323;23330;302;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;18;Constipation (obstipation);MÃ¸re og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;984;54199;525;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;18;Constipation (obstipation);FÃ¸rde;5;Medical outpatient services;2;Medical conditions, the specialist health service;1323;23330;302;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;18;Constipation (obstipation);Bergen;5;Medical outpatient services;2;Medical conditions, the specialist health service;1410;91673;1295;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;18;Constipation (obstipation);Fonna;5;Medical outpatient services;2;Medical conditions, the specialist health service;625;39744;245;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;18;Constipation (obstipation);Stavanger;5;Medical outpatient services;2;Medical conditions, the specialist health service;788;81507;645;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;18;Constipation (obstipation);Østfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;1421;57341;795;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;18;Constipation (obstipation);Ã˜stfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;1421;57341;795;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;18;Constipation (obstipation);Akershus;5;Medical outpatient services;2;Medical conditions, the specialist health service;878;108469;953;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;18;Constipation (obstipation);OUS;5;Medical outpatient services;2;Medical conditions, the specialist health service;854;95564;860;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;18;Constipation (obstipation);Innlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;786;75231;573;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;18;Constipation (obstipation);Vestre Viken;5;Medical outpatient services;2;Medical conditions, the specialist health service;885;100582;885;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;18;Constipation (obstipation);Vestfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;969;45330;434;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;18;Constipation (obstipation);Telemark;5;Medical outpatient services;2;Medical conditions, the specialist health service;968;33344;315;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;18;Constipation (obstipation);Sørlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;1262;63768;798;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;18;Constipation (obstipation);SÃ¸rlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;1262;63768;798;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;18;Constipation (obstipation);Norway;5;Medical outpatient services;2;Medical conditions, the specialist health service;1088;1057514;11471;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;19;Epilepsy;Finnmark;5;Medical outpatient services;2;Medical conditions, the specialist health service;664;15332;103;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;19;Epilepsy;UNN;5;Medical outpatient services;2;Medical conditions, the specialist health service;965;37609;365;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;19;Epilepsy;Nordland;5;Medical outpatient services;2;Medical conditions, the specialist health service;896;43186;390;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;19;Epilepsy;Nord-Trøndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;975;29056;287;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;19;Epilepsy;Nord-TrÃ¸ndelag;5;Medical outpatient services;2;Medical conditions, the specialist health service;975;29056;287;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;19;Epilepsy;St. Olavs;5;Medical outpatient services;2;Medical conditions, the specialist health service;1157;62253;718;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;19;Epilepsy;Møre og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;883;54199;486;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;19;Epilepsy;Førde;5;Medical outpatient services;2;Medical conditions, the specialist health service;587;23330;137;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;19;Epilepsy;MÃ¸re og Romsdal;5;Medical outpatient services;2;Medical conditions, the specialist health service;883;54199;486;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;19;Epilepsy;FÃ¸rde;5;Medical outpatient services;2;Medical conditions, the specialist health service;587;23330;137;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;19;Epilepsy;Bergen;5;Medical outpatient services;2;Medical conditions, the specialist health service;871;91673;795;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;19;Epilepsy;Fonna;5;Medical outpatient services;2;Medical conditions, the specialist health service;755;39744;300;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;19;Epilepsy;Stavanger;5;Medical outpatient services;2;Medical conditions, the specialist health service;787;81507;639;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;19;Epilepsy;Østfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;766;57341;441;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;19;Epilepsy;Ã˜stfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;766;57341;441;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;19;Epilepsy;Akershus;5;Medical outpatient services;2;Medical conditions, the specialist health service;874;108469;948;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;19;Epilepsy;OUS;5;Medical outpatient services;2;Medical conditions, the specialist health service;1012;95564;964;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;19;Epilepsy;Innlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;1235;75231;942;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;19;Epilepsy;Vestre Viken;5;Medical outpatient services;2;Medical conditions, the specialist health service;1147;100582;1160;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;19;Epilepsy;Vestfold;5;Medical outpatient services;2;Medical conditions, the specialist health service;817;45330;372;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;19;Epilepsy;Telemark;5;Medical outpatient services;2;Medical conditions, the specialist health service;694;33344;234;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;19;Epilepsy;Sørlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;1466;63768;936;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;19;Epilepsy;SÃ¸rlandet;5;Medical outpatient services;2;Medical conditions, the specialist health service;1466;63768;936;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;19;Epilepsy;Norway;5;Medical outpatient services;2;Medical conditions, the specialist health service;966;1057514;10216;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;20;All contacts;Finnmark;6;Type of contact;3;Surgical conditions, the specialist health service;23255;15332;3581;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;20;All contacts;UNN;6;Type of contact;3;Surgical conditions, the specialist health service;25005;37609;9420;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;20;All contacts;Nordland;6;Type of contact;3;Surgical conditions, the specialist health service;24367;43186;10590;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;20;All contacts;Nord-Trøndelag;6;Type of contact;3;Surgical conditions, the specialist health service;31889;29056;9333;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;20;All contacts;Nord-TrÃ¸ndelag;6;Type of contact;3;Surgical conditions, the specialist health service;31889;29056;9333;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;20;All contacts;St. Olavs;6;Type of contact;3;Surgical conditions, the specialist health service;24392;62253;15138;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;20;All contacts;Møre og Romsdal;6;Type of contact;3;Surgical conditions, the specialist health service;29507;54199;16075;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;20;All contacts;Førde;6;Type of contact;3;Surgical conditions, the specialist health service;29380;23330;6902;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;20;All contacts;MÃ¸re og Romsdal;6;Type of contact;3;Surgical conditions, the specialist health service;29507;54199;16075;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;20;All contacts;FÃ¸rde;6;Type of contact;3;Surgical conditions, the specialist health service;29380;23330;6902;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;20;All contacts;Bergen;6;Type of contact;3;Surgical conditions, the specialist health service;28333;91673;25856;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;20;All contacts;Fonna;6;Type of contact;3;Surgical conditions, the specialist health service;25085;39744;9988;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;20;All contacts;Stavanger;6;Type of contact;3;Surgical conditions, the specialist health service;19819;81507;16093;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;20;All contacts;Østfold;6;Type of contact;3;Surgical conditions, the specialist health service;22274;57341;12863;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;20;All contacts;Ã˜stfold;6;Type of contact;3;Surgical conditions, the specialist health service;22274;57341;12863;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;20;All contacts;Akershus;6;Type of contact;3;Surgical conditions, the specialist health service;27200;108469;29502;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;20;All contacts;OUS;6;Type of contact;3;Surgical conditions, the specialist health service;33081;95564;30266;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;20;All contacts;Innlandet;6;Type of contact;3;Surgical conditions, the specialist health service;25088;75231;19119;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;20;All contacts;Vestre Viken;6;Type of contact;3;Surgical conditions, the specialist health service;21285;100582;21462;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;20;All contacts;Vestfold;6;Type of contact;3;Surgical conditions, the specialist health service;23359;45330;10647;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;20;All contacts;Telemark;6;Type of contact;3;Surgical conditions, the specialist health service;25076;33344;8452;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;20;All contacts;Sørlandet;6;Type of contact;3;Surgical conditions, the specialist health service;28174;63768;17955;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;20;All contacts;SÃ¸rlandet;6;Type of contact;3;Surgical conditions, the specialist health service;28174;63768;17955;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;20;All contacts;Norway;6;Type of contact;3;Surgical conditions, the specialist health service;25861;1057514;273239;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;21;Admissions;Finnmark;6;Type of contact;3;Surgical conditions, the specialist health service;2015;15332;309;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;21;Admissions;UNN;6;Type of contact;3;Surgical conditions, the specialist health service;1496;37609;564;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;21;Admissions;Nordland;6;Type of contact;3;Surgical conditions, the specialist health service;2002;43186;864;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;21;Admissions;Nord-Trøndelag;6;Type of contact;3;Surgical conditions, the specialist health service;1950;29056;567;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;21;Admissions;Nord-TrÃ¸ndelag;6;Type of contact;3;Surgical conditions, the specialist health service;1950;29056;567;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;21;Admissions;St. Olavs;6;Type of contact;3;Surgical conditions, the specialist health service;1833;62253;1143;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;21;Admissions;Møre og Romsdal;6;Type of contact;3;Surgical conditions, the specialist health service;2135;54199;1153;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;21;Admissions;Førde;6;Type of contact;3;Surgical conditions, the specialist health service;2144;23330;496;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;21;Admissions;MÃ¸re og Romsdal;6;Type of contact;3;Surgical conditions, the specialist health service;2135;54199;1153;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;21;Admissions;FÃ¸rde;6;Type of contact;3;Surgical conditions, the specialist health service;2144;23330;496;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;21;Admissions;Bergen;6;Type of contact;3;Surgical conditions, the specialist health service;1776;91673;1631;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;21;Admissions;Fonna;6;Type of contact;3;Surgical conditions, the specialist health service;1870;39744;742;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;21;Admissions;Stavanger;6;Type of contact;3;Surgical conditions, the specialist health service;1567;81507;1279;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;21;Admissions;Østfold;6;Type of contact;3;Surgical conditions, the specialist health service;1509;57341;869;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;21;Admissions;Ã˜stfold;6;Type of contact;3;Surgical conditions, the specialist health service;1509;57341;869;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;21;Admissions;Akershus;6;Type of contact;3;Surgical conditions, the specialist health service;1419;108469;1537;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;21;Admissions;OUS;6;Type of contact;3;Surgical conditions, the specialist health service;1180;95564;1134;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;21;Admissions;Innlandet;6;Type of contact;3;Surgical conditions, the specialist health service;1825;75231;1364;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;21;Admissions;Vestre Viken;6;Type of contact;3;Surgical conditions, the specialist health service;1483;100582;1490;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;21;Admissions;Vestfold;6;Type of contact;3;Surgical conditions, the specialist health service;1848;45330;833;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;21;Admissions;Telemark;6;Type of contact;3;Surgical conditions, the specialist health service;1852;33344;615;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;21;Admissions;Sørlandet;6;Type of contact;3;Surgical conditions, the specialist health service;1700;63768;1086;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;21;Admissions;SÃ¸rlandet;6;Type of contact;3;Surgical conditions, the specialist health service;1700;63768;1086;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;21;Admissions;Norway;6;Type of contact;3;Surgical conditions, the specialist health service;1670;1057514;17673;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;22;Outpatient/day patient services;Finnmark;6;Type of contact;3;Surgical conditions, the specialist health service;21241;15332;3272;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;22;Outpatient/day patient services;UNN;6;Type of contact;3;Surgical conditions, the specialist health service;23510;37609;8856;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;22;Outpatient/day patient services;Nordland;6;Type of contact;3;Surgical conditions, the specialist health service;22366;43186;9727;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;22;Outpatient/day patient services;Nord-Trøndelag;6;Type of contact;3;Surgical conditions, the specialist health service;29939;29056;8766;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;22;Outpatient/day patient services;Nord-TrÃ¸ndelag;6;Type of contact;3;Surgical conditions, the specialist health service;29939;29056;8766;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;22;Outpatient/day patient services;St. Olavs;6;Type of contact;3;Surgical conditions, the specialist health service;22561;62253;13995;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;22;Outpatient/day patient services;Møre og Romsdal;6;Type of contact;3;Surgical conditions, the specialist health service;27373;54199;14922;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;22;Outpatient/day patient services;Førde;6;Type of contact;3;Surgical conditions, the specialist health service;27236;23330;6406;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;22;Outpatient/day patient services;MÃ¸re og Romsdal;6;Type of contact;3;Surgical conditions, the specialist health service;27373;54199;14922;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;22;Outpatient/day patient services;FÃ¸rde;6;Type of contact;3;Surgical conditions, the specialist health service;27236;23330;6406;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;22;Outpatient/day patient services;Bergen;6;Type of contact;3;Surgical conditions, the specialist health service;26557;91673;24225;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;22;Outpatient/day patient services;Fonna;6;Type of contact;3;Surgical conditions, the specialist health service;23215;39744;9246;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;22;Outpatient/day patient services;Stavanger;6;Type of contact;3;Surgical conditions, the specialist health service;18253;81507;14814;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;22;Outpatient/day patient services;Østfold;6;Type of contact;3;Surgical conditions, the specialist health service;20765;57341;11993;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;22;Outpatient/day patient services;Ã˜stfold;6;Type of contact;3;Surgical conditions, the specialist health service;20765;57341;11993;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;22;Outpatient/day patient services;Akershus;6;Type of contact;3;Surgical conditions, the specialist health service;25781;108469;27965;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;22;Outpatient/day patient services;OUS;6;Type of contact;3;Surgical conditions, the specialist health service;31901;95564;29132;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;22;Outpatient/day patient services;Innlandet;6;Type of contact;3;Surgical conditions, the specialist health service;23264;75231;17756;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;22;Outpatient/day patient services;Vestre Viken;6;Type of contact;3;Surgical conditions, the specialist health service;19802;100582;19973;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;22;Outpatient/day patient services;Vestfold;6;Type of contact;3;Surgical conditions, the specialist health service;21511;45330;9814;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;22;Outpatient/day patient services;Telemark;6;Type of contact;3;Surgical conditions, the specialist health service;23223;33344;7837;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;22;Outpatient/day patient services;Sørlandet;6;Type of contact;3;Surgical conditions, the specialist health service;26474;63768;16868;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;22;Outpatient/day patient services;SÃ¸rlandet;6;Type of contact;3;Surgical conditions, the specialist health service;26474;63768;16868;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;22;Outpatient/day patient services;Norway;6;Type of contact;3;Surgical conditions, the specialist health service;24192;1057514;255566;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;23;Appendectomy;Finnmark;7;Selected procedures;3;Surgical conditions, the specialist health service;71;15332;11;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;23;Appendectomy;UNN;7;Selected procedures;3;Surgical conditions, the specialist health service;98;37609;38;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;23;Appendectomy;Nordland;7;Selected procedures;3;Surgical conditions, the specialist health service;103;43186;47;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;23;Appendectomy;Nord-Trøndelag;7;Selected procedures;3;Surgical conditions, the specialist health service;79;29056;24;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;23;Appendectomy;Nord-TrÃ¸ndelag;7;Selected procedures;3;Surgical conditions, the specialist health service;79;29056;24;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;23;Appendectomy;St. Olavs;7;Selected procedures;3;Surgical conditions, the specialist health service;114;62253;71;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;23;Appendectomy;Møre og Romsdal;7;Selected procedures;3;Surgical conditions, the specialist health service;93;54199;52;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;23;Appendectomy;Førde;7;Selected procedures;3;Surgical conditions, the specialist health service;124;23330;30;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;23;Appendectomy;MÃ¸re og Romsdal;7;Selected procedures;3;Surgical conditions, the specialist health service;93;54199;52;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;23;Appendectomy;FÃ¸rde;7;Selected procedures;3;Surgical conditions, the specialist health service;124;23330;30;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;23;Appendectomy;Bergen;7;Selected procedures;3;Surgical conditions, the specialist health service;101;91673;92;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;23;Appendectomy;Fonna;7;Selected procedures;3;Surgical conditions, the specialist health service;105;39744;43;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;23;Appendectomy;Stavanger;7;Selected procedures;3;Surgical conditions, the specialist health service;92;81507;74;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;23;Appendectomy;Østfold;7;Selected procedures;3;Surgical conditions, the specialist health service;116;57341;69;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;23;Appendectomy;Ã˜stfold;7;Selected procedures;3;Surgical conditions, the specialist health service;116;57341;69;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;23;Appendectomy;Akershus;7;Selected procedures;3;Surgical conditions, the specialist health service;97;108469;105;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;23;Appendectomy;OUS;7;Selected procedures;3;Surgical conditions, the specialist health service;98;95564;82;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;23;Appendectomy;Innlandet;7;Selected procedures;3;Surgical conditions, the specialist health service;98;75231;78;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;23;Appendectomy;Vestre Viken;7;Selected procedures;3;Surgical conditions, the specialist health service;105;100582;107;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;23;Appendectomy;Vestfold;7;Selected procedures;3;Surgical conditions, the specialist health service;116;45330;54;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;23;Appendectomy;Telemark;7;Selected procedures;3;Surgical conditions, the specialist health service;113;33344;40;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;23;Appendectomy;Sørlandet;7;Selected procedures;3;Surgical conditions, the specialist health service;93;63768;60;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;23;Appendectomy;SÃ¸rlandet;7;Selected procedures;3;Surgical conditions, the specialist health service;93;63768;60;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;23;Appendectomy;Norway;7;Selected procedures;3;Surgical conditions, the specialist health service;101;1057514;1075;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;24;Ear grommet insertion;Finnmark;7;Selected procedures;3;Surgical conditions, the specialist health service;716;15332;104;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;24;Ear grommet insertion;UNN;7;Selected procedures;3;Surgical conditions, the specialist health service;644;37609;238;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;24;Ear grommet insertion;Nordland;7;Selected procedures;3;Surgical conditions, the specialist health service;706;43186;288;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;24;Ear grommet insertion;Nord-Trøndelag;7;Selected procedures;3;Surgical conditions, the specialist health service;1259;29056;349;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;24;Ear grommet insertion;Nord-TrÃ¸ndelag;7;Selected procedures;3;Surgical conditions, the specialist health service;1259;29056;349;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;24;Ear grommet insertion;St. Olavs;7;Selected procedures;3;Surgical conditions, the specialist health service;615;62253;385;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;24;Ear grommet insertion;Møre og Romsdal;7;Selected procedures;3;Surgical conditions, the specialist health service;809;54199;425;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;24;Ear grommet insertion;Førde;7;Selected procedures;3;Surgical conditions, the specialist health service;667;23330;148;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;24;Ear grommet insertion;MÃ¸re og Romsdal;7;Selected procedures;3;Surgical conditions, the specialist health service;809;54199;425;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;24;Ear grommet insertion;FÃ¸rde;7;Selected procedures;3;Surgical conditions, the specialist health service;667;23330;148;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;24;Ear grommet insertion;Bergen;7;Selected procedures;3;Surgical conditions, the specialist health service;381;91673;351;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;24;Ear grommet insertion;Fonna;7;Selected procedures;3;Surgical conditions, the specialist health service;479;39744;185;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;24;Ear grommet insertion;Stavanger;7;Selected procedures;3;Surgical conditions, the specialist health service;936;81507;795;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;24;Ear grommet insertion;Østfold;7;Selected procedures;3;Surgical conditions, the specialist health service;530;57341;293;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;24;Ear grommet insertion;Ã˜stfold;7;Selected procedures;3;Surgical conditions, the specialist health service;530;57341;293;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;24;Ear grommet insertion;Akershus;7;Selected procedures;3;Surgical conditions, the specialist health service;466;108469;506;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;24;Ear grommet insertion;OUS;7;Selected procedures;3;Surgical conditions, the specialist health service;464;95564;504;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;24;Ear grommet insertion;Innlandet;7;Selected procedures;3;Surgical conditions, the specialist health service;446;75231;314;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;24;Ear grommet insertion;Vestre Viken;7;Selected procedures;3;Surgical conditions, the specialist health service;872;100582;860;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;24;Ear grommet insertion;Vestfold;7;Selected procedures;3;Surgical conditions, the specialist health service;1025;45330;445;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;24;Ear grommet insertion;Telemark;7;Selected procedures;3;Surgical conditions, the specialist health service;593;33344;187;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;24;Ear grommet insertion;Sørlandet;7;Selected procedures;3;Surgical conditions, the specialist health service;563;63768;356;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;24;Ear grommet insertion;SÃ¸rlandet;7;Selected procedures;3;Surgical conditions, the specialist health service;563;63768;356;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;24;Ear grommet insertion;Norway;7;Selected procedures;3;Surgical conditions, the specialist health service;638;1057514;6732;Rate;ll;ul;Inhabitants;Number;2011-2014
 1;25;Tonsillectomy;Finnmark;7;Selected procedures;3;Surgical conditions, the specialist health service;1366;15332;203;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;25;Tonsillectomy;UNN;7;Selected procedures;3;Surgical conditions, the specialist health service;897;37609;332;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;25;Tonsillectomy;Nordland;7;Selected procedures;3;Surgical conditions, the specialist health service;1227;43186;506;Rate;ll;ul;Inhabitants;Number;2011-2014
-6;25;Tonsillectomy;Nord-Trøndelag;7;Selected procedures;3;Surgical conditions, the specialist health service;833;29056;235;Rate;ll;ul;Inhabitants;Number;2011-2014
+6;25;Tonsillectomy;Nord-TrÃ¸ndelag;7;Selected procedures;3;Surgical conditions, the specialist health service;833;29056;235;Rate;ll;ul;Inhabitants;Number;2011-2014
 7;25;Tonsillectomy;St. Olavs;7;Selected procedures;3;Surgical conditions, the specialist health service;670;62253;419;Rate;ll;ul;Inhabitants;Number;2011-2014
-8;25;Tonsillectomy;Møre og Romsdal;7;Selected procedures;3;Surgical conditions, the specialist health service;1094;54199;575;Rate;ll;ul;Inhabitants;Number;2011-2014
-10;25;Tonsillectomy;Førde;7;Selected procedures;3;Surgical conditions, the specialist health service;1113;23330;247;Rate;ll;ul;Inhabitants;Number;2011-2014
+8;25;Tonsillectomy;MÃ¸re og Romsdal;7;Selected procedures;3;Surgical conditions, the specialist health service;1094;54199;575;Rate;ll;ul;Inhabitants;Number;2011-2014
+10;25;Tonsillectomy;FÃ¸rde;7;Selected procedures;3;Surgical conditions, the specialist health service;1113;23330;247;Rate;ll;ul;Inhabitants;Number;2011-2014
 11;25;Tonsillectomy;Bergen;7;Selected procedures;3;Surgical conditions, the specialist health service;795;91673;737;Rate;ll;ul;Inhabitants;Number;2011-2014
 12;25;Tonsillectomy;Fonna;7;Selected procedures;3;Surgical conditions, the specialist health service;892;39744;346;Rate;ll;ul;Inhabitants;Number;2011-2014
 13;25;Tonsillectomy;Stavanger;7;Selected procedures;3;Surgical conditions, the specialist health service;728;81507;607;Rate;ll;ul;Inhabitants;Number;2011-2014
-14;25;Tonsillectomy;Østfold;7;Selected procedures;3;Surgical conditions, the specialist health service;826;57341;459;Rate;ll;ul;Inhabitants;Number;2011-2014
+14;25;Tonsillectomy;Ã˜stfold;7;Selected procedures;3;Surgical conditions, the specialist health service;826;57341;459;Rate;ll;ul;Inhabitants;Number;2011-2014
 15;25;Tonsillectomy;Akershus;7;Selected procedures;3;Surgical conditions, the specialist health service;896;108469;971;Rate;ll;ul;Inhabitants;Number;2011-2014
 16;25;Tonsillectomy;OUS;7;Selected procedures;3;Surgical conditions, the specialist health service;698;95564;754;Rate;ll;ul;Inhabitants;Number;2011-2014
 19;25;Tonsillectomy;Innlandet;7;Selected procedures;3;Surgical conditions, the specialist health service;834;75231;596;Rate;ll;ul;Inhabitants;Number;2011-2014
 20;25;Tonsillectomy;Vestre Viken;7;Selected procedures;3;Surgical conditions, the specialist health service;934;100582;924;Rate;ll;ul;Inhabitants;Number;2011-2014
 21;25;Tonsillectomy;Vestfold;7;Selected procedures;3;Surgical conditions, the specialist health service;990;45330;433;Rate;ll;ul;Inhabitants;Number;2011-2014
 22;25;Tonsillectomy;Telemark;7;Selected procedures;3;Surgical conditions, the specialist health service;956;33344;306;Rate;ll;ul;Inhabitants;Number;2011-2014
-23;25;Tonsillectomy;Sørlandet;7;Selected procedures;3;Surgical conditions, the specialist health service;858;63768;541;Rate;ll;ul;Inhabitants;Number;2011-2014
+23;25;Tonsillectomy;SÃ¸rlandet;7;Selected procedures;3;Surgical conditions, the specialist health service;858;63768;541;Rate;ll;ul;Inhabitants;Number;2011-2014
 8888;25;Tonsillectomy;Norway;7;Selected procedures;3;Surgical conditions, the specialist health service;872;1057514;9190;Rate;ll;ul;Inhabitants;Number;2011-2014

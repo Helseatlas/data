@@ -3,860 +3,860 @@ area;level2;level2_no;area_no;Level1;level1_no;value;numerator;denominator;type;
 2;1;Alle konsultasjoner;UNN;1;Allmennlegetjenesten;5927.34;81637;13700;Rate;Antall;Innbyggere;2013-2015
 3;1;Alle konsultasjoner;Nordland;1;Allmennlegetjenesten;5815.4;63026;10815;Rate;Antall;Innbyggere;2013-2015
 4;1;Alle konsultasjoner;Helgeland;1;Allmennlegetjenesten;5244.21;35488;6721;Rate;Antall;Innbyggere;2013-2015
-5;1;Alle konsultasjoner;Nord-Trøndelag;1;Allmennlegetjenesten;5790.5;65203;11219;Rate;Antall;Innbyggere;2013-2015
+5;1;Alle konsultasjoner;Nord-TrÃ¸ndelag;1;Allmennlegetjenesten;5790.5;65203;11219;Rate;Antall;Innbyggere;2013-2015
 6;1;Alle konsultasjoner;St. Olavs;1;Allmennlegetjenesten;5547.51;114103;20548;Rate;Antall;Innbyggere;2013-2015
-7;1;Alle konsultasjoner;Møre og Romsdal;1;Allmennlegetjenesten;5905.31;122636;20861;Rate;Antall;Innbyggere;2013-2015
-8;1;Alle konsultasjoner;Førde;1;Allmennlegetjenesten;5616.36;53196;9515;Rate;Antall;Innbyggere;2013-2015
+7;1;Alle konsultasjoner;MÃ¸re og Romsdal;1;Allmennlegetjenesten;5905.31;122636;20861;Rate;Antall;Innbyggere;2013-2015
+8;1;Alle konsultasjoner;FÃ¸rde;1;Allmennlegetjenesten;5616.36;53196;9515;Rate;Antall;Innbyggere;2013-2015
 9;1;Alle konsultasjoner;Bergen;1;Allmennlegetjenesten;5532.62;162212;29339;Rate;Antall;Innbyggere;2013-2015
 10;1;Alle konsultasjoner;Fonna;1;Allmennlegetjenesten;5760.07;75941;13192;Rate;Antall;Innbyggere;2013-2015
 11;1;Alle konsultasjoner;Stavanger;1;Allmennlegetjenesten;6233.01;119015;19056;Rate;Antall;Innbyggere;2013-2015
-12;1;Alle konsultasjoner;Østfold;1;Allmennlegetjenesten;6041.46;132742;21830;Rate;Antall;Innbyggere;2013-2015
+12;1;Alle konsultasjoner;Ã˜stfold;1;Allmennlegetjenesten;6041.46;132742;21830;Rate;Antall;Innbyggere;2013-2015
 13;1;Alle konsultasjoner;Akershus;1;Allmennlegetjenesten;5843.33;169594;28648;Rate;Antall;Innbyggere;2013-2015
 14;1;Alle konsultasjoner;OUS;1;Allmennlegetjenesten;5657.73;84397;15113;Rate;Antall;Innbyggere;2013-2015
 15;1;Alle konsultasjoner;Innlandet;1;Allmennlegetjenesten;5704.33;200560;35111;Rate;Antall;Innbyggere;2013-2015
 16;1;Alle konsultasjoner;Vestre Viken;1;Allmennlegetjenesten;6193.15;213606;34438;Rate;Antall;Innbyggere;2013-2015
 17;1;Alle konsultasjoner;Vestfold;1;Allmennlegetjenesten;5922.06;106297;17862;Rate;Antall;Innbyggere;2013-2015
 18;1;Alle konsultasjoner;Telemark;1;Allmennlegetjenesten;5186.99;73042;14098;Rate;Antall;Innbyggere;2013-2015
-19;1;Alle konsultasjoner;Sørlandet;1;Allmennlegetjenesten;6214.16;126440;20283;Rate;Antall;Innbyggere;2013-2015
+19;1;Alle konsultasjoner;SÃ¸rlandet;1;Allmennlegetjenesten;6214.16;126440;20283;Rate;Antall;Innbyggere;2013-2015
 20;1;Alle konsultasjoner;Indre Oslo;1;Allmennlegetjenesten;5130.18;63710;12527;Rate;Antall;Innbyggere;2013-2015
 8888;1;Alle konsultasjoner;Norge;1;Allmennlegetjenesten;5798.34;2089869;359928;Rate;Antall;Innbyggere;2013-2015
 1;2;Fastlege;Finnmark;1;Allmennlegetjenesten;4317.83;22238;5054;Rate;Antall;Innbyggere;2013-2015
 2;2;Fastlege;UNN;1;Allmennlegetjenesten;5368.84;74034;13700;Rate;Antall;Innbyggere;2013-2015
 3;2;Fastlege;Nordland;1;Allmennlegetjenesten;5323.42;57734;10815;Rate;Antall;Innbyggere;2013-2015
 4;2;Fastlege;Helgeland;1;Allmennlegetjenesten;4753.46;32207;6721;Rate;Antall;Innbyggere;2013-2015
-5;2;Fastlege;Nord-Trøndelag;1;Allmennlegetjenesten;5277.94;59450;11219;Rate;Antall;Innbyggere;2013-2015
+5;2;Fastlege;Nord-TrÃ¸ndelag;1;Allmennlegetjenesten;5277.94;59450;11219;Rate;Antall;Innbyggere;2013-2015
 6;2;Fastlege;St. Olavs;1;Allmennlegetjenesten;5147.25;105879;20548;Rate;Antall;Innbyggere;2013-2015
-7;2;Fastlege;Møre og Romsdal;1;Allmennlegetjenesten;5460.99;113293;20861;Rate;Antall;Innbyggere;2013-2015
-8;2;Fastlege;Førde;1;Allmennlegetjenesten;5133.33;48560;9515;Rate;Antall;Innbyggere;2013-2015
+7;2;Fastlege;MÃ¸re og Romsdal;1;Allmennlegetjenesten;5460.99;113293;20861;Rate;Antall;Innbyggere;2013-2015
+8;2;Fastlege;FÃ¸rde;1;Allmennlegetjenesten;5133.33;48560;9515;Rate;Antall;Innbyggere;2013-2015
 9;2;Fastlege;Bergen;1;Allmennlegetjenesten;5078.24;148866;29339;Rate;Antall;Innbyggere;2013-2015
 10;2;Fastlege;Fonna;1;Allmennlegetjenesten;5312.64;70030;13192;Rate;Antall;Innbyggere;2013-2015
 11;2;Fastlege;Stavanger;1;Allmennlegetjenesten;5793.73;110668;19056;Rate;Antall;Innbyggere;2013-2015
-12;2;Fastlege;Østfold;1;Allmennlegetjenesten;5617.25;123548;21830;Rate;Antall;Innbyggere;2013-2015
+12;2;Fastlege;Ã˜stfold;1;Allmennlegetjenesten;5617.25;123548;21830;Rate;Antall;Innbyggere;2013-2015
 13;2;Fastlege;Akershus;1;Allmennlegetjenesten;5456.06;158633;28648;Rate;Antall;Innbyggere;2013-2015
 14;2;Fastlege;OUS;1;Allmennlegetjenesten;5290.05;78751;15113;Rate;Antall;Innbyggere;2013-2015
 15;2;Fastlege;Innlandet;1;Allmennlegetjenesten;5301.98;186421;35111;Rate;Antall;Innbyggere;2013-2015
 16;2;Fastlege;Vestre Viken;1;Allmennlegetjenesten;5704.34;196767;34438;Rate;Antall;Innbyggere;2013-2015
 17;2;Fastlege;Vestfold;1;Allmennlegetjenesten;5531.88;99357;17862;Rate;Antall;Innbyggere;2013-2015
 18;2;Fastlege;Telemark;1;Allmennlegetjenesten;4699.03;66145;14098;Rate;Antall;Innbyggere;2013-2015
-19;2;Fastlege;Sørlandet;1;Allmennlegetjenesten;5748.21;117028;20283;Rate;Antall;Innbyggere;2013-2015
+19;2;Fastlege;SÃ¸rlandet;1;Allmennlegetjenesten;5748.21;117028;20283;Rate;Antall;Innbyggere;2013-2015
 20;2;Fastlege;Indre Oslo;1;Allmennlegetjenesten;4792.83;59403;12527;Rate;Antall;Innbyggere;2013-2015
 8888;2;Fastlege;Norge;1;Allmennlegetjenesten;5350.93;1929011;359928;Rate;Antall;Innbyggere;2013-2015
 1;3;Legevakt;Finnmark;1;Allmennlegetjenesten;955.49;4785;5054;Rate;Antall;Innbyggere;2013-2015
 2;3;Legevakt;UNN;1;Allmennlegetjenesten;557.5;7582;13700;Rate;Antall;Innbyggere;2013-2015
 3;3;Legevakt;Nordland;1;Allmennlegetjenesten;491.44;5284;10815;Rate;Antall;Innbyggere;2013-2015
 4;3;Legevakt;Helgeland;1;Allmennlegetjenesten;490.92;3282;6721;Rate;Antall;Innbyggere;2013-2015
-5;3;Legevakt;Nord-Trøndelag;1;Allmennlegetjenesten;512.45;5751;11219;Rate;Antall;Innbyggere;2013-2015
+5;3;Legevakt;Nord-TrÃ¸ndelag;1;Allmennlegetjenesten;512.45;5751;11219;Rate;Antall;Innbyggere;2013-2015
 6;3;Legevakt;St. Olavs;1;Allmennlegetjenesten;399.68;8209;20548;Rate;Antall;Innbyggere;2013-2015
-7;3;Legevakt;Møre og Romsdal;1;Allmennlegetjenesten;444.45;9337;20861;Rate;Antall;Innbyggere;2013-2015
-8;3;Legevakt;Førde;1;Allmennlegetjenesten;481.42;4623;9515;Rate;Antall;Innbyggere;2013-2015
+7;3;Legevakt;MÃ¸re og Romsdal;1;Allmennlegetjenesten;444.45;9337;20861;Rate;Antall;Innbyggere;2013-2015
+8;3;Legevakt;FÃ¸rde;1;Allmennlegetjenesten;481.42;4623;9515;Rate;Antall;Innbyggere;2013-2015
 9;3;Legevakt;Bergen;1;Allmennlegetjenesten;451.12;13247;29339;Rate;Antall;Innbyggere;2013-2015
 10;3;Legevakt;Fonna;1;Allmennlegetjenesten;447.25;5911;13192;Rate;Antall;Innbyggere;2013-2015
 11;3;Legevakt;Stavanger;1;Allmennlegetjenesten;439.04;8341;19056;Rate;Antall;Innbyggere;2013-2015
-12;3;Legevakt;Østfold;1;Allmennlegetjenesten;424.26;9186;21830;Rate;Antall;Innbyggere;2013-2015
+12;3;Legevakt;Ã˜stfold;1;Allmennlegetjenesten;424.26;9186;21830;Rate;Antall;Innbyggere;2013-2015
 13;3;Legevakt;Akershus;1;Allmennlegetjenesten;386.1;10910;28648;Rate;Antall;Innbyggere;2013-2015
 14;3;Legevakt;OUS;1;Allmennlegetjenesten;365.76;5619;15113;Rate;Antall;Innbyggere;2013-2015
 15;3;Legevakt;Innlandet;1;Allmennlegetjenesten;401.77;14116;35111;Rate;Antall;Innbyggere;2013-2015
 16;3;Legevakt;Vestre Viken;1;Allmennlegetjenesten;487;16771;34438;Rate;Antall;Innbyggere;2013-2015
 17;3;Legevakt;Vestfold;1;Allmennlegetjenesten;389.48;6930;17862;Rate;Antall;Innbyggere;2013-2015
 18;3;Legevakt;Telemark;1;Allmennlegetjenesten;487.91;6896;14098;Rate;Antall;Innbyggere;2013-2015
-19;3;Legevakt;Sørlandet;1;Allmennlegetjenesten;465.01;9401;20283;Rate;Antall;Innbyggere;2013-2015
+19;3;Legevakt;SÃ¸rlandet;1;Allmennlegetjenesten;465.01;9401;20283;Rate;Antall;Innbyggere;2013-2015
 20;3;Legevakt;Indre Oslo;1;Allmennlegetjenesten;335.24;4289;12527;Rate;Antall;Innbyggere;2013-2015
 8888;3;Legevakt;Norge;1;Allmennlegetjenesten;446.45;160471;359928;Rate;Antall;Innbyggere;2013-2015
 1;4;Poliklinikk, alle;Finnmark;2;Spesialisthelsetjenesten;2309.1;11765;5054;Rate;Antall;Innbyggere;2013-2015
 2;4;Poliklinikk, alle;UNN;2;Spesialisthelsetjenesten;2700.56;37126;13700;Rate;Antall;Innbyggere;2013-2015
 3;4;Poliklinikk, alle;Nordland;2;Spesialisthelsetjenesten;2781.37;30201;10815;Rate;Antall;Innbyggere;2013-2015
 4;4;Poliklinikk, alle;Helgeland;2;Spesialisthelsetjenesten;2892.33;19592;6721;Rate;Antall;Innbyggere;2013-2015
-5;4;Poliklinikk, alle;Nord-Trøndelag;2;Spesialisthelsetjenesten;3153.5;35605;11219;Rate;Antall;Innbyggere;2013-2015
+5;4;Poliklinikk, alle;Nord-TrÃ¸ndelag;2;Spesialisthelsetjenesten;3153.5;35605;11219;Rate;Antall;Innbyggere;2013-2015
 6;4;Poliklinikk, alle;St. Olavs;2;Spesialisthelsetjenesten;3091.46;63613;20548;Rate;Antall;Innbyggere;2013-2015
-7;4;Poliklinikk, alle;Møre og Romsdal;2;Spesialisthelsetjenesten;2984.59;62068;20861;Rate;Antall;Innbyggere;2013-2015
-8;4;Poliklinikk, alle;Førde;2;Spesialisthelsetjenesten;3010.67;28562;9515;Rate;Antall;Innbyggere;2013-2015
+7;4;Poliklinikk, alle;MÃ¸re og Romsdal;2;Spesialisthelsetjenesten;2984.59;62068;20861;Rate;Antall;Innbyggere;2013-2015
+8;4;Poliklinikk, alle;FÃ¸rde;2;Spesialisthelsetjenesten;3010.67;28562;9515;Rate;Antall;Innbyggere;2013-2015
 9;4;Poliklinikk, alle;Bergen;2;Spesialisthelsetjenesten;3153.72;92389;29339;Rate;Antall;Innbyggere;2013-2015
 10;4;Poliklinikk, alle;Fonna;2;Spesialisthelsetjenesten;3185.14;42011;13192;Rate;Antall;Innbyggere;2013-2015
 11;4;Poliklinikk, alle;Stavanger;2;Spesialisthelsetjenesten;2946.46;56261;19056;Rate;Antall;Innbyggere;2013-2015
-12;4;Poliklinikk, alle;Østfold;2;Spesialisthelsetjenesten;2980.63;65443;21830;Rate;Antall;Innbyggere;2013-2015
+12;4;Poliklinikk, alle;Ã˜stfold;2;Spesialisthelsetjenesten;2980.63;65443;21830;Rate;Antall;Innbyggere;2013-2015
 13;4;Poliklinikk, alle;Akershus;2;Spesialisthelsetjenesten;3053.4;88435;28648;Rate;Antall;Innbyggere;2013-2015
 14;4;Poliklinikk, alle;OUS;2;Spesialisthelsetjenesten;3983.56;59471;15113;Rate;Antall;Innbyggere;2013-2015
 15;4;Poliklinikk, alle;Innlandet;2;Spesialisthelsetjenesten;2611.62;91960;35111;Rate;Antall;Innbyggere;2013-2015
 16;4;Poliklinikk, alle;Vestre Viken;2;Spesialisthelsetjenesten;3254.91;112284;34438;Rate;Antall;Innbyggere;2013-2015
 17;4;Poliklinikk, alle;Vestfold;2;Spesialisthelsetjenesten;3431.62;61469;17862;Rate;Antall;Innbyggere;2013-2015
 18;4;Poliklinikk, alle;Telemark;2;Spesialisthelsetjenesten;3051.96;42910;14098;Rate;Antall;Innbyggere;2013-2015
-19;4;Poliklinikk, alle;Sørlandet;2;Spesialisthelsetjenesten;3465.27;70512;20283;Rate;Antall;Innbyggere;2013-2015
+19;4;Poliklinikk, alle;SÃ¸rlandet;2;Spesialisthelsetjenesten;3465.27;70512;20283;Rate;Antall;Innbyggere;2013-2015
 20;4;Poliklinikk, alle;Indre Oslo;2;Spesialisthelsetjenesten;3686.25;45507;12527;Rate;Antall;Innbyggere;2013-2015
 8888;4;Poliklinikk, alle;Norge;2;Spesialisthelsetjenesten;3100.06;1117183;359928;Rate;Antall;Innbyggere;2013-2015
 1;5;Innleggelser, alle;Finnmark;2;Spesialisthelsetjenesten;578.33;2884;5054;Rate;Antall;Innbyggere;2013-2015
 2;5;Innleggelser, alle;UNN;2;Spesialisthelsetjenesten;498.52;6757;13700;Rate;Antall;Innbyggere;2013-2015
 3;5;Innleggelser, alle;Nordland;2;Spesialisthelsetjenesten;528.72;5682;10815;Rate;Antall;Innbyggere;2013-2015
 4;5;Innleggelser, alle;Helgeland;2;Spesialisthelsetjenesten;510.16;3420;6721;Rate;Antall;Innbyggere;2013-2015
-5;5;Innleggelser, alle;Nord-Trøndelag;2;Spesialisthelsetjenesten;514.1;5774;11219;Rate;Antall;Innbyggere;2013-2015
+5;5;Innleggelser, alle;Nord-TrÃ¸ndelag;2;Spesialisthelsetjenesten;514.1;5774;11219;Rate;Antall;Innbyggere;2013-2015
 6;5;Innleggelser, alle;St. Olavs;2;Spesialisthelsetjenesten;480.29;9861;20548;Rate;Antall;Innbyggere;2013-2015
-7;5;Innleggelser, alle;Møre og Romsdal;2;Spesialisthelsetjenesten;495.1;10436;20861;Rate;Antall;Innbyggere;2013-2015
-8;5;Innleggelser, alle;Førde;2;Spesialisthelsetjenesten;520.69;5015;9515;Rate;Antall;Innbyggere;2013-2015
+7;5;Innleggelser, alle;MÃ¸re og Romsdal;2;Spesialisthelsetjenesten;495.1;10436;20861;Rate;Antall;Innbyggere;2013-2015
+8;5;Innleggelser, alle;FÃ¸rde;2;Spesialisthelsetjenesten;520.69;5015;9515;Rate;Antall;Innbyggere;2013-2015
 9;5;Innleggelser, alle;Bergen;2;Spesialisthelsetjenesten;552.75;16227;29339;Rate;Antall;Innbyggere;2013-2015
 10;5;Innleggelser, alle;Fonna;2;Spesialisthelsetjenesten;568.57;7519;13192;Rate;Antall;Innbyggere;2013-2015
 11;5;Innleggelser, alle;Stavanger;2;Spesialisthelsetjenesten;486.94;9246;19056;Rate;Antall;Innbyggere;2013-2015
-12;5;Innleggelser, alle;Østfold;2;Spesialisthelsetjenesten;434.43;9390;21830;Rate;Antall;Innbyggere;2013-2015
+12;5;Innleggelser, alle;Ã˜stfold;2;Spesialisthelsetjenesten;434.43;9390;21830;Rate;Antall;Innbyggere;2013-2015
 13;5;Innleggelser, alle;Akershus;2;Spesialisthelsetjenesten;485.55;13612;28648;Rate;Antall;Innbyggere;2013-2015
 14;5;Innleggelser, alle;OUS;2;Spesialisthelsetjenesten;509.69;7834;15113;Rate;Antall;Innbyggere;2013-2015
 15;5;Innleggelser, alle;Innlandet;2;Spesialisthelsetjenesten;478.19;16823;35111;Rate;Antall;Innbyggere;2013-2015
 16;5;Innleggelser, alle;Vestre Viken;2;Spesialisthelsetjenesten;484.09;16678;34438;Rate;Antall;Innbyggere;2013-2015
 17;5;Innleggelser, alle;Vestfold;2;Spesialisthelsetjenesten;475.87;8459;17862;Rate;Antall;Innbyggere;2013-2015
 18;5;Innleggelser, alle;Telemark;2;Spesialisthelsetjenesten;510.14;7202;14098;Rate;Antall;Innbyggere;2013-2015
-19;5;Innleggelser, alle;Sørlandet;2;Spesialisthelsetjenesten;450.2;9095;20283;Rate;Antall;Innbyggere;2013-2015
+19;5;Innleggelser, alle;SÃ¸rlandet;2;Spesialisthelsetjenesten;450.2;9095;20283;Rate;Antall;Innbyggere;2013-2015
 20;5;Innleggelser, alle;Indre Oslo;2;Spesialisthelsetjenesten;522.32;6656;12527;Rate;Antall;Innbyggere;2013-2015
 8888;5;Innleggelser, alle;Norge;2;Spesialisthelsetjenesten;496.98;178571;359928;Rate;Antall;Innbyggere;2013-2015
-1;6;Reinnleggelser;Finnmark;2;Spesialisthelsetjenesten;16.34;436;2692;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-2;6;Reinnleggelser;UNN;2;Spesialisthelsetjenesten;16.05;1003;6256;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-3;6;Reinnleggelser;Nordland;2;Spesialisthelsetjenesten;17.71;931;5262;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-4;6;Reinnleggelser;Helgeland;2;Spesialisthelsetjenesten;16.55;527;3170;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-5;6;Reinnleggelser;Nord-Trøndelag;2;Spesialisthelsetjenesten;18.8;1006;5326;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-6;6;Reinnleggelser;St. Olavs;2;Spesialisthelsetjenesten;16.64;1515;9105;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-7;6;Reinnleggelser;Møre og Romsdal;2;Spesialisthelsetjenesten;17.18;1661;9649;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8;6;Reinnleggelser;Førde;2;Spesialisthelsetjenesten;16.07;753;4666;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-9;6;Reinnleggelser;Bergen;2;Spesialisthelsetjenesten;18.16;2749;15144;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-10;6;Reinnleggelser;Fonna;2;Spesialisthelsetjenesten;17.6;1232;6998;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-11;6;Reinnleggelser;Stavanger;2;Spesialisthelsetjenesten;17.38;1488;8563;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-12;6;Reinnleggelser;Østfold;2;Spesialisthelsetjenesten;17.3;1480;8543;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-13;6;Reinnleggelser;Akershus;2;Spesialisthelsetjenesten;18.7;2337;12509;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-14;6;Reinnleggelser;OUS;2;Spesialisthelsetjenesten;18.05;1299;7223;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-15;6;Reinnleggelser;Innlandet;2;Spesialisthelsetjenesten;17.33;2678;15412;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-16;6;Reinnleggelser;Vestre Viken;2;Spesialisthelsetjenesten;17.34;2660;15313;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-17;6;Reinnleggelser;Vestfold;2;Spesialisthelsetjenesten;16.68;1295;7760;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-18;6;Reinnleggelser;Telemark;2;Spesialisthelsetjenesten;16.87;1115;6616;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-19;6;Reinnleggelser;Sørlandet;2;Spesialisthelsetjenesten;15.97;1333;8349;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-20;6;Reinnleggelser;Indre Oslo;2;Spesialisthelsetjenesten;20.39;1245;6130;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8888;6;Reinnleggelser;Norge;2;Spesialisthelsetjenesten;17.45;28743;164687;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
+1;6;Reinnleggelser;Finnmark;2;Spesialisthelsetjenesten;16.34;436;2692;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+2;6;Reinnleggelser;UNN;2;Spesialisthelsetjenesten;16.05;1003;6256;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+3;6;Reinnleggelser;Nordland;2;Spesialisthelsetjenesten;17.71;931;5262;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+4;6;Reinnleggelser;Helgeland;2;Spesialisthelsetjenesten;16.55;527;3170;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+5;6;Reinnleggelser;Nord-TrÃ¸ndelag;2;Spesialisthelsetjenesten;18.8;1006;5326;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+6;6;Reinnleggelser;St. Olavs;2;Spesialisthelsetjenesten;16.64;1515;9105;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+7;6;Reinnleggelser;MÃ¸re og Romsdal;2;Spesialisthelsetjenesten;17.18;1661;9649;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8;6;Reinnleggelser;FÃ¸rde;2;Spesialisthelsetjenesten;16.07;753;4666;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+9;6;Reinnleggelser;Bergen;2;Spesialisthelsetjenesten;18.16;2749;15144;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+10;6;Reinnleggelser;Fonna;2;Spesialisthelsetjenesten;17.6;1232;6998;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+11;6;Reinnleggelser;Stavanger;2;Spesialisthelsetjenesten;17.38;1488;8563;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+12;6;Reinnleggelser;Ã˜stfold;2;Spesialisthelsetjenesten;17.3;1480;8543;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+13;6;Reinnleggelser;Akershus;2;Spesialisthelsetjenesten;18.7;2337;12509;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+14;6;Reinnleggelser;OUS;2;Spesialisthelsetjenesten;18.05;1299;7223;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+15;6;Reinnleggelser;Innlandet;2;Spesialisthelsetjenesten;17.33;2678;15412;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+16;6;Reinnleggelser;Vestre Viken;2;Spesialisthelsetjenesten;17.34;2660;15313;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+17;6;Reinnleggelser;Vestfold;2;Spesialisthelsetjenesten;16.68;1295;7760;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+18;6;Reinnleggelser;Telemark;2;Spesialisthelsetjenesten;16.87;1115;6616;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+19;6;Reinnleggelser;SÃ¸rlandet;2;Spesialisthelsetjenesten;15.97;1333;8349;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+20;6;Reinnleggelser;Indre Oslo;2;Spesialisthelsetjenesten;20.39;1245;6130;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8888;6;Reinnleggelser;Norge;2;Spesialisthelsetjenesten;17.45;28743;164687;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
 1;7;Innleggelser, liggetid;Finnmark;2;Spesialisthelsetjenesten;3320.78;16563;5054;Rate;Antall;Innbyggere;2013-2015
 2;7;Innleggelser, liggetid;UNN;2;Spesialisthelsetjenesten;3029.19;41030;13700;Rate;Antall;Innbyggere;2013-2015
 3;7;Innleggelser, liggetid;Nordland;2;Spesialisthelsetjenesten;3113.34;33521;10815;Rate;Antall;Innbyggere;2013-2015
 4;7;Innleggelser, liggetid;Helgeland;2;Spesialisthelsetjenesten;3021.04;20312;6721;Rate;Antall;Innbyggere;2013-2015
-5;7;Innleggelser, liggetid;Nord-Trøndelag;2;Spesialisthelsetjenesten;2586.86;29105;11219;Rate;Antall;Innbyggere;2013-2015
+5;7;Innleggelser, liggetid;Nord-TrÃ¸ndelag;2;Spesialisthelsetjenesten;2586.86;29105;11219;Rate;Antall;Innbyggere;2013-2015
 6;7;Innleggelser, liggetid;St. Olavs;2;Spesialisthelsetjenesten;2988.46;61388;20548;Rate;Antall;Innbyggere;2013-2015
-7;7;Innleggelser, liggetid;Møre og Romsdal;2;Spesialisthelsetjenesten;2872.4;60501;20861;Rate;Antall;Innbyggere;2013-2015
-8;7;Innleggelser, liggetid;Førde;2;Spesialisthelsetjenesten;2883.92;27696;9515;Rate;Antall;Innbyggere;2013-2015
+7;7;Innleggelser, liggetid;MÃ¸re og Romsdal;2;Spesialisthelsetjenesten;2872.4;60501;20861;Rate;Antall;Innbyggere;2013-2015
+8;7;Innleggelser, liggetid;FÃ¸rde;2;Spesialisthelsetjenesten;2883.92;27696;9515;Rate;Antall;Innbyggere;2013-2015
 9;7;Innleggelser, liggetid;Bergen;2;Spesialisthelsetjenesten;3092.86;90767;29339;Rate;Antall;Innbyggere;2013-2015
 10;7;Innleggelser, liggetid;Fonna;2;Spesialisthelsetjenesten;3231.77;42734;13192;Rate;Antall;Innbyggere;2013-2015
 11;7;Innleggelser, liggetid;Stavanger;2;Spesialisthelsetjenesten;2924.69;55596;19056;Rate;Antall;Innbyggere;2013-2015
-12;7;Innleggelser, liggetid;Østfold;2;Spesialisthelsetjenesten;2220.29;48164;21830;Rate;Antall;Innbyggere;2013-2015
+12;7;Innleggelser, liggetid;Ã˜stfold;2;Spesialisthelsetjenesten;2220.29;48164;21830;Rate;Antall;Innbyggere;2013-2015
 13;7;Innleggelser, liggetid;Akershus;2;Spesialisthelsetjenesten;2739.98;77174;28648;Rate;Antall;Innbyggere;2013-2015
 14;7;Innleggelser, liggetid;OUS;2;Spesialisthelsetjenesten;3336.18;51077;15113;Rate;Antall;Innbyggere;2013-2015
 15;7;Innleggelser, liggetid;Innlandet;2;Spesialisthelsetjenesten;2341.59;82460;35111;Rate;Antall;Innbyggere;2013-2015
 16;7;Innleggelser, liggetid;Vestre Viken;2;Spesialisthelsetjenesten;2640.77;91016;34438;Rate;Antall;Innbyggere;2013-2015
 17;7;Innleggelser, liggetid;Vestfold;2;Spesialisthelsetjenesten;2478.13;44084;17862;Rate;Antall;Innbyggere;2013-2015
 18;7;Innleggelser, liggetid;Telemark;2;Spesialisthelsetjenesten;2914.31;41120;14098;Rate;Antall;Innbyggere;2013-2015
-19;7;Innleggelser, liggetid;Sørlandet;2;Spesialisthelsetjenesten;2094.02;42378;20283;Rate;Antall;Innbyggere;2013-2015
+19;7;Innleggelser, liggetid;SÃ¸rlandet;2;Spesialisthelsetjenesten;2094.02;42378;20283;Rate;Antall;Innbyggere;2013-2015
 20;7;Innleggelser, liggetid;Indre Oslo;2;Spesialisthelsetjenesten;2736.93;34527;12527;Rate;Antall;Innbyggere;2013-2015
 8888;7;Innleggelser, liggetid;Norge;2;Spesialisthelsetjenesten;2757.22;991212;359928;Rate;Antall;Innbyggere;2013-2015
 1;8;Hjerteinfarkt, innlagte pasienter;Finnmark;3;Hjertemedisin;31.15;151;5054;Rate;Antall;Innbyggere;2013-2015
 2;8;Hjerteinfarkt, innlagte pasienter;UNN;3;Hjertemedisin;15.91;216;13700;Rate;Antall;Innbyggere;2013-2015
 3;8;Hjerteinfarkt, innlagte pasienter;Nordland;3;Hjertemedisin;22.47;240;10815;Rate;Antall;Innbyggere;2013-2015
 4;8;Hjerteinfarkt, innlagte pasienter;Helgeland;3;Hjertemedisin;20.62;138;6721;Rate;Antall;Innbyggere;2013-2015
-5;8;Hjerteinfarkt, innlagte pasienter;Nord-Trøndelag;3;Hjertemedisin;21.6;243;11219;Rate;Antall;Innbyggere;2013-2015
+5;8;Hjerteinfarkt, innlagte pasienter;Nord-TrÃ¸ndelag;3;Hjertemedisin;21.6;243;11219;Rate;Antall;Innbyggere;2013-2015
 6;8;Hjerteinfarkt, innlagte pasienter;St. Olavs;3;Hjertemedisin;16.22;333;20548;Rate;Antall;Innbyggere;2013-2015
-7;8;Hjerteinfarkt, innlagte pasienter;Møre og Romsdal;3;Hjertemedisin;22.34;477;20861;Rate;Antall;Innbyggere;2013-2015
-8;8;Hjerteinfarkt, innlagte pasienter;Førde;3;Hjertemedisin;16.35;161;9515;Rate;Antall;Innbyggere;2013-2015
+7;8;Hjerteinfarkt, innlagte pasienter;MÃ¸re og Romsdal;3;Hjertemedisin;22.34;477;20861;Rate;Antall;Innbyggere;2013-2015
+8;8;Hjerteinfarkt, innlagte pasienter;FÃ¸rde;3;Hjertemedisin;16.35;161;9515;Rate;Antall;Innbyggere;2013-2015
 9;8;Hjerteinfarkt, innlagte pasienter;Bergen;3;Hjertemedisin;16.83;496;29339;Rate;Antall;Innbyggere;2013-2015
 10;8;Hjerteinfarkt, innlagte pasienter;Fonna;3;Hjertemedisin;21.99;293;13192;Rate;Antall;Innbyggere;2013-2015
 11;8;Hjerteinfarkt, innlagte pasienter;Stavanger;3;Hjertemedisin;22.83;433;19056;Rate;Antall;Innbyggere;2013-2015
-12;8;Hjerteinfarkt, innlagte pasienter;Østfold;3;Hjertemedisin;20.64;444;21830;Rate;Antall;Innbyggere;2013-2015
+12;8;Hjerteinfarkt, innlagte pasienter;Ã˜stfold;3;Hjertemedisin;20.64;444;21830;Rate;Antall;Innbyggere;2013-2015
 13;8;Hjerteinfarkt, innlagte pasienter;Akershus;3;Hjertemedisin;17.64;489;28648;Rate;Antall;Innbyggere;2013-2015
 14;8;Hjerteinfarkt, innlagte pasienter;OUS;3;Hjertemedisin;17.89;281;15113;Rate;Antall;Innbyggere;2013-2015
 15;8;Hjerteinfarkt, innlagte pasienter;Innlandet;3;Hjertemedisin;18.4;647;35111;Rate;Antall;Innbyggere;2013-2015
 16;8;Hjerteinfarkt, innlagte pasienter;Vestre Viken;3;Hjertemedisin;17.21;595;34438;Rate;Antall;Innbyggere;2013-2015
 17;8;Hjerteinfarkt, innlagte pasienter;Vestfold;3;Hjertemedisin;13.73;243;17862;Rate;Antall;Innbyggere;2013-2015
 18;8;Hjerteinfarkt, innlagte pasienter;Telemark;3;Hjertemedisin;20.74;295;14098;Rate;Antall;Innbyggere;2013-2015
-19;8;Hjerteinfarkt, innlagte pasienter;Sørlandet;3;Hjertemedisin;11.6;234;20283;Rate;Antall;Innbyggere;2013-2015
+19;8;Hjerteinfarkt, innlagte pasienter;SÃ¸rlandet;3;Hjertemedisin;11.6;234;20283;Rate;Antall;Innbyggere;2013-2015
 20;8;Hjerteinfarkt, innlagte pasienter;Indre Oslo;3;Hjertemedisin;18.6;244;12527;Rate;Antall;Innbyggere;2013-2015
 8888;8;Hjerteinfarkt, innlagte pasienter;Norge;3;Hjertemedisin;18.49;6652;359928;Rate;Antall;Innbyggere;2013-2015
 1;9;Revaskularisering, PCI og bypass;Finnmark;3;Hjertemedisin;13.78;72;5054;Rate;Antall;Innbyggere;2013-2015
 2;9;Revaskularisering, PCI og bypass;UNN;3;Hjertemedisin;10.68;149;13700;Rate;Antall;Innbyggere;2013-2015
 3;9;Revaskularisering, PCI og bypass;Nordland;3;Hjertemedisin;9.49;104;10815;Rate;Antall;Innbyggere;2013-2015
 4;9;Revaskularisering, PCI og bypass;Helgeland;3;Hjertemedisin;10.32;72;6721;Rate;Antall;Innbyggere;2013-2015
-5;9;Revaskularisering, PCI og bypass;Nord-Trøndelag;3;Hjertemedisin;7.08;82;11219;Rate;Antall;Innbyggere;2013-2015
+5;9;Revaskularisering, PCI og bypass;Nord-TrÃ¸ndelag;3;Hjertemedisin;7.08;82;11219;Rate;Antall;Innbyggere;2013-2015
 6;9;Revaskularisering, PCI og bypass;St. Olavs;3;Hjertemedisin;8.63;179;20548;Rate;Antall;Innbyggere;2013-2015
-7;9;Revaskularisering, PCI og bypass;Møre og Romsdal;3;Hjertemedisin;6.55;135;20861;Rate;Antall;Innbyggere;2013-2015
-8;9;Revaskularisering, PCI og bypass;Førde;3;Hjertemedisin;7.87;75;9515;Rate;Antall;Innbyggere;2013-2015
+7;9;Revaskularisering, PCI og bypass;MÃ¸re og Romsdal;3;Hjertemedisin;6.55;135;20861;Rate;Antall;Innbyggere;2013-2015
+8;9;Revaskularisering, PCI og bypass;FÃ¸rde;3;Hjertemedisin;7.87;75;9515;Rate;Antall;Innbyggere;2013-2015
 9;9;Revaskularisering, PCI og bypass;Bergen;3;Hjertemedisin;9.82;287;29339;Rate;Antall;Innbyggere;2013-2015
 10;9;Revaskularisering, PCI og bypass;Fonna;3;Hjertemedisin;10.09;134;13192;Rate;Antall;Innbyggere;2013-2015
 11;9;Revaskularisering, PCI og bypass;Stavanger;3;Hjertemedisin;9.94;191;19056;Rate;Antall;Innbyggere;2013-2015
-12;9;Revaskularisering, PCI og bypass;Østfold;3;Hjertemedisin;9.85;218;21830;Rate;Antall;Innbyggere;2013-2015
+12;9;Revaskularisering, PCI og bypass;Ã˜stfold;3;Hjertemedisin;9.85;218;21830;Rate;Antall;Innbyggere;2013-2015
 13;9;Revaskularisering, PCI og bypass;Akershus;3;Hjertemedisin;9.55;281;28648;Rate;Antall;Innbyggere;2013-2015
 14;9;Revaskularisering, PCI og bypass;OUS;3;Hjertemedisin;7.71;112;15113;Rate;Antall;Innbyggere;2013-2015
 15;9;Revaskularisering, PCI og bypass;Innlandet;3;Hjertemedisin;9.24;328;35111;Rate;Antall;Innbyggere;2013-2015
 16;9;Revaskularisering, PCI og bypass;Vestre Viken;3;Hjertemedisin;9.4;325;34438;Rate;Antall;Innbyggere;2013-2015
 17;9;Revaskularisering, PCI og bypass;Vestfold;3;Hjertemedisin;8.52;153;17862;Rate;Antall;Innbyggere;2013-2015
 18;9;Revaskularisering, PCI og bypass;Telemark;3;Hjertemedisin;12.43;174;14098;Rate;Antall;Innbyggere;2013-2015
-19;9;Revaskularisering, PCI og bypass;Sørlandet;3;Hjertemedisin;12.16;249;20283;Rate;Antall;Innbyggere;2013-2015
+19;9;Revaskularisering, PCI og bypass;SÃ¸rlandet;3;Hjertemedisin;12.16;249;20283;Rate;Antall;Innbyggere;2013-2015
 20;9;Revaskularisering, PCI og bypass;Indre Oslo;3;Hjertemedisin;6.83;82;12527;Rate;Antall;Innbyggere;2013-2015
 8888;9;Revaskularisering, PCI og bypass;Norge;3;Hjertemedisin;9.4;3403;359928;Rate;Antall;Innbyggere;2013-2015
 1;10;Hjertesvikt, innleggelser;Finnmark;3;Hjertemedisin;16.83;82;5054;Rate;Antall;Innbyggere;2013-2015
 2;10;Hjertesvikt, innleggelser;UNN;3;Hjertemedisin;19.4;261;13700;Rate;Antall;Innbyggere;2013-2015
 3;10;Hjertesvikt, innleggelser;Nordland;3;Hjertemedisin;17.67;190;10815;Rate;Antall;Innbyggere;2013-2015
 4;10;Hjertesvikt, innleggelser;Helgeland;3;Hjertemedisin;19.97;133;6721;Rate;Antall;Innbyggere;2013-2015
-5;10;Hjertesvikt, innleggelser;Nord-Trøndelag;3;Hjertemedisin;20.14;226;11219;Rate;Antall;Innbyggere;2013-2015
+5;10;Hjertesvikt, innleggelser;Nord-TrÃ¸ndelag;3;Hjertemedisin;20.14;226;11219;Rate;Antall;Innbyggere;2013-2015
 6;10;Hjertesvikt, innleggelser;St. Olavs;3;Hjertemedisin;17.11;351;20548;Rate;Antall;Innbyggere;2013-2015
-7;10;Hjertesvikt, innleggelser;Møre og Romsdal;3;Hjertemedisin;15.72;339;20861;Rate;Antall;Innbyggere;2013-2015
-8;10;Hjertesvikt, innleggelser;Førde;3;Hjertemedisin;17.04;169;9515;Rate;Antall;Innbyggere;2013-2015
+7;10;Hjertesvikt, innleggelser;MÃ¸re og Romsdal;3;Hjertemedisin;15.72;339;20861;Rate;Antall;Innbyggere;2013-2015
+8;10;Hjertesvikt, innleggelser;FÃ¸rde;3;Hjertemedisin;17.04;169;9515;Rate;Antall;Innbyggere;2013-2015
 9;10;Hjertesvikt, innleggelser;Bergen;3;Hjertemedisin;20.45;604;29339;Rate;Antall;Innbyggere;2013-2015
 10;10;Hjertesvikt, innleggelser;Fonna;3;Hjertemedisin;21.87;291;13192;Rate;Antall;Innbyggere;2013-2015
 11;10;Hjertesvikt, innleggelser;Stavanger;3;Hjertemedisin;14.99;285;19056;Rate;Antall;Innbyggere;2013-2015
-12;10;Hjertesvikt, innleggelser;Østfold;3;Hjertemedisin;16.65;356;21830;Rate;Antall;Innbyggere;2013-2015
+12;10;Hjertesvikt, innleggelser;Ã˜stfold;3;Hjertemedisin;16.65;356;21830;Rate;Antall;Innbyggere;2013-2015
 13;10;Hjertesvikt, innleggelser;Akershus;3;Hjertemedisin;21.25;583;28648;Rate;Antall;Innbyggere;2013-2015
 14;10;Hjertesvikt, innleggelser;OUS;3;Hjertemedisin;22.83;358;15113;Rate;Antall;Innbyggere;2013-2015
 15;10;Hjertesvikt, innleggelser;Innlandet;3;Hjertemedisin;18.73;658;35111;Rate;Antall;Innbyggere;2013-2015
 16;10;Hjertesvikt, innleggelser;Vestre Viken;3;Hjertemedisin;19.37;670;34438;Rate;Antall;Innbyggere;2013-2015
 17;10;Hjertesvikt, innleggelser;Vestfold;3;Hjertemedisin;16.41;291;17862;Rate;Antall;Innbyggere;2013-2015
 18;10;Hjertesvikt, innleggelser;Telemark;3;Hjertemedisin;18.02;257;14098;Rate;Antall;Innbyggere;2013-2015
-19;10;Hjertesvikt, innleggelser;Sørlandet;3;Hjertemedisin;19.06;383;20283;Rate;Antall;Innbyggere;2013-2015
+19;10;Hjertesvikt, innleggelser;SÃ¸rlandet;3;Hjertemedisin;19.06;383;20283;Rate;Antall;Innbyggere;2013-2015
 20;10;Hjertesvikt, innleggelser;Indre Oslo;3;Hjertemedisin;20.86;273;12527;Rate;Antall;Innbyggere;2013-2015
 8888;10;Hjertesvikt, innleggelser;Norge;3;Hjertemedisin;18.78;6761;359928;Rate;Antall;Innbyggere;2013-2015
 1;11;Hjertesvikt, poliklinikk;Finnmark;3;Hjertemedisin;12.38;64;5054;Rate;Antall;Innbyggere;2013-2015
 2;11;Hjertesvikt, poliklinikk;UNN;3;Hjertemedisin;21.53;299;13700;Rate;Antall;Innbyggere;2013-2015
 3;11;Hjertesvikt, poliklinikk;Nordland;3;Hjertemedisin;26.39;286;10815;Rate;Antall;Innbyggere;2013-2015
 4;11;Hjertesvikt, poliklinikk;Helgeland;3;Hjertemedisin;16.68;113;6721;Rate;Antall;Innbyggere;2013-2015
-5;11;Hjertesvikt, poliklinikk;Nord-Trøndelag;3;Hjertemedisin;31.94;360;11219;Rate;Antall;Innbyggere;2013-2015
+5;11;Hjertesvikt, poliklinikk;Nord-TrÃ¸ndelag;3;Hjertemedisin;31.94;360;11219;Rate;Antall;Innbyggere;2013-2015
 6;11;Hjertesvikt, poliklinikk;St. Olavs;3;Hjertemedisin;15.6;323;20548;Rate;Antall;Innbyggere;2013-2015
-7;11;Hjertesvikt, poliklinikk;Møre og Romsdal;3;Hjertemedisin;16.94;356;20861;Rate;Antall;Innbyggere;2013-2015
-8;11;Hjertesvikt, poliklinikk;Førde;3;Hjertemedisin;8.61;83;9515;Rate;Antall;Innbyggere;2013-2015
+7;11;Hjertesvikt, poliklinikk;MÃ¸re og Romsdal;3;Hjertemedisin;16.94;356;20861;Rate;Antall;Innbyggere;2013-2015
+8;11;Hjertesvikt, poliklinikk;FÃ¸rde;3;Hjertemedisin;8.61;83;9515;Rate;Antall;Innbyggere;2013-2015
 9;11;Hjertesvikt, poliklinikk;Bergen;3;Hjertemedisin;21.46;627;29339;Rate;Antall;Innbyggere;2013-2015
 10;11;Hjertesvikt, poliklinikk;Fonna;3;Hjertemedisin;18.93;252;13192;Rate;Antall;Innbyggere;2013-2015
 11;11;Hjertesvikt, poliklinikk;Stavanger;3;Hjertemedisin;26.24;501;19056;Rate;Antall;Innbyggere;2013-2015
-12;11;Hjertesvikt, poliklinikk;Østfold;3;Hjertemedisin;20.37;450;21830;Rate;Antall;Innbyggere;2013-2015
+12;11;Hjertesvikt, poliklinikk;Ã˜stfold;3;Hjertemedisin;20.37;450;21830;Rate;Antall;Innbyggere;2013-2015
 13;11;Hjertesvikt, poliklinikk;Akershus;3;Hjertemedisin;16.33;474;28648;Rate;Antall;Innbyggere;2013-2015
 14;11;Hjertesvikt, poliklinikk;OUS;3;Hjertemedisin;20.01;294;15113;Rate;Antall;Innbyggere;2013-2015
 15;11;Hjertesvikt, poliklinikk;Innlandet;3;Hjertemedisin;13.37;475;35111;Rate;Antall;Innbyggere;2013-2015
 16;11;Hjertesvikt, poliklinikk;Vestre Viken;3;Hjertemedisin;27.13;940;34438;Rate;Antall;Innbyggere;2013-2015
 17;11;Hjertesvikt, poliklinikk;Vestfold;3;Hjertemedisin;37.4;669;17862;Rate;Antall;Innbyggere;2013-2015
 18;11;Hjertesvikt, poliklinikk;Telemark;3;Hjertemedisin;30.02;422;14098;Rate;Antall;Innbyggere;2013-2015
-19;11;Hjertesvikt, poliklinikk;Sørlandet;3;Hjertemedisin;34.5;705;20283;Rate;Antall;Innbyggere;2013-2015
+19;11;Hjertesvikt, poliklinikk;SÃ¸rlandet;3;Hjertemedisin;34.5;705;20283;Rate;Antall;Innbyggere;2013-2015
 20;11;Hjertesvikt, poliklinikk;Indre Oslo;3;Hjertemedisin;41.92;511;12527;Rate;Antall;Innbyggere;2013-2015
 8888;11;Hjertesvikt, poliklinikk;Norge;3;Hjertemedisin;22.73;8202;359928;Rate;Antall;Innbyggere;2013-2015
-1;12;Hjertesvikt, reinnleggelser;Finnmark;3;Hjertemedisin;20.22;14;70;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-2;12;Hjertesvikt, reinnleggelser;UNN;3;Hjertemedisin;21.68;50;231;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-3;12;Hjertesvikt, reinnleggelser;Nordland;3;Hjertemedisin;25.41;42;166;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-4;12;Hjertesvikt, reinnleggelser;Helgeland;3;Hjertemedisin;22.38;26;115;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-5;12;Hjertesvikt, reinnleggelser;Nord-Trøndelag;3;Hjertemedisin;31.21;63;201;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-6;12;Hjertesvikt, reinnleggelser;St. Olavs;3;Hjertemedisin;23.61;72;303;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-7;12;Hjertesvikt, reinnleggelser;Møre og Romsdal;3;Hjertemedisin;24.69;74;302;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8;12;Hjertesvikt, reinnleggelser;Førde;3;Hjertemedisin;24.75;36;147;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-9;12;Hjertesvikt, reinnleggelser;Bergen;3;Hjertemedisin;27.82;150;538;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-10;12;Hjertesvikt, reinnleggelser;Fonna;3;Hjertemedisin;27.87;71;255;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-11;12;Hjertesvikt, reinnleggelser;Stavanger;3;Hjertemedisin;25.27;63;249;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-12;12;Hjertesvikt, reinnleggelser;Østfold;3;Hjertemedisin;30.23;89;296;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-13;12;Hjertesvikt, reinnleggelser;Akershus;3;Hjertemedisin;27.02;142;520;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-14;12;Hjertesvikt, reinnleggelser;OUS;3;Hjertemedisin;28.2;88;315;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-15;12;Hjertesvikt, reinnleggelser;Innlandet;3;Hjertemedisin;24.44;139;567;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-16;12;Hjertesvikt, reinnleggelser;Vestre Viken;3;Hjertemedisin;24.51;148;601;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-17;12;Hjertesvikt, reinnleggelser;Vestfold;3;Hjertemedisin;24.31;63;257;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-18;12;Hjertesvikt, reinnleggelser;Telemark;3;Hjertemedisin;19.69;45;228;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-19;12;Hjertesvikt, reinnleggelser;Sørlandet;3;Hjertemedisin;21.1;71;337;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-20;12;Hjertesvikt, reinnleggelser;Indre Oslo;3;Hjertemedisin;30.74;76;243;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8888;12;Hjertesvikt, reinnleggelser;Norge;3;Hjertemedisin;25.59;1521;5940;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
+1;12;Hjertesvikt, reinnleggelser;Finnmark;3;Hjertemedisin;20.22;14;70;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+2;12;Hjertesvikt, reinnleggelser;UNN;3;Hjertemedisin;21.68;50;231;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+3;12;Hjertesvikt, reinnleggelser;Nordland;3;Hjertemedisin;25.41;42;166;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+4;12;Hjertesvikt, reinnleggelser;Helgeland;3;Hjertemedisin;22.38;26;115;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+5;12;Hjertesvikt, reinnleggelser;Nord-TrÃ¸ndelag;3;Hjertemedisin;31.21;63;201;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+6;12;Hjertesvikt, reinnleggelser;St. Olavs;3;Hjertemedisin;23.61;72;303;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+7;12;Hjertesvikt, reinnleggelser;MÃ¸re og Romsdal;3;Hjertemedisin;24.69;74;302;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8;12;Hjertesvikt, reinnleggelser;FÃ¸rde;3;Hjertemedisin;24.75;36;147;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+9;12;Hjertesvikt, reinnleggelser;Bergen;3;Hjertemedisin;27.82;150;538;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+10;12;Hjertesvikt, reinnleggelser;Fonna;3;Hjertemedisin;27.87;71;255;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+11;12;Hjertesvikt, reinnleggelser;Stavanger;3;Hjertemedisin;25.27;63;249;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+12;12;Hjertesvikt, reinnleggelser;Ã˜stfold;3;Hjertemedisin;30.23;89;296;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+13;12;Hjertesvikt, reinnleggelser;Akershus;3;Hjertemedisin;27.02;142;520;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+14;12;Hjertesvikt, reinnleggelser;OUS;3;Hjertemedisin;28.2;88;315;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+15;12;Hjertesvikt, reinnleggelser;Innlandet;3;Hjertemedisin;24.44;139;567;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+16;12;Hjertesvikt, reinnleggelser;Vestre Viken;3;Hjertemedisin;24.51;148;601;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+17;12;Hjertesvikt, reinnleggelser;Vestfold;3;Hjertemedisin;24.31;63;257;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+18;12;Hjertesvikt, reinnleggelser;Telemark;3;Hjertemedisin;19.69;45;228;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+19;12;Hjertesvikt, reinnleggelser;SÃ¸rlandet;3;Hjertemedisin;21.1;71;337;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+20;12;Hjertesvikt, reinnleggelser;Indre Oslo;3;Hjertemedisin;30.74;76;243;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8888;12;Hjertesvikt, reinnleggelser;Norge;3;Hjertemedisin;25.59;1521;5940;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
 1;13;Arbeids-EKG, poliklinisk;Finnmark;3;Hjertemedisin;87.37;453;5054;Rate;Antall;Innbyggere;2013-2015
 2;13;Arbeids-EKG, poliklinisk;UNN;3;Hjertemedisin;48.92;681;13700;Rate;Antall;Innbyggere;2013-2015
 3;13;Arbeids-EKG, poliklinisk;Nordland;3;Hjertemedisin;38.42;422;10815;Rate;Antall;Innbyggere;2013-2015
 4;13;Arbeids-EKG, poliklinisk;Helgeland;3;Hjertemedisin;22.68;158;6721;Rate;Antall;Innbyggere;2013-2015
-5;13;Arbeids-EKG, poliklinisk;Nord-Trøndelag;3;Hjertemedisin;25.34;289;11219;Rate;Antall;Innbyggere;2013-2015
+5;13;Arbeids-EKG, poliklinisk;Nord-TrÃ¸ndelag;3;Hjertemedisin;25.34;289;11219;Rate;Antall;Innbyggere;2013-2015
 6;13;Arbeids-EKG, poliklinisk;St. Olavs;3;Hjertemedisin;33.12;683;20548;Rate;Antall;Innbyggere;2013-2015
-7;13;Arbeids-EKG, poliklinisk;Møre og Romsdal;3;Hjertemedisin;31.1;639;20861;Rate;Antall;Innbyggere;2013-2015
-8;13;Arbeids-EKG, poliklinisk;Førde;3;Hjertemedisin;23.66;220;9515;Rate;Antall;Innbyggere;2013-2015
+7;13;Arbeids-EKG, poliklinisk;MÃ¸re og Romsdal;3;Hjertemedisin;31.1;639;20861;Rate;Antall;Innbyggere;2013-2015
+8;13;Arbeids-EKG, poliklinisk;FÃ¸rde;3;Hjertemedisin;23.66;220;9515;Rate;Antall;Innbyggere;2013-2015
 9;13;Arbeids-EKG, poliklinisk;Bergen;3;Hjertemedisin;90.28;2642;29339;Rate;Antall;Innbyggere;2013-2015
 10;13;Arbeids-EKG, poliklinisk;Fonna;3;Hjertemedisin;70.62;933;13192;Rate;Antall;Innbyggere;2013-2015
 11;13;Arbeids-EKG, poliklinisk;Stavanger;3;Hjertemedisin;67.34;1293;19056;Rate;Antall;Innbyggere;2013-2015
-12;13;Arbeids-EKG, poliklinisk;Østfold;3;Hjertemedisin;37.49;829;21830;Rate;Antall;Innbyggere;2013-2015
+12;13;Arbeids-EKG, poliklinisk;Ã˜stfold;3;Hjertemedisin;37.49;829;21830;Rate;Antall;Innbyggere;2013-2015
 13;13;Arbeids-EKG, poliklinisk;Akershus;3;Hjertemedisin;91.98;2693;28648;Rate;Antall;Innbyggere;2013-2015
 14;13;Arbeids-EKG, poliklinisk;OUS;3;Hjertemedisin;66.54;969;15113;Rate;Antall;Innbyggere;2013-2015
 15;13;Arbeids-EKG, poliklinisk;Innlandet;3;Hjertemedisin;34.59;1222;35111;Rate;Antall;Innbyggere;2013-2015
 16;13;Arbeids-EKG, poliklinisk;Vestre Viken;3;Hjertemedisin;47.69;1646;34438;Rate;Antall;Innbyggere;2013-2015
 17;13;Arbeids-EKG, poliklinisk;Vestfold;3;Hjertemedisin;65.28;1179;17862;Rate;Antall;Innbyggere;2013-2015
 18;13;Arbeids-EKG, poliklinisk;Telemark;3;Hjertemedisin;49.12;690;14098;Rate;Antall;Innbyggere;2013-2015
-19;13;Arbeids-EKG, poliklinisk;Sørlandet;3;Hjertemedisin;62.27;1277;20283;Rate;Antall;Innbyggere;2013-2015
+19;13;Arbeids-EKG, poliklinisk;SÃ¸rlandet;3;Hjertemedisin;62.27;1277;20283;Rate;Antall;Innbyggere;2013-2015
 20;13;Arbeids-EKG, poliklinisk;Indre Oslo;3;Hjertemedisin;56.03;682;12527;Rate;Antall;Innbyggere;2013-2015
 8888;13;Arbeids-EKG, poliklinisk;Norge;3;Hjertemedisin;54.23;19600;359928;Rate;Antall;Innbyggere;2013-2015
 1;14;Langtids-EKG, poliklinisk;Finnmark;3;Hjertemedisin;20.47;104;5054;Rate;Antall;Innbyggere;2013-2015
 2;14;Langtids-EKG, poliklinisk;UNN;3;Hjertemedisin;17.91;248;13700;Rate;Antall;Innbyggere;2013-2015
 3;14;Langtids-EKG, poliklinisk;Nordland;3;Hjertemedisin;25.28;275;10815;Rate;Antall;Innbyggere;2013-2015
 4;14;Langtids-EKG, poliklinisk;Helgeland;3;Hjertemedisin;22.8;156;6721;Rate;Antall;Innbyggere;2013-2015
-5;14;Langtids-EKG, poliklinisk;Nord-Trøndelag;3;Hjertemedisin;14.14;160;11219;Rate;Antall;Innbyggere;2013-2015
+5;14;Langtids-EKG, poliklinisk;Nord-TrÃ¸ndelag;3;Hjertemedisin;14.14;160;11219;Rate;Antall;Innbyggere;2013-2015
 6;14;Langtids-EKG, poliklinisk;St. Olavs;3;Hjertemedisin;10.05;207;20548;Rate;Antall;Innbyggere;2013-2015
-7;14;Langtids-EKG, poliklinisk;Møre og Romsdal;3;Hjertemedisin;21.08;439;20861;Rate;Antall;Innbyggere;2013-2015
-8;14;Langtids-EKG, poliklinisk;Førde;3;Hjertemedisin;42.65;402;9515;Rate;Antall;Innbyggere;2013-2015
+7;14;Langtids-EKG, poliklinisk;MÃ¸re og Romsdal;3;Hjertemedisin;21.08;439;20861;Rate;Antall;Innbyggere;2013-2015
+8;14;Langtids-EKG, poliklinisk;FÃ¸rde;3;Hjertemedisin;42.65;402;9515;Rate;Antall;Innbyggere;2013-2015
 9;14;Langtids-EKG, poliklinisk;Bergen;3;Hjertemedisin;26.79;784;29339;Rate;Antall;Innbyggere;2013-2015
 10;14;Langtids-EKG, poliklinisk;Fonna;3;Hjertemedisin;47.71;630;13192;Rate;Antall;Innbyggere;2013-2015
 11;14;Langtids-EKG, poliklinisk;Stavanger;3;Hjertemedisin;20.54;394;19056;Rate;Antall;Innbyggere;2013-2015
-12;14;Langtids-EKG, poliklinisk;Østfold;3;Hjertemedisin;16.6;365;21830;Rate;Antall;Innbyggere;2013-2015
+12;14;Langtids-EKG, poliklinisk;Ã˜stfold;3;Hjertemedisin;16.6;365;21830;Rate;Antall;Innbyggere;2013-2015
 13;14;Langtids-EKG, poliklinisk;Akershus;3;Hjertemedisin;30.56;898;28648;Rate;Antall;Innbyggere;2013-2015
 14;14;Langtids-EKG, poliklinisk;OUS;3;Hjertemedisin;24.97;366;15113;Rate;Antall;Innbyggere;2013-2015
 15;14;Langtids-EKG, poliklinisk;Innlandet;3;Hjertemedisin;19.69;695;35111;Rate;Antall;Innbyggere;2013-2015
 16;14;Langtids-EKG, poliklinisk;Vestre Viken;3;Hjertemedisin;28.78;994;34438;Rate;Antall;Innbyggere;2013-2015
 17;14;Langtids-EKG, poliklinisk;Vestfold;3;Hjertemedisin;26.86;483;17862;Rate;Antall;Innbyggere;2013-2015
 18;14;Langtids-EKG, poliklinisk;Telemark;3;Hjertemedisin;22.7;319;14098;Rate;Antall;Innbyggere;2013-2015
-19;14;Langtids-EKG, poliklinisk;Sørlandet;3;Hjertemedisin;39.12;801;20283;Rate;Antall;Innbyggere;2013-2015
+19;14;Langtids-EKG, poliklinisk;SÃ¸rlandet;3;Hjertemedisin;39.12;801;20283;Rate;Antall;Innbyggere;2013-2015
 20;14;Langtids-EKG, poliklinisk;Indre Oslo;3;Hjertemedisin;26.01;320;12527;Rate;Antall;Innbyggere;2013-2015
 8888;14;Langtids-EKG, poliklinisk;Norge;3;Hjertemedisin;25.03;9040;359928;Rate;Antall;Innbyggere;2013-2015
 1;15;Ekkokardiografi, poliklinisk;Finnmark;3;Hjertemedisin;158.11;804;5054;Rate;Antall;Innbyggere;2013-2015
 2;15;Ekkokardiografi, poliklinisk;UNN;3;Hjertemedisin;75.99;1049;13700;Rate;Antall;Innbyggere;2013-2015
 3;15;Ekkokardiografi, poliklinisk;Nordland;3;Hjertemedisin;87.2;946;10815;Rate;Antall;Innbyggere;2013-2015
 4;15;Ekkokardiografi, poliklinisk;Helgeland;3;Hjertemedisin;105.19;712;6721;Rate;Antall;Innbyggere;2013-2015
-5;15;Ekkokardiografi, poliklinisk;Nord-Trøndelag;3;Hjertemedisin;67.2;760;11219;Rate;Antall;Innbyggere;2013-2015
+5;15;Ekkokardiografi, poliklinisk;Nord-TrÃ¸ndelag;3;Hjertemedisin;67.2;760;11219;Rate;Antall;Innbyggere;2013-2015
 6;15;Ekkokardiografi, poliklinisk;St. Olavs;3;Hjertemedisin;78.14;1609;20548;Rate;Antall;Innbyggere;2013-2015
-7;15;Ekkokardiografi, poliklinisk;Møre og Romsdal;3;Hjertemedisin;70.05;1446;20861;Rate;Antall;Innbyggere;2013-2015
-8;15;Ekkokardiografi, poliklinisk;Førde;3;Hjertemedisin;103.03;974;9515;Rate;Antall;Innbyggere;2013-2015
+7;15;Ekkokardiografi, poliklinisk;MÃ¸re og Romsdal;3;Hjertemedisin;70.05;1446;20861;Rate;Antall;Innbyggere;2013-2015
+8;15;Ekkokardiografi, poliklinisk;FÃ¸rde;3;Hjertemedisin;103.03;974;9515;Rate;Antall;Innbyggere;2013-2015
 9;15;Ekkokardiografi, poliklinisk;Bergen;3;Hjertemedisin;114.24;3342;29339;Rate;Antall;Innbyggere;2013-2015
 10;15;Ekkokardiografi, poliklinisk;Fonna;3;Hjertemedisin;130.86;1727;13192;Rate;Antall;Innbyggere;2013-2015
 11;15;Ekkokardiografi, poliklinisk;Stavanger;3;Hjertemedisin;88.77;1698;19056;Rate;Antall;Innbyggere;2013-2015
-12;15;Ekkokardiografi, poliklinisk;Østfold;3;Hjertemedisin;56.15;1240;21830;Rate;Antall;Innbyggere;2013-2015
+12;15;Ekkokardiografi, poliklinisk;Ã˜stfold;3;Hjertemedisin;56.15;1240;21830;Rate;Antall;Innbyggere;2013-2015
 13;15;Ekkokardiografi, poliklinisk;Akershus;3;Hjertemedisin;98.76;2876;28648;Rate;Antall;Innbyggere;2013-2015
 14;15;Ekkokardiografi, poliklinisk;OUS;3;Hjertemedisin;81.28;1190;15113;Rate;Antall;Innbyggere;2013-2015
 15;15;Ekkokardiografi, poliklinisk;Innlandet;3;Hjertemedisin;56.72;2002;35111;Rate;Antall;Innbyggere;2013-2015
 16;15;Ekkokardiografi, poliklinisk;Vestre Viken;3;Hjertemedisin;76.9;2650;34438;Rate;Antall;Innbyggere;2013-2015
 17;15;Ekkokardiografi, poliklinisk;Vestfold;3;Hjertemedisin;112.73;2022;17862;Rate;Antall;Innbyggere;2013-2015
 18;15;Ekkokardiografi, poliklinisk;Telemark;3;Hjertemedisin;117.58;1650;14098;Rate;Antall;Innbyggere;2013-2015
-19;15;Ekkokardiografi, poliklinisk;Sørlandet;3;Hjertemedisin;98.42;2012;20283;Rate;Antall;Innbyggere;2013-2015
+19;15;Ekkokardiografi, poliklinisk;SÃ¸rlandet;3;Hjertemedisin;98.42;2012;20283;Rate;Antall;Innbyggere;2013-2015
 20;15;Ekkokardiografi, poliklinisk;Indre Oslo;3;Hjertemedisin;90.33;1104;12527;Rate;Antall;Innbyggere;2013-2015
 8888;15;Ekkokardiografi, poliklinisk;Norge;3;Hjertemedisin;88.21;31813;359928;Rate;Antall;Innbyggere;2013-2015
 1;16;Pacemaker;Finnmark;3;Hjertemedisin;;20;5054;Rate;Antall;Innbyggere;2013-2015
 2;16;Pacemaker;UNN;3;Hjertemedisin;3.83;51;13700;Rate;Antall;Innbyggere;2013-2015
 3;16;Pacemaker;Nordland;3;Hjertemedisin;6.23;67;10815;Rate;Antall;Innbyggere;2013-2015
 4;16;Pacemaker;Helgeland;3;Hjertemedisin;7.68;51;6721;Rate;Antall;Innbyggere;2013-2015
-5;16;Pacemaker;Nord-Trøndelag;3;Hjertemedisin;5.01;56;11219;Rate;Antall;Innbyggere;2013-2015
+5;16;Pacemaker;Nord-TrÃ¸ndelag;3;Hjertemedisin;5.01;56;11219;Rate;Antall;Innbyggere;2013-2015
 6;16;Pacemaker;St. Olavs;3;Hjertemedisin;4.56;94;20548;Rate;Antall;Innbyggere;2013-2015
-7;16;Pacemaker;Møre og Romsdal;3;Hjertemedisin;4.82;102;20861;Rate;Antall;Innbyggere;2013-2015
-8;16;Pacemaker;Førde;3;Hjertemedisin;4.84;46;9515;Rate;Antall;Innbyggere;2013-2015
+7;16;Pacemaker;MÃ¸re og Romsdal;3;Hjertemedisin;4.82;102;20861;Rate;Antall;Innbyggere;2013-2015
+8;16;Pacemaker;FÃ¸rde;3;Hjertemedisin;4.84;46;9515;Rate;Antall;Innbyggere;2013-2015
 9;16;Pacemaker;Bergen;3;Hjertemedisin;7.42;218;29339;Rate;Antall;Innbyggere;2013-2015
 10;16;Pacemaker;Fonna;3;Hjertemedisin;7.48;99;13192;Rate;Antall;Innbyggere;2013-2015
 11;16;Pacemaker;Stavanger;3;Hjertemedisin;3.3;63;19056;Rate;Antall;Innbyggere;2013-2015
-12;16;Pacemaker;Østfold;3;Hjertemedisin;5.27;114;21830;Rate;Antall;Innbyggere;2013-2015
+12;16;Pacemaker;Ã˜stfold;3;Hjertemedisin;5.27;114;21830;Rate;Antall;Innbyggere;2013-2015
 13;16;Pacemaker;Akershus;3;Hjertemedisin;6.55;183;28648;Rate;Antall;Innbyggere;2013-2015
 14;16;Pacemaker;OUS;3;Hjertemedisin;7.01;106;15113;Rate;Antall;Innbyggere;2013-2015
 15;16;Pacemaker;Innlandet;3;Hjertemedisin;4.12;146;35111;Rate;Antall;Innbyggere;2013-2015
 16;16;Pacemaker;Vestre Viken;3;Hjertemedisin;6.85;237;34438;Rate;Antall;Innbyggere;2013-2015
 17;16;Pacemaker;Vestfold;3;Hjertemedisin;5.37;95;17862;Rate;Antall;Innbyggere;2013-2015
 18;16;Pacemaker;Telemark;3;Hjertemedisin;6.41;90;14098;Rate;Antall;Innbyggere;2013-2015
-19;16;Pacemaker;Sørlandet;3;Hjertemedisin;3.91;79;20283;Rate;Antall;Innbyggere;2013-2015
+19;16;Pacemaker;SÃ¸rlandet;3;Hjertemedisin;3.91;79;20283;Rate;Antall;Innbyggere;2013-2015
 20;16;Pacemaker;Indre Oslo;3;Hjertemedisin;5.03;63;12527;Rate;Antall;Innbyggere;2013-2015
 8888;16;Pacemaker;Norge;3;Hjertemedisin;5.51;1982;359928;Rate;Antall;Innbyggere;2013-2015
 1;17;Lungebetennelse, akutte innleggelser;Finnmark;4;Lungemedisin;28.41;139;5054;Rate;Antall;Innbyggere;2013-2015
 2;17;Lungebetennelse, akutte innleggelser;UNN;4;Lungemedisin;26.43;356;13700;Rate;Antall;Innbyggere;2013-2015
 3;17;Lungebetennelse, akutte innleggelser;Nordland;4;Lungemedisin;36.69;392;10815;Rate;Antall;Innbyggere;2013-2015
 4;17;Lungebetennelse, akutte innleggelser;Helgeland;4;Lungemedisin;35.79;239;6721;Rate;Antall;Innbyggere;2013-2015
-5;17;Lungebetennelse, akutte innleggelser;Nord-Trøndelag;4;Lungemedisin;34.55;390;11219;Rate;Antall;Innbyggere;2013-2015
+5;17;Lungebetennelse, akutte innleggelser;Nord-TrÃ¸ndelag;4;Lungemedisin;34.55;390;11219;Rate;Antall;Innbyggere;2013-2015
 6;17;Lungebetennelse, akutte innleggelser;St. Olavs;4;Lungemedisin;30.59;628;20548;Rate;Antall;Innbyggere;2013-2015
-7;17;Lungebetennelse, akutte innleggelser;Møre og Romsdal;4;Lungemedisin;35.81;765;20861;Rate;Antall;Innbyggere;2013-2015
-8;17;Lungebetennelse, akutte innleggelser;Førde;4;Lungemedisin;29.73;293;9515;Rate;Antall;Innbyggere;2013-2015
+7;17;Lungebetennelse, akutte innleggelser;MÃ¸re og Romsdal;4;Lungemedisin;35.81;765;20861;Rate;Antall;Innbyggere;2013-2015
+8;17;Lungebetennelse, akutte innleggelser;FÃ¸rde;4;Lungemedisin;29.73;293;9515;Rate;Antall;Innbyggere;2013-2015
 9;17;Lungebetennelse, akutte innleggelser;Bergen;4;Lungemedisin;37.46;1105;29339;Rate;Antall;Innbyggere;2013-2015
 10;17;Lungebetennelse, akutte innleggelser;Fonna;4;Lungemedisin;43.04;571;13192;Rate;Antall;Innbyggere;2013-2015
 11;17;Lungebetennelse, akutte innleggelser;Stavanger;4;Lungemedisin;46.11;876;19056;Rate;Antall;Innbyggere;2013-2015
-12;17;Lungebetennelse, akutte innleggelser;Østfold;4;Lungemedisin;30.07;648;21830;Rate;Antall;Innbyggere;2013-2015
+12;17;Lungebetennelse, akutte innleggelser;Ã˜stfold;4;Lungemedisin;30.07;648;21830;Rate;Antall;Innbyggere;2013-2015
 13;17;Lungebetennelse, akutte innleggelser;Akershus;4;Lungemedisin;36.9;1025;28648;Rate;Antall;Innbyggere;2013-2015
 14;17;Lungebetennelse, akutte innleggelser;OUS;4;Lungemedisin;36.87;574;15113;Rate;Antall;Innbyggere;2013-2015
 15;17;Lungebetennelse, akutte innleggelser;Innlandet;4;Lungemedisin;35.34;1248;35111;Rate;Antall;Innbyggere;2013-2015
 16;17;Lungebetennelse, akutte innleggelser;Vestre Viken;4;Lungemedisin;28.21;978;34438;Rate;Antall;Innbyggere;2013-2015
 17;17;Lungebetennelse, akutte innleggelser;Vestfold;4;Lungemedisin;35.08;624;17862;Rate;Antall;Innbyggere;2013-2015
 18;17;Lungebetennelse, akutte innleggelser;Telemark;4;Lungemedisin;31.28;444;14098;Rate;Antall;Innbyggere;2013-2015
-19;17;Lungebetennelse, akutte innleggelser;Sørlandet;4;Lungemedisin;31.93;643;20283;Rate;Antall;Innbyggere;2013-2015
+19;17;Lungebetennelse, akutte innleggelser;SÃ¸rlandet;4;Lungemedisin;31.93;643;20283;Rate;Antall;Innbyggere;2013-2015
 20;17;Lungebetennelse, akutte innleggelser;Indre Oslo;4;Lungemedisin;41.9;541;12527;Rate;Antall;Innbyggere;2013-2015
 8888;17;Lungebetennelse, akutte innleggelser;Norge;4;Lungemedisin;34.67;12477;359928;Rate;Antall;Innbyggere;2013-2015
-1;18;Lungebetennelse, reinnleggelser;Finnmark;4;Lungemedisin;21.98;26;118;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-2;18;Lungebetennelse, reinnleggelser;UNN;4;Lungemedisin;18.88;58;309;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-3;18;Lungebetennelse, reinnleggelser;Nordland;4;Lungemedisin;22.6;76;334;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-4;18;Lungebetennelse, reinnleggelser;Helgeland;4;Lungemedisin;20.13;43;209;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-5;18;Lungebetennelse, reinnleggelser;Nord-Trøndelag;4;Lungemedisin;25.15;86;343;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-6;18;Lungebetennelse, reinnleggelser;St. Olavs;4;Lungemedisin;19.07;102;534;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-7;18;Lungebetennelse, reinnleggelser;Møre og Romsdal;4;Lungemedisin;20.8;132;638;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8;18;Lungebetennelse, reinnleggelser;Førde;4;Lungemedisin;21.2;52;247;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-9;18;Lungebetennelse, reinnleggelser;Bergen;4;Lungemedisin;22.47;214;953;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-10;18;Lungebetennelse, reinnleggelser;Fonna;4;Lungemedisin;22.49;111;495;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-11;18;Lungebetennelse, reinnleggelser;Stavanger;4;Lungemedisin;20.9;154;737;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-12;18;Lungebetennelse, reinnleggelser;Østfold;4;Lungemedisin;23.1;125;542;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-13;18;Lungebetennelse, reinnleggelser;Akershus;4;Lungemedisin;23.05;201;864;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-14;18;Lungebetennelse, reinnleggelser;OUS;4;Lungemedisin;20.72;99;484;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-15;18;Lungebetennelse, reinnleggelser;Innlandet;4;Lungemedisin;21.36;223;1040;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-16;18;Lungebetennelse, reinnleggelser;Vestre Viken;4;Lungemedisin;19.94;166;835;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-17;18;Lungebetennelse, reinnleggelser;Vestfold;4;Lungemedisin;24.02;129;539;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-18;18;Lungebetennelse, reinnleggelser;Telemark;4;Lungemedisin;19.82;72;366;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-19;18;Lungebetennelse, reinnleggelser;Sørlandet;4;Lungemedisin;22.62;123;539;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-20;18;Lungebetennelse, reinnleggelser;Indre Oslo;4;Lungemedisin;27.1;120;452;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8888;18;Lungebetennelse, reinnleggelser;Norge;4;Lungemedisin;21.87;2312;10577;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
+1;18;Lungebetennelse, reinnleggelser;Finnmark;4;Lungemedisin;21.98;26;118;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+2;18;Lungebetennelse, reinnleggelser;UNN;4;Lungemedisin;18.88;58;309;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+3;18;Lungebetennelse, reinnleggelser;Nordland;4;Lungemedisin;22.6;76;334;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+4;18;Lungebetennelse, reinnleggelser;Helgeland;4;Lungemedisin;20.13;43;209;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+5;18;Lungebetennelse, reinnleggelser;Nord-TrÃ¸ndelag;4;Lungemedisin;25.15;86;343;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+6;18;Lungebetennelse, reinnleggelser;St. Olavs;4;Lungemedisin;19.07;102;534;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+7;18;Lungebetennelse, reinnleggelser;MÃ¸re og Romsdal;4;Lungemedisin;20.8;132;638;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8;18;Lungebetennelse, reinnleggelser;FÃ¸rde;4;Lungemedisin;21.2;52;247;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+9;18;Lungebetennelse, reinnleggelser;Bergen;4;Lungemedisin;22.47;214;953;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+10;18;Lungebetennelse, reinnleggelser;Fonna;4;Lungemedisin;22.49;111;495;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+11;18;Lungebetennelse, reinnleggelser;Stavanger;4;Lungemedisin;20.9;154;737;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+12;18;Lungebetennelse, reinnleggelser;Ã˜stfold;4;Lungemedisin;23.1;125;542;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+13;18;Lungebetennelse, reinnleggelser;Akershus;4;Lungemedisin;23.05;201;864;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+14;18;Lungebetennelse, reinnleggelser;OUS;4;Lungemedisin;20.72;99;484;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+15;18;Lungebetennelse, reinnleggelser;Innlandet;4;Lungemedisin;21.36;223;1040;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+16;18;Lungebetennelse, reinnleggelser;Vestre Viken;4;Lungemedisin;19.94;166;835;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+17;18;Lungebetennelse, reinnleggelser;Vestfold;4;Lungemedisin;24.02;129;539;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+18;18;Lungebetennelse, reinnleggelser;Telemark;4;Lungemedisin;19.82;72;366;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+19;18;Lungebetennelse, reinnleggelser;SÃ¸rlandet;4;Lungemedisin;22.62;123;539;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+20;18;Lungebetennelse, reinnleggelser;Indre Oslo;4;Lungemedisin;27.1;120;452;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8888;18;Lungebetennelse, reinnleggelser;Norge;4;Lungemedisin;21.87;2312;10577;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
 1;19;Kols, akutte innleggelser;Finnmark;4;Lungemedisin;22.16;113;5054;Rate;Antall;Innbyggere;2013-2015
 2;19;Kols, akutte innleggelser;UNN;4;Lungemedisin;24.66;334;13700;Rate;Antall;Innbyggere;2013-2015
 3;19;Kols, akutte innleggelser;Nordland;4;Lungemedisin;25.02;269;10815;Rate;Antall;Innbyggere;2013-2015
 4;19;Kols, akutte innleggelser;Helgeland;4;Lungemedisin;18.96;128;6721;Rate;Antall;Innbyggere;2013-2015
-5;19;Kols, akutte innleggelser;Nord-Trøndelag;4;Lungemedisin;25.1;285;11219;Rate;Antall;Innbyggere;2013-2015
+5;19;Kols, akutte innleggelser;Nord-TrÃ¸ndelag;4;Lungemedisin;25.1;285;11219;Rate;Antall;Innbyggere;2013-2015
 6;19;Kols, akutte innleggelser;St. Olavs;4;Lungemedisin;23.66;487;20548;Rate;Antall;Innbyggere;2013-2015
-7;19;Kols, akutte innleggelser;Møre og Romsdal;4;Lungemedisin;20.02;419;20861;Rate;Antall;Innbyggere;2013-2015
-8;19;Kols, akutte innleggelser;Førde;4;Lungemedisin;17.35;166;9515;Rate;Antall;Innbyggere;2013-2015
+7;19;Kols, akutte innleggelser;MÃ¸re og Romsdal;4;Lungemedisin;20.02;419;20861;Rate;Antall;Innbyggere;2013-2015
+8;19;Kols, akutte innleggelser;FÃ¸rde;4;Lungemedisin;17.35;166;9515;Rate;Antall;Innbyggere;2013-2015
 9;19;Kols, akutte innleggelser;Bergen;4;Lungemedisin;24.98;731;29339;Rate;Antall;Innbyggere;2013-2015
 10;19;Kols, akutte innleggelser;Fonna;4;Lungemedisin;27.45;362;13192;Rate;Antall;Innbyggere;2013-2015
 11;19;Kols, akutte innleggelser;Stavanger;4;Lungemedisin;24.25;463;19056;Rate;Antall;Innbyggere;2013-2015
-12;19;Kols, akutte innleggelser;Østfold;4;Lungemedisin;19.58;428;21830;Rate;Antall;Innbyggere;2013-2015
+12;19;Kols, akutte innleggelser;Ã˜stfold;4;Lungemedisin;19.58;428;21830;Rate;Antall;Innbyggere;2013-2015
 13;19;Kols, akutte innleggelser;Akershus;4;Lungemedisin;23.34;667;28648;Rate;Antall;Innbyggere;2013-2015
 14;19;Kols, akutte innleggelser;OUS;4;Lungemedisin;27.69;416;15113;Rate;Antall;Innbyggere;2013-2015
 15;19;Kols, akutte innleggelser;Innlandet;4;Lungemedisin;21.37;756;35111;Rate;Antall;Innbyggere;2013-2015
 16;19;Kols, akutte innleggelser;Vestre Viken;4;Lungemedisin;21.32;734;34438;Rate;Antall;Innbyggere;2013-2015
 17;19;Kols, akutte innleggelser;Vestfold;4;Lungemedisin;25.98;464;17862;Rate;Antall;Innbyggere;2013-2015
 18;19;Kols, akutte innleggelser;Telemark;4;Lungemedisin;21.5;302;14098;Rate;Antall;Innbyggere;2013-2015
-19;19;Kols, akutte innleggelser;Sørlandet;4;Lungemedisin;19.69;400;20283;Rate;Antall;Innbyggere;2013-2015
+19;19;Kols, akutte innleggelser;SÃ¸rlandet;4;Lungemedisin;19.69;400;20283;Rate;Antall;Innbyggere;2013-2015
 20;19;Kols, akutte innleggelser;Indre Oslo;4;Lungemedisin;20.44;254;12527;Rate;Antall;Innbyggere;2013-2015
 8888;19;Kols, akutte innleggelser;Norge;4;Lungemedisin;22.73;8180;359928;Rate;Antall;Innbyggere;2013-2015
-1;20;Kols, reinnleggelser;Finnmark;4;Lungemedisin;24.78;25;102;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-2;20;Kols, reinnleggelser;UNN;4;Lungemedisin;27.55;84;304;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-3;20;Kols, reinnleggelser;Nordland;4;Lungemedisin;28.35;69;242;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-4;20;Kols, reinnleggelser;Helgeland;4;Lungemedisin;27.99;33;117;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-5;20;Kols, reinnleggelser;Nord-Trøndelag;4;Lungemedisin;28.6;75;260;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-6;20;Kols, reinnleggelser;St. Olavs;4;Lungemedisin;30.05;133;444;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-7;20;Kols, reinnleggelser;Møre og Romsdal;4;Lungemedisin;28.47;107;375;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8;20;Kols, reinnleggelser;Førde;4;Lungemedisin;25.69;38;148;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-9;20;Kols, reinnleggelser;Bergen;4;Lungemedisin;29.65;200;675;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-10;20;Kols, reinnleggelser;Fonna;4;Lungemedisin;30.49;101;332;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-11;20;Kols, reinnleggelser;Stavanger;4;Lungemedisin;27.96;117;417;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-12;20;Kols, reinnleggelser;Østfold;4;Lungemedisin;29.11;113;388;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-13;20;Kols, reinnleggelser;Akershus;4;Lungemedisin;30.1;181;606;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-14;20;Kols, reinnleggelser;OUS;4;Lungemedisin;32.67;122;381;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-15;20;Kols, reinnleggelser;Innlandet;4;Lungemedisin;26.44;177;668;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-16;20;Kols, reinnleggelser;Vestre Viken;4;Lungemedisin;28.69;188;656;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-17;20;Kols, reinnleggelser;Vestfold;4;Lungemedisin;28.5;116;406;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-18;20;Kols, reinnleggelser;Telemark;4;Lungemedisin;30;79;265;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-19;20;Kols, reinnleggelser;Sørlandet;4;Lungemedisin;28.33;100;353;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-20;20;Kols, reinnleggelser;Indre Oslo;4;Lungemedisin;38.07;87;233;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8888;20;Kols, reinnleggelser;Norge;4;Lungemedisin;29.08;2144;7371;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-1;21;Primære hofteproteser;Finnmark;5;Ortopedi;;24;5054;Rate;Antall;Innbyggere;2013-2015
-2;21;Primære hofteproteser;UNN;5;Ortopedi;4.36;60;13700;Rate;Antall;Innbyggere;2013-2015
-3;21;Primære hofteproteser;Nordland;5;Ortopedi;5.72;62;10815;Rate;Antall;Innbyggere;2013-2015
-4;21;Primære hofteproteser;Helgeland;5;Ortopedi;7;47;6721;Rate;Antall;Innbyggere;2013-2015
-5;21;Primære hofteproteser;Nord-Trøndelag;5;Ortopedi;6.81;76;11219;Rate;Antall;Innbyggere;2013-2015
-6;21;Primære hofteproteser;St. Olavs;5;Ortopedi;7.11;146;20548;Rate;Antall;Innbyggere;2013-2015
-7;21;Primære hofteproteser;Møre og Romsdal;5;Ortopedi;6.94;142;20861;Rate;Antall;Innbyggere;2013-2015
-8;21;Primære hofteproteser;Førde;5;Ortopedi;6.79;63;9515;Rate;Antall;Innbyggere;2013-2015
-9;21;Primære hofteproteser;Bergen;5;Ortopedi;5.88;173;29339;Rate;Antall;Innbyggere;2013-2015
-10;21;Primære hofteproteser;Fonna;5;Ortopedi;6.79;89;13192;Rate;Antall;Innbyggere;2013-2015
-11;21;Primære hofteproteser;Stavanger;5;Ortopedi;7.36;140;19056;Rate;Antall;Innbyggere;2013-2015
-12;21;Primære hofteproteser;Østfold;5;Ortopedi;6.89;151;21830;Rate;Antall;Innbyggere;2013-2015
-13;21;Primære hofteproteser;Akershus;5;Ortopedi;6.31;185;28648;Rate;Antall;Innbyggere;2013-2015
-14;21;Primære hofteproteser;OUS;5;Ortopedi;6.25;93;15113;Rate;Antall;Innbyggere;2013-2015
-15;21;Primære hofteproteser;Innlandet;5;Ortopedi;6.32;221;35111;Rate;Antall;Innbyggere;2013-2015
-16;21;Primære hofteproteser;Vestre Viken;5;Ortopedi;6.99;241;34438;Rate;Antall;Innbyggere;2013-2015
-17;21;Primære hofteproteser;Vestfold;5;Ortopedi;5.85;105;17862;Rate;Antall;Innbyggere;2013-2015
-18;21;Primære hofteproteser;Telemark;5;Ortopedi;6.34;89;14098;Rate;Antall;Innbyggere;2013-2015
-19;21;Primære hofteproteser;Sørlandet;5;Ortopedi;7.14;146;20283;Rate;Antall;Innbyggere;2013-2015
-20;21;Primære hofteproteser;Indre Oslo;5;Ortopedi;6.12;76;12527;Rate;Antall;Innbyggere;2013-2015
-8888;21;Primære hofteproteser;Norge;5;Ortopedi;6.47;2330;359928;Rate;Antall;Innbyggere;2013-2015
-1;22;Primære kneproteser;Finnmark;5;Ortopedi;;16;5054;Rate;Antall;Innbyggere;2013-2015
-2;22;Primære kneproteser;UNN;5;Ortopedi;3.66;51;13700;Rate;Antall;Innbyggere;2013-2015
-3;22;Primære kneproteser;Nordland;5;Ortopedi;3.43;38;10815;Rate;Antall;Innbyggere;2013-2015
-4;22;Primære kneproteser;Helgeland;5;Ortopedi;;26;6721;Rate;Antall;Innbyggere;2013-2015
-5;22;Primære kneproteser;Nord-Trøndelag;5;Ortopedi;5.34;60;11219;Rate;Antall;Innbyggere;2013-2015
-6;22;Primære kneproteser;St. Olavs;5;Ortopedi;3.85;79;20548;Rate;Antall;Innbyggere;2013-2015
-7;22;Primære kneproteser;Møre og Romsdal;5;Ortopedi;4.25;87;20861;Rate;Antall;Innbyggere;2013-2015
-8;22;Primære kneproteser;Førde;5;Ortopedi;4.95;46;9515;Rate;Antall;Innbyggere;2013-2015
-9;22;Primære kneproteser;Bergen;5;Ortopedi;4.01;118;29339;Rate;Antall;Innbyggere;2013-2015
-10;22;Primære kneproteser;Fonna;5;Ortopedi;3.95;52;13192;Rate;Antall;Innbyggere;2013-2015
-11;22;Primære kneproteser;Stavanger;5;Ortopedi;3.65;70;19056;Rate;Antall;Innbyggere;2013-2015
-12;22;Primære kneproteser;Østfold;5;Ortopedi;4.18;93;21830;Rate;Antall;Innbyggere;2013-2015
-13;22;Primære kneproteser;Akershus;5;Ortopedi;4.09;122;28648;Rate;Antall;Innbyggere;2013-2015
-14;22;Primære kneproteser;OUS;5;Ortopedi;3.76;56;15113;Rate;Antall;Innbyggere;2013-2015
-15;22;Primære kneproteser;Innlandet;5;Ortopedi;4.15;146;35111;Rate;Antall;Innbyggere;2013-2015
-16;22;Primære kneproteser;Vestre Viken;5;Ortopedi;4.35;150;34438;Rate;Antall;Innbyggere;2013-2015
-17;22;Primære kneproteser;Vestfold;5;Ortopedi;4.17;76;17862;Rate;Antall;Innbyggere;2013-2015
-18;22;Primære kneproteser;Telemark;5;Ortopedi;3.36;47;14098;Rate;Antall;Innbyggere;2013-2015
-19;22;Primære kneproteser;Sørlandet;5;Ortopedi;4.78;98;20283;Rate;Antall;Innbyggere;2013-2015
-20;22;Primære kneproteser;Indre Oslo;5;Ortopedi;4.08;50;12527;Rate;Antall;Innbyggere;2013-2015
-8888;22;Primære kneproteser;Norge;5;Ortopedi;4.1;1481;359928;Rate;Antall;Innbyggere;2013-2015
+1;20;Kols, reinnleggelser;Finnmark;4;Lungemedisin;24.78;25;102;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+2;20;Kols, reinnleggelser;UNN;4;Lungemedisin;27.55;84;304;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+3;20;Kols, reinnleggelser;Nordland;4;Lungemedisin;28.35;69;242;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+4;20;Kols, reinnleggelser;Helgeland;4;Lungemedisin;27.99;33;117;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+5;20;Kols, reinnleggelser;Nord-TrÃ¸ndelag;4;Lungemedisin;28.6;75;260;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+6;20;Kols, reinnleggelser;St. Olavs;4;Lungemedisin;30.05;133;444;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+7;20;Kols, reinnleggelser;MÃ¸re og Romsdal;4;Lungemedisin;28.47;107;375;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8;20;Kols, reinnleggelser;FÃ¸rde;4;Lungemedisin;25.69;38;148;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+9;20;Kols, reinnleggelser;Bergen;4;Lungemedisin;29.65;200;675;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+10;20;Kols, reinnleggelser;Fonna;4;Lungemedisin;30.49;101;332;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+11;20;Kols, reinnleggelser;Stavanger;4;Lungemedisin;27.96;117;417;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+12;20;Kols, reinnleggelser;Ã˜stfold;4;Lungemedisin;29.11;113;388;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+13;20;Kols, reinnleggelser;Akershus;4;Lungemedisin;30.1;181;606;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+14;20;Kols, reinnleggelser;OUS;4;Lungemedisin;32.67;122;381;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+15;20;Kols, reinnleggelser;Innlandet;4;Lungemedisin;26.44;177;668;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+16;20;Kols, reinnleggelser;Vestre Viken;4;Lungemedisin;28.69;188;656;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+17;20;Kols, reinnleggelser;Vestfold;4;Lungemedisin;28.5;116;406;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+18;20;Kols, reinnleggelser;Telemark;4;Lungemedisin;30;79;265;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+19;20;Kols, reinnleggelser;SÃ¸rlandet;4;Lungemedisin;28.33;100;353;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+20;20;Kols, reinnleggelser;Indre Oslo;4;Lungemedisin;38.07;87;233;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8888;20;Kols, reinnleggelser;Norge;4;Lungemedisin;29.08;2144;7371;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+1;21;PrimÃ¦re hofteproteser;Finnmark;5;Ortopedi;;24;5054;Rate;Antall;Innbyggere;2013-2015
+2;21;PrimÃ¦re hofteproteser;UNN;5;Ortopedi;4.36;60;13700;Rate;Antall;Innbyggere;2013-2015
+3;21;PrimÃ¦re hofteproteser;Nordland;5;Ortopedi;5.72;62;10815;Rate;Antall;Innbyggere;2013-2015
+4;21;PrimÃ¦re hofteproteser;Helgeland;5;Ortopedi;7;47;6721;Rate;Antall;Innbyggere;2013-2015
+5;21;PrimÃ¦re hofteproteser;Nord-TrÃ¸ndelag;5;Ortopedi;6.81;76;11219;Rate;Antall;Innbyggere;2013-2015
+6;21;PrimÃ¦re hofteproteser;St. Olavs;5;Ortopedi;7.11;146;20548;Rate;Antall;Innbyggere;2013-2015
+7;21;PrimÃ¦re hofteproteser;MÃ¸re og Romsdal;5;Ortopedi;6.94;142;20861;Rate;Antall;Innbyggere;2013-2015
+8;21;PrimÃ¦re hofteproteser;FÃ¸rde;5;Ortopedi;6.79;63;9515;Rate;Antall;Innbyggere;2013-2015
+9;21;PrimÃ¦re hofteproteser;Bergen;5;Ortopedi;5.88;173;29339;Rate;Antall;Innbyggere;2013-2015
+10;21;PrimÃ¦re hofteproteser;Fonna;5;Ortopedi;6.79;89;13192;Rate;Antall;Innbyggere;2013-2015
+11;21;PrimÃ¦re hofteproteser;Stavanger;5;Ortopedi;7.36;140;19056;Rate;Antall;Innbyggere;2013-2015
+12;21;PrimÃ¦re hofteproteser;Ã˜stfold;5;Ortopedi;6.89;151;21830;Rate;Antall;Innbyggere;2013-2015
+13;21;PrimÃ¦re hofteproteser;Akershus;5;Ortopedi;6.31;185;28648;Rate;Antall;Innbyggere;2013-2015
+14;21;PrimÃ¦re hofteproteser;OUS;5;Ortopedi;6.25;93;15113;Rate;Antall;Innbyggere;2013-2015
+15;21;PrimÃ¦re hofteproteser;Innlandet;5;Ortopedi;6.32;221;35111;Rate;Antall;Innbyggere;2013-2015
+16;21;PrimÃ¦re hofteproteser;Vestre Viken;5;Ortopedi;6.99;241;34438;Rate;Antall;Innbyggere;2013-2015
+17;21;PrimÃ¦re hofteproteser;Vestfold;5;Ortopedi;5.85;105;17862;Rate;Antall;Innbyggere;2013-2015
+18;21;PrimÃ¦re hofteproteser;Telemark;5;Ortopedi;6.34;89;14098;Rate;Antall;Innbyggere;2013-2015
+19;21;PrimÃ¦re hofteproteser;SÃ¸rlandet;5;Ortopedi;7.14;146;20283;Rate;Antall;Innbyggere;2013-2015
+20;21;PrimÃ¦re hofteproteser;Indre Oslo;5;Ortopedi;6.12;76;12527;Rate;Antall;Innbyggere;2013-2015
+8888;21;PrimÃ¦re hofteproteser;Norge;5;Ortopedi;6.47;2330;359928;Rate;Antall;Innbyggere;2013-2015
+1;22;PrimÃ¦re kneproteser;Finnmark;5;Ortopedi;;16;5054;Rate;Antall;Innbyggere;2013-2015
+2;22;PrimÃ¦re kneproteser;UNN;5;Ortopedi;3.66;51;13700;Rate;Antall;Innbyggere;2013-2015
+3;22;PrimÃ¦re kneproteser;Nordland;5;Ortopedi;3.43;38;10815;Rate;Antall;Innbyggere;2013-2015
+4;22;PrimÃ¦re kneproteser;Helgeland;5;Ortopedi;;26;6721;Rate;Antall;Innbyggere;2013-2015
+5;22;PrimÃ¦re kneproteser;Nord-TrÃ¸ndelag;5;Ortopedi;5.34;60;11219;Rate;Antall;Innbyggere;2013-2015
+6;22;PrimÃ¦re kneproteser;St. Olavs;5;Ortopedi;3.85;79;20548;Rate;Antall;Innbyggere;2013-2015
+7;22;PrimÃ¦re kneproteser;MÃ¸re og Romsdal;5;Ortopedi;4.25;87;20861;Rate;Antall;Innbyggere;2013-2015
+8;22;PrimÃ¦re kneproteser;FÃ¸rde;5;Ortopedi;4.95;46;9515;Rate;Antall;Innbyggere;2013-2015
+9;22;PrimÃ¦re kneproteser;Bergen;5;Ortopedi;4.01;118;29339;Rate;Antall;Innbyggere;2013-2015
+10;22;PrimÃ¦re kneproteser;Fonna;5;Ortopedi;3.95;52;13192;Rate;Antall;Innbyggere;2013-2015
+11;22;PrimÃ¦re kneproteser;Stavanger;5;Ortopedi;3.65;70;19056;Rate;Antall;Innbyggere;2013-2015
+12;22;PrimÃ¦re kneproteser;Ã˜stfold;5;Ortopedi;4.18;93;21830;Rate;Antall;Innbyggere;2013-2015
+13;22;PrimÃ¦re kneproteser;Akershus;5;Ortopedi;4.09;122;28648;Rate;Antall;Innbyggere;2013-2015
+14;22;PrimÃ¦re kneproteser;OUS;5;Ortopedi;3.76;56;15113;Rate;Antall;Innbyggere;2013-2015
+15;22;PrimÃ¦re kneproteser;Innlandet;5;Ortopedi;4.15;146;35111;Rate;Antall;Innbyggere;2013-2015
+16;22;PrimÃ¦re kneproteser;Vestre Viken;5;Ortopedi;4.35;150;34438;Rate;Antall;Innbyggere;2013-2015
+17;22;PrimÃ¦re kneproteser;Vestfold;5;Ortopedi;4.17;76;17862;Rate;Antall;Innbyggere;2013-2015
+18;22;PrimÃ¦re kneproteser;Telemark;5;Ortopedi;3.36;47;14098;Rate;Antall;Innbyggere;2013-2015
+19;22;PrimÃ¦re kneproteser;SÃ¸rlandet;5;Ortopedi;4.78;98;20283;Rate;Antall;Innbyggere;2013-2015
+20;22;PrimÃ¦re kneproteser;Indre Oslo;5;Ortopedi;4.08;50;12527;Rate;Antall;Innbyggere;2013-2015
+8888;22;PrimÃ¦re kneproteser;Norge;5;Ortopedi;4.1;1481;359928;Rate;Antall;Innbyggere;2013-2015
 1;23;Hoftebrudd;Finnmark;5;Ortopedi;18.22;85;5054;Rate;Antall;Innbyggere;2013-2015
 2;23;Hoftebrudd;UNN;5;Ortopedi;17.49;233;13700;Rate;Antall;Innbyggere;2013-2015
 3;23;Hoftebrudd;Nordland;5;Ortopedi;19.04;203;10815;Rate;Antall;Innbyggere;2013-2015
 4;23;Hoftebrudd;Helgeland;5;Ortopedi;16.94;111;6721;Rate;Antall;Innbyggere;2013-2015
-5;23;Hoftebrudd;Nord-Trøndelag;5;Ortopedi;17.55;194;11219;Rate;Antall;Innbyggere;2013-2015
+5;23;Hoftebrudd;Nord-TrÃ¸ndelag;5;Ortopedi;17.55;194;11219;Rate;Antall;Innbyggere;2013-2015
 6;23;Hoftebrudd;St. Olavs;5;Ortopedi;20.43;417;20548;Rate;Antall;Innbyggere;2013-2015
-7;23;Hoftebrudd;Møre og Romsdal;5;Ortopedi;19.29;414;20861;Rate;Antall;Innbyggere;2013-2015
-8;23;Hoftebrudd;Førde;5;Ortopedi;17.61;174;9515;Rate;Antall;Innbyggere;2013-2015
+7;23;Hoftebrudd;MÃ¸re og Romsdal;5;Ortopedi;19.29;414;20861;Rate;Antall;Innbyggere;2013-2015
+8;23;Hoftebrudd;FÃ¸rde;5;Ortopedi;17.61;174;9515;Rate;Antall;Innbyggere;2013-2015
 9;23;Hoftebrudd;Bergen;5;Ortopedi;19.36;575;29339;Rate;Antall;Innbyggere;2013-2015
 10;23;Hoftebrudd;Fonna;5;Ortopedi;19;254;13192;Rate;Antall;Innbyggere;2013-2015
 11;23;Hoftebrudd;Stavanger;5;Ortopedi;18.27;346;19056;Rate;Antall;Innbyggere;2013-2015
-12;23;Hoftebrudd;Østfold;5;Ortopedi;21.36;452;21830;Rate;Antall;Innbyggere;2013-2015
+12;23;Hoftebrudd;Ã˜stfold;5;Ortopedi;21.36;452;21830;Rate;Antall;Innbyggere;2013-2015
 13;23;Hoftebrudd;Akershus;5;Ortopedi;19.66;527;28648;Rate;Antall;Innbyggere;2013-2015
 14;23;Hoftebrudd;OUS;5;Ortopedi;19.54;319;15113;Rate;Antall;Innbyggere;2013-2015
 15;23;Hoftebrudd;Innlandet;5;Ortopedi;20.06;697;35111;Rate;Antall;Innbyggere;2013-2015
 16;23;Hoftebrudd;Vestre Viken;5;Ortopedi;18.85;648;34438;Rate;Antall;Innbyggere;2013-2015
 17;23;Hoftebrudd;Vestfold;5;Ortopedi;19.71;347;17862;Rate;Antall;Innbyggere;2013-2015
 18;23;Hoftebrudd;Telemark;5;Ortopedi;19.29;278;14098;Rate;Antall;Innbyggere;2013-2015
-19;23;Hoftebrudd;Sørlandet;5;Ortopedi;19.59;392;20283;Rate;Antall;Innbyggere;2013-2015
+19;23;Hoftebrudd;SÃ¸rlandet;5;Ortopedi;19.59;392;20283;Rate;Antall;Innbyggere;2013-2015
 20;23;Hoftebrudd;Indre Oslo;5;Ortopedi;18.7;256;12527;Rate;Antall;Innbyggere;2013-2015
 8888;23;Hoftebrudd;Norge;5;Ortopedi;19.28;6922;359928;Rate;Antall;Innbyggere;2013-2015
-1;24;Hoftebrudd, reinnleggelser;Finnmark;5;Ortopedi;16.98;13;76;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-2;24;Hoftebrudd, reinnleggelser;UNN;5;Ortopedi;11.42;24;213;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-3;24;Hoftebrudd, reinnleggelser;Nordland;5;Ortopedi;14.91;28;186;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-4;24;Hoftebrudd, reinnleggelser;Helgeland;5;Ortopedi;18.72;19;99;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-5;24;Hoftebrudd, reinnleggelser;Nord-Trøndelag;5;Ortopedi;15.09;27;175;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-6;24;Hoftebrudd, reinnleggelser;St. Olavs;5;Ortopedi;16.27;64;391;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-7;24;Hoftebrudd, reinnleggelser;Møre og Romsdal;5;Ortopedi;15.6;59;374;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8;24;Hoftebrudd, reinnleggelser;Førde;5;Ortopedi;14.42;23;160;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-9;24;Hoftebrudd, reinnleggelser;Bergen;5;Ortopedi;16.42;87;530;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-10;24;Hoftebrudd, reinnleggelser;Fonna;5;Ortopedi;14.21;34;235;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-11;24;Hoftebrudd, reinnleggelser;Stavanger;5;Ortopedi;18.02;57;318;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-12;24;Hoftebrudd, reinnleggelser;Østfold;5;Ortopedi;12.57;52;414;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-13;24;Hoftebrudd, reinnleggelser;Akershus;5;Ortopedi;16.28;79;485;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-14;24;Hoftebrudd, reinnleggelser;OUS;5;Ortopedi;16.07;47;290;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-15;24;Hoftebrudd, reinnleggelser;Innlandet;5;Ortopedi;14.25;90;627;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-16;24;Hoftebrudd, reinnleggelser;Vestre Viken;5;Ortopedi;17;101;588;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-17;24;Hoftebrudd, reinnleggelser;Vestfold;5;Ortopedi;11.86;38;317;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-18;24;Hoftebrudd, reinnleggelser;Telemark;5;Ortopedi;15.36;39;255;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-19;24;Hoftebrudd, reinnleggelser;Sørlandet;5;Ortopedi;14.48;51;352;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-20;24;Hoftebrudd, reinnleggelser;Indre Oslo;5;Ortopedi;18.15;43;236;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8888;24;Hoftebrudd, reinnleggelser;Norge;5;Ortopedi;15.37;974;6322;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-1;25;Håndleddsbrudd, konservativ behandling (andeler);Finnmark;5;Ortopedi;90.39;29;32;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-2;25;Håndleddsbrudd, konservativ behandling (andeler);UNN;5;Ortopedi;77.06;68;89;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-3;25;Håndleddsbrudd, konservativ behandling (andeler);Nordland;5;Ortopedi;77.13;55;72;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-4;25;Håndleddsbrudd, konservativ behandling (andeler);Helgeland;5;Ortopedi;86.16;37;43;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-5;25;Håndleddsbrudd, konservativ behandling (andeler);Nord-Trøndelag;5;Ortopedi;79.37;62;78;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-6;25;Håndleddsbrudd, konservativ behandling (andeler);St. Olavs;5;Ortopedi;79.31;121;153;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-7;25;Håndleddsbrudd, konservativ behandling (andeler);Møre og Romsdal;5;Ortopedi;71.27;120;167;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-8;25;Håndleddsbrudd, konservativ behandling (andeler);Førde;5;Ortopedi;64.49;48;74;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-9;25;Håndleddsbrudd, konservativ behandling (andeler);Bergen;5;Ortopedi;73.54;199;270;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-10;25;Håndleddsbrudd, konservativ behandling (andeler);Fonna;5;Ortopedi;78.11;75;96;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-11;25;Håndleddsbrudd, konservativ behandling (andeler);Stavanger;5;Ortopedi;75.25;107;142;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-12;25;Håndleddsbrudd, konservativ behandling (andeler);Østfold;5;Ortopedi;73.32;119;163;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-13;25;Håndleddsbrudd, konservativ behandling (andeler);Akershus;5;Ortopedi;81.44;183;227;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-14;25;Håndleddsbrudd, konservativ behandling (andeler);OUS;5;Ortopedi;90.14;111;123;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-15;25;Håndleddsbrudd, konservativ behandling (andeler);Innlandet;5;Ortopedi;78.28;187;239;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-16;25;Håndleddsbrudd, konservativ behandling (andeler);Vestre Viken;5;Ortopedi;76.43;220;288;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-17;25;Håndleddsbrudd, konservativ behandling (andeler);Vestfold;5;Ortopedi;51.77;68;133;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-18;25;Håndleddsbrudd, konservativ behandling (andeler);Telemark;5;Ortopedi;72.33;75;103;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-19;25;Håndleddsbrudd, konservativ behandling (andeler);Sørlandet;5;Ortopedi;76.62;109;143;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-20;25;Håndleddsbrudd, konservativ behandling (andeler);Indre Oslo;5;Ortopedi;89.86;95;106;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-8888;25;Håndleddsbrudd, konservativ behandling (andeler);Norge;5;Ortopedi;76.25;2089;2741;Andel (%);Konservativt behandlet;Alle håndleddsbrudd;2013-2015
-1;26;Lårhalsbrudd, behandling med protese (andeler);Finnmark;5;Ortopedi;58.16;32;55;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-2;26;Lårhalsbrudd, behandling med protese (andeler);UNN;5;Ortopedi;53.28;73;138;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-3;26;Lårhalsbrudd, behandling med protese (andeler);Nordland;5;Ortopedi;70.33;82;117;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-4;26;Lårhalsbrudd, behandling med protese (andeler);Helgeland;5;Ortopedi;56.49;37;65;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-5;26;Lårhalsbrudd, behandling med protese (andeler);Nord-Trøndelag;5;Ortopedi;59.62;65;109;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-6;26;Lårhalsbrudd, behandling med protese (andeler);St. Olavs;5;Ortopedi;78.61;188;241;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-7;26;Lårhalsbrudd, behandling med protese (andeler);Møre og Romsdal;5;Ortopedi;73.56;165;225;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-8;26;Lårhalsbrudd, behandling med protese (andeler);Førde;5;Ortopedi;64.49;55;86;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-9;26;Lårhalsbrudd, behandling med protese (andeler);Bergen;5;Ortopedi;75.06;240;321;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-10;26;Lårhalsbrudd, behandling med protese (andeler);Fonna;5;Ortopedi;69.12;106;153;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-11;26;Lårhalsbrudd, behandling med protese (andeler);Stavanger;5;Ortopedi;69.56;141;206;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-12;26;Lårhalsbrudd, behandling med protese (andeler);Østfold;5;Ortopedi;88.28;227;259;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-13;26;Lårhalsbrudd, behandling med protese (andeler);Akershus;5;Ortopedi;76.67;241;315;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-14;26;Lårhalsbrudd, behandling med protese (andeler);OUS;5;Ortopedi;85.64;139;164;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-15;26;Lårhalsbrudd, behandling med protese (andeler);Innlandet;5;Ortopedi;80.7;314;391;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-16;26;Lårhalsbrudd, behandling med protese (andeler);Vestre Viken;5;Ortopedi;81.22;282;348;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-17;26;Lårhalsbrudd, behandling med protese (andeler);Vestfold;5;Ortopedi;70.03;135;194;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-18;26;Lårhalsbrudd, behandling med protese (andeler);Telemark;5;Ortopedi;71.95;117;163;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-19;26;Lårhalsbrudd, behandling med protese (andeler);Sørlandet;5;Ortopedi;72.94;167;229;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-20;26;Lårhalsbrudd, behandling med protese (andeler);Indre Oslo;5;Ortopedi;77.14;107;140;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
-8888;26;Lårhalsbrudd, behandling med protese (andeler);Norge;5;Ortopedi;74.69;2912;3917;Andel (%);Protese;Alle lårhalsbrudd;2013-2015
+1;24;Hoftebrudd, reinnleggelser;Finnmark;5;Ortopedi;16.98;13;76;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+2;24;Hoftebrudd, reinnleggelser;UNN;5;Ortopedi;11.42;24;213;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+3;24;Hoftebrudd, reinnleggelser;Nordland;5;Ortopedi;14.91;28;186;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+4;24;Hoftebrudd, reinnleggelser;Helgeland;5;Ortopedi;18.72;19;99;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+5;24;Hoftebrudd, reinnleggelser;Nord-TrÃ¸ndelag;5;Ortopedi;15.09;27;175;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+6;24;Hoftebrudd, reinnleggelser;St. Olavs;5;Ortopedi;16.27;64;391;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+7;24;Hoftebrudd, reinnleggelser;MÃ¸re og Romsdal;5;Ortopedi;15.6;59;374;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8;24;Hoftebrudd, reinnleggelser;FÃ¸rde;5;Ortopedi;14.42;23;160;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+9;24;Hoftebrudd, reinnleggelser;Bergen;5;Ortopedi;16.42;87;530;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+10;24;Hoftebrudd, reinnleggelser;Fonna;5;Ortopedi;14.21;34;235;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+11;24;Hoftebrudd, reinnleggelser;Stavanger;5;Ortopedi;18.02;57;318;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+12;24;Hoftebrudd, reinnleggelser;Ã˜stfold;5;Ortopedi;12.57;52;414;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+13;24;Hoftebrudd, reinnleggelser;Akershus;5;Ortopedi;16.28;79;485;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+14;24;Hoftebrudd, reinnleggelser;OUS;5;Ortopedi;16.07;47;290;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+15;24;Hoftebrudd, reinnleggelser;Innlandet;5;Ortopedi;14.25;90;627;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+16;24;Hoftebrudd, reinnleggelser;Vestre Viken;5;Ortopedi;17;101;588;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+17;24;Hoftebrudd, reinnleggelser;Vestfold;5;Ortopedi;11.86;38;317;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+18;24;Hoftebrudd, reinnleggelser;Telemark;5;Ortopedi;15.36;39;255;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+19;24;Hoftebrudd, reinnleggelser;SÃ¸rlandet;5;Ortopedi;14.48;51;352;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+20;24;Hoftebrudd, reinnleggelser;Indre Oslo;5;Ortopedi;18.15;43;236;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8888;24;Hoftebrudd, reinnleggelser;Norge;5;Ortopedi;15.37;974;6322;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+1;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Finnmark;5;Ortopedi;90.39;29;32;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+2;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);UNN;5;Ortopedi;77.06;68;89;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+3;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Nordland;5;Ortopedi;77.13;55;72;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+4;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Helgeland;5;Ortopedi;86.16;37;43;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+5;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Nord-TrÃ¸ndelag;5;Ortopedi;79.37;62;78;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+6;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);St. Olavs;5;Ortopedi;79.31;121;153;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+7;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);MÃ¸re og Romsdal;5;Ortopedi;71.27;120;167;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+8;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);FÃ¸rde;5;Ortopedi;64.49;48;74;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+9;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Bergen;5;Ortopedi;73.54;199;270;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+10;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Fonna;5;Ortopedi;78.11;75;96;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+11;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Stavanger;5;Ortopedi;75.25;107;142;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+12;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Ã˜stfold;5;Ortopedi;73.32;119;163;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+13;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Akershus;5;Ortopedi;81.44;183;227;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+14;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);OUS;5;Ortopedi;90.14;111;123;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+15;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Innlandet;5;Ortopedi;78.28;187;239;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+16;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Vestre Viken;5;Ortopedi;76.43;220;288;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+17;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Vestfold;5;Ortopedi;51.77;68;133;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+18;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Telemark;5;Ortopedi;72.33;75;103;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+19;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);SÃ¸rlandet;5;Ortopedi;76.62;109;143;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+20;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Indre Oslo;5;Ortopedi;89.86;95;106;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+8888;25;HÃ¥ndleddsbrudd, konservativ behandling (andeler);Norge;5;Ortopedi;76.25;2089;2741;Andel (%);Konservativt behandlet;Alle hÃ¥ndleddsbrudd;2013-2015
+1;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Finnmark;5;Ortopedi;58.16;32;55;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+2;26;LÃ¥rhalsbrudd, behandling med protese (andeler);UNN;5;Ortopedi;53.28;73;138;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+3;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Nordland;5;Ortopedi;70.33;82;117;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+4;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Helgeland;5;Ortopedi;56.49;37;65;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+5;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Nord-TrÃ¸ndelag;5;Ortopedi;59.62;65;109;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+6;26;LÃ¥rhalsbrudd, behandling med protese (andeler);St. Olavs;5;Ortopedi;78.61;188;241;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+7;26;LÃ¥rhalsbrudd, behandling med protese (andeler);MÃ¸re og Romsdal;5;Ortopedi;73.56;165;225;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+8;26;LÃ¥rhalsbrudd, behandling med protese (andeler);FÃ¸rde;5;Ortopedi;64.49;55;86;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+9;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Bergen;5;Ortopedi;75.06;240;321;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+10;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Fonna;5;Ortopedi;69.12;106;153;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+11;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Stavanger;5;Ortopedi;69.56;141;206;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+12;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Ã˜stfold;5;Ortopedi;88.28;227;259;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+13;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Akershus;5;Ortopedi;76.67;241;315;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+14;26;LÃ¥rhalsbrudd, behandling med protese (andeler);OUS;5;Ortopedi;85.64;139;164;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+15;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Innlandet;5;Ortopedi;80.7;314;391;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+16;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Vestre Viken;5;Ortopedi;81.22;282;348;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+17;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Vestfold;5;Ortopedi;70.03;135;194;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+18;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Telemark;5;Ortopedi;71.95;117;163;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+19;26;LÃ¥rhalsbrudd, behandling med protese (andeler);SÃ¸rlandet;5;Ortopedi;72.94;167;229;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+20;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Indre Oslo;5;Ortopedi;77.14;107;140;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
+8888;26;LÃ¥rhalsbrudd, behandling med protese (andeler);Norge;5;Ortopedi;74.69;2912;3917;Andel (%);Protese;Alle lÃ¥rhalsbrudd;2013-2015
 1;27;Hjerneslag, akutte innleggelser;Finnmark;6;Nevrologi;15.27;77;5054;Rate;Antall;Innbyggere;2013-2015
 2;27;Hjerneslag, akutte innleggelser;UNN;6;Nevrologi;18.13;244;13700;Rate;Antall;Innbyggere;2013-2015
 3;27;Hjerneslag, akutte innleggelser;Nordland;6;Nevrologi;15.61;168;10815;Rate;Antall;Innbyggere;2013-2015
 4;27;Hjerneslag, akutte innleggelser;Helgeland;6;Nevrologi;14.97;100;6721;Rate;Antall;Innbyggere;2013-2015
-5;27;Hjerneslag, akutte innleggelser;Nord-Trøndelag;6;Nevrologi;15.05;169;11219;Rate;Antall;Innbyggere;2013-2015
+5;27;Hjerneslag, akutte innleggelser;Nord-TrÃ¸ndelag;6;Nevrologi;15.05;169;11219;Rate;Antall;Innbyggere;2013-2015
 6;27;Hjerneslag, akutte innleggelser;St. Olavs;6;Nevrologi;17.27;354;20548;Rate;Antall;Innbyggere;2013-2015
-7;27;Hjerneslag, akutte innleggelser;Møre og Romsdal;6;Nevrologi;14.41;306;20861;Rate;Antall;Innbyggere;2013-2015
-8;27;Hjerneslag, akutte innleggelser;Førde;6;Nevrologi;16.35;160;9515;Rate;Antall;Innbyggere;2013-2015
+7;27;Hjerneslag, akutte innleggelser;MÃ¸re og Romsdal;6;Nevrologi;14.41;306;20861;Rate;Antall;Innbyggere;2013-2015
+8;27;Hjerneslag, akutte innleggelser;FÃ¸rde;6;Nevrologi;16.35;160;9515;Rate;Antall;Innbyggere;2013-2015
 9;27;Hjerneslag, akutte innleggelser;Bergen;6;Nevrologi;15.11;445;29339;Rate;Antall;Innbyggere;2013-2015
 10;27;Hjerneslag, akutte innleggelser;Fonna;6;Nevrologi;14.41;192;13192;Rate;Antall;Innbyggere;2013-2015
 11;27;Hjerneslag, akutte innleggelser;Stavanger;6;Nevrologi;12.62;239;19056;Rate;Antall;Innbyggere;2013-2015
-12;27;Hjerneslag, akutte innleggelser;Østfold;6;Nevrologi;13.78;296;21830;Rate;Antall;Innbyggere;2013-2015
+12;27;Hjerneslag, akutte innleggelser;Ã˜stfold;6;Nevrologi;13.78;296;21830;Rate;Antall;Innbyggere;2013-2015
 13;27;Hjerneslag, akutte innleggelser;Akershus;6;Nevrologi;14.47;398;28648;Rate;Antall;Innbyggere;2013-2015
 14;27;Hjerneslag, akutte innleggelser;OUS;6;Nevrologi;15.93;248;15113;Rate;Antall;Innbyggere;2013-2015
 15;27;Hjerneslag, akutte innleggelser;Innlandet;6;Nevrologi;15.26;537;35111;Rate;Antall;Innbyggere;2013-2015
 16;27;Hjerneslag, akutte innleggelser;Vestre Viken;6;Nevrologi;13.87;478;34438;Rate;Antall;Innbyggere;2013-2015
 17;27;Hjerneslag, akutte innleggelser;Vestfold;6;Nevrologi;12.88;228;17862;Rate;Antall;Innbyggere;2013-2015
 18;27;Hjerneslag, akutte innleggelser;Telemark;6;Nevrologi;14.55;206;14098;Rate;Antall;Innbyggere;2013-2015
-19;27;Hjerneslag, akutte innleggelser;Sørlandet;6;Nevrologi;13.84;279;20283;Rate;Antall;Innbyggere;2013-2015
+19;27;Hjerneslag, akutte innleggelser;SÃ¸rlandet;6;Nevrologi;13.84;279;20283;Rate;Antall;Innbyggere;2013-2015
 20;27;Hjerneslag, akutte innleggelser;Indre Oslo;6;Nevrologi;15.96;207;12527;Rate;Antall;Innbyggere;2013-2015
 8888;27;Hjerneslag, akutte innleggelser;Norge;6;Nevrologi;14.83;5329;359928;Rate;Antall;Innbyggere;2013-2015
-1;28;Hjerneslag, reinnleggelser;Finnmark;6;Nevrologi;11.86;7;59;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-2;28;Hjerneslag, reinnleggelser;UNN;6;Nevrologi;8.46;17;199;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-3;28;Hjerneslag, reinnleggelser;Nordland;6;Nevrologi;12.89;17;134;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-4;28;Hjerneslag, reinnleggelser;Helgeland;6;Nevrologi;11.48;9;78;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-5;28;Hjerneslag, reinnleggelser;Nord-Trøndelag;6;Nevrologi;15.39;21;136;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-6;28;Hjerneslag, reinnleggelser;St. Olavs;6;Nevrologi;12.53;36;288;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-7;28;Hjerneslag, reinnleggelser;Møre og Romsdal;6;Nevrologi;15.07;38;251;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8;28;Hjerneslag, reinnleggelser;Førde;6;Nevrologi;16.18;21;128;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-9;28;Hjerneslag, reinnleggelser;Bergen;6;Nevrologi;13.74;51;371;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-10;28;Hjerneslag, reinnleggelser;Fonna;6;Nevrologi;15.83;25;156;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-11;28;Hjerneslag, reinnleggelser;Stavanger;6;Nevrologi;12.68;25;195;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-12;28;Hjerneslag, reinnleggelser;Østfold;6;Nevrologi;12.69;30;235;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-13;28;Hjerneslag, reinnleggelser;Akershus;6;Nevrologi;14.03;45;320;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-14;28;Hjerneslag, reinnleggelser;OUS;6;Nevrologi;14.44;29;202;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-15;28;Hjerneslag, reinnleggelser;Innlandet;6;Nevrologi;11.02;47;425;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-16;28;Hjerneslag, reinnleggelser;Vestre Viken;6;Nevrologi;10.25;38;372;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-17;28;Hjerneslag, reinnleggelser;Vestfold;6;Nevrologi;11.84;21;178;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-18;28;Hjerneslag, reinnleggelser;Telemark;6;Nevrologi;12.13;20;163;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-19;28;Hjerneslag, reinnleggelser;Sørlandet;6;Nevrologi;10.96;24;223;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-20;28;Hjerneslag, reinnleggelser;Indre Oslo;6;Nevrologi;14.3;24;169;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
-8888;28;Hjerneslag, reinnleggelser;Norge;6;Nevrologi;12.73;545;4281;Andel (%);Reinnleggelser;Primærinnleggelser;2013-2015
+1;28;Hjerneslag, reinnleggelser;Finnmark;6;Nevrologi;11.86;7;59;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+2;28;Hjerneslag, reinnleggelser;UNN;6;Nevrologi;8.46;17;199;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+3;28;Hjerneslag, reinnleggelser;Nordland;6;Nevrologi;12.89;17;134;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+4;28;Hjerneslag, reinnleggelser;Helgeland;6;Nevrologi;11.48;9;78;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+5;28;Hjerneslag, reinnleggelser;Nord-TrÃ¸ndelag;6;Nevrologi;15.39;21;136;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+6;28;Hjerneslag, reinnleggelser;St. Olavs;6;Nevrologi;12.53;36;288;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+7;28;Hjerneslag, reinnleggelser;MÃ¸re og Romsdal;6;Nevrologi;15.07;38;251;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8;28;Hjerneslag, reinnleggelser;FÃ¸rde;6;Nevrologi;16.18;21;128;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+9;28;Hjerneslag, reinnleggelser;Bergen;6;Nevrologi;13.74;51;371;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+10;28;Hjerneslag, reinnleggelser;Fonna;6;Nevrologi;15.83;25;156;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+11;28;Hjerneslag, reinnleggelser;Stavanger;6;Nevrologi;12.68;25;195;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+12;28;Hjerneslag, reinnleggelser;Ã˜stfold;6;Nevrologi;12.69;30;235;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+13;28;Hjerneslag, reinnleggelser;Akershus;6;Nevrologi;14.03;45;320;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+14;28;Hjerneslag, reinnleggelser;OUS;6;Nevrologi;14.44;29;202;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+15;28;Hjerneslag, reinnleggelser;Innlandet;6;Nevrologi;11.02;47;425;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+16;28;Hjerneslag, reinnleggelser;Vestre Viken;6;Nevrologi;10.25;38;372;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+17;28;Hjerneslag, reinnleggelser;Vestfold;6;Nevrologi;11.84;21;178;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+18;28;Hjerneslag, reinnleggelser;Telemark;6;Nevrologi;12.13;20;163;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+19;28;Hjerneslag, reinnleggelser;SÃ¸rlandet;6;Nevrologi;10.96;24;223;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+20;28;Hjerneslag, reinnleggelser;Indre Oslo;6;Nevrologi;14.3;24;169;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
+8888;28;Hjerneslag, reinnleggelser;Norge;6;Nevrologi;12.73;545;4281;Andel (%);Reinnleggelser;PrimÃ¦rinnleggelser;2013-2015
 1;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Finnmark;6;Nevrologi;91.73;51;55;Andel (%);I slagenhet;Alle innlagte;2013-2015
 2;29;Hjerneslag, pasienter behandlet i slagenhet (andel);UNN;6;Nevrologi;88.47;184;208;Andel (%);I slagenhet;Alle innlagte;2013-2015
 3;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Nordland;6;Nevrologi;93.43;132;142;Andel (%);I slagenhet;Alle innlagte;2013-2015
 4;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Helgeland;6;Nevrologi;86.81;73;84;Andel (%);I slagenhet;Alle innlagte;2013-2015
-5;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Nord-Trøndelag;6;Nevrologi;92.57;141;151;Andel (%);I slagenhet;Alle innlagte;2013-2015
+5;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Nord-TrÃ¸ndelag;6;Nevrologi;92.57;141;151;Andel (%);I slagenhet;Alle innlagte;2013-2015
 6;29;Hjerneslag, pasienter behandlet i slagenhet (andel);St. Olavs;6;Nevrologi;82.5;278;337;Andel (%);I slagenhet;Alle innlagte;2013-2015
-7;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Møre og Romsdal;6;Nevrologi;94.32;250;265;Andel (%);I slagenhet;Alle innlagte;2013-2015
-8;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Førde;6;Nevrologi;66.94;88;133;Andel (%);I slagenhet;Alle innlagte;2013-2015
+7;29;Hjerneslag, pasienter behandlet i slagenhet (andel);MÃ¸re og Romsdal;6;Nevrologi;94.32;250;265;Andel (%);I slagenhet;Alle innlagte;2013-2015
+8;29;Hjerneslag, pasienter behandlet i slagenhet (andel);FÃ¸rde;6;Nevrologi;66.94;88;133;Andel (%);I slagenhet;Alle innlagte;2013-2015
 9;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Bergen;6;Nevrologi;94.57;315;334;Andel (%);I slagenhet;Alle innlagte;2013-2015
 10;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Fonna;6;Nevrologi;91.5;140;153;Andel (%);I slagenhet;Alle innlagte;2013-2015
 11;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Stavanger;6;Nevrologi;98.67;185;187;Andel (%);I slagenhet;Alle innlagte;2013-2015
-12;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Østfold;6;Nevrologi;96.69;256;265;Andel (%);I slagenhet;Alle innlagte;2013-2015
+12;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Ã˜stfold;6;Nevrologi;96.69;256;265;Andel (%);I slagenhet;Alle innlagte;2013-2015
 13;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Akershus;6;Nevrologi;99.4;179;180;Andel (%);I slagenhet;Alle innlagte;2013-2015
 14;29;Hjerneslag, pasienter behandlet i slagenhet (andel);OUS;6;Nevrologi;96.16;410;427;Andel (%);I slagenhet;Alle innlagte;2013-2015
 15;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Innlandet;6;Nevrologi;78.57;326;413;Andel (%);I slagenhet;Alle innlagte;2013-2015
 16;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Vestre Viken;6;Nevrologi;97.74;403;412;Andel (%);I slagenhet;Alle innlagte;2013-2015
 17;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Vestfold;6;Nevrologi;84.02;169;201;Andel (%);I slagenhet;Alle innlagte;2013-2015
 18;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Telemark;6;Nevrologi;82.51;137;166;Andel (%);I slagenhet;Alle innlagte;2013-2015
-19;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Sørlandet;6;Nevrologi;92.46;225;243;Andel (%);I slagenhet;Alle innlagte;2013-2015
+19;29;Hjerneslag, pasienter behandlet i slagenhet (andel);SÃ¸rlandet;6;Nevrologi;92.46;225;243;Andel (%);I slagenhet;Alle innlagte;2013-2015
 20;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Indre Oslo;6;Nevrologi;96.16;410;427;Andel (%);I slagenhet;Alle innlagte;2013-2015
 8888;29;Hjerneslag, pasienter behandlet i slagenhet (andel);Norge;6;Nevrologi;90.49;3937;4352;Andel (%);I slagenhet;Alle innlagte;2013-2015
 1;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Finnmark;6;Nevrologi;37.81;20;55;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 2;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);UNN;6;Nevrologi;36.67;76;208;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 3;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Nordland;6;Nevrologi;45.84;66;142;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 4;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Helgeland;6;Nevrologi;36.99;31;84;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
-5;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Nord-Trøndelag;6;Nevrologi;37.45;57;151;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
+5;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Nord-TrÃ¸ndelag;6;Nevrologi;37.45;57;151;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 6;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);St. Olavs;6;Nevrologi;35.81;121;337;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
-7;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Møre og Romsdal;6;Nevrologi;46.59;124;265;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
-8;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Førde;6;Nevrologi;45.6;60;133;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
+7;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);MÃ¸re og Romsdal;6;Nevrologi;46.59;124;265;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
+8;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);FÃ¸rde;6;Nevrologi;45.6;60;133;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 9;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Bergen;6;Nevrologi;43.73;146;334;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 10;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Fonna;6;Nevrologi;49.91;77;153;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 11;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Stavanger;6;Nevrologi;54.07;101;187;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
-12;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Østfold;6;Nevrologi;38.5;102;265;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
+12;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Ã˜stfold;6;Nevrologi;38.5;102;265;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 13;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Akershus;6;Nevrologi;40.02;72;180;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 14;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);OUS;6;Nevrologi;42.94;183;427;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 15;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Innlandet;6;Nevrologi;42.86;177;413;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 16;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Vestre Viken;6;Nevrologi;39.44;163;412;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 17;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Vestfold;6;Nevrologi;39.39;79;201;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 18;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Telemark;6;Nevrologi;44.59;75;166;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
-19;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Sørlandet;6;Nevrologi;43.7;107;243;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
+19;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);SÃ¸rlandet;6;Nevrologi;43.7;107;243;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 20;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Indre Oslo;6;Nevrologi;42.94;183;427;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 8888;30;Hjerneslag, pasienter innlagt innen 4 timer etter symptomdebut (andel);Norge;6;Nevrologi;42.07;1832;4352;Andel (%);Innlagte innen 4t;Alle innlagte;2013-2015
 1;31;Demens, poliklinikk;Finnmark;6;Nevrologi;;14;5054;Rate;Antall;Innbyggere;2013-2015
 2;31;Demens, poliklinikk;UNN;6;Nevrologi;17.77;242;13700;Rate;Antall;Innbyggere;2013-2015
 3;31;Demens, poliklinikk;Nordland;6;Nevrologi;;22;10815;Rate;Antall;Innbyggere;2013-2015
 4;31;Demens, poliklinikk;Helgeland;6;Nevrologi;;9;6721;Rate;Antall;Innbyggere;2013-2015
-5;31;Demens, poliklinikk;Nord-Trøndelag;6;Nevrologi;7.74;88;11219;Rate;Antall;Innbyggere;2013-2015
+5;31;Demens, poliklinikk;Nord-TrÃ¸ndelag;6;Nevrologi;7.74;88;11219;Rate;Antall;Innbyggere;2013-2015
 6;31;Demens, poliklinikk;St. Olavs;6;Nevrologi;15.19;312;20548;Rate;Antall;Innbyggere;2013-2015
-7;31;Demens, poliklinikk;Møre og Romsdal;6;Nevrologi;15.16;317;20861;Rate;Antall;Innbyggere;2013-2015
-8;31;Demens, poliklinikk;Førde;6;Nevrologi;6.47;61;9515;Rate;Antall;Innbyggere;2013-2015
+7;31;Demens, poliklinikk;MÃ¸re og Romsdal;6;Nevrologi;15.16;317;20861;Rate;Antall;Innbyggere;2013-2015
+8;31;Demens, poliklinikk;FÃ¸rde;6;Nevrologi;6.47;61;9515;Rate;Antall;Innbyggere;2013-2015
 9;31;Demens, poliklinikk;Bergen;6;Nevrologi;16.53;484;29339;Rate;Antall;Innbyggere;2013-2015
 10;31;Demens, poliklinikk;Fonna;6;Nevrologi;11.97;157;13192;Rate;Antall;Innbyggere;2013-2015
 11;31;Demens, poliklinikk;Stavanger;6;Nevrologi;12.94;246;19056;Rate;Antall;Innbyggere;2013-2015
-12;31;Demens, poliklinikk;Østfold;6;Nevrologi;8.86;194;21830;Rate;Antall;Innbyggere;2013-2015
+12;31;Demens, poliklinikk;Ã˜stfold;6;Nevrologi;8.86;194;21830;Rate;Antall;Innbyggere;2013-2015
 13;31;Demens, poliklinikk;Akershus;6;Nevrologi;6.07;177;28648;Rate;Antall;Innbyggere;2013-2015
 14;31;Demens, poliklinikk;OUS;6;Nevrologi;34.35;528;15113;Rate;Antall;Innbyggere;2013-2015
 15;31;Demens, poliklinikk;Innlandet;6;Nevrologi;11.61;408;35111;Rate;Antall;Innbyggere;2013-2015
 16;31;Demens, poliklinikk;Vestre Viken;6;Nevrologi;8.79;303;34438;Rate;Antall;Innbyggere;2013-2015
 17;31;Demens, poliklinikk;Vestfold;6;Nevrologi;15.3;268;17862;Rate;Antall;Innbyggere;2013-2015
 18;31;Demens, poliklinikk;Telemark;6;Nevrologi;3.42;48;14098;Rate;Antall;Innbyggere;2013-2015
-19;31;Demens, poliklinikk;Sørlandet;6;Nevrologi;6.42;131;20283;Rate;Antall;Innbyggere;2013-2015
+19;31;Demens, poliklinikk;SÃ¸rlandet;6;Nevrologi;6.42;131;20283;Rate;Antall;Innbyggere;2013-2015
 20;31;Demens, poliklinikk;Indre Oslo;6;Nevrologi;37.88;475;12527;Rate;Antall;Innbyggere;2013-2015
 8888;31;Demens, poliklinikk;Norge;6;Nevrologi;12.48;4483;359928;Rate;Antall;Innbyggere;2013-2015
 1;32;Parkinson sykdom, poliklinikk;Finnmark;6;Nevrologi;9.32;49;5054;Rate;Antall;Innbyggere;2013-2015
 2;32;Parkinson sykdom, poliklinikk;UNN;6;Nevrologi;14.32;201;13700;Rate;Antall;Innbyggere;2013-2015
 3;32;Parkinson sykdom, poliklinikk;Nordland;6;Nevrologi;12;130;10815;Rate;Antall;Innbyggere;2013-2015
 4;32;Parkinson sykdom, poliklinikk;Helgeland;6;Nevrologi;11.79;80;6721;Rate;Antall;Innbyggere;2013-2015
-5;32;Parkinson sykdom, poliklinikk;Nord-Trøndelag;6;Nevrologi;16;182;11219;Rate;Antall;Innbyggere;2013-2015
+5;32;Parkinson sykdom, poliklinikk;Nord-TrÃ¸ndelag;6;Nevrologi;16;182;11219;Rate;Antall;Innbyggere;2013-2015
 6;32;Parkinson sykdom, poliklinikk;St. Olavs;6;Nevrologi;8.3;171;20548;Rate;Antall;Innbyggere;2013-2015
-7;32;Parkinson sykdom, poliklinikk;Møre og Romsdal;6;Nevrologi;14;289;20861;Rate;Antall;Innbyggere;2013-2015
-8;32;Parkinson sykdom, poliklinikk;Førde;6;Nevrologi;14.11;133;9515;Rate;Antall;Innbyggere;2013-2015
+7;32;Parkinson sykdom, poliklinikk;MÃ¸re og Romsdal;6;Nevrologi;14;289;20861;Rate;Antall;Innbyggere;2013-2015
+8;32;Parkinson sykdom, poliklinikk;FÃ¸rde;6;Nevrologi;14.11;133;9515;Rate;Antall;Innbyggere;2013-2015
 9;32;Parkinson sykdom, poliklinikk;Bergen;6;Nevrologi;14.27;418;29339;Rate;Antall;Innbyggere;2013-2015
 10;32;Parkinson sykdom, poliklinikk;Fonna;6;Nevrologi;13.91;184;13192;Rate;Antall;Innbyggere;2013-2015
 11;32;Parkinson sykdom, poliklinikk;Stavanger;6;Nevrologi;16.48;317;19056;Rate;Antall;Innbyggere;2013-2015
-12;32;Parkinson sykdom, poliklinikk;Østfold;6;Nevrologi;15.67;349;21830;Rate;Antall;Innbyggere;2013-2015
+12;32;Parkinson sykdom, poliklinikk;Ã˜stfold;6;Nevrologi;15.67;349;21830;Rate;Antall;Innbyggere;2013-2015
 13;32;Parkinson sykdom, poliklinikk;Akershus;6;Nevrologi;9.38;278;28648;Rate;Antall;Innbyggere;2013-2015
 14;32;Parkinson sykdom, poliklinikk;OUS;6;Nevrologi;17.41;253;15113;Rate;Antall;Innbyggere;2013-2015
 15;32;Parkinson sykdom, poliklinikk;Innlandet;6;Nevrologi;13.17;465;35111;Rate;Antall;Innbyggere;2013-2015
 16;32;Parkinson sykdom, poliklinikk;Vestre Viken;6;Nevrologi;15.19;526;34438;Rate;Antall;Innbyggere;2013-2015
 17;32;Parkinson sykdom, poliklinikk;Vestfold;6;Nevrologi;19.43;350;17862;Rate;Antall;Innbyggere;2013-2015
 18;32;Parkinson sykdom, poliklinikk;Telemark;6;Nevrologi;11.17;157;14098;Rate;Antall;Innbyggere;2013-2015
-19;32;Parkinson sykdom, poliklinikk;Sørlandet;6;Nevrologi;11;227;20283;Rate;Antall;Innbyggere;2013-2015
+19;32;Parkinson sykdom, poliklinikk;SÃ¸rlandet;6;Nevrologi;11;227;20283;Rate;Antall;Innbyggere;2013-2015
 20;32;Parkinson sykdom, poliklinikk;Indre Oslo;6;Nevrologi;15.23;181;12527;Rate;Antall;Innbyggere;2013-2015
 8888;32;Parkinson sykdom, poliklinikk;Norge;6;Nevrologi;13.66;4941;359928;Rate;Antall;Innbyggere;2013-2015
 1;33;Medikamentell behandling, pasienter;Finnmark;7;Kreftbehandling;6.5;35;5054;Rate;Antall;Innbyggere;2013-2015
 2;33;Medikamentell behandling, pasienter;UNN;7;Kreftbehandling;7.42;104;13700;Rate;Antall;Innbyggere;2013-2015
 3;33;Medikamentell behandling, pasienter;Nordland;7;Kreftbehandling;6.6;73;10815;Rate;Antall;Innbyggere;2013-2015
 4;33;Medikamentell behandling, pasienter;Helgeland;7;Kreftbehandling;7.51;52;6721;Rate;Antall;Innbyggere;2013-2015
-5;33;Medikamentell behandling, pasienter;Nord-Trøndelag;7;Kreftbehandling;10.37;118;11219;Rate;Antall;Innbyggere;2013-2015
+5;33;Medikamentell behandling, pasienter;Nord-TrÃ¸ndelag;7;Kreftbehandling;10.37;118;11219;Rate;Antall;Innbyggere;2013-2015
 6;33;Medikamentell behandling, pasienter;St. Olavs;7;Kreftbehandling;8.81;182;20548;Rate;Antall;Innbyggere;2013-2015
-7;33;Medikamentell behandling, pasienter;Møre og Romsdal;7;Kreftbehandling;10.47;215;20861;Rate;Antall;Innbyggere;2013-2015
-8;33;Medikamentell behandling, pasienter;Førde;7;Kreftbehandling;8.69;81;9515;Rate;Antall;Innbyggere;2013-2015
+7;33;Medikamentell behandling, pasienter;MÃ¸re og Romsdal;7;Kreftbehandling;10.47;215;20861;Rate;Antall;Innbyggere;2013-2015
+8;33;Medikamentell behandling, pasienter;FÃ¸rde;7;Kreftbehandling;8.69;81;9515;Rate;Antall;Innbyggere;2013-2015
 9;33;Medikamentell behandling, pasienter;Bergen;7;Kreftbehandling;8.09;237;29339;Rate;Antall;Innbyggere;2013-2015
 10;33;Medikamentell behandling, pasienter;Fonna;7;Kreftbehandling;8.74;115;13192;Rate;Antall;Innbyggere;2013-2015
 11;33;Medikamentell behandling, pasienter;Stavanger;7;Kreftbehandling;10.52;203;19056;Rate;Antall;Innbyggere;2013-2015
-12;33;Medikamentell behandling, pasienter;Østfold;7;Kreftbehandling;7.56;170;21830;Rate;Antall;Innbyggere;2013-2015
+12;33;Medikamentell behandling, pasienter;Ã˜stfold;7;Kreftbehandling;7.56;170;21830;Rate;Antall;Innbyggere;2013-2015
 13;33;Medikamentell behandling, pasienter;Akershus;7;Kreftbehandling;8.79;262;28648;Rate;Antall;Innbyggere;2013-2015
 14;33;Medikamentell behandling, pasienter;OUS;7;Kreftbehandling;9.18;133;15113;Rate;Antall;Innbyggere;2013-2015
 15;33;Medikamentell behandling, pasienter;Innlandet;7;Kreftbehandling;7.78;275;35111;Rate;Antall;Innbyggere;2013-2015
 16;33;Medikamentell behandling, pasienter;Vestre Viken;7;Kreftbehandling;9.74;337;34438;Rate;Antall;Innbyggere;2013-2015
 17;33;Medikamentell behandling, pasienter;Vestfold;7;Kreftbehandling;12.02;218;17862;Rate;Antall;Innbyggere;2013-2015
 18;33;Medikamentell behandling, pasienter;Telemark;7;Kreftbehandling;9.42;132;14098;Rate;Antall;Innbyggere;2013-2015
-19;33;Medikamentell behandling, pasienter;Sørlandet;7;Kreftbehandling;9.56;196;20283;Rate;Antall;Innbyggere;2013-2015
+19;33;Medikamentell behandling, pasienter;SÃ¸rlandet;7;Kreftbehandling;9.56;196;20283;Rate;Antall;Innbyggere;2013-2015
 20;33;Medikamentell behandling, pasienter;Indre Oslo;7;Kreftbehandling;9.23;113;12527;Rate;Antall;Innbyggere;2013-2015
 8888;33;Medikamentell behandling, pasienter;Norge;7;Kreftbehandling;8.98;3252;359928;Rate;Antall;Innbyggere;2013-2015
-1;34;Strålebehandling, pasienter;Finnmark;7;Kreftbehandling;7.97;42;5054;Rate;Antall;Innbyggere;2013-2015
-2;34;Strålebehandling, pasienter;UNN;7;Kreftbehandling;9.65;134;13700;Rate;Antall;Innbyggere;2013-2015
-3;34;Strålebehandling, pasienter;Nordland;7;Kreftbehandling;9.37;103;10815;Rate;Antall;Innbyggere;2013-2015
-4;34;Strålebehandling, pasienter;Helgeland;7;Kreftbehandling;6.79;47;6721;Rate;Antall;Innbyggere;2013-2015
-5;34;Strålebehandling, pasienter;Nord-Trøndelag;7;Kreftbehandling;6.83;79;11219;Rate;Antall;Innbyggere;2013-2015
-6;34;Strålebehandling, pasienter;St. Olavs;7;Kreftbehandling;8.22;170;20548;Rate;Antall;Innbyggere;2013-2015
-7;34;Strålebehandling, pasienter;Møre og Romsdal;7;Kreftbehandling;9.5;197;20861;Rate;Antall;Innbyggere;2013-2015
-8;34;Strålebehandling, pasienter;Førde;7;Kreftbehandling;6.06;57;9515;Rate;Antall;Innbyggere;2013-2015
-9;34;Strålebehandling, pasienter;Bergen;7;Kreftbehandling;10.49;307;29339;Rate;Antall;Innbyggere;2013-2015
-10;34;Strålebehandling, pasienter;Fonna;7;Kreftbehandling;9.7;129;13192;Rate;Antall;Innbyggere;2013-2015
-11;34;Strålebehandling, pasienter;Stavanger;7;Kreftbehandling;9.27;178;19056;Rate;Antall;Innbyggere;2013-2015
-12;34;Strålebehandling, pasienter;Østfold;7;Kreftbehandling;7.86;175;21830;Rate;Antall;Innbyggere;2013-2015
-13;34;Strålebehandling, pasienter;Akershus;7;Kreftbehandling;7.56;225;28648;Rate;Antall;Innbyggere;2013-2015
-14;34;Strålebehandling, pasienter;OUS;7;Kreftbehandling;9.77;141;15113;Rate;Antall;Innbyggere;2013-2015
-15;34;Strålebehandling, pasienter;Innlandet;7;Kreftbehandling;8.29;295;35111;Rate;Antall;Innbyggere;2013-2015
-16;34;Strålebehandling, pasienter;Vestre Viken;7;Kreftbehandling;6.73;232;34438;Rate;Antall;Innbyggere;2013-2015
-17;34;Strålebehandling, pasienter;Vestfold;7;Kreftbehandling;7.3;133;17862;Rate;Antall;Innbyggere;2013-2015
-18;34;Strålebehandling, pasienter;Telemark;7;Kreftbehandling;5.52;77;14098;Rate;Antall;Innbyggere;2013-2015
-19;34;Strålebehandling, pasienter;Sørlandet;7;Kreftbehandling;10.89;223;20283;Rate;Antall;Innbyggere;2013-2015
-20;34;Strålebehandling, pasienter;Indre Oslo;7;Kreftbehandling;9.23;111;12527;Rate;Antall;Innbyggere;2013-2015
-8888;34;Strålebehandling, pasienter;Norge;7;Kreftbehandling;8.44;3056;359928;Rate;Antall;Innbyggere;2013-2015
-1;35;Grå stær, inngrep;Finnmark;8;Øyesykdommer;56.68;284;5054;Rate;Antall;Innbyggere;2013-2015
-2;35;Grå stær, inngrep;UNN;8;Øyesykdommer;56.22;770;13700;Rate;Antall;Innbyggere;2013-2015
-3;35;Grå stær, inngrep;Nordland;8;Øyesykdommer;66.31;715;10815;Rate;Antall;Innbyggere;2013-2015
-4;35;Grå stær, inngrep;Helgeland;8;Øyesykdommer;47.23;319;6721;Rate;Antall;Innbyggere;2013-2015
-5;35;Grå stær, inngrep;Nord-Trøndelag;8;Øyesykdommer;64.03;719;11219;Rate;Antall;Innbyggere;2013-2015
-6;35;Grå stær, inngrep;St. Olavs;8;Øyesykdommer;64.17;1318;20548;Rate;Antall;Innbyggere;2013-2015
-7;35;Grå stær, inngrep;Møre og Romsdal;8;Øyesykdommer;60.56;1255;20861;Rate;Antall;Innbyggere;2013-2015
-8;35;Grå stær, inngrep;Førde;8;Øyesykdommer;80.26;756;9515;Rate;Antall;Innbyggere;2013-2015
-9;35;Grå stær, inngrep;Bergen;8;Øyesykdommer;69.91;2048;29339;Rate;Antall;Innbyggere;2013-2015
-10;35;Grå stær, inngrep;Fonna;8;Øyesykdommer;52.7;692;13192;Rate;Antall;Innbyggere;2013-2015
-11;35;Grå stær, inngrep;Stavanger;8;Øyesykdommer;85.43;1627;19056;Rate;Antall;Innbyggere;2013-2015
-12;35;Grå stær, inngrep;Østfold;8;Øyesykdommer;43.12;945;21830;Rate;Antall;Innbyggere;2013-2015
-13;35;Grå stær, inngrep;Akershus;8;Øyesykdommer;45.22;1312;28648;Rate;Antall;Innbyggere;2013-2015
-14;35;Grå stær, inngrep;OUS;8;Øyesykdommer;47.4;703;15113;Rate;Antall;Innbyggere;2013-2015
-15;35;Grå stær, inngrep;Innlandet;8;Øyesykdommer;45.44;1595;35111;Rate;Antall;Innbyggere;2013-2015
-16;35;Grå stær, inngrep;Vestre Viken;8;Øyesykdommer;61.04;2102;34438;Rate;Antall;Innbyggere;2013-2015
-17;35;Grå stær, inngrep;Vestfold;8;Øyesykdommer;41.97;753;17862;Rate;Antall;Innbyggere;2013-2015
-18;35;Grå stær, inngrep;Telemark;8;Øyesykdommer;60.6;850;14098;Rate;Antall;Innbyggere;2013-2015
-19;35;Grå stær, inngrep;Sørlandet;8;Øyesykdommer;75.1;1523;20283;Rate;Antall;Innbyggere;2013-2015
-20;35;Grå stær, inngrep;Indre Oslo;8;Øyesykdommer;48.46;591;12527;Rate;Antall;Innbyggere;2013-2015
-8888;35;Grå stær, inngrep;Norge;8;Øyesykdommer;58.05;20876;359928;Rate;Antall;Innbyggere;2013-2015
-1;36;Injeksjonsbehandling, pasienter;Finnmark;8;Øyesykdommer;20.05;97;5054;Rate;Antall;Innbyggere;2013-2015
-2;36;Injeksjonsbehandling, pasienter;UNN;8;Øyesykdommer;23.13;312;13700;Rate;Antall;Innbyggere;2013-2015
-3;36;Injeksjonsbehandling, pasienter;Nordland;8;Øyesykdommer;19.11;205;10815;Rate;Antall;Innbyggere;2013-2015
-4;36;Injeksjonsbehandling, pasienter;Helgeland;8;Øyesykdommer;15.16;101;6721;Rate;Antall;Innbyggere;2013-2015
-5;36;Injeksjonsbehandling, pasienter;Nord-Trøndelag;8;Øyesykdommer;16.81;187;11219;Rate;Antall;Innbyggere;2013-2015
-6;36;Injeksjonsbehandling, pasienter;St. Olavs;8;Øyesykdommer;20.57;422;20548;Rate;Antall;Innbyggere;2013-2015
-7;36;Injeksjonsbehandling, pasienter;Møre og Romsdal;8;Øyesykdommer;16.76;354;20861;Rate;Antall;Innbyggere;2013-2015
-8;36;Injeksjonsbehandling, pasienter;Førde;8;Øyesykdommer;10.47;100;9515;Rate;Antall;Innbyggere;2013-2015
-9;36;Injeksjonsbehandling, pasienter;Bergen;8;Øyesykdommer;13.46;395;29339;Rate;Antall;Innbyggere;2013-2015
-10;36;Injeksjonsbehandling, pasienter;Fonna;8;Øyesykdommer;13.14;173;13192;Rate;Antall;Innbyggere;2013-2015
-11;36;Injeksjonsbehandling, pasienter;Stavanger;8;Øyesykdommer;21.19;401;19056;Rate;Antall;Innbyggere;2013-2015
-12;36;Injeksjonsbehandling, pasienter;Østfold;8;Øyesykdommer;20.21;433;21830;Rate;Antall;Innbyggere;2013-2015
-13;36;Injeksjonsbehandling, pasienter;Akershus;8;Øyesykdommer;18.93;526;28648;Rate;Antall;Innbyggere;2013-2015
-14;36;Injeksjonsbehandling, pasienter;OUS;8;Øyesykdommer;20.94;330;15113;Rate;Antall;Innbyggere;2013-2015
-15;36;Injeksjonsbehandling, pasienter;Innlandet;8;Øyesykdommer;14.11;495;35111;Rate;Antall;Innbyggere;2013-2015
-16;36;Injeksjonsbehandling, pasienter;Vestre Viken;8;Øyesykdommer;19.26;662;34438;Rate;Antall;Innbyggere;2013-2015
-17;36;Injeksjonsbehandling, pasienter;Vestfold;8;Øyesykdommer;20.54;364;17862;Rate;Antall;Innbyggere;2013-2015
-18;36;Injeksjonsbehandling, pasienter;Telemark;8;Øyesykdommer;14.7;208;14098;Rate;Antall;Innbyggere;2013-2015
-19;36;Injeksjonsbehandling, pasienter;Sørlandet;8;Øyesykdommer;14.47;291;20283;Rate;Antall;Innbyggere;2013-2015
-20;36;Injeksjonsbehandling, pasienter;Indre Oslo;8;Øyesykdommer;21.21;276;12527;Rate;Antall;Innbyggere;2013-2015
-8888;36;Injeksjonsbehandling, pasienter;Norge;8;Øyesykdommer;17.65;6334;359928;Rate;Antall;Innbyggere;2013-2015
-1;37;Høreapparat, pasienter;Finnmark;9;Annet;73.21;370;5135;Rate;Antall;Innbyggere;2013-2015
-2;37;Høreapparat, pasienter;UNN;9;Annet;67.23;934;13926;Rate;Antall;Innbyggere;2013-2015
-3;37;Høreapparat, pasienter;Nordland;9;Annet;53.49;584;10917;Rate;Antall;Innbyggere;2013-2015
-4;37;Høreapparat, pasienter;Helgeland;9;Annet;58.26;396;6803;Rate;Antall;Innbyggere;2013-2015
-5;37;Høreapparat, pasienter;Nord-Trøndelag;9;Annet;49.02;560;11374;Rate;Antall;Innbyggere;2013-2015
-6;37;Høreapparat, pasienter;St. Olavs;9;Annet;18.29;382;20852;Rate;Antall;Innbyggere;2013-2015
-7;37;Høreapparat, pasienter;Møre og Romsdal;9;Annet;56.26;1188;21029;Rate;Antall;Innbyggere;2013-2015
-8;37;Høreapparat, pasienter;Førde;9;Annet;48.98;471;9560;Rate;Antall;Innbyggere;2013-2015
-9;37;Høreapparat, pasienter;Bergen;9;Annet;49.99;1489;29754;Rate;Antall;Innbyggere;2013-2015
-10;37;Høreapparat, pasienter;Fonna;9;Annet;52.29;703;13377;Rate;Antall;Innbyggere;2013-2015
-11;37;Høreapparat, pasienter;Stavanger;9;Annet;51.01;991;19439;Rate;Antall;Innbyggere;2013-2015
-12;37;Høreapparat, pasienter;Østfold;9;Annet;36.57;804;22096;Rate;Antall;Innbyggere;2013-2015
-13;37;Høreapparat, pasienter;Akershus;9;Annet;39.83;1158;29568;Rate;Antall;Innbyggere;2013-2015
-14;37;Høreapparat, pasienter;OUS;9;Annet;39.69;604;14997;Rate;Antall;Innbyggere;2013-2015
-15;37;Høreapparat, pasienter;Innlandet;9;Annet;44.67;1584;35385;Rate;Antall;Innbyggere;2013-2015
-16;37;Høreapparat, pasienter;Vestre Viken;9;Annet;47.39;1660;34961;Rate;Antall;Innbyggere;2013-2015
-17;37;Høreapparat, pasienter;Vestfold;9;Annet;50.32;915;18243;Rate;Antall;Innbyggere;2013-2015
-18;37;Høreapparat, pasienter;Telemark;9;Annet;46.39;658;14143;Rate;Antall;Innbyggere;2013-2015
-19;37;Høreapparat, pasienter;Sørlandet;9;Annet;56.56;1164;20625;Rate;Antall;Innbyggere;2013-2015
-20;37;Høreapparat, pasienter;Indre Oslo;9;Annet;42.42;547;12754;Rate;Antall;Innbyggere;2013-2015
-8888;37;Høreapparat, pasienter;Norge;9;Annet;47.03;17162;364938;Rate;Antall;Innbyggere;2013-2015
+1;34;StrÃ¥lebehandling, pasienter;Finnmark;7;Kreftbehandling;7.97;42;5054;Rate;Antall;Innbyggere;2013-2015
+2;34;StrÃ¥lebehandling, pasienter;UNN;7;Kreftbehandling;9.65;134;13700;Rate;Antall;Innbyggere;2013-2015
+3;34;StrÃ¥lebehandling, pasienter;Nordland;7;Kreftbehandling;9.37;103;10815;Rate;Antall;Innbyggere;2013-2015
+4;34;StrÃ¥lebehandling, pasienter;Helgeland;7;Kreftbehandling;6.79;47;6721;Rate;Antall;Innbyggere;2013-2015
+5;34;StrÃ¥lebehandling, pasienter;Nord-TrÃ¸ndelag;7;Kreftbehandling;6.83;79;11219;Rate;Antall;Innbyggere;2013-2015
+6;34;StrÃ¥lebehandling, pasienter;St. Olavs;7;Kreftbehandling;8.22;170;20548;Rate;Antall;Innbyggere;2013-2015
+7;34;StrÃ¥lebehandling, pasienter;MÃ¸re og Romsdal;7;Kreftbehandling;9.5;197;20861;Rate;Antall;Innbyggere;2013-2015
+8;34;StrÃ¥lebehandling, pasienter;FÃ¸rde;7;Kreftbehandling;6.06;57;9515;Rate;Antall;Innbyggere;2013-2015
+9;34;StrÃ¥lebehandling, pasienter;Bergen;7;Kreftbehandling;10.49;307;29339;Rate;Antall;Innbyggere;2013-2015
+10;34;StrÃ¥lebehandling, pasienter;Fonna;7;Kreftbehandling;9.7;129;13192;Rate;Antall;Innbyggere;2013-2015
+11;34;StrÃ¥lebehandling, pasienter;Stavanger;7;Kreftbehandling;9.27;178;19056;Rate;Antall;Innbyggere;2013-2015
+12;34;StrÃ¥lebehandling, pasienter;Ã˜stfold;7;Kreftbehandling;7.86;175;21830;Rate;Antall;Innbyggere;2013-2015
+13;34;StrÃ¥lebehandling, pasienter;Akershus;7;Kreftbehandling;7.56;225;28648;Rate;Antall;Innbyggere;2013-2015
+14;34;StrÃ¥lebehandling, pasienter;OUS;7;Kreftbehandling;9.77;141;15113;Rate;Antall;Innbyggere;2013-2015
+15;34;StrÃ¥lebehandling, pasienter;Innlandet;7;Kreftbehandling;8.29;295;35111;Rate;Antall;Innbyggere;2013-2015
+16;34;StrÃ¥lebehandling, pasienter;Vestre Viken;7;Kreftbehandling;6.73;232;34438;Rate;Antall;Innbyggere;2013-2015
+17;34;StrÃ¥lebehandling, pasienter;Vestfold;7;Kreftbehandling;7.3;133;17862;Rate;Antall;Innbyggere;2013-2015
+18;34;StrÃ¥lebehandling, pasienter;Telemark;7;Kreftbehandling;5.52;77;14098;Rate;Antall;Innbyggere;2013-2015
+19;34;StrÃ¥lebehandling, pasienter;SÃ¸rlandet;7;Kreftbehandling;10.89;223;20283;Rate;Antall;Innbyggere;2013-2015
+20;34;StrÃ¥lebehandling, pasienter;Indre Oslo;7;Kreftbehandling;9.23;111;12527;Rate;Antall;Innbyggere;2013-2015
+8888;34;StrÃ¥lebehandling, pasienter;Norge;7;Kreftbehandling;8.44;3056;359928;Rate;Antall;Innbyggere;2013-2015
+1;35;GrÃ¥ stÃ¦r, inngrep;Finnmark;8;Ã˜yesykdommer;56.68;284;5054;Rate;Antall;Innbyggere;2013-2015
+2;35;GrÃ¥ stÃ¦r, inngrep;UNN;8;Ã˜yesykdommer;56.22;770;13700;Rate;Antall;Innbyggere;2013-2015
+3;35;GrÃ¥ stÃ¦r, inngrep;Nordland;8;Ã˜yesykdommer;66.31;715;10815;Rate;Antall;Innbyggere;2013-2015
+4;35;GrÃ¥ stÃ¦r, inngrep;Helgeland;8;Ã˜yesykdommer;47.23;319;6721;Rate;Antall;Innbyggere;2013-2015
+5;35;GrÃ¥ stÃ¦r, inngrep;Nord-TrÃ¸ndelag;8;Ã˜yesykdommer;64.03;719;11219;Rate;Antall;Innbyggere;2013-2015
+6;35;GrÃ¥ stÃ¦r, inngrep;St. Olavs;8;Ã˜yesykdommer;64.17;1318;20548;Rate;Antall;Innbyggere;2013-2015
+7;35;GrÃ¥ stÃ¦r, inngrep;MÃ¸re og Romsdal;8;Ã˜yesykdommer;60.56;1255;20861;Rate;Antall;Innbyggere;2013-2015
+8;35;GrÃ¥ stÃ¦r, inngrep;FÃ¸rde;8;Ã˜yesykdommer;80.26;756;9515;Rate;Antall;Innbyggere;2013-2015
+9;35;GrÃ¥ stÃ¦r, inngrep;Bergen;8;Ã˜yesykdommer;69.91;2048;29339;Rate;Antall;Innbyggere;2013-2015
+10;35;GrÃ¥ stÃ¦r, inngrep;Fonna;8;Ã˜yesykdommer;52.7;692;13192;Rate;Antall;Innbyggere;2013-2015
+11;35;GrÃ¥ stÃ¦r, inngrep;Stavanger;8;Ã˜yesykdommer;85.43;1627;19056;Rate;Antall;Innbyggere;2013-2015
+12;35;GrÃ¥ stÃ¦r, inngrep;Ã˜stfold;8;Ã˜yesykdommer;43.12;945;21830;Rate;Antall;Innbyggere;2013-2015
+13;35;GrÃ¥ stÃ¦r, inngrep;Akershus;8;Ã˜yesykdommer;45.22;1312;28648;Rate;Antall;Innbyggere;2013-2015
+14;35;GrÃ¥ stÃ¦r, inngrep;OUS;8;Ã˜yesykdommer;47.4;703;15113;Rate;Antall;Innbyggere;2013-2015
+15;35;GrÃ¥ stÃ¦r, inngrep;Innlandet;8;Ã˜yesykdommer;45.44;1595;35111;Rate;Antall;Innbyggere;2013-2015
+16;35;GrÃ¥ stÃ¦r, inngrep;Vestre Viken;8;Ã˜yesykdommer;61.04;2102;34438;Rate;Antall;Innbyggere;2013-2015
+17;35;GrÃ¥ stÃ¦r, inngrep;Vestfold;8;Ã˜yesykdommer;41.97;753;17862;Rate;Antall;Innbyggere;2013-2015
+18;35;GrÃ¥ stÃ¦r, inngrep;Telemark;8;Ã˜yesykdommer;60.6;850;14098;Rate;Antall;Innbyggere;2013-2015
+19;35;GrÃ¥ stÃ¦r, inngrep;SÃ¸rlandet;8;Ã˜yesykdommer;75.1;1523;20283;Rate;Antall;Innbyggere;2013-2015
+20;35;GrÃ¥ stÃ¦r, inngrep;Indre Oslo;8;Ã˜yesykdommer;48.46;591;12527;Rate;Antall;Innbyggere;2013-2015
+8888;35;GrÃ¥ stÃ¦r, inngrep;Norge;8;Ã˜yesykdommer;58.05;20876;359928;Rate;Antall;Innbyggere;2013-2015
+1;36;Injeksjonsbehandling, pasienter;Finnmark;8;Ã˜yesykdommer;20.05;97;5054;Rate;Antall;Innbyggere;2013-2015
+2;36;Injeksjonsbehandling, pasienter;UNN;8;Ã˜yesykdommer;23.13;312;13700;Rate;Antall;Innbyggere;2013-2015
+3;36;Injeksjonsbehandling, pasienter;Nordland;8;Ã˜yesykdommer;19.11;205;10815;Rate;Antall;Innbyggere;2013-2015
+4;36;Injeksjonsbehandling, pasienter;Helgeland;8;Ã˜yesykdommer;15.16;101;6721;Rate;Antall;Innbyggere;2013-2015
+5;36;Injeksjonsbehandling, pasienter;Nord-TrÃ¸ndelag;8;Ã˜yesykdommer;16.81;187;11219;Rate;Antall;Innbyggere;2013-2015
+6;36;Injeksjonsbehandling, pasienter;St. Olavs;8;Ã˜yesykdommer;20.57;422;20548;Rate;Antall;Innbyggere;2013-2015
+7;36;Injeksjonsbehandling, pasienter;MÃ¸re og Romsdal;8;Ã˜yesykdommer;16.76;354;20861;Rate;Antall;Innbyggere;2013-2015
+8;36;Injeksjonsbehandling, pasienter;FÃ¸rde;8;Ã˜yesykdommer;10.47;100;9515;Rate;Antall;Innbyggere;2013-2015
+9;36;Injeksjonsbehandling, pasienter;Bergen;8;Ã˜yesykdommer;13.46;395;29339;Rate;Antall;Innbyggere;2013-2015
+10;36;Injeksjonsbehandling, pasienter;Fonna;8;Ã˜yesykdommer;13.14;173;13192;Rate;Antall;Innbyggere;2013-2015
+11;36;Injeksjonsbehandling, pasienter;Stavanger;8;Ã˜yesykdommer;21.19;401;19056;Rate;Antall;Innbyggere;2013-2015
+12;36;Injeksjonsbehandling, pasienter;Ã˜stfold;8;Ã˜yesykdommer;20.21;433;21830;Rate;Antall;Innbyggere;2013-2015
+13;36;Injeksjonsbehandling, pasienter;Akershus;8;Ã˜yesykdommer;18.93;526;28648;Rate;Antall;Innbyggere;2013-2015
+14;36;Injeksjonsbehandling, pasienter;OUS;8;Ã˜yesykdommer;20.94;330;15113;Rate;Antall;Innbyggere;2013-2015
+15;36;Injeksjonsbehandling, pasienter;Innlandet;8;Ã˜yesykdommer;14.11;495;35111;Rate;Antall;Innbyggere;2013-2015
+16;36;Injeksjonsbehandling, pasienter;Vestre Viken;8;Ã˜yesykdommer;19.26;662;34438;Rate;Antall;Innbyggere;2013-2015
+17;36;Injeksjonsbehandling, pasienter;Vestfold;8;Ã˜yesykdommer;20.54;364;17862;Rate;Antall;Innbyggere;2013-2015
+18;36;Injeksjonsbehandling, pasienter;Telemark;8;Ã˜yesykdommer;14.7;208;14098;Rate;Antall;Innbyggere;2013-2015
+19;36;Injeksjonsbehandling, pasienter;SÃ¸rlandet;8;Ã˜yesykdommer;14.47;291;20283;Rate;Antall;Innbyggere;2013-2015
+20;36;Injeksjonsbehandling, pasienter;Indre Oslo;8;Ã˜yesykdommer;21.21;276;12527;Rate;Antall;Innbyggere;2013-2015
+8888;36;Injeksjonsbehandling, pasienter;Norge;8;Ã˜yesykdommer;17.65;6334;359928;Rate;Antall;Innbyggere;2013-2015
+1;37;HÃ¸reapparat, pasienter;Finnmark;9;Annet;73.21;370;5135;Rate;Antall;Innbyggere;2013-2015
+2;37;HÃ¸reapparat, pasienter;UNN;9;Annet;67.23;934;13926;Rate;Antall;Innbyggere;2013-2015
+3;37;HÃ¸reapparat, pasienter;Nordland;9;Annet;53.49;584;10917;Rate;Antall;Innbyggere;2013-2015
+4;37;HÃ¸reapparat, pasienter;Helgeland;9;Annet;58.26;396;6803;Rate;Antall;Innbyggere;2013-2015
+5;37;HÃ¸reapparat, pasienter;Nord-TrÃ¸ndelag;9;Annet;49.02;560;11374;Rate;Antall;Innbyggere;2013-2015
+6;37;HÃ¸reapparat, pasienter;St. Olavs;9;Annet;18.29;382;20852;Rate;Antall;Innbyggere;2013-2015
+7;37;HÃ¸reapparat, pasienter;MÃ¸re og Romsdal;9;Annet;56.26;1188;21029;Rate;Antall;Innbyggere;2013-2015
+8;37;HÃ¸reapparat, pasienter;FÃ¸rde;9;Annet;48.98;471;9560;Rate;Antall;Innbyggere;2013-2015
+9;37;HÃ¸reapparat, pasienter;Bergen;9;Annet;49.99;1489;29754;Rate;Antall;Innbyggere;2013-2015
+10;37;HÃ¸reapparat, pasienter;Fonna;9;Annet;52.29;703;13377;Rate;Antall;Innbyggere;2013-2015
+11;37;HÃ¸reapparat, pasienter;Stavanger;9;Annet;51.01;991;19439;Rate;Antall;Innbyggere;2013-2015
+12;37;HÃ¸reapparat, pasienter;Ã˜stfold;9;Annet;36.57;804;22096;Rate;Antall;Innbyggere;2013-2015
+13;37;HÃ¸reapparat, pasienter;Akershus;9;Annet;39.83;1158;29568;Rate;Antall;Innbyggere;2013-2015
+14;37;HÃ¸reapparat, pasienter;OUS;9;Annet;39.69;604;14997;Rate;Antall;Innbyggere;2013-2015
+15;37;HÃ¸reapparat, pasienter;Innlandet;9;Annet;44.67;1584;35385;Rate;Antall;Innbyggere;2013-2015
+16;37;HÃ¸reapparat, pasienter;Vestre Viken;9;Annet;47.39;1660;34961;Rate;Antall;Innbyggere;2013-2015
+17;37;HÃ¸reapparat, pasienter;Vestfold;9;Annet;50.32;915;18243;Rate;Antall;Innbyggere;2013-2015
+18;37;HÃ¸reapparat, pasienter;Telemark;9;Annet;46.39;658;14143;Rate;Antall;Innbyggere;2013-2015
+19;37;HÃ¸reapparat, pasienter;SÃ¸rlandet;9;Annet;56.56;1164;20625;Rate;Antall;Innbyggere;2013-2015
+20;37;HÃ¸reapparat, pasienter;Indre Oslo;9;Annet;42.42;547;12754;Rate;Antall;Innbyggere;2013-2015
+8888;37;HÃ¸reapparat, pasienter;Norge;9;Annet;47.03;17162;364938;Rate;Antall;Innbyggere;2013-2015
 1;38;Biologisk legemiddel, pasienter;Finnmark;9;Annet;;19;5135;Rate;Antall;Innbyggere;2013-2015
 2;38;Biologisk legemiddel, pasienter;UNN;9;Annet;3.46;49;13926;Rate;Antall;Innbyggere;2013-2015
 3;38;Biologisk legemiddel, pasienter;Nordland;9;Annet;3.83;42;10917;Rate;Antall;Innbyggere;2013-2015
 4;38;Biologisk legemiddel, pasienter;Helgeland;9;Annet;;24;6803;Rate;Antall;Innbyggere;2013-2015
-5;38;Biologisk legemiddel, pasienter;Nord-Trøndelag;9;Annet;;20;11374;Rate;Antall;Innbyggere;2013-2015
+5;38;Biologisk legemiddel, pasienter;Nord-TrÃ¸ndelag;9;Annet;;20;11374;Rate;Antall;Innbyggere;2013-2015
 6;38;Biologisk legemiddel, pasienter;St. Olavs;9;Annet;2.16;45;20852;Rate;Antall;Innbyggere;2013-2015
-7;38;Biologisk legemiddel, pasienter;Møre og Romsdal;9;Annet;2.63;53;21029;Rate;Antall;Innbyggere;2013-2015
-8;38;Biologisk legemiddel, pasienter;Førde;9;Annet;;29;9560;Rate;Antall;Innbyggere;2013-2015
+7;38;Biologisk legemiddel, pasienter;MÃ¸re og Romsdal;9;Annet;2.63;53;21029;Rate;Antall;Innbyggere;2013-2015
+8;38;Biologisk legemiddel, pasienter;FÃ¸rde;9;Annet;;29;9560;Rate;Antall;Innbyggere;2013-2015
 9;38;Biologisk legemiddel, pasienter;Bergen;9;Annet;2.77;82;29754;Rate;Antall;Innbyggere;2013-2015
 10;38;Biologisk legemiddel, pasienter;Fonna;9;Annet;3.26;43;13377;Rate;Antall;Innbyggere;2013-2015
 11;38;Biologisk legemiddel, pasienter;Stavanger;9;Annet;3.7;72;19439;Rate;Antall;Innbyggere;2013-2015
-12;38;Biologisk legemiddel, pasienter;Østfold;9;Annet;2.04;46;22096;Rate;Antall;Innbyggere;2013-2015
+12;38;Biologisk legemiddel, pasienter;Ã˜stfold;9;Annet;2.04;46;22096;Rate;Antall;Innbyggere;2013-2015
 13;38;Biologisk legemiddel, pasienter;Akershus;9;Annet;2.18;66;29568;Rate;Antall;Innbyggere;2013-2015
 14;38;Biologisk legemiddel, pasienter;OUS;9;Annet;2.58;37;14997;Rate;Antall;Innbyggere;2013-2015
 15;38;Biologisk legemiddel, pasienter;Innlandet;9;Annet;2.17;76;35385;Rate;Antall;Innbyggere;2013-2015
 16;38;Biologisk legemiddel, pasienter;Vestre Viken;9;Annet;2.66;93;34961;Rate;Antall;Innbyggere;2013-2015
 17;38;Biologisk legemiddel, pasienter;Vestfold;9;Annet;2.91;54;18243;Rate;Antall;Innbyggere;2013-2015
 18;38;Biologisk legemiddel, pasienter;Telemark;9;Annet;4.18;59;14143;Rate;Antall;Innbyggere;2013-2015
-19;38;Biologisk legemiddel, pasienter;Sørlandet;9;Annet;3.75;78;20625;Rate;Antall;Innbyggere;2013-2015
+19;38;Biologisk legemiddel, pasienter;SÃ¸rlandet;9;Annet;3.75;78;20625;Rate;Antall;Innbyggere;2013-2015
 20;38;Biologisk legemiddel, pasienter;Indre Oslo;9;Annet;2.51;32;12754;Rate;Antall;Innbyggere;2013-2015
 8888;38;Biologisk legemiddel, pasienter;Norge;9;Annet;2.79;1019;364938;Rate;Antall;Innbyggere;2013-2015
 1;39;Andel eldre i 2017;Finnmark;10;Befolkningsutvikling;6.8746799039;5235;76149;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 2;39;Andel eldre i 2017;UNN;10;Befolkningsutvikling;7.4172012726;14221;191730;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 3;39;Andel eldre i 2017;Nordland;10;Befolkningsutvikling;8.0368258012;11104;138164;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 4;39;Andel eldre i 2017;Helgeland;10;Befolkningsutvikling;8.8188896239;6932;78604;Andel (%);Antall eldre;Totalbefolkning;2013-2015
-5;39;Andel eldre i 2017;Nord-Trøndelag;10;Befolkningsutvikling;8.3444707911;11613;139170;Andel (%);Antall eldre;Totalbefolkning;2013-2015
+5;39;Andel eldre i 2017;Nord-TrÃ¸ndelag;10;Befolkningsutvikling;8.3444707911;11613;139170;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 6;39;Andel eldre i 2017;St. Olavs;10;Befolkningsutvikling;6.6838451167;21218;317452;Andel (%);Antall eldre;Totalbefolkning;2013-2015
-7;39;Andel eldre i 2017;Møre og Romsdal;10;Befolkningsutvikling;8.0227664921;21200;264248;Andel (%);Antall eldre;Totalbefolkning;2013-2015
-8;39;Andel eldre i 2017;Førde;10;Befolkningsutvikling;8.7007781184;9594;110266;Andel (%);Antall eldre;Totalbefolkning;2013-2015
+7;39;Andel eldre i 2017;MÃ¸re og Romsdal;10;Befolkningsutvikling;8.0227664921;21200;264248;Andel (%);Antall eldre;Totalbefolkning;2013-2015
+8;39;Andel eldre i 2017;FÃ¸rde;10;Befolkningsutvikling;8.7007781184;9594;110266;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 9;39;Andel eldre i 2017;Bergen;10;Befolkningsutvikling;6.7220886171;30104;447837;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 10;39;Andel eldre i 2017;Fonna;10;Befolkningsutvikling;7.4307270006;13454;181059;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 11;39;Andel eldre i 2017;Stavanger;10;Befolkningsutvikling;5.4611653828;19829;363091;Andel (%);Antall eldre;Totalbefolkning;2013-2015
-12;39;Andel eldre i 2017;Østfold;10;Befolkningsutvikling;7.6294967968;22294;292208;Andel (%);Antall eldre;Totalbefolkning;2013-2015
+12;39;Andel eldre i 2017;Ã˜stfold;10;Befolkningsutvikling;7.6294967968;22294;292208;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 13;39;Andel eldre i 2017;Akershus;10;Befolkningsutvikling;5.9835011153;30420;508398;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 14;39;Andel eldre i 2017;OUS;10;Befolkningsutvikling;5.4758251907;14705;268544;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 15;39;Andel eldre i 2017;Innlandet;10;Befolkningsutvikling;8.8864957248;35565;400214;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 16;39;Andel eldre i 2017;Vestre Viken;10;Befolkningsutvikling;7.272626542;35443;487348;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 17;39;Andel eldre i 2017;Vestfold;10;Befolkningsutvikling;7.9692852719;18401;230899;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 18;39;Andel eldre i 2017;Telemark;10;Befolkningsutvikling;8.195860525;14204;173307;Andel (%);Antall eldre;Totalbefolkning;2013-2015
-19;39;Andel eldre i 2017;Sørlandet;10;Befolkningsutvikling;6.964350425;20948;300789;Andel (%);Antall eldre;Totalbefolkning;2013-2015
+19;39;Andel eldre i 2017;SÃ¸rlandet;10;Befolkningsutvikling;6.964350425;20948;300789;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 20;39;Andel eldre i 2017;Indre Oslo;10;Befolkningsutvikling;4.4401744911;12825;288840;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 8888;39;Andel eldre i 2017;Norge;10;Befolkningsutvikling;7.023330849;369309;5258317;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 1;40;Andel eldre i 2040;Finnmark;10;Befolkningsutvikling;12.675186;10256;80914;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 2;40;Andel eldre i 2040;UNN;10;Befolkningsutvikling;13.071735778;27293;208794;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 3;40;Andel eldre i 2040;Nordland;10;Befolkningsutvikling;13.925404364;20964;150545;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 4;40;Andel eldre i 2040;Helgeland;10;Befolkningsutvikling;14.958540225;12231;81766;Andel (%);Antall eldre;Totalbefolkning;2013-2015
-5;40;Andel eldre i 2040;Nord-Trøndelag;10;Befolkningsutvikling;13.610729976;21625;158882;Andel (%);Antall eldre;Totalbefolkning;2013-2015
+5;40;Andel eldre i 2040;Nord-TrÃ¸ndelag;10;Befolkningsutvikling;13.610729976;21625;158882;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 6;40;Andel eldre i 2040;St. Olavs;10;Befolkningsutvikling;11.169896171;42225;378025;Andel (%);Antall eldre;Totalbefolkning;2013-2015
-7;40;Andel eldre i 2040;Møre og Romsdal;10;Befolkningsutvikling;13.493230149;40939;303404;Andel (%);Antall eldre;Totalbefolkning;2013-2015
-8;40;Andel eldre i 2040;Førde;10;Befolkningsutvikling;14.780086917;17481;118274;Andel (%);Antall eldre;Totalbefolkning;2013-2015
+7;40;Andel eldre i 2040;MÃ¸re og Romsdal;10;Befolkningsutvikling;13.493230149;40939;303404;Andel (%);Antall eldre;Totalbefolkning;2013-2015
+8;40;Andel eldre i 2040;FÃ¸rde;10;Befolkningsutvikling;14.780086917;17481;118274;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 9;40;Andel eldre i 2040;Bergen;10;Befolkningsutvikling;10.935802532;60599;554134;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 10;40;Andel eldre i 2040;Fonna;10;Befolkningsutvikling;12.304554089;26300;213742;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 11;40;Andel eldre i 2040;Stavanger;10;Befolkningsutvikling;9.9048011004;45727;461665;Andel (%);Antall eldre;Totalbefolkning;2013-2015
-12;40;Andel eldre i 2040;Østfold;10;Befolkningsutvikling;12.554841155;44384;353521;Andel (%);Antall eldre;Totalbefolkning;2013-2015
+12;40;Andel eldre i 2040;Ã˜stfold;10;Befolkningsutvikling;12.554841155;44384;353521;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 13;40;Andel eldre i 2040;Akershus;10;Befolkningsutvikling;10.275208206;68635;667967;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 14;40;Andel eldre i 2040;OUS;10;Befolkningsutvikling;8.6950013242;30204;347372;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 15;40;Andel eldre i 2040;Innlandet;10;Befolkningsutvikling;14.23216161;64238;451358;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 16;40;Andel eldre i 2040;Vestre Viken;10;Befolkningsutvikling;11.936169962;70768;592887;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 17;40;Andel eldre i 2040;Vestfold;10;Befolkningsutvikling;13.176965946;36365;275974;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 18;40;Andel eldre i 2040;Telemark;10;Befolkningsutvikling;14.039516557;26973;192122;Andel (%);Antall eldre;Totalbefolkning;2013-2015
-19;40;Andel eldre i 2040;Sørlandet;10;Befolkningsutvikling;11.54781016;43376;375621;Andel (%);Antall eldre;Totalbefolkning;2013-2015
+19;40;Andel eldre i 2040;SÃ¸rlandet;10;Befolkningsutvikling;11.54781016;43376;375621;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 20;40;Andel eldre i 2040;Indre Oslo;10;Befolkningsutvikling;8.2098990669;29925;364499;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 8888;40;Andel eldre i 2040;Norge;10;Befolkningsutvikling;11.695679958;740508;6331466;Andel (%);Antall eldre;Totalbefolkning;2013-2015
 1;41;Vekst i antall eldre;Finnmark;10;Befolkningsutvikling;95.912129895;5235;10256;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 2;41;Vekst i antall eldre;UNN;10;Befolkningsutvikling;91.920399409;14221;27293;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 3;41;Vekst i antall eldre;Nordland;10;Befolkningsutvikling;88.796829971;11104;20964;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 4;41;Vekst i antall eldre;Helgeland;10;Befolkningsutvikling;76.442585113;6932;12231;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
-5;41;Vekst i antall eldre;Nord-Trøndelag;10;Befolkningsutvikling;86.213725997;11613;21625;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
+5;41;Vekst i antall eldre;Nord-TrÃ¸ndelag;10;Befolkningsutvikling;86.213725997;11613;21625;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 6;41;Vekst i antall eldre;St. Olavs;10;Befolkningsutvikling;99.005561316;21218;42225;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
-7;41;Vekst i antall eldre;Møre og Romsdal;10;Befolkningsutvikling;93.108490566;21200;40939;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
-8;41;Vekst i antall eldre;Førde;10;Befolkningsutvikling;82.207629769;9594;17481;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
+7;41;Vekst i antall eldre;MÃ¸re og Romsdal;10;Befolkningsutvikling;93.108490566;21200;40939;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
+8;41;Vekst i antall eldre;FÃ¸rde;10;Befolkningsutvikling;82.207629769;9594;17481;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 9;41;Vekst i antall eldre;Bergen;10;Befolkningsutvikling;101.29883072;30104;60599;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 10;41;Vekst i antall eldre;Fonna;10;Befolkningsutvikling;95.480897874;13454;26300;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 11;41;Vekst i antall eldre;Stavanger;10;Befolkningsutvikling;130.60668718;19829;45727;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
-12;41;Vekst i antall eldre;Østfold;10;Befolkningsutvikling;99.084955593;22294;44384;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
+12;41;Vekst i antall eldre;Ã˜stfold;10;Befolkningsutvikling;99.084955593;22294;44384;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 13;41;Vekst i antall eldre;Akershus;10;Befolkningsutvikling;125.62458909;30420;68635;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 14;41;Vekst i antall eldre;OUS;10;Befolkningsutvikling;105.39952397;14705;30204;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 15;41;Vekst i antall eldre;Innlandet;10;Befolkningsutvikling;80.621397441;35565;64238;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 16;41;Vekst i antall eldre;Vestre Viken;10;Befolkningsutvikling;99.667071072;35443;70768;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 17;41;Vekst i antall eldre;Vestfold;10;Befolkningsutvikling;97.625129069;18401;36365;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 18;41;Vekst i antall eldre;Telemark;10;Befolkningsutvikling;89.897212053;14204;26973;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
-19;41;Vekst i antall eldre;Sørlandet;10;Befolkningsutvikling;107.06511361;20948;43376;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
+19;41;Vekst i antall eldre;SÃ¸rlandet;10;Befolkningsutvikling;107.06511361;20948;43376;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 20;41;Vekst i antall eldre;Indre Oslo;10;Befolkningsutvikling;133.33333333;12825;29925;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015
 8888;41;Vekst i antall eldre;Norge;10;Befolkningsutvikling;100.51176657;369309;740508;Vekst (%);Eldre i 2017;Eldre i 2040;2013-2015

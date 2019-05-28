@@ -1,561 +1,561 @@
 area;level3;level3_en;area_en;level2;level2_en;Level1;level1_en;value;denominator;numerator;type;name_denominator;name_numerator;Period
 2;1;Less than 34.0 weeks;UNN/Finnmark;1;Patients;1;Admissions;885.7;315;279;rate;born;number;2009-2014
 4;1;Less than 34.0 weeks;Nordland;1;Patients;1;Admissions;874.1;278;243;rate;born;number;2009-2014
-7;1;Less than 34.0 weeks;Trøndelag;1;Patients;1;Admissions;868.8;587;510;rate;born;number;2009-2014
-8;1;Less than 34.0 weeks;Møre og Romsdal;1;Patients;1;Admissions;845.4;291;246;rate;born;number;2009-2014
-11;1;Less than 34.0 weeks;Bergen/Førde;1;Patients;1;Admissions;845.4;776;656;rate;born;number;2009-2014
+7;1;Less than 34.0 weeks;TrÃ¸ndelag;1;Patients;1;Admissions;868.8;587;510;rate;born;number;2009-2014
+8;1;Less than 34.0 weeks;MÃ¸re og Romsdal;1;Patients;1;Admissions;845.4;291;246;rate;born;number;2009-2014
+11;1;Less than 34.0 weeks;Bergen/FÃ¸rde;1;Patients;1;Admissions;845.4;776;656;rate;born;number;2009-2014
 12;1;Less than 34.0 weeks;Fonna;1;Patients;1;Admissions;836.2;293;245;rate;born;number;2009-2014
 13;1;Less than 34.0 weeks;Stavanger;1;Patients;1;Admissions;887.5;640;568;rate;born;number;2009-2014
-14;1;Less than 34.0 weeks;Østfold;1;Patients;1;Admissions;893.5;338;302;rate;born;number;2009-2014
+14;1;Less than 34.0 weeks;Ã˜stfold;1;Patients;1;Admissions;893.5;338;302;rate;born;number;2009-2014
 15;1;Less than 34.0 weeks;AHUS;1;Patients;1;Admissions;886.2;668;592;rate;born;number;2009-2014
 16;1;Less than 34.0 weeks;OUS;1;Patients;1;Admissions;816.2;1077;879;rate;born;number;2009-2014
 19;1;Less than 34.0 weeks;Innlandet;1;Patients;1;Admissions;807.7;442;357;rate;born;number;2009-2014
 20;1;Less than 34.0 weeks;Vestre Viken;1;Patients;1;Admissions;961.6;599;576;rate;born;number;2009-2014
 21;1;Less than 34.0 weeks;Vestfold;1;Patients;1;Admissions;807.4;270;218;rate;born;number;2009-2014
 22;1;Less than 34.0 weeks;Telemark;1;Patients;1;Admissions;834.6;260;217;rate;born;number;2009-2014
-23;1;Less than 34.0 weeks;Sørlandet;1;Patients;1;Admissions;900.8;373;336;rate;born;number;2009-2014
+23;1;Less than 34.0 weeks;SÃ¸rlandet;1;Patients;1;Admissions;900.8;373;336;rate;born;number;2009-2014
 8888;1;Less than 34.0 weeks;Norway;1;Patients;1;Admissions;863.6;7207;6224;rate;born;number;2009-2014
 2;2;34.0 to 36.6 weeks;UNN/Finnmark;1;Patients;1;Admissions;490.7;697;342;rate;born;number;2009-2014
 4;2;34.0 to 36.6 weeks;Nordland;1;Patients;1;Admissions;409.1;638;261;rate;born;number;2009-2014
-7;2;34.0 to 36.6 weeks;Trøndelag;1;Patients;1;Admissions;407.9;1368;558;rate;born;number;2009-2014
-8;2;34.0 to 36.6 weeks;Møre og Romsdal;1;Patients;1;Admissions;432.3;687;297;rate;born;number;2009-2014
-11;2;34.0 to 36.6 weeks;Bergen/Førde;1;Patients;1;Admissions;347.8;1754;610;rate;born;number;2009-2014
+7;2;34.0 to 36.6 weeks;TrÃ¸ndelag;1;Patients;1;Admissions;407.9;1368;558;rate;born;number;2009-2014
+8;2;34.0 to 36.6 weeks;MÃ¸re og Romsdal;1;Patients;1;Admissions;432.3;687;297;rate;born;number;2009-2014
+11;2;34.0 to 36.6 weeks;Bergen/FÃ¸rde;1;Patients;1;Admissions;347.8;1754;610;rate;born;number;2009-2014
 12;2;34.0 to 36.6 weeks;Fonna;1;Patients;1;Admissions;585.8;664;389;rate;born;number;2009-2014
 13;2;34.0 to 36.6 weeks;Stavanger;1;Patients;1;Admissions;387.9;1441;559;rate;born;number;2009-2014
-14;2;34.0 to 36.6 weeks;Østfold;1;Patients;1;Admissions;506.7;827;419;rate;born;number;2009-2014
+14;2;34.0 to 36.6 weeks;Ã˜stfold;1;Patients;1;Admissions;506.7;827;419;rate;born;number;2009-2014
 15;2;34.0 to 36.6 weeks;AHUS;1;Patients;1;Admissions;440.6;1598;704;rate;born;number;2009-2014
 16;2;34.0 to 36.6 weeks;OUS;1;Patients;1;Admissions;422.9;2185;924;rate;born;number;2009-2014
 19;2;34.0 to 36.6 weeks;Innlandet;1;Patients;1;Admissions;427.7;1176;503;rate;born;number;2009-2014
 20;2;34.0 to 36.6 weeks;Vestre Viken;1;Patients;1;Admissions;415.8;1277;531;rate;born;number;2009-2014
 21;2;34.0 to 36.6 weeks;Vestfold;1;Patients;1;Admissions;711.3;613;436;rate;born;number;2009-2014
 22;2;34.0 to 36.6 weeks;Telemark;1;Patients;1;Admissions;636.2;481;306;rate;born;number;2009-2014
-23;2;34.0 to 36.6 weeks;Sørlandet;1;Patients;1;Admissions;592.6;1004;595;rate;born;number;2009-2014
+23;2;34.0 to 36.6 weeks;SÃ¸rlandet;1;Patients;1;Admissions;592.6;1004;595;rate;born;number;2009-2014
 8888;2;34.0 to 36.6 weeks;Norway;1;Patients;1;Admissions;453;16410;7434;rate;born;number;2009-2014
 2;3;More than 36.6 weeks (term infants);UNN/Finnmark;1;Patients;1;Admissions;54.7;16700;914;rate;born;number;2009-2014
 4;3;More than 36.6 weeks (term infants);Nordland;1;Patients;1;Admissions;66.4;12705;844;rate;born;number;2009-2014
-7;3;More than 36.6 weeks (term infants);Trøndelag;1;Patients;1;Admissions;55.8;29658;1654;rate;born;number;2009-2014
-8;3;More than 36.6 weeks (term infants);Møre og Romsdal;1;Patients;1;Admissions;55.9;16118;901;rate;born;number;2009-2014
-11;3;More than 36.6 weeks (term infants);Bergen/Førde;1;Patients;1;Admissions;44.1;37594;1658;rate;born;number;2009-2014
+7;3;More than 36.6 weeks (term infants);TrÃ¸ndelag;1;Patients;1;Admissions;55.8;29658;1654;rate;born;number;2009-2014
+8;3;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;1;Patients;1;Admissions;55.9;16118;901;rate;born;number;2009-2014
+11;3;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;1;Patients;1;Admissions;44.1;37594;1658;rate;born;number;2009-2014
 12;3;More than 36.6 weeks (term infants);Fonna;1;Patients;1;Admissions;83;11846;983;rate;born;number;2009-2014
 13;3;More than 36.6 weeks (term infants);Stavanger;1;Patients;1;Admissions;71.2;27704;1972;rate;born;number;2009-2014
-14;3;More than 36.6 weeks (term infants);Østfold;1;Patients;1;Admissions;66.2;17078;1131;rate;born;number;2009-2014
+14;3;More than 36.6 weeks (term infants);Ã˜stfold;1;Patients;1;Admissions;66.2;17078;1131;rate;born;number;2009-2014
 15;3;More than 36.6 weeks (term infants);AHUS;1;Patients;1;Admissions;58.3;32055;1868;rate;born;number;2009-2014
 16;3;More than 36.6 weeks (term infants);OUS;1;Patients;1;Admissions;51.5;49765;2564;rate;born;number;2009-2014
 19;3;More than 36.6 weeks (term infants);Innlandet;1;Patients;1;Admissions;49.4;20787;1026;rate;born;number;2009-2014
 20;3;More than 36.6 weeks (term infants);Vestre Viken;1;Patients;1;Admissions;50.6;28225;1427;rate;born;number;2009-2014
 21;3;More than 36.6 weeks (term infants);Vestfold;1;Patients;1;Admissions;115.7;12857;1488;rate;born;number;2009-2014
 22;3;More than 36.6 weeks (term infants);Telemark;1;Patients;1;Admissions;96.8;9527;922;rate;born;number;2009-2014
-23;3;More than 36.6 weeks (term infants);Sørlandet;1;Patients;1;Admissions;88;19630;1728;rate;born;number;2009-2014
+23;3;More than 36.6 weeks (term infants);SÃ¸rlandet;1;Patients;1;Admissions;88;19630;1728;rate;born;number;2009-2014
 8888;3;More than 36.6 weeks (term infants);Norway;1;Patients;1;Admissions;61.6;342249;21080;rate;born;number;2009-2014
 2;4;All;UNN/Finnmark;1;Patients;1;Admissions;86.4;17771;1535;rate;born;number;2009-2014
 4;4;All;Nordland;1;Patients;1;Admissions;98.7;13656;1348;rate;born;number;2009-2014
-7;4;All;Trøndelag;1;Patients;1;Admissions;85.9;31692;2722;rate;born;number;2009-2014
-8;4;All;Møre og Romsdal;1;Patients;1;Admissions;84.2;17140;1444;rate;born;number;2009-2014
-11;4;All;Bergen/Førde;1;Patients;1;Admissions;72.3;40458;2924;rate;born;number;2009-2014
+7;4;All;TrÃ¸ndelag;1;Patients;1;Admissions;85.9;31692;2722;rate;born;number;2009-2014
+8;4;All;MÃ¸re og Romsdal;1;Patients;1;Admissions;84.2;17140;1444;rate;born;number;2009-2014
+11;4;All;Bergen/FÃ¸rde;1;Patients;1;Admissions;72.3;40458;2924;rate;born;number;2009-2014
 12;4;All;Fonna;1;Patients;1;Admissions;124.7;12964;1617;rate;born;number;2009-2014
 13;4;All;Stavanger;1;Patients;1;Admissions;102.6;30193;3099;rate;born;number;2009-2014
-14;4;All;Østfold;1;Patients;1;Admissions;101.2;18305;1852;rate;born;number;2009-2014
+14;4;All;Ã˜stfold;1;Patients;1;Admissions;101.2;18305;1852;rate;born;number;2009-2014
 15;4;All;AHUS;1;Patients;1;Admissions;91.9;34433;3164;rate;born;number;2009-2014
 16;4;All;OUS;1;Patients;1;Admissions;81.9;53323;4367;rate;born;number;2009-2014
 19;4;All;Innlandet;1;Patients;1;Admissions;83.1;22695;1886;rate;born;number;2009-2014
 20;4;All;Vestre Viken;1;Patients;1;Admissions;83.9;30220;2534;rate;born;number;2009-2014
 21;4;All;Vestfold;1;Patients;1;Admissions;155.8;13750;2142;rate;born;number;2009-2014
 22;4;All;Telemark;1;Patients;1;Admissions;139.8;10337;1445;rate;born;number;2009-2014
-23;4;All;Sørlandet;1;Patients;1;Admissions;125.8;21131;2659;rate;born;number;2009-2014
+23;4;All;SÃ¸rlandet;1;Patients;1;Admissions;125.8;21131;2659;rate;born;number;2009-2014
 8888;4;All;Norway;1;Patients;1;Admissions;94.4;368068;34738;rate;born;number;2009-2014
 2;5;Less than 34.0 weeks;UNN/Finnmark;2;Lenght of stay;1;Admissions;43790.5;315;13794;rate;born;number;2009-2014
 4;5;Less than 34.0 weeks;Nordland;2;Lenght of stay;1;Admissions;39996.4;278;11119;rate;born;number;2009-2014
-7;5;Less than 34.0 weeks;Trøndelag;2;Lenght of stay;1;Admissions;35097.1;587;20602;rate;born;number;2009-2014
-8;5;Less than 34.0 weeks;Møre og Romsdal;2;Lenght of stay;1;Admissions;36955.3;291;10754;rate;born;number;2009-2014
-11;5;Less than 34.0 weeks;Bergen/Førde;2;Lenght of stay;1;Admissions;32475.5;776;25201;rate;born;number;2009-2014
+7;5;Less than 34.0 weeks;TrÃ¸ndelag;2;Lenght of stay;1;Admissions;35097.1;587;20602;rate;born;number;2009-2014
+8;5;Less than 34.0 weeks;MÃ¸re og Romsdal;2;Lenght of stay;1;Admissions;36955.3;291;10754;rate;born;number;2009-2014
+11;5;Less than 34.0 weeks;Bergen/FÃ¸rde;2;Lenght of stay;1;Admissions;32475.5;776;25201;rate;born;number;2009-2014
 12;5;Less than 34.0 weeks;Fonna;2;Lenght of stay;1;Admissions;33365.2;293;9776;rate;born;number;2009-2014
 13;5;Less than 34.0 weeks;Stavanger;2;Lenght of stay;1;Admissions;33471.9;640;21422;rate;born;number;2009-2014
-14;5;Less than 34.0 weeks;Østfold;2;Lenght of stay;1;Admissions;36600.6;338;12371;rate;born;number;2009-2014
+14;5;Less than 34.0 weeks;Ã˜stfold;2;Lenght of stay;1;Admissions;36600.6;338;12371;rate;born;number;2009-2014
 15;5;Less than 34.0 weeks;AHUS;2;Lenght of stay;1;Admissions;38802.4;668;25920;rate;born;number;2009-2014
 16;5;Less than 34.0 weeks;OUS;2;Lenght of stay;1;Admissions;29025.1;1077;31260;rate;born;number;2009-2014
 19;5;Less than 34.0 weeks;Innlandet;2;Lenght of stay;1;Admissions;32416.3;442;14328;rate;born;number;2009-2014
 20;5;Less than 34.0 weeks;Vestre Viken;2;Lenght of stay;1;Admissions;34190.3;599;20480;rate;born;number;2009-2014
 21;5;Less than 34.0 weeks;Vestfold;2;Lenght of stay;1;Admissions;32992.6;270;8908;rate;born;number;2009-2014
 22;5;Less than 34.0 weeks;Telemark;2;Lenght of stay;1;Admissions;34300;260;8918;rate;born;number;2009-2014
-23;5;Less than 34.0 weeks;Sørlandet;2;Lenght of stay;1;Admissions;38463.8;373;14347;rate;born;number;2009-2014
+23;5;Less than 34.0 weeks;SÃ¸rlandet;2;Lenght of stay;1;Admissions;38463.8;373;14347;rate;born;number;2009-2014
 8888;5;Less than 34.0 weeks;Norway;2;Lenght of stay;1;Admissions;34577.5;7207;249200;rate;born;number;2009-2014
 2;6;34.0 to 36.6 weeks;UNN/Finnmark;2;Lenght of stay;1;Admissions;7901;697;5507;rate;born;number;2009-2014
 4;6;34.0 to 36.6 weeks;Nordland;2;Lenght of stay;1;Admissions;5468.7;638;3489;rate;born;number;2009-2014
-7;6;34.0 to 36.6 weeks;Trøndelag;2;Lenght of stay;1;Admissions;5295.3;1368;7244;rate;born;number;2009-2014
-8;6;34.0 to 36.6 weeks;Møre og Romsdal;2;Lenght of stay;1;Admissions;5116.4;687;3515;rate;born;number;2009-2014
-11;6;34.0 to 36.6 weeks;Bergen/Førde;2;Lenght of stay;1;Admissions;3440.1;1754;6034;rate;born;number;2009-2014
+7;6;34.0 to 36.6 weeks;TrÃ¸ndelag;2;Lenght of stay;1;Admissions;5295.3;1368;7244;rate;born;number;2009-2014
+8;6;34.0 to 36.6 weeks;MÃ¸re og Romsdal;2;Lenght of stay;1;Admissions;5116.4;687;3515;rate;born;number;2009-2014
+11;6;34.0 to 36.6 weeks;Bergen/FÃ¸rde;2;Lenght of stay;1;Admissions;3440.1;1754;6034;rate;born;number;2009-2014
 12;6;34.0 to 36.6 weeks;Fonna;2;Lenght of stay;1;Admissions;6744;664;4478;rate;born;number;2009-2014
 13;6;34.0 to 36.6 weeks;Stavanger;2;Lenght of stay;1;Admissions;4112.4;1441;5926;rate;born;number;2009-2014
-14;6;34.0 to 36.6 weeks;Østfold;2;Lenght of stay;1;Admissions;6662.6;827;5510;rate;born;number;2009-2014
+14;6;34.0 to 36.6 weeks;Ã˜stfold;2;Lenght of stay;1;Admissions;6662.6;827;5510;rate;born;number;2009-2014
 15;6;34.0 to 36.6 weeks;AHUS;2;Lenght of stay;1;Admissions;5200.9;1598;8311;rate;born;number;2009-2014
 16;6;34.0 to 36.6 weeks;OUS;2;Lenght of stay;1;Admissions;4018.3;2185;8780;rate;born;number;2009-2014
 19;6;34.0 to 36.6 weeks;Innlandet;2;Lenght of stay;1;Admissions;5669.2;1176;6667;rate;born;number;2009-2014
 20;6;34.0 to 36.6 weeks;Vestre Viken;2;Lenght of stay;1;Admissions;3823.8;1277;4883;rate;born;number;2009-2014
 21;6;34.0 to 36.6 weeks;Vestfold;2;Lenght of stay;1;Admissions;6727.6;613;4124;rate;born;number;2009-2014
 22;6;34.0 to 36.6 weeks;Telemark;2;Lenght of stay;1;Admissions;6887.7;481;3313;rate;born;number;2009-2014
-23;6;34.0 to 36.6 weeks;Sørlandet;2;Lenght of stay;1;Admissions;6335.7;1004;6361;rate;born;number;2009-2014
+23;6;34.0 to 36.6 weeks;SÃ¸rlandet;2;Lenght of stay;1;Admissions;6335.7;1004;6361;rate;born;number;2009-2014
 8888;6;34.0 to 36.6 weeks;Norway;2;Lenght of stay;1;Admissions;5127.5;16410;84142;rate;born;number;2009-2014
 2;7;More than 36.6 weeks (term infants);UNN/Finnmark;2;Lenght of stay;1;Admissions;307.6;16700;5137;rate;born;number;2009-2014
 4;7;More than 36.6 weeks (term infants);Nordland;2;Lenght of stay;1;Admissions;475.1;12705;6036;rate;born;number;2009-2014
-7;7;More than 36.6 weeks (term infants);Trøndelag;2;Lenght of stay;1;Admissions;336;29658;9966;rate;born;number;2009-2014
-8;7;More than 36.6 weeks (term infants);Møre og Romsdal;2;Lenght of stay;1;Admissions;375.8;16118;6057;rate;born;number;2009-2014
-11;7;More than 36.6 weeks (term infants);Bergen/Førde;2;Lenght of stay;1;Admissions;173.2;37594;6510;rate;born;number;2009-2014
+7;7;More than 36.6 weeks (term infants);TrÃ¸ndelag;2;Lenght of stay;1;Admissions;336;29658;9966;rate;born;number;2009-2014
+8;7;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;2;Lenght of stay;1;Admissions;375.8;16118;6057;rate;born;number;2009-2014
+11;7;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;2;Lenght of stay;1;Admissions;173.2;37594;6510;rate;born;number;2009-2014
 12;7;More than 36.6 weeks (term infants);Fonna;2;Lenght of stay;1;Admissions;496.7;11846;5884;rate;born;number;2009-2014
 13;7;More than 36.6 weeks (term infants);Stavanger;2;Lenght of stay;1;Admissions;332.1;27704;9200;rate;born;number;2009-2014
-14;7;More than 36.6 weeks (term infants);Østfold;2;Lenght of stay;1;Admissions;396;17078;6763;rate;born;number;2009-2014
+14;7;More than 36.6 weeks (term infants);Ã˜stfold;2;Lenght of stay;1;Admissions;396;17078;6763;rate;born;number;2009-2014
 15;7;More than 36.6 weeks (term infants);AHUS;2;Lenght of stay;1;Admissions;321.8;32055;10314;rate;born;number;2009-2014
 16;7;More than 36.6 weeks (term infants);OUS;2;Lenght of stay;1;Admissions;252.1;49765;12545;rate;born;number;2009-2014
 19;7;More than 36.6 weeks (term infants);Innlandet;2;Lenght of stay;1;Admissions;327.2;20787;6801;rate;born;number;2009-2014
 20;7;More than 36.6 weeks (term infants);Vestre Viken;2;Lenght of stay;1;Admissions;237.7;28225;6710;rate;born;number;2009-2014
 21;7;More than 36.6 weeks (term infants);Vestfold;2;Lenght of stay;1;Admissions;518.2;12857;6662;rate;born;number;2009-2014
 22;7;More than 36.6 weeks (term infants);Telemark;2;Lenght of stay;1;Admissions;513.5;9527;4892;rate;born;number;2009-2014
-23;7;More than 36.6 weeks (term infants);Sørlandet;2;Lenght of stay;1;Admissions;409.9;19630;8046;rate;born;number;2009-2014
+23;7;More than 36.6 weeks (term infants);SÃ¸rlandet;2;Lenght of stay;1;Admissions;409.9;19630;8046;rate;born;number;2009-2014
 8888;7;More than 36.6 weeks (term infants);Norway;2;Lenght of stay;1;Admissions;325.9;342249;111523;rate;born;number;2009-2014
 2;8;All;UNN/Finnmark;2;Lenght of stay;1;Admissions;1375.2;17771;24438;rate;born;number;2009-2014
 4;8;All;Nordland;2;Lenght of stay;1;Admissions;1511.7;13656;20644;rate;born;number;2009-2014
-7;8;All;Trøndelag;2;Lenght of stay;1;Admissions;1193.1;31692;37812;rate;born;number;2009-2014
-8;8;All;Møre og Romsdal;2;Lenght of stay;1;Admissions;1185.9;17140;20326;rate;born;number;2009-2014
-11;8;All;Bergen/Førde;2;Lenght of stay;1;Admissions;932.9;40458;37745;rate;born;number;2009-2014
+7;8;All;TrÃ¸ndelag;2;Lenght of stay;1;Admissions;1193.1;31692;37812;rate;born;number;2009-2014
+8;8;All;MÃ¸re og Romsdal;2;Lenght of stay;1;Admissions;1185.9;17140;20326;rate;born;number;2009-2014
+11;8;All;Bergen/FÃ¸rde;2;Lenght of stay;1;Admissions;932.9;40458;37745;rate;born;number;2009-2014
 12;8;All;Fonna;2;Lenght of stay;1;Admissions;1553.4;12964;20138;rate;born;number;2009-2014
 13;8;All;Stavanger;2;Lenght of stay;1;Admissions;1210.5;30193;36548;rate;born;number;2009-2014
-14;8;All;Østfold;2;Lenght of stay;1;Admissions;1346.3;18305;24644;rate;born;number;2009-2014
+14;8;All;Ã˜stfold;2;Lenght of stay;1;Admissions;1346.3;18305;24644;rate;born;number;2009-2014
 15;8;All;AHUS;2;Lenght of stay;1;Admissions;1293.7;34433;44545;rate;born;number;2009-2014
 16;8;All;OUS;2;Lenght of stay;1;Admissions;986.2;53323;52585;rate;born;number;2009-2014
 19;8;All;Innlandet;2;Lenght of stay;1;Admissions;1224.8;22695;27796;rate;born;number;2009-2014
 20;8;All;Vestre Viken;2;Lenght of stay;1;Admissions;1061.3;30220;32073;rate;born;number;2009-2014
 21;8;All;Vestfold;2;Lenght of stay;1;Admissions;1432.3;13750;19694;rate;born;number;2009-2014
 22;8;All;Telemark;2;Lenght of stay;1;Admissions;1656.5;10337;17123;rate;born;number;2009-2014
-23;8;All;Sørlandet;2;Lenght of stay;1;Admissions;1360.7;21131;28754;rate;born;number;2009-2014
+23;8;All;SÃ¸rlandet;2;Lenght of stay;1;Admissions;1360.7;21131;28754;rate;born;number;2009-2014
 8888;8;All;Norway;2;Lenght of stay;1;Admissions;1208.6;368068;444865;rate;born;number;2009-2014
 2;9;Less than 34.0 weeks;UNN/Finnmark;3;Patients;2;Antibiotic treatment;552.4;315;174;rate;born;number;2009-2014
 4;9;Less than 34.0 weeks;Nordland;3;Patients;2;Antibiotic treatment;500;278;139;rate;born;number;2009-2014
-7;9;Less than 34.0 weeks;Trøndelag;3;Patients;2;Antibiotic treatment;480.4;587;282;rate;born;number;2009-2014
-8;9;Less than 34.0 weeks;Møre og Romsdal;3;Patients;2;Antibiotic treatment;491.4;291;143;rate;born;number;2009-2014
-11;9;Less than 34.0 weeks;Bergen/Førde;3;Patients;2;Antibiotic treatment;586.3;776;455;rate;born;number;2009-2014
+7;9;Less than 34.0 weeks;TrÃ¸ndelag;3;Patients;2;Antibiotic treatment;480.4;587;282;rate;born;number;2009-2014
+8;9;Less than 34.0 weeks;MÃ¸re og Romsdal;3;Patients;2;Antibiotic treatment;491.4;291;143;rate;born;number;2009-2014
+11;9;Less than 34.0 weeks;Bergen/FÃ¸rde;3;Patients;2;Antibiotic treatment;586.3;776;455;rate;born;number;2009-2014
 12;9;Less than 34.0 weeks;Fonna;3;Patients;2;Antibiotic treatment;471;293;138;rate;born;number;2009-2014
 13;9;Less than 34.0 weeks;Stavanger;3;Patients;2;Antibiotic treatment;595.3;640;381;rate;born;number;2009-2014
-14;9;Less than 34.0 weeks;Østfold;3;Patients;2;Antibiotic treatment;541.4;338;183;rate;born;number;2009-2014
+14;9;Less than 34.0 weeks;Ã˜stfold;3;Patients;2;Antibiotic treatment;541.4;338;183;rate;born;number;2009-2014
 15;9;Less than 34.0 weeks;AHUS;3;Patients;2;Antibiotic treatment;434.1;668;290;rate;born;number;2009-2014
 16;9;Less than 34.0 weeks;OUS;3;Patients;2;Antibiotic treatment;434.5;1077;468;rate;born;number;2009-2014
 19;9;Less than 34.0 weeks;Innlandet;3;Patients;2;Antibiotic treatment;407.2;442;180;rate;born;number;2009-2014
 20;9;Less than 34.0 weeks;Vestre Viken;3;Patients;2;Antibiotic treatment;672.8;599;403;rate;born;number;2009-2014
 21;9;Less than 34.0 weeks;Vestfold;3;Patients;2;Antibiotic treatment;422.2;270;114;rate;born;number;2009-2014
 22;9;Less than 34.0 weeks;Telemark;3;Patients;2;Antibiotic treatment;526.9;260;137;rate;born;number;2009-2014
-23;9;Less than 34.0 weeks;Sørlandet;3;Patients;2;Antibiotic treatment;613.9;373;229;rate;born;number;2009-2014
+23;9;Less than 34.0 weeks;SÃ¸rlandet;3;Patients;2;Antibiotic treatment;613.9;373;229;rate;born;number;2009-2014
 8888;9;Less than 34.0 weeks;Norway;3;Patients;2;Antibiotic treatment;515.6;7207;3716;rate;born;number;2009-2014
 2;10;34.0 to 36.6 weeks;UNN/Finnmark;3;Patients;2;Antibiotic treatment;99;697;69;rate;born;number;2009-2014
 4;10;34.0 to 36.6 weeks;Nordland;3;Patients;2;Antibiotic treatment;105;638;67;rate;born;number;2009-2014
-7;10;34.0 to 36.6 weeks;Trøndelag;3;Patients;2;Antibiotic treatment;74.6;1368;102;rate;born;number;2009-2014
-8;10;34.0 to 36.6 weeks;Møre og Romsdal;3;Patients;2;Antibiotic treatment;77.1;687;53;rate;born;number;2009-2014
-11;10;34.0 to 36.6 weeks;Bergen/Førde;3;Patients;2;Antibiotic treatment;97.5;1754;171;rate;born;number;2009-2014
+7;10;34.0 to 36.6 weeks;TrÃ¸ndelag;3;Patients;2;Antibiotic treatment;74.6;1368;102;rate;born;number;2009-2014
+8;10;34.0 to 36.6 weeks;MÃ¸re og Romsdal;3;Patients;2;Antibiotic treatment;77.1;687;53;rate;born;number;2009-2014
+11;10;34.0 to 36.6 weeks;Bergen/FÃ¸rde;3;Patients;2;Antibiotic treatment;97.5;1754;171;rate;born;number;2009-2014
 12;10;34.0 to 36.6 weeks;Fonna;3;Patients;2;Antibiotic treatment;72.3;664;48;rate;born;number;2009-2014
 13;10;34.0 to 36.6 weeks;Stavanger;3;Patients;2;Antibiotic treatment;145;1441;209;rate;born;number;2009-2014
-14;10;34.0 to 36.6 weeks;Østfold;3;Patients;2;Antibiotic treatment;89.5;827;74;rate;born;number;2009-2014
+14;10;34.0 to 36.6 weeks;Ã˜stfold;3;Patients;2;Antibiotic treatment;89.5;827;74;rate;born;number;2009-2014
 15;10;34.0 to 36.6 weeks;AHUS;3;Patients;2;Antibiotic treatment;69.5;1598;111;rate;born;number;2009-2014
 16;10;34.0 to 36.6 weeks;OUS;3;Patients;2;Antibiotic treatment;108;2185;236;rate;born;number;2009-2014
 19;10;34.0 to 36.6 weeks;Innlandet;3;Patients;2;Antibiotic treatment;74;1176;87;rate;born;number;2009-2014
 20;10;34.0 to 36.6 weeks;Vestre Viken;3;Patients;2;Antibiotic treatment;154.3;1277;197;rate;born;number;2009-2014
 21;10;34.0 to 36.6 weeks;Vestfold;3;Patients;2;Antibiotic treatment;78.3;613;48;rate;born;number;2009-2014
 22;10;34.0 to 36.6 weeks;Telemark;3;Patients;2;Antibiotic treatment;83.2;481;40;rate;born;number;2009-2014
-23;10;34.0 to 36.6 weeks;Sørlandet;3;Patients;2;Antibiotic treatment;146.4;1004;147;rate;born;number;2009-2014
+23;10;34.0 to 36.6 weeks;SÃ¸rlandet;3;Patients;2;Antibiotic treatment;146.4;1004;147;rate;born;number;2009-2014
 8888;10;34.0 to 36.6 weeks;Norway;3;Patients;2;Antibiotic treatment;101.1;16410;1659;rate;born;number;2009-2014
 2;11;More than 36.6 weeks (term infants);UNN/Finnmark;3;Patients;2;Antibiotic treatment;23.2;16700;387;rate;born;number;2009-2014
 4;11;More than 36.6 weeks (term infants);Nordland;3;Patients;2;Antibiotic treatment;30.9;12705;392;rate;born;number;2009-2014
-7;11;More than 36.6 weeks (term infants);Trøndelag;3;Patients;2;Antibiotic treatment;25.2;29658;747;rate;born;number;2009-2014
-8;11;More than 36.6 weeks (term infants);Møre og Romsdal;3;Patients;2;Antibiotic treatment;23.1;16118;373;rate;born;number;2009-2014
-11;11;More than 36.6 weeks (term infants);Bergen/Førde;3;Patients;2;Antibiotic treatment;15.9;37594;598;rate;born;number;2009-2014
+7;11;More than 36.6 weeks (term infants);TrÃ¸ndelag;3;Patients;2;Antibiotic treatment;25.2;29658;747;rate;born;number;2009-2014
+8;11;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;3;Patients;2;Antibiotic treatment;23.1;16118;373;rate;born;number;2009-2014
+11;11;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;3;Patients;2;Antibiotic treatment;15.9;37594;598;rate;born;number;2009-2014
 12;11;More than 36.6 weeks (term infants);Fonna;3;Patients;2;Antibiotic treatment;23.6;11846;279;rate;born;number;2009-2014
 13;11;More than 36.6 weeks (term infants);Stavanger;3;Patients;2;Antibiotic treatment;36.7;27704;1016;rate;born;number;2009-2014
-14;11;More than 36.6 weeks (term infants);Østfold;3;Patients;2;Antibiotic treatment;30.4;17078;519;rate;born;number;2009-2014
+14;11;More than 36.6 weeks (term infants);Ã˜stfold;3;Patients;2;Antibiotic treatment;30.4;17078;519;rate;born;number;2009-2014
 15;11;More than 36.6 weeks (term infants);AHUS;3;Patients;2;Antibiotic treatment;20.5;32055;656;rate;born;number;2009-2014
 16;11;More than 36.6 weeks (term infants);OUS;3;Patients;2;Antibiotic treatment;24;49765;1192;rate;born;number;2009-2014
 19;11;More than 36.6 weeks (term infants);Innlandet;3;Patients;2;Antibiotic treatment;21.4;20787;445;rate;born;number;2009-2014
 20;11;More than 36.6 weeks (term infants);Vestre Viken;3;Patients;2;Antibiotic treatment;30.6;28225;864;rate;born;number;2009-2014
 21;11;More than 36.6 weeks (term infants);Vestfold;3;Patients;2;Antibiotic treatment;26.1;12857;336;rate;born;number;2009-2014
 22;11;More than 36.6 weeks (term infants);Telemark;3;Patients;2;Antibiotic treatment;23.9;9527;228;rate;born;number;2009-2014
-23;11;More than 36.6 weeks (term infants);Sørlandet;3;Patients;2;Antibiotic treatment;30.6;19630;600;rate;born;number;2009-2014
+23;11;More than 36.6 weeks (term infants);SÃ¸rlandet;3;Patients;2;Antibiotic treatment;30.6;19630;600;rate;born;number;2009-2014
 8888;11;More than 36.6 weeks (term infants);Norway;3;Patients;2;Antibiotic treatment;25.2;342249;8632;rate;born;number;2009-2014
 2;12;All;UNN/Finnmark;3;Patients;2;Antibiotic treatment;35.5;17771;630;rate;born;number;2009-2014
 4;12;All;Nordland;3;Patients;2;Antibiotic treatment;43.8;13656;598;rate;born;number;2009-2014
-7;12;All;Trøndelag;3;Patients;2;Antibiotic treatment;35.7;31692;1131;rate;born;number;2009-2014
-8;12;All;Møre og Romsdal;3;Patients;2;Antibiotic treatment;33.2;17140;569;rate;born;number;2009-2014
-11;12;All;Bergen/Førde;3;Patients;2;Antibiotic treatment;30.3;40458;1224;rate;born;number;2009-2014
+7;12;All;TrÃ¸ndelag;3;Patients;2;Antibiotic treatment;35.7;31692;1131;rate;born;number;2009-2014
+8;12;All;MÃ¸re og Romsdal;3;Patients;2;Antibiotic treatment;33.2;17140;569;rate;born;number;2009-2014
+11;12;All;Bergen/FÃ¸rde;3;Patients;2;Antibiotic treatment;30.3;40458;1224;rate;born;number;2009-2014
 12;12;All;Fonna;3;Patients;2;Antibiotic treatment;35.9;12964;465;rate;born;number;2009-2014
 13;12;All;Stavanger;3;Patients;2;Antibiotic treatment;53.2;30193;1606;rate;born;number;2009-2014
-14;12;All;Østfold;3;Patients;2;Antibiotic treatment;42.4;18305;776;rate;born;number;2009-2014
+14;12;All;Ã˜stfold;3;Patients;2;Antibiotic treatment;42.4;18305;776;rate;born;number;2009-2014
 15;12;All;AHUS;3;Patients;2;Antibiotic treatment;30.7;34433;1057;rate;born;number;2009-2014
 16;12;All;OUS;3;Patients;2;Antibiotic treatment;35.6;53323;1896;rate;born;number;2009-2014
 19;12;All;Innlandet;3;Patients;2;Antibiotic treatment;31.4;22695;712;rate;born;number;2009-2014
 20;12;All;Vestre Viken;3;Patients;2;Antibiotic treatment;48.4;30220;1464;rate;born;number;2009-2014
 21;12;All;Vestfold;3;Patients;2;Antibiotic treatment;36.2;13750;498;rate;born;number;2009-2014
 22;12;All;Telemark;3;Patients;2;Antibiotic treatment;39.2;10337;405;rate;born;number;2009-2014
-23;12;All;Sørlandet;3;Patients;2;Antibiotic treatment;46.2;21131;976;rate;born;number;2009-2014
+23;12;All;SÃ¸rlandet;3;Patients;2;Antibiotic treatment;46.2;21131;976;rate;born;number;2009-2014
 8888;12;All;Norway;3;Patients;2;Antibiotic treatment;38.1;368068;14007;rate;born;number;2009-2014
 2;13;Less than 34.0 weeks;UNN/Finnmark;4;Treatment days;2;Antibiotic treatment;5015.9;315;1580;rate;born;number;2009-2014
 4;13;Less than 34.0 weeks;Nordland;4;Treatment days;2;Antibiotic treatment;5550.4;278;1543;rate;born;number;2009-2014
-7;13;Less than 34.0 weeks;Trøndelag;4;Treatment days;2;Antibiotic treatment;4521.3;587;2654;rate;born;number;2009-2014
-8;13;Less than 34.0 weeks;Møre og Romsdal;4;Treatment days;2;Antibiotic treatment;8051.5;291;2343;rate;born;number;2009-2014
-11;13;Less than 34.0 weeks;Bergen/Førde;4;Treatment days;2;Antibiotic treatment;5554.1;776;4310;rate;born;number;2009-2014
+7;13;Less than 34.0 weeks;TrÃ¸ndelag;4;Treatment days;2;Antibiotic treatment;4521.3;587;2654;rate;born;number;2009-2014
+8;13;Less than 34.0 weeks;MÃ¸re og Romsdal;4;Treatment days;2;Antibiotic treatment;8051.5;291;2343;rate;born;number;2009-2014
+11;13;Less than 34.0 weeks;Bergen/FÃ¸rde;4;Treatment days;2;Antibiotic treatment;5554.1;776;4310;rate;born;number;2009-2014
 12;13;Less than 34.0 weeks;Fonna;4;Treatment days;2;Antibiotic treatment;3747.4;293;1098;rate;born;number;2009-2014
 13;13;Less than 34.0 weeks;Stavanger;4;Treatment days;2;Antibiotic treatment;4650;640;2976;rate;born;number;2009-2014
-14;13;Less than 34.0 weeks;Østfold;4;Treatment days;2;Antibiotic treatment;5275.1;338;1783;rate;born;number;2009-2014
+14;13;Less than 34.0 weeks;Ã˜stfold;4;Treatment days;2;Antibiotic treatment;5275.1;338;1783;rate;born;number;2009-2014
 15;13;Less than 34.0 weeks;AHUS;4;Treatment days;2;Antibiotic treatment;5702.1;668;3809;rate;born;number;2009-2014
 16;13;Less than 34.0 weeks;OUS;4;Treatment days;2;Antibiotic treatment;4292.5;1077;4623;rate;born;number;2009-2014
 19;13;Less than 34.0 weeks;Innlandet;4;Treatment days;2;Antibiotic treatment;4133.5;442;1827;rate;born;number;2009-2014
 20;13;Less than 34.0 weeks;Vestre Viken;4;Treatment days;2;Antibiotic treatment;5272.1;599;3158;rate;born;number;2009-2014
 21;13;Less than 34.0 weeks;Vestfold;4;Treatment days;2;Antibiotic treatment;3592.6;270;970;rate;born;number;2009-2014
 22;13;Less than 34.0 weeks;Telemark;4;Treatment days;2;Antibiotic treatment;5534.6;260;1439;rate;born;number;2009-2014
-23;13;Less than 34.0 weeks;Sørlandet;4;Treatment days;2;Antibiotic treatment;5983.9;373;2232;rate;born;number;2009-2014
+23;13;Less than 34.0 weeks;SÃ¸rlandet;4;Treatment days;2;Antibiotic treatment;5983.9;373;2232;rate;born;number;2009-2014
 8888;13;Less than 34.0 weeks;Norway;4;Treatment days;2;Antibiotic treatment;5043;7207;36345;rate;born;number;2009-2014
 2;14;34.0 to 36.6 weeks;UNN/Finnmark;4;Treatment days;2;Antibiotic treatment;562.4;697;392;rate;born;number;2009-2014
 4;14;34.0 to 36.6 weeks;Nordland;4;Treatment days;2;Antibiotic treatment;639.5;638;408;rate;born;number;2009-2014
-7;14;34.0 to 36.6 weeks;Trøndelag;4;Treatment days;2;Antibiotic treatment;390.4;1368;534;rate;born;number;2009-2014
-8;14;34.0 to 36.6 weeks;Møre og Romsdal;4;Treatment days;2;Antibiotic treatment;489.1;687;336;rate;born;number;2009-2014
-11;14;34.0 to 36.6 weeks;Bergen/Førde;4;Treatment days;2;Antibiotic treatment;741.2;1754;1300;rate;born;number;2009-2014
+7;14;34.0 to 36.6 weeks;TrÃ¸ndelag;4;Treatment days;2;Antibiotic treatment;390.4;1368;534;rate;born;number;2009-2014
+8;14;34.0 to 36.6 weeks;MÃ¸re og Romsdal;4;Treatment days;2;Antibiotic treatment;489.1;687;336;rate;born;number;2009-2014
+11;14;34.0 to 36.6 weeks;Bergen/FÃ¸rde;4;Treatment days;2;Antibiotic treatment;741.2;1754;1300;rate;born;number;2009-2014
 12;14;34.0 to 36.6 weeks;Fonna;4;Treatment days;2;Antibiotic treatment;480.4;664;319;rate;born;number;2009-2014
 13;14;34.0 to 36.6 weeks;Stavanger;4;Treatment days;2;Antibiotic treatment;711.3;1441;1025;rate;born;number;2009-2014
-14;14;34.0 to 36.6 weeks;Østfold;4;Treatment days;2;Antibiotic treatment;529.6;827;438;rate;born;number;2009-2014
+14;14;34.0 to 36.6 weeks;Ã˜stfold;4;Treatment days;2;Antibiotic treatment;529.6;827;438;rate;born;number;2009-2014
 15;14;34.0 to 36.6 weeks;AHUS;4;Treatment days;2;Antibiotic treatment;460.6;1598;736;rate;born;number;2009-2014
 16;14;34.0 to 36.6 weeks;OUS;4;Treatment days;2;Antibiotic treatment;540;2185;1180;rate;born;number;2009-2014
 19;14;34.0 to 36.6 weeks;Innlandet;4;Treatment days;2;Antibiotic treatment;464.3;1176;546;rate;born;number;2009-2014
 20;14;34.0 to 36.6 weeks;Vestre Viken;4;Treatment days;2;Antibiotic treatment;544.2;1277;695;rate;born;number;2009-2014
 21;14;34.0 to 36.6 weeks;Vestfold;4;Treatment days;2;Antibiotic treatment;332.8;613;204;rate;born;number;2009-2014
 22;14;34.0 to 36.6 weeks;Telemark;4;Treatment days;2;Antibiotic treatment;409.6;481;197;rate;born;number;2009-2014
-23;14;34.0 to 36.6 weeks;Sørlandet;4;Treatment days;2;Antibiotic treatment;783.9;1004;787;rate;born;number;2009-2014
+23;14;34.0 to 36.6 weeks;SÃ¸rlandet;4;Treatment days;2;Antibiotic treatment;783.9;1004;787;rate;born;number;2009-2014
 8888;14;34.0 to 36.6 weeks;Norway;4;Treatment days;2;Antibiotic treatment;554.4;16410;9097;rate;born;number;2009-2014
 2;15;More than 36.6 weeks (term infants);UNN/Finnmark;4;Treatment days;2;Antibiotic treatment;130.1;16700;2173;rate;born;number;2009-2014
 4;15;More than 36.6 weeks (term infants);Nordland;4;Treatment days;2;Antibiotic treatment;185.9;12705;2362;rate;born;number;2009-2014
-7;15;More than 36.6 weeks (term infants);Trøndelag;4;Treatment days;2;Antibiotic treatment;160;29658;4744;rate;born;number;2009-2014
-8;15;More than 36.6 weeks (term infants);Møre og Romsdal;4;Treatment days;2;Antibiotic treatment;152.9;16118;2464;rate;born;number;2009-2014
-11;15;More than 36.6 weeks (term infants);Bergen/Førde;4;Treatment days;2;Antibiotic treatment;81.1;37594;3047;rate;born;number;2009-2014
+7;15;More than 36.6 weeks (term infants);TrÃ¸ndelag;4;Treatment days;2;Antibiotic treatment;160;29658;4744;rate;born;number;2009-2014
+8;15;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;4;Treatment days;2;Antibiotic treatment;152.9;16118;2464;rate;born;number;2009-2014
+11;15;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;4;Treatment days;2;Antibiotic treatment;81.1;37594;3047;rate;born;number;2009-2014
 12;15;More than 36.6 weeks (term infants);Fonna;4;Treatment days;2;Antibiotic treatment;139.2;11846;1649;rate;born;number;2009-2014
 13;15;More than 36.6 weeks (term infants);Stavanger;4;Treatment days;2;Antibiotic treatment;184.1;27704;5100;rate;born;number;2009-2014
-14;15;More than 36.6 weeks (term infants);Østfold;4;Treatment days;2;Antibiotic treatment;189.6;17078;3238;rate;born;number;2009-2014
+14;15;More than 36.6 weeks (term infants);Ã˜stfold;4;Treatment days;2;Antibiotic treatment;189.6;17078;3238;rate;born;number;2009-2014
 15;15;More than 36.6 weeks (term infants);AHUS;4;Treatment days;2;Antibiotic treatment;133.7;32055;4286;rate;born;number;2009-2014
 16;15;More than 36.6 weeks (term infants);OUS;4;Treatment days;2;Antibiotic treatment;131.9;49765;6563;rate;born;number;2009-2014
 19;15;More than 36.6 weeks (term infants);Innlandet;4;Treatment days;2;Antibiotic treatment;130.4;20787;2710;rate;born;number;2009-2014
 20;15;More than 36.6 weeks (term infants);Vestre Viken;4;Treatment days;2;Antibiotic treatment;141.6;28225;3997;rate;born;number;2009-2014
 21;15;More than 36.6 weeks (term infants);Vestfold;4;Treatment days;2;Antibiotic treatment;156.2;12857;2008;rate;born;number;2009-2014
 22;15;More than 36.6 weeks (term infants);Telemark;4;Treatment days;2;Antibiotic treatment;144.6;9527;1378;rate;born;number;2009-2014
-23;15;More than 36.6 weeks (term infants);Sørlandet;4;Treatment days;2;Antibiotic treatment;173.4;19630;3404;rate;born;number;2009-2014
+23;15;More than 36.6 weeks (term infants);SÃ¸rlandet;4;Treatment days;2;Antibiotic treatment;173.4;19630;3404;rate;born;number;2009-2014
 8888;15;More than 36.6 weeks (term infants);Norway;4;Treatment days;2;Antibiotic treatment;143.5;342249;49123;rate;born;number;2009-2014
 2;16;All;UNN/Finnmark;4;Treatment days;2;Antibiotic treatment;233.2;17771;4145;rate;born;number;2009-2014
 4;16;All;Nordland;4;Treatment days;2;Antibiotic treatment;315.8;13656;4313;rate;born;number;2009-2014
-7;16;All;Trøndelag;4;Treatment days;2;Antibiotic treatment;250.3;31692;7932;rate;born;number;2009-2014
-8;16;All;Møre og Romsdal;4;Treatment days;2;Antibiotic treatment;300.1;17140;5143;rate;born;number;2009-2014
-11;16;All;Bergen/Førde;4;Treatment days;2;Antibiotic treatment;214;40458;8657;rate;born;number;2009-2014
+7;16;All;TrÃ¸ndelag;4;Treatment days;2;Antibiotic treatment;250.3;31692;7932;rate;born;number;2009-2014
+8;16;All;MÃ¸re og Romsdal;4;Treatment days;2;Antibiotic treatment;300.1;17140;5143;rate;born;number;2009-2014
+11;16;All;Bergen/FÃ¸rde;4;Treatment days;2;Antibiotic treatment;214;40458;8657;rate;born;number;2009-2014
 12;16;All;Fonna;4;Treatment days;2;Antibiotic treatment;236.5;12964;3066;rate;born;number;2009-2014
 13;16;All;Stavanger;4;Treatment days;2;Antibiotic treatment;301.4;30193;9101;rate;born;number;2009-2014
-14;16;All;Østfold;4;Treatment days;2;Antibiotic treatment;298.2;18305;5459;rate;born;number;2009-2014
+14;16;All;Ã˜stfold;4;Treatment days;2;Antibiotic treatment;298.2;18305;5459;rate;born;number;2009-2014
 15;16;All;AHUS;4;Treatment days;2;Antibiotic treatment;256.5;34433;8831;rate;born;number;2009-2014
 16;16;All;OUS;4;Treatment days;2;Antibiotic treatment;231.9;53323;12366;rate;born;number;2009-2014
 19;16;All;Innlandet;4;Treatment days;2;Antibiotic treatment;224;22695;5083;rate;born;number;2009-2014
 20;16;All;Vestre Viken;4;Treatment days;2;Antibiotic treatment;259.8;30220;7850;rate;born;number;2009-2014
 21;16;All;Vestfold;4;Treatment days;2;Antibiotic treatment;231.4;13750;3182;rate;born;number;2009-2014
 22;16;All;Telemark;4;Treatment days;2;Antibiotic treatment;291.6;10337;3014;rate;born;number;2009-2014
-23;16;All;Sørlandet;4;Treatment days;2;Antibiotic treatment;304;21131;6423;rate;born;number;2009-2014
+23;16;All;SÃ¸rlandet;4;Treatment days;2;Antibiotic treatment;304;21131;6423;rate;born;number;2009-2014
 8888;16;All;Norway;4;Treatment days;2;Antibiotic treatment;256.9;368068;94565;rate;born;number;2009-2014
 2;17;Less than 37.0 weeks;UNN/Finnmark;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;44.5;1012;45;rate;born;number;2009-2014
 4;17;Less than 37.0 weeks;Nordland;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;66.6;916;61;rate;born;number;2009-2014
-7;17;Less than 37.0 weeks;Trøndelag;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;43;1955;84;rate;born;number;2009-2014
-8;17;Less than 37.0 weeks;Møre og Romsdal;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;49.1;978;48;rate;born;number;2009-2014
-11;17;Less than 37.0 weeks;Bergen/Førde;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;27.7;2530;70;rate;born;number;2009-2014
+7;17;Less than 37.0 weeks;TrÃ¸ndelag;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;43;1955;84;rate;born;number;2009-2014
+8;17;Less than 37.0 weeks;MÃ¸re og Romsdal;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;49.1;978;48;rate;born;number;2009-2014
+11;17;Less than 37.0 weeks;Bergen/FÃ¸rde;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;27.7;2530;70;rate;born;number;2009-2014
 12;17;Less than 37.0 weeks;Fonna;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;30.3;957;29;rate;born;number;2009-2014
 13;17;Less than 37.0 weeks;Stavanger;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;45.2;2081;94;rate;born;number;2009-2014
-14;17;Less than 37.0 weeks;Østfold;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;52.4;1165;61;rate;born;number;2009-2014
+14;17;Less than 37.0 weeks;Ã˜stfold;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;52.4;1165;61;rate;born;number;2009-2014
 15;17;Less than 37.0 weeks;AHUS;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;62.2;2266;141;rate;born;number;2009-2014
 16;17;Less than 37.0 weeks;OUS;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;56.4;3262;184;rate;born;number;2009-2014
 19;17;Less than 37.0 weeks;Innlandet;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;44.5;1618;72;rate;born;number;2009-2014
 20;17;Less than 37.0 weeks;Vestre Viken;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;45.3;1876;85;rate;born;number;2009-2014
 21;17;Less than 37.0 weeks;Vestfold;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;29.4;883;26;rate;born;number;2009-2014
 22;17;Less than 37.0 weeks;Telemark;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;48.6;741;36;rate;born;number;2009-2014
-23;17;Less than 37.0 weeks;Sørlandet;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;62.5;1377;86;rate;born;number;2009-2014
+23;17;Less than 37.0 weeks;SÃ¸rlandet;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;62.5;1377;86;rate;born;number;2009-2014
 8888;17;Less than 37.0 weeks;Norway;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;47.5;23617;1122;rate;born;number;2009-2014
 2;18;More than 36.6 weeks (term infants);UNN/Finnmark;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;10.6;16700;177;rate;born;number;2009-2014
 4;18;More than 36.6 weeks (term infants);Nordland;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;19.9;12705;253;rate;born;number;2009-2014
-7;18;More than 36.6 weeks (term infants);Trøndelag;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;13;29658;385;rate;born;number;2009-2014
-8;18;More than 36.6 weeks (term infants);Møre og Romsdal;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;10;16118;161;rate;born;number;2009-2014
-11;18;More than 36.6 weeks (term infants);Bergen/Førde;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;3.6;37594;135;rate;born;number;2009-2014
+7;18;More than 36.6 weeks (term infants);TrÃ¸ndelag;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;13;29658;385;rate;born;number;2009-2014
+8;18;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;10;16118;161;rate;born;number;2009-2014
+11;18;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;3.6;37594;135;rate;born;number;2009-2014
 12;18;More than 36.6 weeks (term infants);Fonna;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;12.1;11846;143;rate;born;number;2009-2014
 13;18;More than 36.6 weeks (term infants);Stavanger;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;16;27704;444;rate;born;number;2009-2014
-14;18;More than 36.6 weeks (term infants);Østfold;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;18.9;17078;322;rate;born;number;2009-2014
+14;18;More than 36.6 weeks (term infants);Ã˜stfold;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;18.9;17078;322;rate;born;number;2009-2014
 15;18;More than 36.6 weeks (term infants);AHUS;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;12.8;32055;411;rate;born;number;2009-2014
 16;18;More than 36.6 weeks (term infants);OUS;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;13.7;49765;683;rate;born;number;2009-2014
 19;18;More than 36.6 weeks (term infants);Innlandet;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;10.5;20787;219;rate;born;number;2009-2014
 20;18;More than 36.6 weeks (term infants);Vestre Viken;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;11;28225;311;rate;born;number;2009-2014
 21;18;More than 36.6 weeks (term infants);Vestfold;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;11.8;12857;152;rate;born;number;2009-2014
 22;18;More than 36.6 weeks (term infants);Telemark;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;6.1;9527;58;rate;born;number;2009-2014
-23;18;More than 36.6 weeks (term infants);Sørlandet;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;14.2;19630;278;rate;born;number;2009-2014
+23;18;More than 36.6 weeks (term infants);SÃ¸rlandet;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;14.2;19630;278;rate;born;number;2009-2014
 8888;18;More than 36.6 weeks (term infants);Norway;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;12.1;342249;4132;rate;born;number;2009-2014
 2;19;All;UNN/Finnmark;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;12.5;17771;222;rate;born;number;2009-2014
 4;19;All;Nordland;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;23;13656;314;rate;born;number;2009-2014
-7;19;All;Trøndelag;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;14.8;31692;469;rate;born;number;2009-2014
-8;19;All;Møre og Romsdal;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;12.2;17140;209;rate;born;number;2009-2014
-11;19;All;Bergen/Førde;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;5.1;40458;205;rate;born;number;2009-2014
+7;19;All;TrÃ¸ndelag;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;14.8;31692;469;rate;born;number;2009-2014
+8;19;All;MÃ¸re og Romsdal;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;12.2;17140;209;rate;born;number;2009-2014
+11;19;All;Bergen/FÃ¸rde;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;5.1;40458;205;rate;born;number;2009-2014
 12;19;All;Fonna;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;13.3;12964;172;rate;born;number;2009-2014
 13;19;All;Stavanger;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;17.8;30193;538;rate;born;number;2009-2014
-14;19;All;Østfold;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;20.9;18305;383;rate;born;number;2009-2014
+14;19;All;Ã˜stfold;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;20.9;18305;383;rate;born;number;2009-2014
 15;19;All;AHUS;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;16;34433;552;rate;born;number;2009-2014
 16;19;All;OUS;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;16.3;53323;867;rate;born;number;2009-2014
 19;19;All;Innlandet;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;12.8;22695;291;rate;born;number;2009-2014
 20;19;All;Vestre Viken;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;13.1;30220;396;rate;born;number;2009-2014
 21;19;All;Vestfold;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;12.9;13750;178;rate;born;number;2009-2014
 22;19;All;Telemark;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;9.1;10337;94;rate;born;number;2009-2014
-23;19;All;Sørlandet;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;17.2;21131;364;rate;born;number;2009-2014
+23;19;All;SÃ¸rlandet;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;17.2;21131;364;rate;born;number;2009-2014
 8888;19;All;Norway;5;Patients with Sepsisdiagnose;2;Antibiotic treatment;14.3;368068;5254;rate;born;number;2009-2014
 2;20;28.0 to 36.6 weeks;UNN/Finnmark;6;Patients;3;Ventilator treatment;77.1;947;73;rate;born;number;2009-2014
 4;20;28.0 to 36.6 weeks;Nordland;6;Patients;3;Ventilator treatment;61.5;846;52;rate;born;number;2009-2014
-7;20;28.0 to 36.6 weeks;Trøndelag;6;Patients;3;Ventilator treatment;53.6;1830;98;rate;born;number;2009-2014
-8;20;28.0 to 36.6 weeks;Møre og Romsdal;6;Patients;3;Ventilator treatment;73.4;927;68;rate;born;number;2009-2014
-11;20;28.0 to 36.6 weeks;Bergen/Førde;6;Patients;3;Ventilator treatment;63.5;2347;149;rate;born;number;2009-2014
+7;20;28.0 to 36.6 weeks;TrÃ¸ndelag;6;Patients;3;Ventilator treatment;53.6;1830;98;rate;born;number;2009-2014
+8;20;28.0 to 36.6 weeks;MÃ¸re og Romsdal;6;Patients;3;Ventilator treatment;73.4;927;68;rate;born;number;2009-2014
+11;20;28.0 to 36.6 weeks;Bergen/FÃ¸rde;6;Patients;3;Ventilator treatment;63.5;2347;149;rate;born;number;2009-2014
 12;20;28.0 to 36.6 weeks;Fonna;6;Patients;3;Ventilator treatment;48.8;881;43;rate;born;number;2009-2014
 13;20;28.0 to 36.6 weeks;Stavanger;6;Patients;3;Ventilator treatment;45.7;1949;89;rate;born;number;2009-2014
-14;20;28.0 to 36.6 weeks;Østfold;6;Patients;3;Ventilator treatment;48.6;1110;54;rate;born;number;2009-2014
+14;20;28.0 to 36.6 weeks;Ã˜stfold;6;Patients;3;Ventilator treatment;48.6;1110;54;rate;born;number;2009-2014
 15;20;28.0 to 36.6 weeks;AHUS;6;Patients;3;Ventilator treatment;46.9;2130;100;rate;born;number;2009-2014
 16;20;28.0 to 36.6 weeks;OUS;6;Patients;3;Ventilator treatment;52.7;3037;160;rate;born;number;2009-2014
 19;20;28.0 to 36.6 weeks;Innlandet;6;Patients;3;Ventilator treatment;59.1;1540;91;rate;born;number;2009-2014
 20;20;28.0 to 36.6 weeks;Vestre Viken;6;Patients;3;Ventilator treatment;31.5;1748;55;rate;born;number;2009-2014
 21;20;28.0 to 36.6 weeks;Vestfold;6;Patients;3;Ventilator treatment;48.7;821;40;rate;born;number;2009-2014
 22;20;28.0 to 36.6 weeks;Telemark;6;Patients;3;Ventilator treatment;52.6;685;36;rate;born;number;2009-2014
-23;20;28.0 to 36.6 weeks;Sørlandet;6;Patients;3;Ventilator treatment;53;1303;69;rate;born;number;2009-2014
+23;20;28.0 to 36.6 weeks;SÃ¸rlandet;6;Patients;3;Ventilator treatment;53;1303;69;rate;born;number;2009-2014
 8888;20;28.0 to 36.6 weeks;Norway;6;Patients;3;Ventilator treatment;53.3;22101;1177;rate;born;number;2009-2014
 2;21;More than 36.6 weeks (term infants);UNN/Finnmark;6;Patients;3;Ventilator treatment;3.9;16700;65;rate;born;number;2009-2014
 4;21;More than 36.6 weeks (term infants);Nordland;6;Patients;3;Ventilator treatment;3.9;12705;50;rate;born;number;2009-2014
-7;21;More than 36.6 weeks (term infants);Trøndelag;6;Patients;3;Ventilator treatment;3.6;29658;107;rate;born;number;2009-2014
-8;21;More than 36.6 weeks (term infants);Møre og Romsdal;6;Patients;3;Ventilator treatment;5;16118;81;rate;born;number;2009-2014
-11;21;More than 36.6 weeks (term infants);Bergen/Førde;6;Patients;3;Ventilator treatment;2.9;37594;110;rate;born;number;2009-2014
+7;21;More than 36.6 weeks (term infants);TrÃ¸ndelag;6;Patients;3;Ventilator treatment;3.6;29658;107;rate;born;number;2009-2014
+8;21;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;6;Patients;3;Ventilator treatment;5;16118;81;rate;born;number;2009-2014
+11;21;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;6;Patients;3;Ventilator treatment;2.9;37594;110;rate;born;number;2009-2014
 12;21;More than 36.6 weeks (term infants);Fonna;6;Patients;3;Ventilator treatment;3.5;11846;41;rate;born;number;2009-2014
 13;21;More than 36.6 weeks (term infants);Stavanger;6;Patients;3;Ventilator treatment;2.6;27704;73;rate;born;number;2009-2014
-14;21;More than 36.6 weeks (term infants);Østfold;6;Patients;3;Ventilator treatment;3.1;17078;53;rate;born;number;2009-2014
+14;21;More than 36.6 weeks (term infants);Ã˜stfold;6;Patients;3;Ventilator treatment;3.1;17078;53;rate;born;number;2009-2014
 15;21;More than 36.6 weeks (term infants);AHUS;6;Patients;3;Ventilator treatment;3.4;32055;109;rate;born;number;2009-2014
 16;21;More than 36.6 weeks (term infants);OUS;6;Patients;3;Ventilator treatment;2.9;49765;143;rate;born;number;2009-2014
 19;21;More than 36.6 weeks (term infants);Innlandet;6;Patients;3;Ventilator treatment;3.3;20787;69;rate;born;number;2009-2014
 20;21;More than 36.6 weeks (term infants);Vestre Viken;6;Patients;3;Ventilator treatment;1.8;28225;52;rate;born;number;2009-2014
 21;21;More than 36.6 weeks (term infants);Vestfold;6;Patients;3;Ventilator treatment;2.3;12857;30;rate;born;number;2009-2014
 22;21;More than 36.6 weeks (term infants);Telemark;6;Patients;3;Ventilator treatment;3.6;9527;34;rate;born;number;2009-2014
-23;21;More than 36.6 weeks (term infants);Sørlandet;6;Patients;3;Ventilator treatment;2.9;19630;57;rate;born;number;2009-2014
+23;21;More than 36.6 weeks (term infants);SÃ¸rlandet;6;Patients;3;Ventilator treatment;2.9;19630;57;rate;born;number;2009-2014
 8888;21;More than 36.6 weeks (term infants);Norway;6;Patients;3;Ventilator treatment;3.1;342249;1074;rate;born;number;2009-2014
 2;22;All;UNN/Finnmark;6;Patients;3;Ventilator treatment;10;17771;177;rate;born;number;2009-2014
 4;22;All;Nordland;6;Patients;3;Ventilator treatment;10.6;13656;145;rate;born;number;2009-2014
-7;22;All;Trøndelag;6;Patients;3;Ventilator treatment;8.5;31692;270;rate;born;number;2009-2014
-8;22;All;Møre og Romsdal;6;Patients;3;Ventilator treatment;11.1;17140;190;rate;born;number;2009-2014
-11;22;All;Bergen/Førde;6;Patients;3;Ventilator treatment;8.7;40458;354;rate;born;number;2009-2014
+7;22;All;TrÃ¸ndelag;6;Patients;3;Ventilator treatment;8.5;31692;270;rate;born;number;2009-2014
+8;22;All;MÃ¸re og Romsdal;6;Patients;3;Ventilator treatment;11.1;17140;190;rate;born;number;2009-2014
+11;22;All;Bergen/FÃ¸rde;6;Patients;3;Ventilator treatment;8.7;40458;354;rate;born;number;2009-2014
 12;22;All;Fonna;6;Patients;3;Ventilator treatment;9.2;12964;119;rate;born;number;2009-2014
 13;22;All;Stavanger;6;Patients;3;Ventilator treatment;7.8;30193;237;rate;born;number;2009-2014
-14;22;All;Østfold;6;Patients;3;Ventilator treatment;7.8;18305;143;rate;born;number;2009-2014
+14;22;All;Ã˜stfold;6;Patients;3;Ventilator treatment;7.8;18305;143;rate;born;number;2009-2014
 15;22;All;AHUS;6;Patients;3;Ventilator treatment;8.7;34433;301;rate;born;number;2009-2014
 16;22;All;OUS;6;Patients;3;Ventilator treatment;7.9;53323;419;rate;born;number;2009-2014
 19;22;All;Innlandet;6;Patients;3;Ventilator treatment;8.9;22695;201;rate;born;number;2009-2014
 20;22;All;Vestre Viken;6;Patients;3;Ventilator treatment;6.3;30220;191;rate;born;number;2009-2014
 21;22;All;Vestfold;6;Patients;3;Ventilator treatment;6.7;13750;92;rate;born;number;2009-2014
 22;22;All;Telemark;6;Patients;3;Ventilator treatment;9.5;10337;98;rate;born;number;2009-2014
-23;22;All;Sørlandet;6;Patients;3;Ventilator treatment;8.1;21131;171;rate;born;number;2009-2014
+23;22;All;SÃ¸rlandet;6;Patients;3;Ventilator treatment;8.1;21131;171;rate;born;number;2009-2014
 8888;22;All;Norway;6;Patients;3;Ventilator treatment;8.4;368068;3108;rate;born;number;2009-2014
 2;23;28.0 to 36.6 weeks;UNN/Finnmark;7;Treatment days;3;Ventilator treatment;317.8;947;301;rate;born;number;2009-2014
 4;23;28.0 to 36.6 weeks;Nordland;7;Treatment days;3;Ventilator treatment;318;846;269;rate;born;number;2009-2014
-7;23;28.0 to 36.6 weeks;Trøndelag;7;Treatment days;3;Ventilator treatment;192.3;1830;352;rate;born;number;2009-2014
-8;23;28.0 to 36.6 weeks;Møre og Romsdal;7;Treatment days;3;Ventilator treatment;454.2;927;421;rate;born;number;2009-2014
-11;23;28.0 to 36.6 weeks;Bergen/Førde;7;Treatment days;3;Ventilator treatment;245.4;2347;576;rate;born;number;2009-2014
+7;23;28.0 to 36.6 weeks;TrÃ¸ndelag;7;Treatment days;3;Ventilator treatment;192.3;1830;352;rate;born;number;2009-2014
+8;23;28.0 to 36.6 weeks;MÃ¸re og Romsdal;7;Treatment days;3;Ventilator treatment;454.2;927;421;rate;born;number;2009-2014
+11;23;28.0 to 36.6 weeks;Bergen/FÃ¸rde;7;Treatment days;3;Ventilator treatment;245.4;2347;576;rate;born;number;2009-2014
 12;23;28.0 to 36.6 weeks;Fonna;7;Treatment days;3;Ventilator treatment;158.9;881;140;rate;born;number;2009-2014
 13;23;28.0 to 36.6 weeks;Stavanger;7;Treatment days;3;Ventilator treatment;240.1;1949;468;rate;born;number;2009-2014
-14;23;28.0 to 36.6 weeks;Østfold;7;Treatment days;3;Ventilator treatment;276.6;1110;307;rate;born;number;2009-2014
+14;23;28.0 to 36.6 weeks;Ã˜stfold;7;Treatment days;3;Ventilator treatment;276.6;1110;307;rate;born;number;2009-2014
 15;23;28.0 to 36.6 weeks;AHUS;7;Treatment days;3;Ventilator treatment;196.2;2130;418;rate;born;number;2009-2014
 16;23;28.0 to 36.6 weeks;OUS;7;Treatment days;3;Ventilator treatment;223.9;3037;680;rate;born;number;2009-2014
 19;23;28.0 to 36.6 weeks;Innlandet;7;Treatment days;3;Ventilator treatment;261.7;1540;403;rate;born;number;2009-2014
 20;23;28.0 to 36.6 weeks;Vestre Viken;7;Treatment days;3;Ventilator treatment;95.5;1748;167;rate;born;number;2009-2014
 21;23;28.0 to 36.6 weeks;Vestfold;7;Treatment days;3;Ventilator treatment;214.4;821;176;rate;born;number;2009-2014
 22;23;28.0 to 36.6 weeks;Telemark;7;Treatment days;3;Ventilator treatment;318.2;685;218;rate;born;number;2009-2014
-23;23;28.0 to 36.6 weeks;Sørlandet;7;Treatment days;3;Ventilator treatment;498.1;1303;649;rate;born;number;2009-2014
+23;23;28.0 to 36.6 weeks;SÃ¸rlandet;7;Treatment days;3;Ventilator treatment;498.1;1303;649;rate;born;number;2009-2014
 8888;23;28.0 to 36.6 weeks;Norway;7;Treatment days;3;Ventilator treatment;250.9;22101;5545;rate;born;number;2009-2014
 2;24;More than 36.6 weeks (term infants);UNN/Finnmark;7;Treatment days;3;Ventilator treatment;16.4;16700;274;rate;born;number;2009-2014
 4;24;More than 36.6 weeks (term infants);Nordland;7;Treatment days;3;Ventilator treatment;15.5;12705;197;rate;born;number;2009-2014
-7;24;More than 36.6 weeks (term infants);Trøndelag;7;Treatment days;3;Ventilator treatment;18.2;29658;539;rate;born;number;2009-2014
-8;24;More than 36.6 weeks (term infants);Møre og Romsdal;7;Treatment days;3;Ventilator treatment;24.8;16118;400;rate;born;number;2009-2014
-11;24;More than 36.6 weeks (term infants);Bergen/Førde;7;Treatment days;3;Ventilator treatment;7.7;37594;291;rate;born;number;2009-2014
+7;24;More than 36.6 weeks (term infants);TrÃ¸ndelag;7;Treatment days;3;Ventilator treatment;18.2;29658;539;rate;born;number;2009-2014
+8;24;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;7;Treatment days;3;Ventilator treatment;24.8;16118;400;rate;born;number;2009-2014
+11;24;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;7;Treatment days;3;Ventilator treatment;7.7;37594;291;rate;born;number;2009-2014
 12;24;More than 36.6 weeks (term infants);Fonna;7;Treatment days;3;Ventilator treatment;12.2;11846;144;rate;born;number;2009-2014
 13;24;More than 36.6 weeks (term infants);Stavanger;7;Treatment days;3;Ventilator treatment;11.9;27704;331;rate;born;number;2009-2014
-14;24;More than 36.6 weeks (term infants);Østfold;7;Treatment days;3;Ventilator treatment;12.8;17078;219;rate;born;number;2009-2014
+14;24;More than 36.6 weeks (term infants);Ã˜stfold;7;Treatment days;3;Ventilator treatment;12.8;17078;219;rate;born;number;2009-2014
 15;24;More than 36.6 weeks (term infants);AHUS;7;Treatment days;3;Ventilator treatment;15.9;32055;511;rate;born;number;2009-2014
 16;24;More than 36.6 weeks (term infants);OUS;7;Treatment days;3;Ventilator treatment;11.7;49765;580;rate;born;number;2009-2014
 19;24;More than 36.6 weeks (term infants);Innlandet;7;Treatment days;3;Ventilator treatment;17.5;20787;364;rate;born;number;2009-2014
 20;24;More than 36.6 weeks (term infants);Vestre Viken;7;Treatment days;3;Ventilator treatment;11.8;28225;332;rate;born;number;2009-2014
 21;24;More than 36.6 weeks (term infants);Vestfold;7;Treatment days;3;Ventilator treatment;7.5;12857;96;rate;born;number;2009-2014
 22;24;More than 36.6 weeks (term infants);Telemark;7;Treatment days;3;Ventilator treatment;25.5;9527;243;rate;born;number;2009-2014
-23;24;More than 36.6 weeks (term infants);Sørlandet;7;Treatment days;3;Ventilator treatment;13.5;19630;265;rate;born;number;2009-2014
+23;24;More than 36.6 weeks (term infants);SÃ¸rlandet;7;Treatment days;3;Ventilator treatment;13.5;19630;265;rate;born;number;2009-2014
 8888;24;More than 36.6 weeks (term infants);Norway;7;Treatment days;3;Ventilator treatment;14;342249;4786;rate;born;number;2009-2014
 2;25;All;UNN/Finnmark;7;Treatment days;3;Ventilator treatment;79.3;17771;1410;rate;born;number;2009-2014
 4;25;All;Nordland;7;Treatment days;3;Ventilator treatment;79.5;13656;1086;rate;born;number;2009-2014
-7;25;All;Trøndelag;7;Treatment days;3;Ventilator treatment;67.6;31692;2143;rate;born;number;2009-2014
-8;25;All;Møre og Romsdal;7;Treatment days;3;Ventilator treatment;116.9;17140;2004;rate;born;number;2009-2014
-11;25;All;Bergen/Førde;7;Treatment days;3;Ventilator treatment;41.1;40458;1663;rate;born;number;2009-2014
+7;25;All;TrÃ¸ndelag;7;Treatment days;3;Ventilator treatment;67.6;31692;2143;rate;born;number;2009-2014
+8;25;All;MÃ¸re og Romsdal;7;Treatment days;3;Ventilator treatment;116.9;17140;2004;rate;born;number;2009-2014
+11;25;All;Bergen/FÃ¸rde;7;Treatment days;3;Ventilator treatment;41.1;40458;1663;rate;born;number;2009-2014
 12;25;All;Fonna;7;Treatment days;3;Ventilator treatment;47.6;12964;617;rate;born;number;2009-2014
 13;25;All;Stavanger;7;Treatment days;3;Ventilator treatment;51.4;30193;1551;rate;born;number;2009-2014
-14;25;All;Østfold;7;Treatment days;3;Ventilator treatment;61.5;18305;1126;rate;born;number;2009-2014
+14;25;All;Ã˜stfold;7;Treatment days;3;Ventilator treatment;61.5;18305;1126;rate;born;number;2009-2014
 15;25;All;AHUS;7;Treatment days;3;Ventilator treatment;91.1;34433;3138;rate;born;number;2009-2014
 16;25;All;OUS;7;Treatment days;3;Ventilator treatment;57.8;53323;3084;rate;born;number;2009-2014
 19;25;All;Innlandet;7;Treatment days;3;Ventilator treatment;72.8;22695;1653;rate;born;number;2009-2014
 20;25;All;Vestre Viken;7;Treatment days;3;Ventilator treatment;68.7;30220;2075;rate;born;number;2009-2014
 21;25;All;Vestfold;7;Treatment days;3;Ventilator treatment;69.2;13750;952;rate;born;number;2009-2014
 22;25;All;Telemark;7;Treatment days;3;Ventilator treatment;79.5;10337;822;rate;born;number;2009-2014
-23;25;All;Sørlandet;7;Treatment days;3;Ventilator treatment;75.8;21131;1602;rate;born;number;2009-2014
+23;25;All;SÃ¸rlandet;7;Treatment days;3;Ventilator treatment;75.8;21131;1602;rate;born;number;2009-2014
 8888;25;All;Norway;7;Treatment days;3;Ventilator treatment;67.7;368068;24926;rate;born;number;2009-2014
 2;26;34.0 to 36.6 weeks;UNN/Finnmark;8;Patients;4;Low blood sugar (Hypoglycaemia);63.1;697;44;rate;born;number;2009-2014
 4;26;34.0 to 36.6 weeks;Nordland;8;Patients;4;Low blood sugar (Hypoglycaemia);70.5;638;45;rate;born;number;2009-2014
-7;26;34.0 to 36.6 weeks;Trøndelag;8;Patients;4;Low blood sugar (Hypoglycaemia);55.6;1368;76;rate;born;number;2009-2014
-8;26;34.0 to 36.6 weeks;Møre og Romsdal;8;Patients;4;Low blood sugar (Hypoglycaemia);32;687;22;rate;born;number;2009-2014
-11;26;34.0 to 36.6 weeks;Bergen/Førde;8;Patients;4;Low blood sugar (Hypoglycaemia);96.9;1754;170;rate;born;number;2009-2014
+7;26;34.0 to 36.6 weeks;TrÃ¸ndelag;8;Patients;4;Low blood sugar (Hypoglycaemia);55.6;1368;76;rate;born;number;2009-2014
+8;26;34.0 to 36.6 weeks;MÃ¸re og Romsdal;8;Patients;4;Low blood sugar (Hypoglycaemia);32;687;22;rate;born;number;2009-2014
+11;26;34.0 to 36.6 weeks;Bergen/FÃ¸rde;8;Patients;4;Low blood sugar (Hypoglycaemia);96.9;1754;170;rate;born;number;2009-2014
 12;26;34.0 to 36.6 weeks;Fonna;8;Patients;4;Low blood sugar (Hypoglycaemia);39.2;664;26;rate;born;number;2009-2014
 13;26;34.0 to 36.6 weeks;Stavanger;8;Patients;4;Low blood sugar (Hypoglycaemia);70.8;1441;102;rate;born;number;2009-2014
-14;26;34.0 to 36.6 weeks;Østfold;8;Patients;4;Low blood sugar (Hypoglycaemia);67.7;827;56;rate;born;number;2009-2014
+14;26;34.0 to 36.6 weeks;Ã˜stfold;8;Patients;4;Low blood sugar (Hypoglycaemia);67.7;827;56;rate;born;number;2009-2014
 15;26;34.0 to 36.6 weeks;AHUS;8;Patients;4;Low blood sugar (Hypoglycaemia);73.2;1598;117;rate;born;number;2009-2014
 16;26;34.0 to 36.6 weeks;OUS;8;Patients;4;Low blood sugar (Hypoglycaemia);55.8;2185;122;rate;born;number;2009-2014
 19;26;34.0 to 36.6 weeks;Innlandet;8;Patients;4;Low blood sugar (Hypoglycaemia);51;1176;60;rate;born;number;2009-2014
 20;26;34.0 to 36.6 weeks;Vestre Viken;8;Patients;4;Low blood sugar (Hypoglycaemia);76;1277;97;rate;born;number;2009-2014
 21;26;34.0 to 36.6 weeks;Vestfold;8;Patients;4;Low blood sugar (Hypoglycaemia);65.3;613;40;rate;born;number;2009-2014
 22;26;34.0 to 36.6 weeks;Telemark;8;Patients;4;Low blood sugar (Hypoglycaemia);168.4;481;81;rate;born;number;2009-2014
-23;26;34.0 to 36.6 weeks;Sørlandet;8;Patients;4;Low blood sugar (Hypoglycaemia);101.6;1004;102;rate;born;number;2009-2014
+23;26;34.0 to 36.6 weeks;SÃ¸rlandet;8;Patients;4;Low blood sugar (Hypoglycaemia);101.6;1004;102;rate;born;number;2009-2014
 8888;26;34.0 to 36.6 weeks;Norway;8;Patients;4;Low blood sugar (Hypoglycaemia);70.7;16410;1160;rate;born;number;2009-2014
 2;27;More than 36.6 weeks (term infants);UNN/Finnmark;8;Patients;4;Low blood sugar (Hypoglycaemia);5.3;16700;89;rate;born;number;2009-2014
 4;27;More than 36.6 weeks (term infants);Nordland;8;Patients;4;Low blood sugar (Hypoglycaemia);9.4;12705;119;rate;born;number;2009-2014
-7;27;More than 36.6 weeks (term infants);Trøndelag;8;Patients;4;Low blood sugar (Hypoglycaemia);4.4;29658;131;rate;born;number;2009-2014
-8;27;More than 36.6 weeks (term infants);Møre og Romsdal;8;Patients;4;Low blood sugar (Hypoglycaemia);3.7;16118;60;rate;born;number;2009-2014
-11;27;More than 36.6 weeks (term infants);Bergen/Førde;8;Patients;4;Low blood sugar (Hypoglycaemia);8.7;37594;328;rate;born;number;2009-2014
+7;27;More than 36.6 weeks (term infants);TrÃ¸ndelag;8;Patients;4;Low blood sugar (Hypoglycaemia);4.4;29658;131;rate;born;number;2009-2014
+8;27;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;8;Patients;4;Low blood sugar (Hypoglycaemia);3.7;16118;60;rate;born;number;2009-2014
+11;27;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;8;Patients;4;Low blood sugar (Hypoglycaemia);8.7;37594;328;rate;born;number;2009-2014
 12;27;More than 36.6 weeks (term infants);Fonna;8;Patients;4;Low blood sugar (Hypoglycaemia);3.8;11846;45;rate;born;number;2009-2014
 13;27;More than 36.6 weeks (term infants);Stavanger;8;Patients;4;Low blood sugar (Hypoglycaemia);5.8;27704;162;rate;born;number;2009-2014
-14;27;More than 36.6 weeks (term infants);Østfold;8;Patients;4;Low blood sugar (Hypoglycaemia);4.7;17078;80;rate;born;number;2009-2014
+14;27;More than 36.6 weeks (term infants);Ã˜stfold;8;Patients;4;Low blood sugar (Hypoglycaemia);4.7;17078;80;rate;born;number;2009-2014
 15;27;More than 36.6 weeks (term infants);AHUS;8;Patients;4;Low blood sugar (Hypoglycaemia);7.7;32055;247;rate;born;number;2009-2014
 16;27;More than 36.6 weeks (term infants);OUS;8;Patients;4;Low blood sugar (Hypoglycaemia);4.8;49765;239;rate;born;number;2009-2014
 19;27;More than 36.6 weeks (term infants);Innlandet;8;Patients;4;Low blood sugar (Hypoglycaemia);4.2;20787;87;rate;born;number;2009-2014
 20;27;More than 36.6 weeks (term infants);Vestre Viken;8;Patients;4;Low blood sugar (Hypoglycaemia);4.7;28225;133;rate;born;number;2009-2014
 21;27;More than 36.6 weeks (term infants);Vestfold;8;Patients;4;Low blood sugar (Hypoglycaemia);6.5;12857;84;rate;born;number;2009-2014
 22;27;More than 36.6 weeks (term infants);Telemark;8;Patients;4;Low blood sugar (Hypoglycaemia);13.3;9527;127;rate;born;number;2009-2014
-23;27;More than 36.6 weeks (term infants);Sørlandet;8;Patients;4;Low blood sugar (Hypoglycaemia);8.1;19630;159;rate;born;number;2009-2014
+23;27;More than 36.6 weeks (term infants);SÃ¸rlandet;8;Patients;4;Low blood sugar (Hypoglycaemia);8.1;19630;159;rate;born;number;2009-2014
 8888;27;More than 36.6 weeks (term infants);Norway;8;Patients;4;Low blood sugar (Hypoglycaemia);6.1;342249;2090;rate;born;number;2009-2014
 2;28;34.0 to 36.6 weeks;UNN/Finnmark;9;Patients;5;Light treatment (Phototherapy);175;697;122;rate;born;number;2009-2014
 4;28;34.0 to 36.6 weeks;Nordland;9;Patients;5;Light treatment (Phototherapy);203.8;638;130;rate;born;number;2009-2014
-7;28;34.0 to 36.6 weeks;Trøndelag;9;Patients;5;Light treatment (Phototherapy);144;1368;197;rate;born;number;2009-2014
-8;28;34.0 to 36.6 weeks;Møre og Romsdal;9;Patients;5;Light treatment (Phototherapy);184.9;687;127;rate;born;number;2009-2014
-11;28;34.0 to 36.6 weeks;Bergen/Førde;9;Patients;5;Light treatment (Phototherapy);85.5;1754;150;rate;born;number;2009-2014
+7;28;34.0 to 36.6 weeks;TrÃ¸ndelag;9;Patients;5;Light treatment (Phototherapy);144;1368;197;rate;born;number;2009-2014
+8;28;34.0 to 36.6 weeks;MÃ¸re og Romsdal;9;Patients;5;Light treatment (Phototherapy);184.9;687;127;rate;born;number;2009-2014
+11;28;34.0 to 36.6 weeks;Bergen/FÃ¸rde;9;Patients;5;Light treatment (Phototherapy);85.5;1754;150;rate;born;number;2009-2014
 12;28;34.0 to 36.6 weeks;Fonna;9;Patients;5;Light treatment (Phototherapy);328.3;664;218;rate;born;number;2009-2014
 13;28;34.0 to 36.6 weeks;Stavanger;9;Patients;5;Light treatment (Phototherapy);133.9;1441;193;rate;born;number;2009-2014
-14;28;34.0 to 36.6 weeks;Østfold;9;Patients;5;Light treatment (Phototherapy);237;827;196;rate;born;number;2009-2014
+14;28;34.0 to 36.6 weeks;Ã˜stfold;9;Patients;5;Light treatment (Phototherapy);237;827;196;rate;born;number;2009-2014
 15;28;34.0 to 36.6 weeks;AHUS;9;Patients;5;Light treatment (Phototherapy);172.7;1598;276;rate;born;number;2009-2014
 16;28;34.0 to 36.6 weeks;OUS;9;Patients;5;Light treatment (Phototherapy);130;2185;284;rate;born;number;2009-2014
 19;28;34.0 to 36.6 weeks;Innlandet;9;Patients;5;Light treatment (Phototherapy);109.7;1176;129;rate;born;number;2009-2014
 20;28;34.0 to 36.6 weeks;Vestre Viken;9;Patients;5;Light treatment (Phototherapy);135.5;1277;173;rate;born;number;2009-2014
 21;28;34.0 to 36.6 weeks;Vestfold;9;Patients;5;Light treatment (Phototherapy);261;613;160;rate;born;number;2009-2014
 22;28;34.0 to 36.6 weeks;Telemark;9;Patients;5;Light treatment (Phototherapy);368;481;177;rate;born;number;2009-2014
-23;28;34.0 to 36.6 weeks;Sørlandet;9;Patients;5;Light treatment (Phototherapy);168.3;1004;169;rate;born;number;2009-2014
+23;28;34.0 to 36.6 weeks;SÃ¸rlandet;9;Patients;5;Light treatment (Phototherapy);168.3;1004;169;rate;born;number;2009-2014
 8888;28;34.0 to 36.6 weeks;Norway;9;Patients;5;Light treatment (Phototherapy);164.6;16410;2701;rate;born;number;2009-2014
 2;29;More than 36.6 weeks (term infants);UNN/Finnmark;9;Patients;5;Light treatment (Phototherapy);4.6;16700;76;rate;born;number;2009-2014
 4;29;More than 36.6 weeks (term infants);Nordland;9;Patients;5;Light treatment (Phototherapy);6.6;12705;84;rate;born;number;2009-2014
-7;29;More than 36.6 weeks (term infants);Trøndelag;9;Patients;5;Light treatment (Phototherapy);4.6;29658;135;rate;born;number;2009-2014
-8;29;More than 36.6 weeks (term infants);Møre og Romsdal;9;Patients;5;Light treatment (Phototherapy);7.2;16118;116;rate;born;number;2009-2014
-11;29;More than 36.6 weeks (term infants);Bergen/Førde;9;Patients;5;Light treatment (Phototherapy);2.5;37594;94;rate;born;number;2009-2014
+7;29;More than 36.6 weeks (term infants);TrÃ¸ndelag;9;Patients;5;Light treatment (Phototherapy);4.6;29658;135;rate;born;number;2009-2014
+8;29;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;9;Patients;5;Light treatment (Phototherapy);7.2;16118;116;rate;born;number;2009-2014
+11;29;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;9;Patients;5;Light treatment (Phototherapy);2.5;37594;94;rate;born;number;2009-2014
 12;29;More than 36.6 weeks (term infants);Fonna;9;Patients;5;Light treatment (Phototherapy);21.4;11846;253;rate;born;number;2009-2014
 13;29;More than 36.6 weeks (term infants);Stavanger;9;Patients;5;Light treatment (Phototherapy);6;27704;165;rate;born;number;2009-2014
-14;29;More than 36.6 weeks (term infants);Østfold;9;Patients;5;Light treatment (Phototherapy);8;17078;137;rate;born;number;2009-2014
+14;29;More than 36.6 weeks (term infants);Ã˜stfold;9;Patients;5;Light treatment (Phototherapy);8;17078;137;rate;born;number;2009-2014
 15;29;More than 36.6 weeks (term infants);AHUS;9;Patients;5;Light treatment (Phototherapy);9.5;32055;306;rate;born;number;2009-2014
 16;29;More than 36.6 weeks (term infants);OUS;9;Patients;5;Light treatment (Phototherapy);4.3;49765;214;rate;born;number;2009-2014
 19;29;More than 36.6 weeks (term infants);Innlandet;9;Patients;5;Light treatment (Phototherapy);3.4;20787;71;rate;born;number;2009-2014
 20;29;More than 36.6 weeks (term infants);Vestre Viken;9;Patients;5;Light treatment (Phototherapy);4.4;28225;123;rate;born;number;2009-2014
 21;29;More than 36.6 weeks (term infants);Vestfold;9;Patients;5;Light treatment (Phototherapy);14.2;12857;182;rate;born;number;2009-2014
 22;29;More than 36.6 weeks (term infants);Telemark;9;Patients;5;Light treatment (Phototherapy);29.1;9527;277;rate;born;number;2009-2014
-23;29;More than 36.6 weeks (term infants);Sørlandet;9;Patients;5;Light treatment (Phototherapy);6;19630;118;rate;born;number;2009-2014
+23;29;More than 36.6 weeks (term infants);SÃ¸rlandet;9;Patients;5;Light treatment (Phototherapy);6;19630;118;rate;born;number;2009-2014
 8888;29;More than 36.6 weeks (term infants);Norway;9;Patients;5;Light treatment (Phototherapy);6.9;342249;2351;rate;born;number;2009-2014
 2;30;Less than 37.0 weeks;UNN/Finnmark;10;Patients;6;Intensive care;166;1012;168;rate;born;number;2009-2014
 4;30;Less than 37.0 weeks;Nordland;10;Patients;6;Intensive care;147.4;916;135;rate;born;number;2009-2014
-7;30;Less than 37.0 weeks;Trøndelag;10;Patients;6;Intensive care;124.8;1955;244;rate;born;number;2009-2014
-8;30;Less than 37.0 weeks;Møre og Romsdal;10;Patients;6;Intensive care;135;978;132;rate;born;number;2009-2014
-11;30;Less than 37.0 weeks;Bergen/Førde;10;Patients;6;Intensive care;127.3;2530;322;rate;born;number;2009-2014
+7;30;Less than 37.0 weeks;TrÃ¸ndelag;10;Patients;6;Intensive care;124.8;1955;244;rate;born;number;2009-2014
+8;30;Less than 37.0 weeks;MÃ¸re og Romsdal;10;Patients;6;Intensive care;135;978;132;rate;born;number;2009-2014
+11;30;Less than 37.0 weeks;Bergen/FÃ¸rde;10;Patients;6;Intensive care;127.3;2530;322;rate;born;number;2009-2014
 12;30;Less than 37.0 weeks;Fonna;10;Patients;6;Intensive care;112.9;957;108;rate;born;number;2009-2014
 13;30;Less than 37.0 weeks;Stavanger;10;Patients;6;Intensive care;112.9;2081;235;rate;born;number;2009-2014
-14;30;Less than 37.0 weeks;Østfold;10;Patients;6;Intensive care;133;1165;155;rate;born;number;2009-2014
+14;30;Less than 37.0 weeks;Ã˜stfold;10;Patients;6;Intensive care;133;1165;155;rate;born;number;2009-2014
 15;30;Less than 37.0 weeks;AHUS;10;Patients;6;Intensive care;141.2;2266;320;rate;born;number;2009-2014
 16;30;Less than 37.0 weeks;OUS;10;Patients;6;Intensive care;117.7;3262;384;rate;born;number;2009-2014
 19;30;Less than 37.0 weeks;Innlandet;10;Patients;6;Intensive care;101.4;1618;164;rate;born;number;2009-2014
 20;30;Less than 37.0 weeks;Vestre Viken;10;Patients;6;Intensive care;124.2;1876;233;rate;born;number;2009-2014
 21;30;Less than 37.0 weeks;Vestfold;10;Patients;6;Intensive care;126.8;883;112;rate;born;number;2009-2014
 22;30;Less than 37.0 weeks;Telemark;10;Patients;6;Intensive care;151.1;741;112;rate;born;number;2009-2014
-23;30;Less than 37.0 weeks;Sørlandet;10;Patients;6;Intensive care;137.3;1377;189;rate;born;number;2009-2014
+23;30;Less than 37.0 weeks;SÃ¸rlandet;10;Patients;6;Intensive care;137.3;1377;189;rate;born;number;2009-2014
 8888;30;Less than 37.0 weeks;Norway;10;Patients;6;Intensive care;127.6;23617;3013;rate;born;number;2009-2014
 2;31;More than 36.6 weeks (term infants);UNN/Finnmark;10;Patients;6;Intensive care;7.5;16700;126;rate;born;number;2009-2014
 4;31;More than 36.6 weeks (term infants);Nordland;10;Patients;6;Intensive care;7.9;12705;101;rate;born;number;2009-2014
-7;31;More than 36.6 weeks (term infants);Trøndelag;10;Patients;6;Intensive care;6.5;29658;193;rate;born;number;2009-2014
-8;31;More than 36.6 weeks (term infants);Møre og Romsdal;10;Patients;6;Intensive care;8.4;16118;135;rate;born;number;2009-2014
-11;31;More than 36.6 weeks (term infants);Bergen/Førde;10;Patients;6;Intensive care;5.9;37594;220;rate;born;number;2009-2014
+7;31;More than 36.6 weeks (term infants);TrÃ¸ndelag;10;Patients;6;Intensive care;6.5;29658;193;rate;born;number;2009-2014
+8;31;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;10;Patients;6;Intensive care;8.4;16118;135;rate;born;number;2009-2014
+11;31;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;10;Patients;6;Intensive care;5.9;37594;220;rate;born;number;2009-2014
 12;31;More than 36.6 weeks (term infants);Fonna;10;Patients;6;Intensive care;7.9;11846;94;rate;born;number;2009-2014
 13;31;More than 36.6 weeks (term infants);Stavanger;10;Patients;6;Intensive care;6;27704;165;rate;born;number;2009-2014
-14;31;More than 36.6 weeks (term infants);Østfold;10;Patients;6;Intensive care;9.3;17078;159;rate;born;number;2009-2014
+14;31;More than 36.6 weeks (term infants);Ã˜stfold;10;Patients;6;Intensive care;9.3;17078;159;rate;born;number;2009-2014
 15;31;More than 36.6 weeks (term infants);AHUS;10;Patients;6;Intensive care;8.7;32055;279;rate;born;number;2009-2014
 16;31;More than 36.6 weeks (term infants);OUS;10;Patients;6;Intensive care;8.2;49765;409;rate;born;number;2009-2014
 19;31;More than 36.6 weeks (term infants);Innlandet;10;Patients;6;Intensive care;7;20787;145;rate;born;number;2009-2014
 20;31;More than 36.6 weeks (term infants);Vestre Viken;10;Patients;6;Intensive care;5.5;28225;156;rate;born;number;2009-2014
 21;31;More than 36.6 weeks (term infants);Vestfold;10;Patients;6;Intensive care;8.1;12857;104;rate;born;number;2009-2014
 22;31;More than 36.6 weeks (term infants);Telemark;10;Patients;6;Intensive care;10.8;9527;103;rate;born;number;2009-2014
-23;31;More than 36.6 weeks (term infants);Sørlandet;10;Patients;6;Intensive care;9.6;19630;188;rate;born;number;2009-2014
+23;31;More than 36.6 weeks (term infants);SÃ¸rlandet;10;Patients;6;Intensive care;9.6;19630;188;rate;born;number;2009-2014
 8888;31;More than 36.6 weeks (term infants);Norway;10;Patients;6;Intensive care;7.5;342249;2577;rate;born;number;2009-2014
 2;32;All;UNN/Finnmark;10;Patients;6;Intensive care;16.5;17771;294;rate;born;number;2009-2014
 4;32;All;Nordland;10;Patients;6;Intensive care;17.3;13656;236;rate;born;number;2009-2014
-7;32;All;Trøndelag;10;Patients;6;Intensive care;13.8;31692;437;rate;born;number;2009-2014
-8;32;All;Møre og Romsdal;10;Patients;6;Intensive care;15.6;17140;267;rate;born;number;2009-2014
-11;32;All;Bergen/Førde;10;Patients;6;Intensive care;13.4;40458;542;rate;born;number;2009-2014
+7;32;All;TrÃ¸ndelag;10;Patients;6;Intensive care;13.8;31692;437;rate;born;number;2009-2014
+8;32;All;MÃ¸re og Romsdal;10;Patients;6;Intensive care;15.6;17140;267;rate;born;number;2009-2014
+11;32;All;Bergen/FÃ¸rde;10;Patients;6;Intensive care;13.4;40458;542;rate;born;number;2009-2014
 12;32;All;Fonna;10;Patients;6;Intensive care;15.6;12964;202;rate;born;number;2009-2014
 13;32;All;Stavanger;10;Patients;6;Intensive care;13.2;30193;400;rate;born;number;2009-2014
-14;32;All;Østfold;10;Patients;6;Intensive care;17.2;18305;314;rate;born;number;2009-2014
+14;32;All;Ã˜stfold;10;Patients;6;Intensive care;17.2;18305;314;rate;born;number;2009-2014
 15;32;All;AHUS;10;Patients;6;Intensive care;17.4;34433;599;rate;born;number;2009-2014
 16;32;All;OUS;10;Patients;6;Intensive care;14.9;53323;793;rate;born;number;2009-2014
 19;32;All;Innlandet;10;Patients;6;Intensive care;13.6;22695;309;rate;born;number;2009-2014
 20;32;All;Vestre Viken;10;Patients;6;Intensive care;12.9;30220;389;rate;born;number;2009-2014
 21;32;All;Vestfold;10;Patients;6;Intensive care;15.7;13750;216;rate;born;number;2009-2014
 22;32;All;Telemark;10;Patients;6;Intensive care;20.8;10337;215;rate;born;number;2009-2014
-23;32;All;Sørlandet;10;Patients;6;Intensive care;17.8;21131;377;rate;born;number;2009-2014
+23;32;All;SÃ¸rlandet;10;Patients;6;Intensive care;17.8;21131;377;rate;born;number;2009-2014
 8888;32;All;Norway;10;Patients;6;Intensive care;15.2;368068;5590;rate;born;number;2009-2014
 2;33;Less than 37.0 weeks;UNN/Finnmark;11;Treatment days;6;Intensive care;1819.2;1012;1841;rate;born;number;2009-2014
 4;33;Less than 37.0 weeks;Nordland;11;Treatment days;6;Intensive care;1766.4;916;1618;rate;born;number;2009-2014
-7;33;Less than 37.0 weeks;Trøndelag;11;Treatment days;6;Intensive care;1651.7;1955;3229;rate;born;number;2009-2014
-8;33;Less than 37.0 weeks;Møre og Romsdal;11;Treatment days;6;Intensive care;2264.8;978;2215;rate;born;number;2009-2014
-11;33;Less than 37.0 weeks;Bergen/Førde;11;Treatment days;6;Intensive care;1382.2;2530;3497;rate;born;number;2009-2014
+7;33;Less than 37.0 weeks;TrÃ¸ndelag;11;Treatment days;6;Intensive care;1651.7;1955;3229;rate;born;number;2009-2014
+8;33;Less than 37.0 weeks;MÃ¸re og Romsdal;11;Treatment days;6;Intensive care;2264.8;978;2215;rate;born;number;2009-2014
+11;33;Less than 37.0 weeks;Bergen/FÃ¸rde;11;Treatment days;6;Intensive care;1382.2;2530;3497;rate;born;number;2009-2014
 12;33;Less than 37.0 weeks;Fonna;11;Treatment days;6;Intensive care;1176.6;957;1126;rate;born;number;2009-2014
 13;33;Less than 37.0 weeks;Stavanger;11;Treatment days;6;Intensive care;1182.1;2081;2460;rate;born;number;2009-2014
-14;33;Less than 37.0 weeks;Østfold;11;Treatment days;6;Intensive care;1386.3;1165;1615;rate;born;number;2009-2014
+14;33;Less than 37.0 weeks;Ã˜stfold;11;Treatment days;6;Intensive care;1386.3;1165;1615;rate;born;number;2009-2014
 15;33;Less than 37.0 weeks;AHUS;11;Treatment days;6;Intensive care;1929.8;2266;4373;rate;born;number;2009-2014
 16;33;Less than 37.0 weeks;OUS;11;Treatment days;6;Intensive care;1297.1;3262;4231;rate;born;number;2009-2014
 19;33;Less than 37.0 weeks;Innlandet;11;Treatment days;6;Intensive care;1219.4;1618;1973;rate;born;number;2009-2014
 20;33;Less than 37.0 weeks;Vestre Viken;11;Treatment days;6;Intensive care;1490.9;1876;2797;rate;born;number;2009-2014
 21;33;Less than 37.0 weeks;Vestfold;11;Treatment days;6;Intensive care;1565.1;883;1382;rate;born;number;2009-2014
 22;33;Less than 37.0 weeks;Telemark;11;Treatment days;6;Intensive care;1352.2;741;1002;rate;born;number;2009-2014
-23;33;Less than 37.0 weeks;Sørlandet;11;Treatment days;6;Intensive care;1658;1377;2283;rate;born;number;2009-2014
+23;33;Less than 37.0 weeks;SÃ¸rlandet;11;Treatment days;6;Intensive care;1658;1377;2283;rate;born;number;2009-2014
 8888;33;Less than 37.0 weeks;Norway;11;Treatment days;6;Intensive care;1509.2;23617;35642;rate;born;number;2009-2014
 2;34;More than 36.6 weeks (term infants);UNN/Finnmark;11;Treatment days;6;Intensive care;47.9;16700;800;rate;born;number;2009-2014
 4;34;More than 36.6 weeks (term infants);Nordland;11;Treatment days;6;Intensive care;52.9;12705;672;rate;born;number;2009-2014
-7;34;More than 36.6 weeks (term infants);Trøndelag;11;Treatment days;6;Intensive care;41;29658;1215;rate;born;number;2009-2014
-8;34;More than 36.6 weeks (term infants);Møre og Romsdal;11;Treatment days;6;Intensive care;56.3;16118;908;rate;born;number;2009-2014
-11;34;More than 36.6 weeks (term infants);Bergen/Førde;11;Treatment days;6;Intensive care;35.9;37594;1351;rate;born;number;2009-2014
+7;34;More than 36.6 weeks (term infants);TrÃ¸ndelag;11;Treatment days;6;Intensive care;41;29658;1215;rate;born;number;2009-2014
+8;34;More than 36.6 weeks (term infants);MÃ¸re og Romsdal;11;Treatment days;6;Intensive care;56.3;16118;908;rate;born;number;2009-2014
+11;34;More than 36.6 weeks (term infants);Bergen/FÃ¸rde;11;Treatment days;6;Intensive care;35.9;37594;1351;rate;born;number;2009-2014
 12;34;More than 36.6 weeks (term infants);Fonna;11;Treatment days;6;Intensive care;52.1;11846;617;rate;born;number;2009-2014
 13;34;More than 36.6 weeks (term infants);Stavanger;11;Treatment days;6;Intensive care;40.1;27704;1110;rate;born;number;2009-2014
-14;34;More than 36.6 weeks (term infants);Østfold;11;Treatment days;6;Intensive care;57.7;17078;985;rate;born;number;2009-2014
+14;34;More than 36.6 weeks (term infants);Ã˜stfold;11;Treatment days;6;Intensive care;57.7;17078;985;rate;born;number;2009-2014
 15;34;More than 36.6 weeks (term infants);AHUS;11;Treatment days;6;Intensive care;51.8;32055;1661;rate;born;number;2009-2014
 16;34;More than 36.6 weeks (term infants);OUS;11;Treatment days;6;Intensive care;45.7;49765;2274;rate;born;number;2009-2014
 19;34;More than 36.6 weeks (term infants);Innlandet;11;Treatment days;6;Intensive care;45.6;20787;948;rate;born;number;2009-2014
 20;34;More than 36.6 weeks (term infants);Vestre Viken;11;Treatment days;6;Intensive care;33.4;28225;944;rate;born;number;2009-2014
 21;34;More than 36.6 weeks (term infants);Vestfold;11;Treatment days;6;Intensive care;34.2;12857;440;rate;born;number;2009-2014
 22;34;More than 36.6 weeks (term infants);Telemark;11;Treatment days;6;Intensive care;75.6;9527;720;rate;born;number;2009-2014
-23;34;More than 36.6 weeks (term infants);Sørlandet;11;Treatment days;6;Intensive care;50.4;19630;989;rate;born;number;2009-2014
+23;34;More than 36.6 weeks (term infants);SÃ¸rlandet;11;Treatment days;6;Intensive care;50.4;19630;989;rate;born;number;2009-2014
 8888;34;More than 36.6 weeks (term infants);Norway;11;Treatment days;6;Intensive care;45.7;342249;15634;rate;born;number;2009-2014
 2;35;All;UNN/Finnmark;11;Treatment days;6;Intensive care;148.6;17771;2641;rate;born;number;2009-2014
 4;35;All;Nordland;11;Treatment days;6;Intensive care;167.7;13656;2290;rate;born;number;2009-2014
-7;35;All;Trøndelag;11;Treatment days;6;Intensive care;140.2;31692;4444;rate;born;number;2009-2014
-8;35;All;Møre og Romsdal;11;Treatment days;6;Intensive care;182.2;17140;3123;rate;born;number;2009-2014
-11;35;All;Bergen/Førde;11;Treatment days;6;Intensive care;119.8;40458;4848;rate;born;number;2009-2014
+7;35;All;TrÃ¸ndelag;11;Treatment days;6;Intensive care;140.2;31692;4444;rate;born;number;2009-2014
+8;35;All;MÃ¸re og Romsdal;11;Treatment days;6;Intensive care;182.2;17140;3123;rate;born;number;2009-2014
+11;35;All;Bergen/FÃ¸rde;11;Treatment days;6;Intensive care;119.8;40458;4848;rate;born;number;2009-2014
 12;35;All;Fonna;11;Treatment days;6;Intensive care;134.4;12964;1743;rate;born;number;2009-2014
 13;35;All;Stavanger;11;Treatment days;6;Intensive care;118.2;30193;3570;rate;born;number;2009-2014
-14;35;All;Østfold;11;Treatment days;6;Intensive care;142;18305;2600;rate;born;number;2009-2014
+14;35;All;Ã˜stfold;11;Treatment days;6;Intensive care;142;18305;2600;rate;born;number;2009-2014
 15;35;All;AHUS;11;Treatment days;6;Intensive care;175.2;34433;6034;rate;born;number;2009-2014
 16;35;All;OUS;11;Treatment days;6;Intensive care;122;53323;6505;rate;born;number;2009-2014
 19;35;All;Innlandet;11;Treatment days;6;Intensive care;128.7;22695;2921;rate;born;number;2009-2014
 20;35;All;Vestre Viken;11;Treatment days;6;Intensive care;123.8;30220;3741;rate;born;number;2009-2014
 21;35;All;Vestfold;11;Treatment days;6;Intensive care;132.5;13750;1822;rate;born;number;2009-2014
 22;35;All;Telemark;11;Treatment days;6;Intensive care;166.6;10337;1722;rate;born;number;2009-2014
-23;35;All;Sørlandet;11;Treatment days;6;Intensive care;154.8;21131;3272;rate;born;number;2009-2014
+23;35;All;SÃ¸rlandet;11;Treatment days;6;Intensive care;154.8;21131;3272;rate;born;number;2009-2014
 8888;35;All;Norway;11;Treatment days;6;Intensive care;139.3;368068;51276;rate;born;number;2009-2014
