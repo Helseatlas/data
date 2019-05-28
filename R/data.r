@@ -9,7 +9,7 @@ NULL
 #'
 #' @docType data
 #' @keywords datasets
-#' @name barn_eng
+#' @name barn_en
 NULL
 
 #' Dataset with data from the day surgery healthcare atlas
@@ -23,7 +23,7 @@ NULL
 #'
 #' @docType data
 #' @keywords datasets
-#' @name dagkir_eng
+#' @name dagkir_en
 NULL
 
 #' Dataset with data from the day surgery healthcare atlas 2013-2017
@@ -37,14 +37,14 @@ NULL
 #'
 #' @docType data
 #' @keywords datasets
-#' @name dagkir2_eng
+#' @name dagkir2_en
 NULL
 
 #' Dataset with data from the birth healthcare atlas
 #'
 #' @docType data
 #' @keywords datasets
-#' @name fh
+#' @name fodsel
 NULL
 
 #' Dataset with data from the gynaecology healthcare atlas
@@ -65,7 +65,7 @@ NULL
 #'
 #' @docType data
 #' @keywords datasets
-#' @name kols_eng
+#' @name kols_en
 NULL
 
 #' Dataset with data from the neonatal healthcare atlas

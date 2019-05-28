@@ -6,6 +6,6 @@ files <- list.files(path="csv",
                     recursive=FALSE)
 
 lapply(files, function(x) {
-  data <- read.csv(file = paste("csv", x, sep = "/"), sep = ";")
-  save(data, file = paste0("data/", tools::file_path_sans_ext(x), ".rda"))
+  healthatlas_data <- read.csv(file = paste("csv", x, sep = "/"), sep = ";", fileEncoding = )
+  save(healthatlas_data, file = paste0("data/", tools::file_path_sans_ext(x), ".rda"))
 })
