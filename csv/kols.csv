@@ -1,0 +1,254 @@
+area;level2;level2_no;area_no;Level1;level1_no;value;numerator;denominator;type;name_numerator;name_denominator;Period
+1;1;Personer hos fastlege eller legevakt;Finnmark;1;Fastlege og legevakt;249.3;937;38184;Rate;Antall;Innbyggere;2013-2015
+2;1;Personer hos fastlege eller legevakt;UNN;1;Fastlege og legevakt;182.6;1756;95215;Rate;Antall;Innbyggere;2013-2015
+3;1;Personer hos fastlege eller legevakt;Nordland;1;Fastlege og legevakt;200.5;1467;70961;Rate;Antall;Innbyggere;2013-2015
+4;1;Personer hos fastlege eller legevakt;Helgeland;1;Fastlege og legevakt;200.5;882;41919;Rate;Antall;Innbyggere;2013-2015
+6;1;Personer hos fastlege eller legevakt;Nord-Trøndelag;1;Fastlege og legevakt;210.4;1583;71370;Rate;Antall;Innbyggere;2013-2015
+7;1;Personer hos fastlege eller legevakt;St. Olavs;1;Fastlege og legevakt;177.5;2568;146062;Rate;Antall;Innbyggere;2013-2015
+8;1;Personer hos fastlege eller legevakt;Møre og Romsdal;1;Fastlege og legevakt;166.8;2274;132447;Rate;Antall;Innbyggere;2013-2015
+9;1;Personer hos fastlege eller legevakt;Haraldsplass;1;Fastlege og legevakt;193.9;1259;64333;Rate;Antall;Innbyggere;2013-2015
+10;1;Personer hos fastlege eller legevakt;Førde;1;Fastlege og legevakt;164;963;56050;Rate;Antall;Innbyggere;2013-2015
+11;1;Personer hos fastlege eller legevakt;Bergen;1;Fastlege og legevakt;197.6;2645;137988;Rate;Antall;Innbyggere;2013-2015
+12;1;Personer hos fastlege eller legevakt;Fonna;1;Fastlege og legevakt;209.6;1840;86891;Rate;Antall;Innbyggere;2013-2015
+13;1;Personer hos fastlege eller legevakt;Stavanger;1;Fastlege og legevakt;195.7;2793;155662;Rate;Antall;Innbyggere;2013-2015
+14;1;Personer hos fastlege eller legevakt;Østfold;1;Fastlege og legevakt;230.4;3503;150013;Rate;Antall;Innbyggere;2013-2015
+15;1;Personer hos fastlege eller legevakt;Akershus;1;Fastlege og legevakt;188.4;4224;239191;Rate;Antall;Innbyggere;2013-2015
+16;1;Personer hos fastlege eller legevakt;OUS;1;Fastlege og legevakt;165.1;1694;113228;Rate;Antall;Innbyggere;2013-2015
+17;1;Personer hos fastlege eller legevakt;Lovisenberg;1;Fastlege og legevakt;214.5;749;44086;Rate;Antall;Innbyggere;2013-2015
+18;1;Personer hos fastlege eller legevakt;Diakonhjemmet;1;Fastlege og legevakt;91.3;575;62333;Rate;Antall;Innbyggere;2013-2015
+19;1;Personer hos fastlege eller legevakt;Innlandet;1;Fastlege og legevakt;215.5;4956;218086;Rate;Antall;Innbyggere;2013-2015
+20;1;Personer hos fastlege eller legevakt;Vestre Viken;1;Fastlege og legevakt;170.4;4054;241963;Rate;Antall;Innbyggere;2013-2015
+21;1;Personer hos fastlege eller legevakt;Vestfold;1;Fastlege og legevakt;241.4;2900;118596;Rate;Antall;Innbyggere;2013-2015
+22;1;Personer hos fastlege eller legevakt;Telemark;1;Fastlege og legevakt;211.1;2001;91860;Rate;Antall;Innbyggere;2013-2015
+23;1;Personer hos fastlege eller legevakt;Sørlandet;1;Fastlege og legevakt;243;3463;143083;Rate;Antall;Innbyggere;2013-2015
+8888;1;Personer hos fastlege eller legevakt;Norge;1;Fastlege og legevakt;196.3;49087;2519521;Rate;Antall;Innbyggere;2013-2015
+1;2;Spirometri hos fastlege (andeler);Finnmark;1;Fastlege og legevakt;21.6;204;937;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+2;2;Spirometri hos fastlege (andeler);UNN;1;Fastlege og legevakt;30.2;532;1756;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+3;2;Spirometri hos fastlege (andeler);Nordland;1;Fastlege og legevakt;37.2;545;1467;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+4;2;Spirometri hos fastlege (andeler);Helgeland;1;Fastlege og legevakt;30.1;264;882;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+6;2;Spirometri hos fastlege (andeler);Nord-Trøndelag;1;Fastlege og legevakt;38.1;598;1583;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+7;2;Spirometri hos fastlege (andeler);St. Olavs;1;Fastlege og legevakt;34;874;2568;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+8;2;Spirometri hos fastlege (andeler);Møre og Romsdal;1;Fastlege og legevakt;34.2;773;2274;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+9;2;Spirometri hos fastlege (andeler);Haraldsplass;1;Fastlege og legevakt;32.8;412;1259;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+10;2;Spirometri hos fastlege (andeler);Førde;1;Fastlege og legevakt;29.2;276;963;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+11;2;Spirometri hos fastlege (andeler);Bergen;1;Fastlege og legevakt;37.9;999;2645;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+12;2;Spirometri hos fastlege (andeler);Fonna;1;Fastlege og legevakt;34.2;626;1840;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+13;2;Spirometri hos fastlege (andeler);Stavanger;1;Fastlege og legevakt;42.6;1199;2793;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+14;2;Spirometri hos fastlege (andeler);Østfold;1;Fastlege og legevakt;37.8;1320;3503;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+15;2;Spirometri hos fastlege (andeler);Akershus;1;Fastlege og legevakt;39;1658;4224;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+16;2;Spirometri hos fastlege (andeler);OUS;1;Fastlege og legevakt;38.9;655;1694;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+17;2;Spirometri hos fastlege (andeler);Lovisenberg;1;Fastlege og legevakt;36.5;280;749;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+18;2;Spirometri hos fastlege (andeler);Diakonhjemmet;1;Fastlege og legevakt;32.6;188;575;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+19;2;Spirometri hos fastlege (andeler);Innlandet;1;Fastlege og legevakt;38.3;1880;4956;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+20;2;Spirometri hos fastlege (andeler);Vestre Viken;1;Fastlege og legevakt;37.4;1514;4054;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+21;2;Spirometri hos fastlege (andeler);Vestfold;1;Fastlege og legevakt;43.9;1270;2900;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+22;2;Spirometri hos fastlege (andeler);Telemark;1;Fastlege og legevakt;28.5;567;2001;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+23;2;Spirometri hos fastlege (andeler);Sørlandet;1;Fastlege og legevakt;42.1;1458;3463;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+8888;2;Spirometri hos fastlege (andeler);Norge;1;Fastlege og legevakt;36.9;18091;49087;Andel;Tatt spirometri;Vært hos fastlege/legevakt;2013-2015
+1;3;Personer på poliklinikk;Finnmark;2;Poliklinikk;121.2;461;38184;Rate;Antall;Innbyggere;2013-2015
+2;3;Personer på poliklinikk;UNN;2;Poliklinikk;102.9;992;95215;Rate;Antall;Innbyggere;2013-2015
+3;3;Personer på poliklinikk;Nordland;2;Poliklinikk;73.4;537;70961;Rate;Antall;Innbyggere;2013-2015
+4;3;Personer på poliklinikk;Helgeland;2;Poliklinikk;89.9;393;41919;Rate;Antall;Innbyggere;2013-2015
+6;3;Personer på poliklinikk;Nord-Trøndelag;2;Poliklinikk;58.4;435;71370;Rate;Antall;Innbyggere;2013-2015
+7;3;Personer på poliklinikk;St. Olavs;2;Poliklinikk;84.7;1226;146062;Rate;Antall;Innbyggere;2013-2015
+8;3;Personer på poliklinikk;Møre og Romsdal;2;Poliklinikk;69.5;945;132447;Rate;Antall;Innbyggere;2013-2015
+9;3;Personer på poliklinikk;Haraldsplass;2;Poliklinikk;91.6;595;64333;Rate;Antall;Innbyggere;2013-2015
+10;3;Personer på poliklinikk;Førde;2;Poliklinikk;69.7;403;56050;Rate;Antall;Innbyggere;2013-2015
+11;3;Personer på poliklinikk;Bergen;2;Poliklinikk;87.4;1170;137988;Rate;Antall;Innbyggere;2013-2015
+12;3;Personer på poliklinikk;Fonna;2;Poliklinikk;75.7;663;86891;Rate;Antall;Innbyggere;2013-2015
+13;3;Personer på poliklinikk;Stavanger;2;Poliklinikk;67.5;980;155662;Rate;Antall;Innbyggere;2013-2015
+14;3;Personer på poliklinikk;Østfold;2;Poliklinikk;65.4;994;150013;Rate;Antall;Innbyggere;2013-2015
+15;3;Personer på poliklinikk;Akershus;2;Poliklinikk;79.3;1776;239191;Rate;Antall;Innbyggere;2013-2015
+16;3;Personer på poliklinikk;OUS;2;Poliklinikk;80.9;823;113228;Rate;Antall;Innbyggere;2013-2015
+17;3;Personer på poliklinikk;Lovisenberg;2;Poliklinikk;122.1;423;44086;Rate;Antall;Innbyggere;2013-2015
+18;3;Personer på poliklinikk;Diakonhjemmet;2;Poliklinikk;60.5;380;62333;Rate;Antall;Innbyggere;2013-2015
+19;3;Personer på poliklinikk;Innlandet;2;Poliklinikk;68.5;1572;218086;Rate;Antall;Innbyggere;2013-2015
+20;3;Personer på poliklinikk;Vestre Viken;2;Poliklinikk;74.5;1770;241963;Rate;Antall;Innbyggere;2013-2015
+21;3;Personer på poliklinikk;Vestfold;2;Poliklinikk;113.3;1358;118596;Rate;Antall;Innbyggere;2013-2015
+22;3;Personer på poliklinikk;Telemark;2;Poliklinikk;88;831;91860;Rate;Antall;Innbyggere;2013-2015
+23;3;Personer på poliklinikk;Sørlandet;2;Poliklinikk;132.5;1890;143083;Rate;Antall;Innbyggere;2013-2015
+8888;3;Personer på poliklinikk;Norge;2;Poliklinikk;82.5;20620;2519521;Rate;Antall;Innbyggere;2013-2015
+1;4;Spirometri på poliklinikk (andeler);Finnmark;2;Poliklinikk;87.7;404;461;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+2;4;Spirometri på poliklinikk (andeler);UNN;2;Poliklinikk;87.4;867;992;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+3;4;Spirometri på poliklinikk (andeler);Nordland;2;Poliklinikk;78.2;419;537;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+4;4;Spirometri på poliklinikk (andeler);Helgeland;2;Poliklinikk;76.9;301;393;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+6;4;Spirometri på poliklinikk (andeler);Nord-Trøndelag;2;Poliklinikk;81.7;355;435;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+7;4;Spirometri på poliklinikk (andeler);St. Olavs;2;Poliklinikk;87.2;1069;1226;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+8;4;Spirometri på poliklinikk (andeler);Møre og Romsdal;2;Poliklinikk;83.5;788;945;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+9;4;Spirometri på poliklinikk (andeler);Haraldsplass;2;Poliklinikk;86.2;512;595;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+10;4;Spirometri på poliklinikk (andeler);Førde;2;Poliklinikk;87;350;403;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+11;4;Spirometri på poliklinikk (andeler);Bergen;2;Poliklinikk;84.4;987;1170;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+12;4;Spirometri på poliklinikk (andeler);Fonna;2;Poliklinikk;84.5;559;663;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+13;4;Spirometri på poliklinikk (andeler);Stavanger;2;Poliklinikk;85;837;980;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+14;4;Spirometri på poliklinikk (andeler);Østfold;2;Poliklinikk;84.4;838;994;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+15;4;Spirometri på poliklinikk (andeler);Akershus;2;Poliklinikk;75.9;1352;1776;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+16;4;Spirometri på poliklinikk (andeler);OUS;2;Poliklinikk;82.3;678;823;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+17;4;Spirometri på poliklinikk (andeler);Lovisenberg;2;Poliklinikk;77.1;326;423;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+18;4;Spirometri på poliklinikk (andeler);Diakonhjemmet;2;Poliklinikk;83;316;380;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+19;4;Spirometri på poliklinikk (andeler);Innlandet;2;Poliklinikk;86.1;1352;1572;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+20;4;Spirometri på poliklinikk (andeler);Vestre Viken;2;Poliklinikk;86;1521;1770;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+21;4;Spirometri på poliklinikk (andeler);Vestfold;2;Poliklinikk;90;1222;1358;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+22;4;Spirometri på poliklinikk (andeler);Telemark;2;Poliklinikk;83;688;831;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+23;4;Spirometri på poliklinikk (andeler);Sørlandet;2;Poliklinikk;85.6;1616;1890;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+8888;4;Spirometri på poliklinikk (andeler);Norge;2;Poliklinikk;84.2;17360;20620;Andel;Tatt spirometri;Vært på poliklinikk;2013-2015
+1;5;Akuttinnlagte personer;Finnmark;3;Akuttinnleggelser;45.7;167;38184;Rate;Antall;Innbyggere;2013-2015
+2;5;Akuttinnlagte personer;UNN;3;Akuttinnleggelser;41.9;399;95215;Rate;Antall;Innbyggere;2013-2015
+3;5;Akuttinnlagte personer;Nordland;3;Akuttinnleggelser;43.1;316;70961;Rate;Antall;Innbyggere;2013-2015
+4;5;Akuttinnlagte personer;Helgeland;3;Akuttinnleggelser;36.1;161;41919;Rate;Antall;Innbyggere;2013-2015
+6;5;Akuttinnlagte personer;Nord-Trøndelag;3;Akuttinnleggelser;48.1;363;71370;Rate;Antall;Innbyggere;2013-2015
+7;5;Akuttinnlagte personer;St. Olavs;3;Akuttinnleggelser;41.8;602;146062;Rate;Antall;Innbyggere;2013-2015
+8;5;Akuttinnlagte personer;Møre og Romsdal;3;Akuttinnleggelser;37.5;517;132447;Rate;Antall;Innbyggere;2013-2015
+9;5;Akuttinnlagte personer;Haraldsplass;3;Akuttinnleggelser;41.6;271;64333;Rate;Antall;Innbyggere;2013-2015
+10;5;Akuttinnlagte personer;Førde;3;Akuttinnleggelser;34.1;207;56050;Rate;Antall;Innbyggere;2013-2015
+11;5;Akuttinnlagte personer;Bergen;3;Akuttinnleggelser;46.1;619;137988;Rate;Antall;Innbyggere;2013-2015
+12;5;Akuttinnlagte personer;Fonna;3;Akuttinnleggelser;49.2;434;86891;Rate;Antall;Innbyggere;2013-2015
+13;5;Akuttinnlagte personer;Stavanger;3;Akuttinnleggelser;43;602;155662;Rate;Antall;Innbyggere;2013-2015
+14;5;Akuttinnlagte personer;Østfold;3;Akuttinnleggelser;38;576;150013;Rate;Antall;Innbyggere;2013-2015
+15;5;Akuttinnlagte personer;Akershus;3;Akuttinnleggelser;40.1;873;239191;Rate;Antall;Innbyggere;2013-2015
+16;5;Akuttinnlagte personer;OUS;3;Akuttinnleggelser;42.1;439;113228;Rate;Antall;Innbyggere;2013-2015
+17;5;Akuttinnlagte personer;Lovisenberg;3;Akuttinnleggelser;59.1;195;44086;Rate;Antall;Innbyggere;2013-2015
+18;5;Akuttinnlagte personer;Diakonhjemmet;3;Akuttinnleggelser;22.6;143;62333;Rate;Antall;Innbyggere;2013-2015
+19;5;Akuttinnlagte personer;Innlandet;3;Akuttinnleggelser;43.6;1011;218086;Rate;Antall;Innbyggere;2013-2015
+20;5;Akuttinnlagte personer;Vestre Viken;3;Akuttinnleggelser;39;933;241963;Rate;Antall;Innbyggere;2013-2015
+21;5;Akuttinnlagte personer;Vestfold;3;Akuttinnleggelser;48.5;586;118596;Rate;Antall;Innbyggere;2013-2015
+22;5;Akuttinnlagte personer;Telemark;3;Akuttinnleggelser;43.9;418;91860;Rate;Antall;Innbyggere;2013-2015
+23;5;Akuttinnlagte personer;Sørlandet;3;Akuttinnleggelser;44.3;625;143083;Rate;Antall;Innbyggere;2013-2015
+8888;5;Akuttinnlagte personer;Norge;3;Akuttinnleggelser;41.9;10455;2519521;Rate;Antall;Innbyggere;2013-2015
+1;6;Liggedøgn;Finnmark;3;Akuttinnleggelser;506.2;1859;38184;Rate;Antall;Innbyggere;2013-2015
+2;6;Liggedøgn;UNN;3;Akuttinnleggelser;394.2;3748;95215;Rate;Antall;Innbyggere;2013-2015
+3;6;Liggedøgn;Nordland;3;Akuttinnleggelser;468.4;3432;70961;Rate;Antall;Innbyggere;2013-2015
+4;6;Liggedøgn;Helgeland;3;Akuttinnleggelser;355.3;1591;41919;Rate;Antall;Innbyggere;2013-2015
+6;6;Liggedøgn;Nord-Trøndelag;3;Akuttinnleggelser;483;3634;71370;Rate;Antall;Innbyggere;2013-2015
+7;6;Liggedøgn;St. Olavs;3;Akuttinnleggelser;454;6525;146062;Rate;Antall;Innbyggere;2013-2015
+8;6;Liggedøgn;Møre og Romsdal;3;Akuttinnleggelser;398.9;5488;132447;Rate;Antall;Innbyggere;2013-2015
+9;6;Liggedøgn;Haraldsplass;3;Akuttinnleggelser;423.2;2759;64333;Rate;Antall;Innbyggere;2013-2015
+10;6;Liggedøgn;Førde;3;Akuttinnleggelser;289.4;1750;56050;Rate;Antall;Innbyggere;2013-2015
+11;6;Liggedøgn;Bergen;3;Akuttinnleggelser;433.9;5806;137988;Rate;Antall;Innbyggere;2013-2015
+12;6;Liggedøgn;Fonna;3;Akuttinnleggelser;511;4493;86891;Rate;Antall;Innbyggere;2013-2015
+13;6;Liggedøgn;Stavanger;3;Akuttinnleggelser;457.6;6391;155662;Rate;Antall;Innbyggere;2013-2015
+14;6;Liggedøgn;Østfold;3;Akuttinnleggelser;339.7;5151;150013;Rate;Antall;Innbyggere;2013-2015
+15;6;Liggedøgn;Akershus;3;Akuttinnleggelser;448.4;9785;239191;Rate;Antall;Innbyggere;2013-2015
+16;6;Liggedøgn;OUS;3;Akuttinnleggelser;518.9;5346;113228;Rate;Antall;Innbyggere;2013-2015
+17;6;Liggedøgn;Lovisenberg;3;Akuttinnleggelser;602.2;1974;44086;Rate;Antall;Innbyggere;2013-2015
+18;6;Liggedøgn;Diakonhjemmet;3;Akuttinnleggelser;226.4;1429;62333;Rate;Antall;Innbyggere;2013-2015
+19;6;Liggedøgn;Innlandet;3;Akuttinnleggelser;377.7;8728;218086;Rate;Antall;Innbyggere;2013-2015
+20;6;Liggedøgn;Vestre Viken;3;Akuttinnleggelser;374.8;8938;241963;Rate;Antall;Innbyggere;2013-2015
+21;6;Liggedøgn;Vestfold;3;Akuttinnleggelser;484.6;5852;118596;Rate;Antall;Innbyggere;2013-2015
+22;6;Liggedøgn;Telemark;3;Akuttinnleggelser;421.3;4007;91860;Rate;Antall;Innbyggere;2013-2015
+23;6;Liggedøgn;Sørlandet;3;Akuttinnleggelser;363.1;5125;143083;Rate;Antall;Innbyggere;2013-2015
+8888;6;Liggedøgn;Norge;3;Akuttinnleggelser;416.8;103812;2519521;Rate;Antall;Innbyggere;2013-2015
+1;7;Ventilasjonsstøtte (andeler);Finnmark;3;Akuttinnleggelser;21.4;57;260;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+2;7;Ventilasjonsstøtte (andeler);UNN;3;Akuttinnleggelser;14.6;91;618;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+3;7;Ventilasjonsstøtte (andeler);Nordland;3;Akuttinnleggelser;15;74;492;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+4;7;Ventilasjonsstøtte (andeler);Helgeland;3;Akuttinnleggelser;19.8;45;228;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+6;7;Ventilasjonsstøtte (andeler);Nord-Trøndelag;3;Akuttinnleggelser;15.5;90;585;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+7;7;Ventilasjonsstøtte (andeler);St. Olavs;3;Akuttinnleggelser;14.3;143;999;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+8;7;Ventilasjonsstøtte (andeler);Møre og Romsdal;3;Akuttinnleggelser;24.6;201;829;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+9;7;Ventilasjonsstøtte (andeler);Haraldsplass;3;Akuttinnleggelser;18.8;86;456;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+10;7;Ventilasjonsstøtte (andeler);Førde;3;Akuttinnleggelser;15.1;44;303;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+11;7;Ventilasjonsstøtte (andeler);Bergen;3;Akuttinnleggelser;22.3;229;1022;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+12;7;Ventilasjonsstøtte (andeler);Fonna;3;Akuttinnleggelser;14.4;105;730;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+13;7;Ventilasjonsstøtte (andeler);Stavanger;3;Akuttinnleggelser;18.3;186;1020;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+14;7;Ventilasjonsstøtte (andeler);Østfold;3;Akuttinnleggelser;16.8;160;943;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+15;7;Ventilasjonsstøtte (andeler);Akershus;3;Akuttinnleggelser;18;273;1473;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+16;7;Ventilasjonsstøtte (andeler);OUS;3;Akuttinnleggelser;13.7;107;770;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+17;7;Ventilasjonsstøtte (andeler);Lovisenberg;3;Akuttinnleggelser;16.1;60;366;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+18;7;Ventilasjonsstøtte (andeler);Diakonhjemmet;3;Akuttinnleggelser;14.1;33;231;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+19;7;Ventilasjonsstøtte (andeler);Innlandet;3;Akuttinnleggelser;15.9;250;1584;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+20;7;Ventilasjonsstøtte (andeler);Vestre Viken;3;Akuttinnleggelser;19.5;290;1491;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+21;7;Ventilasjonsstøtte (andeler);Vestfold;3;Akuttinnleggelser;26.4;251;950;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+22;7;Ventilasjonsstøtte (andeler);Telemark;3;Akuttinnleggelser;22.1;144;651;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+23;7;Ventilasjonsstøtte (andeler);Sørlandet;3;Akuttinnleggelser;21.1;205;969;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+8888;7;Ventilasjonsstøtte (andeler);Norge;3;Akuttinnleggelser;18.4;3125;16972;Andel;Fått ventilasjonsstøtte;Akuttinnlagte personer;2013-2015
+1;8;Reinnleggelser;Finnmark;3;Akuttinnleggelser;27.8;69;245;Andel;Antall;Primærinnleggelser;2013-2015
+2;8;Reinnleggelser;UNN;3;Akuttinnleggelser;26.2;149;570;Andel;Antall;Primærinnleggelser;2013-2015
+3;8;Reinnleggelser;Nordland;3;Akuttinnleggelser;28.1;130;463;Andel;Antall;Primærinnleggelser;2013-2015
+4;8;Reinnleggelser;Helgeland;3;Akuttinnleggelser;25;53;210;Andel;Antall;Primærinnleggelser;2013-2015
+6;8;Reinnleggelser;Nord-Trøndelag;3;Akuttinnleggelser;28.2;155;546;Andel;Antall;Primærinnleggelser;2013-2015
+7;8;Reinnleggelser;St. Olavs;3;Akuttinnleggelser;29.3;274;935;Andel;Antall;Primærinnleggelser;2013-2015
+8;8;Reinnleggelser;Møre og Romsdal;3;Akuttinnleggelser;30.2;232;770;Andel;Antall;Primærinnleggelser;2013-2015
+9;8;Reinnleggelser;Haraldsplass;3;Akuttinnleggelser;31.1;135;434;Andel;Antall;Primærinnleggelser;2013-2015
+10;8;Reinnleggelser;Førde;3;Akuttinnleggelser;25.8;72;280;Andel;Antall;Primærinnleggelser;2013-2015
+11;8;Reinnleggelser;Bergen;3;Akuttinnleggelser;29.3;277;954;Andel;Antall;Primærinnleggelser;2013-2015
+12;8;Reinnleggelser;Fonna;3;Akuttinnleggelser;29.8;206;690;Andel;Antall;Primærinnleggelser;2013-2015
+13;8;Reinnleggelser;Stavanger;3;Akuttinnleggelser;29;277;953;Andel;Antall;Primærinnleggelser;2013-2015
+14;8;Reinnleggelser;Østfold;3;Akuttinnleggelser;28.6;249;871;Andel;Antall;Primærinnleggelser;2013-2015
+15;8;Reinnleggelser;Akershus;3;Akuttinnleggelser;31.2;429;1371;Andel;Antall;Primærinnleggelser;2013-2015
+16;8;Reinnleggelser;OUS;3;Akuttinnleggelser;33;236;723;Andel;Antall;Primærinnleggelser;2013-2015
+17;8;Reinnleggelser;Lovisenberg;3;Akuttinnleggelser;38.2;125;343;Andel;Antall;Primærinnleggelser;2013-2015
+18;8;Reinnleggelser;Diakonhjemmet;3;Akuttinnleggelser;32.4;71;218;Andel;Antall;Primærinnleggelser;2013-2015
+19;8;Reinnleggelser;Innlandet;3;Akuttinnleggelser;27.7;400;1448;Andel;Antall;Primærinnleggelser;2013-2015
+20;8;Reinnleggelser;Vestre Viken;3;Akuttinnleggelser;28.9;395;1367;Andel;Antall;Primærinnleggelser;2013-2015
+21;8;Reinnleggelser;Vestfold;3;Akuttinnleggelser;29.8;261;875;Andel;Antall;Primærinnleggelser;2013-2015
+22;8;Reinnleggelser;Telemark;3;Akuttinnleggelser;29.8;177;596;Andel;Antall;Primærinnleggelser;2013-2015
+23;8;Reinnleggelser;Sørlandet;3;Akuttinnleggelser;27.1;246;909;Andel;Antall;Primærinnleggelser;2013-2015
+8888;8;Reinnleggelser;Norge;3;Akuttinnleggelser;29.3;4620;15771;Andel;Antall;Primærinnleggelser;2013-2015
+1;9;Liggetid siste år før død;Finnmark;3;Akuttinnleggelser;16.6;1867;114;Liggedøgn;Antall døgn;Døde;2013-2015
+2;9;Liggetid siste år før død;UNN;3;Akuttinnleggelser;14.2;4009;281;Liggedøgn;Antall døgn;Døde;2013-2015
+3;9;Liggetid siste år før død;Nordland;3;Akuttinnleggelser;17.5;3708;209;Liggedøgn;Antall døgn;Døde;2013-2015
+4;9;Liggetid siste år før død;Helgeland;3;Akuttinnleggelser;13.7;1375;98;Liggedøgn;Antall døgn;Døde;2013-2015
+6;9;Liggetid siste år før død;Nord-Trøndelag;3;Akuttinnleggelser;14.5;3139;218;Liggedøgn;Antall døgn;Døde;2013-2015
+7;9;Liggetid siste år før død;St. Olavs;3;Akuttinnleggelser;18.6;7086;381;Liggedøgn;Antall døgn;Døde;2013-2015
+8;9;Liggetid siste år før død;Møre og Romsdal;3;Akuttinnleggelser;17.2;5792;340;Liggedøgn;Antall døgn;Døde;2013-2015
+9;9;Liggetid siste år før død;Haraldsplass;3;Akuttinnleggelser;16.7;2114;127;Liggedøgn;Antall døgn;Døde;2013-2015
+10;9;Liggetid siste år før død;Førde;3;Akuttinnleggelser;11.8;1541;132;Liggedøgn;Antall døgn;Døde;2013-2015
+11;9;Liggetid siste år før død;Bergen;3;Akuttinnleggelser;15.1;5356;355;Liggedøgn;Antall døgn;Døde;2013-2015
+12;9;Liggetid siste år før død;Fonna;3;Akuttinnleggelser;18.1;4761;265;Liggedøgn;Antall døgn;Døde;2013-2015
+13;9;Liggetid siste år før død;Stavanger;3;Akuttinnleggelser;17.5;7267;418;Liggedøgn;Antall døgn;Døde;2013-2015
+14;9;Liggetid siste år før død;Østfold;3;Akuttinnleggelser;13.5;5688;420;Liggedøgn;Antall døgn;Døde;2013-2015
+15;9;Liggetid siste år før død;Akershus;3;Akuttinnleggelser;17.2;10126;581;Liggedøgn;Antall døgn;Døde;2013-2015
+16;9;Liggetid siste år før død;OUS;3;Akuttinnleggelser;18.9;6062;321;Liggedøgn;Antall døgn;Døde;2013-2015
+17;9;Liggetid siste år før død;Lovisenberg;3;Akuttinnleggelser;17.7;1860;106;Liggedøgn;Antall døgn;Døde;2013-2015
+18;9;Liggetid siste år før død;Diakonhjemmet;3;Akuttinnleggelser;15.8;1427;90;Liggedøgn;Antall døgn;Døde;2013-2015
+19;9;Liggetid siste år før død;Innlandet;3;Akuttinnleggelser;13.2;9465;726;Liggedøgn;Antall døgn;Døde;2013-2015
+20;9;Liggetid siste år før død;Vestre Viken;3;Akuttinnleggelser;14.6;9672;661;Liggedøgn;Antall døgn;Døde;2013-2015
+21;9;Liggetid siste år før død;Vestfold;3;Akuttinnleggelser;17;7470;441;Liggedøgn;Antall døgn;Døde;2013-2015
+22;9;Liggetid siste år før død;Telemark;3;Akuttinnleggelser;14.6;4512;309;Liggedøgn;Antall døgn;Døde;2013-2015
+23;9;Liggetid siste år før død;Sørlandet;3;Akuttinnleggelser;11.1;4580;409;Liggedøgn;Antall døgn;Døde;2013-2015
+8888;9;Liggetid siste år før død;Norge;3;Akuttinnleggelser;15.5;108877;7002;Liggedøgn;Antall døgn;Døde;2013-2015
+1;10;Personer deltatt på lungerehabilitering;Finnmark;4;Rehabilitering;7.7;30;38528;Rate;Antall;Innbyggere (2015);2013-2015
+2;10;Personer deltatt på lungerehabilitering;UNN;4;Rehabilitering;7.4;72;96043;Rate;Antall;Innbyggere (2015);2013-2015
+3;10;Personer deltatt på lungerehabilitering;Nordland;4;Rehabilitering;5.7;42;71494;Rate;Antall;Innbyggere (2015);2013-2015
+4;10;Personer deltatt på lungerehabilitering;Helgeland;4;Rehabilitering;10.5;47;42096;Rate;Antall;Innbyggere (2015);2013-2015
+6;10;Personer deltatt på lungerehabilitering;Nord-Trøndelag;4;Rehabilitering;11.1;85;71915;Rate;Antall;Innbyggere (2015);2013-2015
+7;10;Personer deltatt på lungerehabilitering;St. Olavs;4;Rehabilitering;16.3;241;148001;Rate;Antall;Innbyggere (2015);2013-2015
+8;10;Personer deltatt på lungerehabilitering;Møre og Romsdal;4;Rehabilitering;10.3;142;133704;Rate;Antall;Innbyggere (2015);2013-2015
+9;10;Personer deltatt på lungerehabilitering;Haraldsplass;4;Rehabilitering;8.9;59;65299;Rate;Antall;Innbyggere (2015);2013-2015
+10;10;Personer deltatt på lungerehabilitering;Førde;4;Rehabilitering;8;48;56397;Rate;Antall;Innbyggere (2015);2013-2015
+11;10;Personer deltatt på lungerehabilitering;Bergen;4;Rehabilitering;10.1;138;140182;Rate;Antall;Innbyggere (2015);2013-2015
+12;10;Personer deltatt på lungerehabilitering;Fonna;4;Rehabilitering;15.3;137;88040;Rate;Antall;Innbyggere (2015);2013-2015
+13;10;Personer deltatt på lungerehabilitering;Stavanger;4;Rehabilitering;11.4;167;158573;Rate;Antall;Innbyggere (2015);2013-2015
+14;10;Personer deltatt på lungerehabilitering;Østfold;4;Rehabilitering;7.9;122;152195;Rate;Antall;Innbyggere (2015);2013-2015
+15;10;Personer deltatt på lungerehabilitering;Akershus;4;Rehabilitering;10;233;243944;Rate;Antall;Innbyggere (2015);2013-2015
+16;10;Personer deltatt på lungerehabilitering;OUS;4;Rehabilitering;10.1;105;115040;Rate;Antall;Innbyggere (2015);2013-2015
+17;10;Personer deltatt på lungerehabilitering;Lovisenberg;4;Rehabilitering;5.5;24;45658;Rate;Antall;Innbyggere (2015);2013-2015
+18;10;Personer deltatt på lungerehabilitering;Diakonhjemmet;4;Rehabilitering;6.2;41;63517;Rate;Antall;Innbyggere (2015);2013-2015
+19;10;Personer deltatt på lungerehabilitering;Innlandet;4;Rehabilitering;14.1;329;219640;Rate;Antall;Innbyggere (2015);2013-2015
+20;10;Personer deltatt på lungerehabilitering;Vestre Viken;4;Rehabilitering;6.5;158;245728;Rate;Antall;Innbyggere (2015);2013-2015
+21;10;Personer deltatt på lungerehabilitering;Vestfold;4;Rehabilitering;9.1;112;120242;Rate;Antall;Innbyggere (2015);2013-2015
+22;10;Personer deltatt på lungerehabilitering;Telemark;4;Rehabilitering;8;75;92634;Rate;Antall;Innbyggere (2015);2013-2015
+23;10;Personer deltatt på lungerehabilitering;Sørlandet;4;Rehabilitering;8;117;145328;Rate;Antall;Innbyggere (2015);2013-2015
+8888;10;Personer deltatt på lungerehabilitering;Norge;4;Rehabilitering;9.9;2524;2554198;Rate;Antall;Innbyggere (2015);2013-2015
+1;11;Nye tilfeller av lungekreft;Finnmark;5;Sykelighet;7.3;54;73872;Insidens;Antall (per år);Innbyggere;2013-2015
+2;11;Nye tilfeller av lungekreft;UNN;5;Sykelighet;5.8;111;184741;Insidens;Antall (per år);Innbyggere;2013-2015
+3;11;Nye tilfeller av lungekreft;Nordland;5;Sykelighet;5.5;83;134478;Insidens;Antall (per år);Innbyggere;2013-2015
+4;11;Nye tilfeller av lungekreft;Helgeland;5;Sykelighet;5.7;51;77685;Insidens;Antall (per år);Innbyggere;2013-2015
+6;11;Nye tilfeller av lungekreft;Nord-Trøndelag;5;Sykelighet;5.4;82;134858;Insidens;Antall (per år);Innbyggere;2013-2015
+7;11;Nye tilfeller av lungekreft;St. Olavs;5;Sykelighet;5.5;155;296387;Insidens;Antall (per år);Innbyggere;2013-2015
+8;11;Nye tilfeller av lungekreft;Møre og Romsdal;5;Sykelighet;5.5;150;253210;Insidens;Antall (per år);Innbyggere;2013-2015
+9;11;Nye tilfeller av lungekreft;Haraldsplass;5;Sykelighet;5.4;70;132863;Insidens;Antall (per år);Innbyggere;2013-2015
+10;11;Nye tilfeller av lungekreft;Førde;5;Sykelighet;5.3;62;107830;Insidens;Antall (per år);Innbyggere;2013-2015
+11;11;Nye tilfeller av lungekreft;Bergen;5;Sykelighet;5.7;148;283832;Insidens;Antall (per år);Innbyggere;2013-2015
+12;11;Nye tilfeller av lungekreft;Fonna;5;Sykelighet;6;103;173264;Insidens;Antall (per år);Innbyggere;2013-2015
+13;11;Nye tilfeller av lungekreft;Stavanger;5;Sykelighet;6;162;335835;Insidens;Antall (per år);Innbyggere;2013-2015
+14;11;Nye tilfeller av lungekreft;Østfold;5;Sykelighet;6.3;188;275869;Insidens;Antall (per år);Innbyggere;2013-2015
+15;11;Nye tilfeller av lungekreft;Akershus;5;Sykelighet;6;254;466673;Insidens;Antall (per år);Innbyggere;2013-2015
+16;11;Nye tilfeller av lungekreft;OUS;5;Sykelighet;5.4;104;241822;Insidens;Antall (per år);Innbyggere;2013-2015
+17;11;Nye tilfeller av lungekreft;Lovisenberg;5;Sykelighet;7.1;43;126274;Insidens;Antall (per år);Innbyggere;2013-2015
+18;11;Nye tilfeller av lungekreft;Diakonhjemmet;5;Sykelighet;3.7;44;127209;Insidens;Antall (per år);Innbyggere;2013-2015
+19;11;Nye tilfeller av lungekreft;Innlandet;5;Sykelighet;5.5;257;391391;Insidens;Antall (per år);Innbyggere;2013-2015
+20;11;Nye tilfeller av lungekreft;Vestre Viken;5;Sykelighet;5;232;454854;Insidens;Antall (per år);Innbyggere;2013-2015
+21;11;Nye tilfeller av lungekreft;Vestfold;5;Sykelighet;6.5;153;219687;Insidens;Antall (per år);Innbyggere;2013-2015
+22;11;Nye tilfeller av lungekreft;Telemark;5;Sykelighet;5.5;106;169471;Insidens;Antall (per år);Innbyggere;2013-2015
+23;11;Nye tilfeller av lungekreft;Sørlandet;5;Sykelighet;7;197;283876;Insidens;Antall (per år);Innbyggere;2013-2015
+8888;11;Nye tilfeller av lungekreft;Norge;5;Sykelighet;5.7;2811;4945981;Insidens;Antall (per år);Innbyggere;2013-2015

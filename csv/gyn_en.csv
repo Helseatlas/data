@@ -1,0 +1,375 @@
+area;level2;level2_en;area_en;Level1;level1_en;value;numerator;denominator;type;name_numerator;name_denominator;Period
+1;1;Postmenopausal bleeding;Finnmark;1;Diagnosis and assessment;98.26;137;13818;Rate;Number;Inhabitants;2015-2017
+2;1;Postmenopausal bleeding;UNN;1;Diagnosis and assessment;114.92;413;36027;Rate;Number;Inhabitants;2015-2017
+3;1;Postmenopausal bleeding;Nordland;1;Diagnosis and assessment;87.85;239;27320;Rate;Number;Inhabitants;2015-2017
+4;1;Postmenopausal bleeding;Helgeland;1;Diagnosis and assessment;109.89;174;15997;Rate;Number;Inhabitants;2015-2017
+5;1;Postmenopausal bleeding;Nord-Trøndelag;1;Diagnosis and assessment;92.75;245;26846;Rate;Number;Inhabitants;2015-2017
+6;1;Postmenopausal bleeding;St. Olavs;1;Diagnosis and assessment;77.62;431;55561;Rate;Number;Inhabitants;2015-2017
+7;1;Postmenopausal bleeding;Møre og Romsdal;1;Diagnosis and assessment;84.24;420;50391;Rate;Number;Inhabitants;2015-2017
+8;1;Postmenopausal bleeding;Førde;1;Diagnosis and assessment;73.64;156;21462;Rate;Number;Inhabitants;2015-2017
+9;1;Postmenopausal bleeding;Bergen;1;Diagnosis and assessment;94.95;714;75263;Rate;Number;Inhabitants;2015-2017
+10;1;Postmenopausal bleeding;Fonna;1;Diagnosis and assessment;108.77;350;32368;Rate;Number;Inhabitants;2015-2017
+11;1;Postmenopausal bleeding;Stavanger;1;Diagnosis and assessment;101.89;575;55954;Rate;Number;Inhabitants;2015-2017
+12;1;Postmenopausal bleeding;Østfold;1;Diagnosis and assessment;99.99;578;58034;Rate;Number;Inhabitants;2015-2017
+13;1;Postmenopausal bleeding;Akershus;1;Diagnosis and assessment;93.74;819;86884;Rate;Number;Inhabitants;2015-2017
+14;1;Postmenopausal bleeding;OUS;1;Diagnosis and assessment;92.69;377;40513;Rate;Number;Inhabitants;2015-2017
+15;1;Postmenopausal bleeding;Lovisenberg;1;Diagnosis and assessment;84.51;119;13700;Rate;Number;Inhabitants;2015-2017
+16;1;Postmenopausal bleeding;Diakonhjemmet;1;Diagnosis and assessment;92.06;225;24517;Rate;Number;Inhabitants;2015-2017
+17;1;Postmenopausal bleeding;Innlandet;1;Diagnosis and assessment;90.23;764;85637;Rate;Number;Inhabitants;2015-2017
+18;1;Postmenopausal bleeding;Vestre Viken;1;Diagnosis and assessment;107.48;984;91536;Rate;Number;Inhabitants;2015-2017
+19;1;Postmenopausal bleeding;Vestfold;1;Diagnosis and assessment;107.48;500;46631;Rate;Number;Inhabitants;2015-2017
+20;1;Postmenopausal bleeding;Telemark;1;Diagnosis and assessment;107.58;381;35845;Rate;Number;Inhabitants;2015-2017
+21;1;Postmenopausal bleeding;Sørlandet;1;Diagnosis and assessment;107.89;588;54515;Rate;Number;Inhabitants;2015-2017
+8888;1;Postmenopausal bleeding;Norway;1;Diagnosis and assessment;96.86;9191;948819;Rate;Number;Inhabitants;2015-2017
+1;2;Endometrial diagnosis;Finnmark;1;Diagnosis and assessment;120.24;365;30108;Rate;Number;Inhabitants;2015-2017
+2;2;Endometrial diagnosis;UNN;1;Diagnosis and assessment;115.06;895;77413;Rate;Number;Inhabitants;2015-2017
+3;2;Endometrial diagnosis;Nordland;1;Diagnosis and assessment;151.02;876;56144;Rate;Number;Inhabitants;2015-2017
+4;2;Endometrial diagnosis;Helgeland;1;Diagnosis and assessment;145.46;471;31821;Rate;Number;Inhabitants;2015-2017
+5;2;Endometrial diagnosis;Nord-Trøndelag;1;Diagnosis and assessment;87.08;486;54518;Rate;Number;Inhabitants;2015-2017
+6;2;Endometrial diagnosis;St. Olavs;1;Diagnosis and assessment;89.81;1145;128837;Rate;Number;Inhabitants;2015-2017
+7;2;Endometrial diagnosis;Møre og Romsdal;1;Diagnosis and assessment;75.36;793;104957;Rate;Number;Inhabitants;2015-2017
+8;2;Endometrial diagnosis;Førde;1;Diagnosis and assessment;77.26;344;43540;Rate;Number;Inhabitants;2015-2017
+9;2;Endometrial diagnosis;Bergen;1;Diagnosis and assessment;72.63;1273;178531;Rate;Number;Inhabitants;2015-2017
+10;2;Endometrial diagnosis;Fonna;1;Diagnosis and assessment;80.34;568;70749;Rate;Number;Inhabitants;2015-2017
+11;2;Endometrial diagnosis;Stavanger;1;Diagnosis and assessment;111.73;1555;140197;Rate;Number;Inhabitants;2015-2017
+12;2;Endometrial diagnosis;Østfold;1;Diagnosis and assessment;95.2;1166;119927;Rate;Number;Inhabitants;2015-2017
+13;2;Endometrial diagnosis;Akershus;1;Diagnosis and assessment;80.66;1642;201911;Rate;Number;Inhabitants;2015-2017
+14;2;Endometrial diagnosis;OUS;1;Diagnosis and assessment;100.37;1052;109435;Rate;Number;Inhabitants;2015-2017
+15;2;Endometrial diagnosis;Lovisenberg;1;Diagnosis and assessment;81.8;397;62639;Rate;Number;Inhabitants;2015-2017
+16;2;Endometrial diagnosis;Diakonhjemmet;1;Diagnosis and assessment;90.57;516;59811;Rate;Number;Inhabitants;2015-2017
+17;2;Endometrial diagnosis;Innlandet;1;Diagnosis and assessment;130.17;2191;166569;Rate;Number;Inhabitants;2015-2017
+18;2;Endometrial diagnosis;Vestre Viken;1;Diagnosis and assessment;113.41;2264;196644;Rate;Number;Inhabitants;2015-2017
+19;2;Endometrial diagnosis;Vestfold;1;Diagnosis and assessment;111.98;1096;95564;Rate;Number;Inhabitants;2015-2017
+20;2;Endometrial diagnosis;Telemark;1;Diagnosis and assessment;117.71;863;71665;Rate;Number;Inhabitants;2015-2017
+21;2;Endometrial diagnosis;Sørlandet;1;Diagnosis and assessment;98.16;1182;120307;Rate;Number;Inhabitants;2015-2017
+8888;2;Endometrial diagnosis;Norway;1;Diagnosis and assessment;99.64;21139;2121287;Rate;Number;Inhabitants;2015-2017
+1;3;Proportion curettages;Finnmark;1;Diagnosis and assessment;37.79;129;342;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+2;3;Proportion curettages;UNN;1;Diagnosis and assessment;18.21;162;881;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+3;3;Proportion curettages;Nordland;1;Diagnosis and assessment;12.28;102;850;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+4;3;Proportion curettages;Helgeland;1;Diagnosis and assessment;23.09;105;446;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+5;3;Proportion curettages;Nord-Trøndelag;1;Diagnosis and assessment;19.38;81;409;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+6;3;Proportion curettages;St. Olavs;1;Diagnosis and assessment;3.92;44;1119;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+7;3;Proportion curettages;Møre og Romsdal;1;Diagnosis and assessment;24.18;174;709;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+8;3;Proportion curettages;Førde;1;Diagnosis and assessment;27.35;78;280;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+9;3;Proportion curettages;Bergen;1;Diagnosis and assessment;17.87;208;1174;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+10;3;Proportion curettages;Fonna;1;Diagnosis and assessment;18.53;104;556;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+11;3;Proportion curettages;Stavanger;1;Diagnosis and assessment;23.74;348;1507;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+12;3;Proportion curettages;Østfold;1;Diagnosis and assessment;12.97;152;1139;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+13;3;Proportion curettages;Akershus;1;Diagnosis and assessment;13.78;208;1552;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+14;3;Proportion curettages;OUS;1;Diagnosis and assessment;8.55;81;1018;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+15;3;Proportion curettages;Lovisenberg;1;Diagnosis and assessment;11.78;37;380;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+16;3;Proportion curettages;Diakonhjemmet;1;Diagnosis and assessment;9.66;49;509;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+17;3;Proportion curettages;Innlandet;1;Diagnosis and assessment;19.57;411;2019;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+18;3;Proportion curettages;Vestre Viken;1;Diagnosis and assessment;16.45;348;2109;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+19;3;Proportion curettages;Vestfold;1;Diagnosis and assessment;16.88;184;1073;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+20;3;Proportion curettages;Telemark;1;Diagnosis and assessment;23.61;184;772;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+21;3;Proportion curettages;Sørlandet;1;Diagnosis and assessment;16.97;199;1167;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+8888;3;Proportion curettages;Norway;1;Diagnosis and assessment;16.93;3388;20012;Percentage;Number endometrial biopsy and curettages;Number curettages;2015-2017
+1;4;Colposcopy and/or cervical biopsy;Finnmark;1;Diagnosis and assessment;237.84;710;30108;Rate;Number;Inhabitants;2015-2017
+2;4;Colposcopy and/or cervical biopsy;UNN;1;Diagnosis and assessment;214.2;1633;77413;Rate;Number;Inhabitants;2015-2017
+3;4;Colposcopy and/or cervical biopsy;Nordland;1;Diagnosis and assessment;1299.3;7205;56144;Rate;Number;Inhabitants;2015-2017
+4;4;Colposcopy and/or cervical biopsy;Helgeland;1;Diagnosis and assessment;236.5;723;31821;Rate;Number;Inhabitants;2015-2017
+5;4;Colposcopy and/or cervical biopsy;Nord-Trøndelag;1;Diagnosis and assessment;112.75;592;54518;Rate;Number;Inhabitants;2015-2017
+6;4;Colposcopy and/or cervical biopsy;St. Olavs;1;Diagnosis and assessment;156.83;2050;128837;Rate;Number;Inhabitants;2015-2017
+7;4;Colposcopy and/or cervical biopsy;Møre og Romsdal;1;Diagnosis and assessment;75.27;757;104957;Rate;Number;Inhabitants;2015-2017
+8;4;Colposcopy and/or cervical biopsy;Førde;1;Diagnosis and assessment;127.93;535;43540;Rate;Number;Inhabitants;2015-2017
+9;4;Colposcopy and/or cervical biopsy;Bergen;1;Diagnosis and assessment;466.09;8307;178531;Rate;Number;Inhabitants;2015-2017
+10;4;Colposcopy and/or cervical biopsy;Fonna;1;Diagnosis and assessment;472.85;3333;70749;Rate;Number;Inhabitants;2015-2017
+11;4;Colposcopy and/or cervical biopsy;Stavanger;1;Diagnosis and assessment;406.49;5867;140197;Rate;Number;Inhabitants;2015-2017
+12;4;Colposcopy and/or cervical biopsy;Østfold;1;Diagnosis and assessment;500.86;5921;119927;Rate;Number;Inhabitants;2015-2017
+13;4;Colposcopy and/or cervical biopsy;Akershus;1;Diagnosis and assessment;427.57;8722;201911;Rate;Number;Inhabitants;2015-2017
+14;4;Colposcopy and/or cervical biopsy;OUS;1;Diagnosis and assessment;629.77;6957;109435;Rate;Number;Inhabitants;2015-2017
+15;4;Colposcopy and/or cervical biopsy;Lovisenberg;1;Diagnosis and assessment;639.69;4296;62639;Rate;Number;Inhabitants;2015-2017
+16;4;Colposcopy and/or cervical biopsy;Diakonhjemmet;1;Diagnosis and assessment;667.79;3978;59811;Rate;Number;Inhabitants;2015-2017
+17;4;Colposcopy and/or cervical biopsy;Innlandet;1;Diagnosis and assessment;417.36;6934;166569;Rate;Number;Inhabitants;2015-2017
+18;4;Colposcopy and/or cervical biopsy;Vestre Viken;1;Diagnosis and assessment;565.07;11178;196644;Rate;Number;Inhabitants;2015-2017
+19;4;Colposcopy and/or cervical biopsy;Vestfold;1;Diagnosis and assessment;1216.07;11562;95564;Rate;Number;Inhabitants;2015-2017
+20;4;Colposcopy and/or cervical biopsy;Telemark;1;Diagnosis and assessment;947.65;6656;71665;Rate;Number;Inhabitants;2015-2017
+21;4;Colposcopy and/or cervical biopsy;Sørlandet;1;Diagnosis and assessment;241.67;2899;120307;Rate;Number;Inhabitants;2015-2017
+8888;4;Colposcopy and/or cervical biopsy;Norway;1;Diagnosis and assessment;475.26;100815;2121287;Rate;Number;Inhabitants;2015-2017
+1;5;Cervical biopsy;Finnmark;1;Diagnosis and assessment;136.11;403;30108;Rate;Number;Inhabitants;2015-2017
+2;5;Cervical biopsy;UNN;1;Diagnosis and assessment;161.35;1231;77413;Rate;Number;Inhabitants;2015-2017
+3;5;Cervical biopsy;Nordland;1;Diagnosis and assessment;323.22;1793;56144;Rate;Number;Inhabitants;2015-2017
+4;5;Cervical biopsy;Helgeland;1;Diagnosis and assessment;151.6;454;31821;Rate;Number;Inhabitants;2015-2017
+5;5;Cervical biopsy;Nord-Trøndelag;1;Diagnosis and assessment;87.57;456;54518;Rate;Number;Inhabitants;2015-2017
+6;5;Cervical biopsy;St. Olavs;1;Diagnosis and assessment;93.19;1212;128837;Rate;Number;Inhabitants;2015-2017
+7;5;Cervical biopsy;Møre og Romsdal;1;Diagnosis and assessment;45.01;455;104957;Rate;Number;Inhabitants;2015-2017
+8;5;Cervical biopsy;Førde;1;Diagnosis and assessment;94.29;394;43540;Rate;Number;Inhabitants;2015-2017
+9;5;Cervical biopsy;Bergen;1;Diagnosis and assessment;84.27;1545;178531;Rate;Number;Inhabitants;2015-2017
+10;5;Cervical biopsy;Fonna;1;Diagnosis and assessment;76.83;539;70749;Rate;Number;Inhabitants;2015-2017
+11;5;Cervical biopsy;Stavanger;1;Diagnosis and assessment;91.5;1335;140197;Rate;Number;Inhabitants;2015-2017
+12;5;Cervical biopsy;Østfold;1;Diagnosis and assessment;73.08;846;119927;Rate;Number;Inhabitants;2015-2017
+13;5;Cervical biopsy;Akershus;1;Diagnosis and assessment;56.53;1155;201911;Rate;Number;Inhabitants;2015-2017
+14;5;Cervical biopsy;OUS;1;Diagnosis and assessment;65.67;768;109435;Rate;Number;Inhabitants;2015-2017
+15;5;Cervical biopsy;Lovisenberg;1;Diagnosis and assessment;79.07;645;62639;Rate;Number;Inhabitants;2015-2017
+16;5;Cervical biopsy;Diakonhjemmet;1;Diagnosis and assessment;67.43;426;59811;Rate;Number;Inhabitants;2015-2017
+17;5;Cervical biopsy;Innlandet;1;Diagnosis and assessment;63.28;992;166569;Rate;Number;Inhabitants;2015-2017
+18;5;Cervical biopsy;Vestre Viken;1;Diagnosis and assessment;48.78;947;196644;Rate;Number;Inhabitants;2015-2017
+19;5;Cervical biopsy;Vestfold;1;Diagnosis and assessment;84.8;789;95564;Rate;Number;Inhabitants;2015-2017
+20;5;Cervical biopsy;Telemark;1;Diagnosis and assessment;61.29;421;71665;Rate;Number;Inhabitants;2015-2017
+21;5;Cervical biopsy;Sørlandet;1;Diagnosis and assessment;57.72;692;120307;Rate;Number;Inhabitants;2015-2017
+8888;5;Cervical biopsy;Norway;1;Diagnosis and assessment;82.49;17498;2121287;Rate;Number;Inhabitants;2015-2017
+1;6;Sterilisation;Finnmark;2;Reproductive health;13.56;20;14951;Rate;Number;Inhabitants;2015-2017
+2;6;Sterilisation;UNN;2;Reproductive health;11.88;44;37938;Rate;Number;Inhabitants;2015-2017
+3;6;Sterilisation;Nordland;2;Reproductive health;15.27;39;26557;Rate;Number;Inhabitants;2015-2017
+4;6;Sterilisation;Helgeland;2;Reproductive health;25;35;14705;Rate;Number;Inhabitants;2015-2017
+5;6;Sterilisation;Nord-Trøndelag;2;Reproductive health;17.27;42;25144;Rate;Number;Inhabitants;2015-2017
+6;6;Sterilisation;St. Olavs;2;Reproductive health;8.86;59;65740;Rate;Number;Inhabitants;2015-2017
+7;6;Sterilisation;Møre og Romsdal;2;Reproductive health;11.91;58;49654;Rate;Number;Inhabitants;2015-2017
+8;6;Sterilisation;Førde;2;Reproductive health;6.32;12;19856;Rate;Number;Inhabitants;2015-2017
+9;6;Sterilisation;Bergen;2;Reproductive health;7.31;68;92671;Rate;Number;Inhabitants;2015-2017
+10;6;Sterilisation;Fonna;2;Reproductive health;10.6;37;34555;Rate;Number;Inhabitants;2015-2017
+11;6;Sterilisation;Stavanger;2;Reproductive health;7.95;63;76854;Rate;Number;Inhabitants;2015-2017
+12;6;Sterilisation;Østfold;2;Reproductive health;12.84;71;58482;Rate;Number;Inhabitants;2015-2017
+13;6;Sterilisation;Akershus;2;Reproductive health;8.79;95;109012;Rate;Number;Inhabitants;2015-2017
+14;6;Sterilisation;OUS;2;Reproductive health;5.57;36;64500;Rate;Number;Inhabitants;2015-2017
+15;6;Sterilisation;Lovisenberg;2;Reproductive health;4.23;15;43585;Rate;Number;Inhabitants;2015-2017
+16;6;Sterilisation;Diakonhjemmet;2;Reproductive health;2.79;9;32820;Rate;Number;Inhabitants;2015-2017
+17;6;Sterilisation;Innlandet;2;Reproductive health;10.55;74;76211;Rate;Number;Inhabitants;2015-2017
+18;6;Sterilisation;Vestre Viken;2;Reproductive health;9.16;90;100152;Rate;Number;Inhabitants;2015-2017
+19;6;Sterilisation;Vestfold;2;Reproductive health;10.63;47;46293;Rate;Number;Inhabitants;2015-2017
+20;6;Sterilisation;Telemark;2;Reproductive health;12.85;41;33561;Rate;Number;Inhabitants;2015-2017
+21;6;Sterilisation;Sørlandet;2;Reproductive health;15.22;89;59607;Rate;Number;Inhabitants;2015-2017
+8888;6;Sterilisation;Norway;2;Reproductive health;9.65;1045;1082848;Rate;Number;Inhabitants;2015-2017
+1;7;Surgical treatment in connection with spontaneous abortions;Finnmark;2;Reproductive health;9.07;17;19353;Rate;Number;Inhabitants;2015-2017
+2;7;Surgical treatment in connection with spontaneous abortions;UNN;2;Reproductive health;5.85;28;48925;Rate;Number;Inhabitants;2015-2017
+3;7;Surgical treatment in connection with spontaneous abortions;Nordland;2;Reproductive health;6.9;23;34418;Rate;Number;Inhabitants;2015-2017
+4;7;Surgical treatment in connection with spontaneous abortions;Helgeland;2;Reproductive health;11.28;21;19116;Rate;Number;Inhabitants;2015-2017
+5;7;Surgical treatment in connection with spontaneous abortions;Nord-Trøndelag;2;Reproductive health;10.96;35;33027;Rate;Number;Inhabitants;2015-2017
+6;7;Surgical treatment in connection with spontaneous abortions;St. Olavs;2;Reproductive health;5.05;43;85176;Rate;Number;Inhabitants;2015-2017
+7;7;Surgical treatment in connection with spontaneous abortions;Møre og Romsdal;2;Reproductive health;8.14;52;64205;Rate;Number;Inhabitants;2015-2017
+8;7;Surgical treatment in connection with spontaneous abortions;Førde;2;Reproductive health;16.07;41;26244;Rate;Number;Inhabitants;2015-2017
+9;7;Surgical treatment in connection with spontaneous abortions;Bergen;2;Reproductive health;9.03;110;119288;Rate;Number;Inhabitants;2015-2017
+10;7;Surgical treatment in connection with spontaneous abortions;Fonna;2;Reproductive health;5.4;24;44835;Rate;Number;Inhabitants;2015-2017
+11;7;Surgical treatment in connection with spontaneous abortions;Stavanger;2;Reproductive health;3.13;31;97665;Rate;Number;Inhabitants;2015-2017
+12;7;Surgical treatment in connection with spontaneous abortions;Østfold;2;Reproductive health;6.97;50;73882;Rate;Number;Inhabitants;2015-2017
+13;7;Surgical treatment in connection with spontaneous abortions;Akershus;2;Reproductive health;5.28;71;135661;Rate;Number;Inhabitants;2015-2017
+14;7;Surgical treatment in connection with spontaneous abortions;OUS;2;Reproductive health;5.82;47;78585;Rate;Number;Inhabitants;2015-2017
+15;7;Surgical treatment in connection with spontaneous abortions;Lovisenberg;2;Reproductive health;7.03;37;52573;Rate;Number;Inhabitants;2015-2017
+16;7;Surgical treatment in connection with spontaneous abortions;Diakonhjemmet;2;Reproductive health;4.61;19;40362;Rate;Number;Inhabitants;2015-2017
+17;7;Surgical treatment in connection with spontaneous abortions;Innlandet;2;Reproductive health;4.58;43;97639;Rate;Number;Inhabitants;2015-2017
+18;7;Surgical treatment in connection with spontaneous abortions;Vestre Viken;2;Reproductive health;6.2;76;125306;Rate;Number;Inhabitants;2015-2017
+19;7;Surgical treatment in connection with spontaneous abortions;Vestfold;2;Reproductive health;6.81;38;58584;Rate;Number;Inhabitants;2015-2017
+20;7;Surgical treatment in connection with spontaneous abortions;Telemark;2;Reproductive health;7.87;32;42927;Rate;Number;Inhabitants;2015-2017
+21;7;Surgical treatment in connection with spontaneous abortions;Sørlandet;2;Reproductive health;5.71;44;77341;Rate;Number;Inhabitants;2015-2017
+8888;7;Surgical treatment in connection with spontaneous abortions;Norway;2;Reproductive health;6.43;884;1375110;Rate;Number;Inhabitants;2015-2017
+1;8;Percentage of abortions on request performed using the surgical method;Finnmark;2;Reproductive health;15.49;35;228;Percentage;Number surgical abortions;Number abortions;2015-2017
+2;8;Percentage of abortions on request performed using the surgical method;UNN;2;Reproductive health;4.44;23;528;Percentage;Number surgical abortions;Number abortions;2015-2017
+3;8;Percentage of abortions on request performed using the surgical method;Nordland;2;Reproductive health;10.22;36;353;Percentage;Number surgical abortions;Number abortions;2015-2017
+4;8;Percentage of abortions on request performed using the surgical method;Helgeland;2;Reproductive health;14.32;28;199;Percentage;Number surgical abortions;Number abortions;2015-2017
+5;8;Percentage of abortions on request performed using the surgical method;Nord-Trøndelag;2;Reproductive health;12.48;34;278;Percentage;Number surgical abortions;Number abortions;2015-2017
+6;8;Percentage of abortions on request performed using the surgical method;St. Olavs;2;Reproductive health;2.92;21;714;Percentage;Number surgical abortions;Number abortions;2015-2017
+7;8;Percentage of abortions on request performed using the surgical method;Møre og Romsdal;2;Reproductive health;8.65;39;456;Percentage;Number surgical abortions;Number abortions;2015-2017
+8;8;Percentage of abortions on request performed using the surgical method;Førde;2;Reproductive health;13.82;27;194;Percentage;Number surgical abortions;Number abortions;2015-2017
+9;8;Percentage of abortions on request performed using the surgical method;Bergen;2;Reproductive health;3.92;39;1002;Percentage;Number surgical abortions;Number abortions;2015-2017
+10;8;Percentage of abortions on request performed using the surgical method;Fonna;2;Reproductive health;5.05;15;304;Percentage;Number surgical abortions;Number abortions;2015-2017
+11;8;Percentage of abortions on request performed using the surgical method;Stavanger;2;Reproductive health;1.87;14;730;Percentage;Number surgical abortions;Number abortions;2015-2017
+12;8;Percentage of abortions on request performed using the surgical method;Østfold;2;Reproductive health;31.39;212;677;Percentage;Number surgical abortions;Number abortions;2015-2017
+13;8;Percentage of abortions on request performed using the surgical method;Akershus;2;Reproductive health;18.18;252;1382;Percentage;Number surgical abortions;Number abortions;2015-2017
+14;8;Percentage of abortions on request performed using the surgical method;OUS;2;Reproductive health;20.22;172;857;Percentage;Number surgical abortions;Number abortions;2015-2017
+15;8;Percentage of abortions on request performed using the surgical method;Lovisenberg;2;Reproductive health;22.48;191;857;Percentage;Number surgical abortions;Number abortions;2015-2017
+16;8;Percentage of abortions on request performed using the surgical method;Diakonhjemmet;2;Reproductive health;22.35;105;471;Percentage;Number surgical abortions;Number abortions;2015-2017
+17;8;Percentage of abortions on request performed using the surgical method;Innlandet;2;Reproductive health;9.77;84;855;Percentage;Number surgical abortions;Number abortions;2015-2017
+18;8;Percentage of abortions on request performed using the surgical method;Vestre Viken;2;Reproductive health;5.63;58;1022;Percentage;Number surgical abortions;Number abortions;2015-2017
+19;8;Percentage of abortions on request performed using the surgical method;Vestfold;2;Reproductive health;17.81;93;518;Percentage;Number surgical abortions;Number abortions;2015-2017
+20;8;Percentage of abortions on request performed using the surgical method;Telemark;2;Reproductive health;13.89;52;378;Percentage;Number surgical abortions;Number abortions;2015-2017
+21;8;Percentage of abortions on request performed using the surgical method;Sørlandet;2;Reproductive health;8.16;44;546;Percentage;Number surgical abortions;Number abortions;2015-2017
+8888;8;Percentage of abortions on request performed using the surgical method;Norway;2;Reproductive health;12.55;1575;12550;Percentage;Number surgical abortions;Number abortions;2015-2017
+1;9;In vitro fertilisation;Finnmark;2;Reproductive health;20.41;38;19353;Rate;Number;Inhabitants;2015-2017
+2;9;In vitro fertilisation;UNN;2;Reproductive health;21.44;103;48925;Rate;Number;Inhabitants;2015-2017
+3;9;In vitro fertilisation;Nordland;2;Reproductive health;17.68;60;34418;Rate;Number;Inhabitants;2015-2017
+4;9;In vitro fertilisation;Helgeland;2;Reproductive health;21.91;39;19116;Rate;Number;Inhabitants;2015-2017
+5;9;In vitro fertilisation;Nord-Trøndelag;2;Reproductive health;23.33;75;33027;Rate;Number;Inhabitants;2015-2017
+6;9;In vitro fertilisation;St. Olavs;2;Reproductive health;29.96;257;85176;Rate;Number;Inhabitants;2015-2017
+7;9;In vitro fertilisation;Møre og Romsdal;2;Reproductive health;28;178;64205;Rate;Number;Inhabitants;2015-2017
+8;9;In vitro fertilisation;Førde;2;Reproductive health;20.45;53;26244;Rate;Number;Inhabitants;2015-2017
+9;9;In vitro fertilisation;Bergen;2;Reproductive health;26.16;315;119288;Rate;Number;Inhabitants;2015-2017
+10;9;In vitro fertilisation;Fonna;2;Reproductive health;29.94;134;44835;Rate;Number;Inhabitants;2015-2017
+11;9;In vitro fertilisation;Stavanger;2;Reproductive health;32.66;327;97665;Rate;Number;Inhabitants;2015-2017
+12;9;In vitro fertilisation;Østfold;2;Reproductive health;28.03;200;73882;Rate;Number;Inhabitants;2015-2017
+13;9;In vitro fertilisation;Akershus;2;Reproductive health;25.54;346;135661;Rate;Number;Inhabitants;2015-2017
+14;9;In vitro fertilisation;OUS;2;Reproductive health;33.93;276;78585;Rate;Number;Inhabitants;2015-2017
+15;9;In vitro fertilisation;Lovisenberg;2;Reproductive health;43.71;221;52573;Rate;Number;Inhabitants;2015-2017
+16;9;In vitro fertilisation;Diakonhjemmet;2;Reproductive health;32.75;133;40362;Rate;Number;Inhabitants;2015-2017
+17;9;In vitro fertilisation;Innlandet;2;Reproductive health;22.52;208;97639;Rate;Number;Inhabitants;2015-2017
+18;9;In vitro fertilisation;Vestre Viken;2;Reproductive health;26.56;330;125306;Rate;Number;Inhabitants;2015-2017
+19;9;In vitro fertilisation;Vestfold;2;Reproductive health;28.76;162;58584;Rate;Number;Inhabitants;2015-2017
+20;9;In vitro fertilisation;Telemark;2;Reproductive health;30.16;123;42927;Rate;Number;Inhabitants;2015-2017
+21;9;In vitro fertilisation;Sørlandet;2;Reproductive health;27.91;214;77341;Rate;Number;Inhabitants;2015-2017
+8888;9;In vitro fertilisation;Norway;2;Reproductive health;27.58;3793;1375110;Rate;Number;Inhabitants;2015-2017
+1;10;Endometriosis;Finnmark;3;Surgical treatment of gynaecological conditions;7.83;15;19353;Rate;Number;Inhabitants;2015-2017
+2;10;Endometriosis;UNN;3;Surgical treatment of gynaecological conditions;5.49;27;48925;Rate;Number;Inhabitants;2015-2017
+3;10;Endometriosis;Nordland;3;Surgical treatment of gynaecological conditions;6.46;22;34418;Rate;Number;Inhabitants;2015-2017
+4;10;Endometriosis;Helgeland;3;Surgical treatment of gynaecological conditions;13.62;26;19116;Rate;Number;Inhabitants;2015-2017
+5;10;Endometriosis;Nord-Trøndelag;3;Surgical treatment of gynaecological conditions;3.54;12;33027;Rate;Number;Inhabitants;2015-2017
+6;10;Endometriosis;St. Olavs;3;Surgical treatment of gynaecological conditions;5.11;43;85176;Rate;Number;Inhabitants;2015-2017
+7;10;Endometriosis;Møre og Romsdal;3;Surgical treatment of gynaecological conditions;6.06;39;64205;Rate;Number;Inhabitants;2015-2017
+8;10;Endometriosis;Førde;3;Surgical treatment of gynaecological conditions;4.07;11;26244;Rate;Number;Inhabitants;2015-2017
+9;10;Endometriosis;Bergen;3;Surgical treatment of gynaecological conditions;6.86;81;119288;Rate;Number;Inhabitants;2015-2017
+10;10;Endometriosis;Fonna;3;Surgical treatment of gynaecological conditions;5.35;24;44835;Rate;Number;Inhabitants;2015-2017
+11;10;Endometriosis;Stavanger;3;Surgical treatment of gynaecological conditions;8.02;78;97665;Rate;Number;Inhabitants;2015-2017
+12;10;Endometriosis;Østfold;3;Surgical treatment of gynaecological conditions;10.35;75;73882;Rate;Number;Inhabitants;2015-2017
+13;10;Endometriosis;Akershus;3;Surgical treatment of gynaecological conditions;8.73;118;135661;Rate;Number;Inhabitants;2015-2017
+14;10;Endometriosis;OUS;3;Surgical treatment of gynaecological conditions;11.91;97;78585;Rate;Number;Inhabitants;2015-2017
+15;10;Endometriosis;Lovisenberg;3;Surgical treatment of gynaecological conditions;14.61;79;52573;Rate;Number;Inhabitants;2015-2017
+16;10;Endometriosis;Diakonhjemmet;3;Surgical treatment of gynaecological conditions;11.63;47;40362;Rate;Number;Inhabitants;2015-2017
+17;10;Endometriosis;Innlandet;3;Surgical treatment of gynaecological conditions;8.27;81;97639;Rate;Number;Inhabitants;2015-2017
+18;10;Endometriosis;Vestre Viken;3;Surgical treatment of gynaecological conditions;11.42;142;125306;Rate;Number;Inhabitants;2015-2017
+19;10;Endometriosis;Vestfold;3;Surgical treatment of gynaecological conditions;11.71;68;58584;Rate;Number;Inhabitants;2015-2017
+20;10;Endometriosis;Telemark;3;Surgical treatment of gynaecological conditions;11.52;49;42927;Rate;Number;Inhabitants;2015-2017
+21;10;Endometriosis;Sørlandet;3;Surgical treatment of gynaecological conditions;6.74;52;77341;Rate;Number;Inhabitants;2015-2017
+8888;10;Endometriosis;Norway;3;Surgical treatment of gynaecological conditions;8.63;1187;1375110;Rate;Number;Inhabitants;2015-2017
+1;11;Uterine myomas;Finnmark;3;Surgical treatment of gynaecological conditions;11.14;34;30108;Rate;Number;Inhabitants;2015-2017
+2;11;Uterine myomas;UNN;3;Surgical treatment of gynaecological conditions;11.21;86;77413;Rate;Number;Inhabitants;2015-2017
+3;11;Uterine myomas;Nordland;3;Surgical treatment of gynaecological conditions;9.85;55;56144;Rate;Number;Inhabitants;2015-2017
+4;11;Uterine myomas;Helgeland;3;Surgical treatment of gynaecological conditions;11.27;35;31821;Rate;Number;Inhabitants;2015-2017
+5;11;Uterine myomas;Nord-Trøndelag;3;Surgical treatment of gynaecological conditions;9.13;49;54518;Rate;Number;Inhabitants;2015-2017
+6;11;Uterine myomas;St. Olavs;3;Surgical treatment of gynaecological conditions;8.77;112;128837;Rate;Number;Inhabitants;2015-2017
+7;11;Uterine myomas;Møre og Romsdal;3;Surgical treatment of gynaecological conditions;9.26;97;104957;Rate;Number;Inhabitants;2015-2017
+8;11;Uterine myomas;Førde;3;Surgical treatment of gynaecological conditions;7.15;31;43540;Rate;Number;Inhabitants;2015-2017
+9;11;Uterine myomas;Bergen;3;Surgical treatment of gynaecological conditions;6.13;109;178531;Rate;Number;Inhabitants;2015-2017
+10;11;Uterine myomas;Fonna;3;Surgical treatment of gynaecological conditions;9.7;69;70749;Rate;Number;Inhabitants;2015-2017
+11;11;Uterine myomas;Stavanger;3;Surgical treatment of gynaecological conditions;10.51;147;140197;Rate;Number;Inhabitants;2015-2017
+12;11;Uterine myomas;Østfold;3;Surgical treatment of gynaecological conditions;9.76;118;119927;Rate;Number;Inhabitants;2015-2017
+13;11;Uterine myomas;Akershus;3;Surgical treatment of gynaecological conditions;9.15;191;201911;Rate;Number;Inhabitants;2015-2017
+14;11;Uterine myomas;OUS;3;Surgical treatment of gynaecological conditions;10.61;117;109435;Rate;Number;Inhabitants;2015-2017
+15;11;Uterine myomas;Lovisenberg;3;Surgical treatment of gynaecological conditions;11.49;63;62639;Rate;Number;Inhabitants;2015-2017
+16;11;Uterine myomas;Diakonhjemmet;3;Surgical treatment of gynaecological conditions;10.24;58;59811;Rate;Number;Inhabitants;2015-2017
+17;11;Uterine myomas;Innlandet;3;Surgical treatment of gynaecological conditions;11.92;199;166569;Rate;Number;Inhabitants;2015-2017
+18;11;Uterine myomas;Vestre Viken;3;Surgical treatment of gynaecological conditions;12.06;241;196644;Rate;Number;Inhabitants;2015-2017
+19;11;Uterine myomas;Vestfold;3;Surgical treatment of gynaecological conditions;8.67;83;95564;Rate;Number;Inhabitants;2015-2017
+20;11;Uterine myomas;Telemark;3;Surgical treatment of gynaecological conditions;11.17;79;71665;Rate;Number;Inhabitants;2015-2017
+21;11;Uterine myomas;Sørlandet;3;Surgical treatment of gynaecological conditions;10.05;120;120307;Rate;Number;Inhabitants;2015-2017
+8888;11;Uterine myomas;Norway;3;Surgical treatment of gynaecological conditions;9.87;2093;2121287;Rate;Number;Inhabitants;2015-2017
+1;12;Excessive and/or frequent menstruation;Finnmark;3;Surgical treatment of gynaecological conditions;26.12;52;19353;Rate;Number;Inhabitants;2015-2017
+2;12;Excessive and/or frequent menstruation;UNN;3;Surgical treatment of gynaecological conditions;21.85;108;48925;Rate;Number;Inhabitants;2015-2017
+3;12;Excessive and/or frequent menstruation;Nordland;3;Surgical treatment of gynaecological conditions;22.69;79;34418;Rate;Number;Inhabitants;2015-2017
+4;12;Excessive and/or frequent menstruation;Helgeland;3;Surgical treatment of gynaecological conditions;27.34;54;19116;Rate;Number;Inhabitants;2015-2017
+5;12;Excessive and/or frequent menstruation;Nord-Trøndelag;3;Surgical treatment of gynaecological conditions;32.84;110;33027;Rate;Number;Inhabitants;2015-2017
+6;12;Excessive and/or frequent menstruation;St. Olavs;3;Surgical treatment of gynaecological conditions;18.17;151;85176;Rate;Number;Inhabitants;2015-2017
+7;12;Excessive and/or frequent menstruation;Møre og Romsdal;3;Surgical treatment of gynaecological conditions;25.24;164;64205;Rate;Number;Inhabitants;2015-2017
+8;12;Excessive and/or frequent menstruation;Førde;3;Surgical treatment of gynaecological conditions;15.26;41;26244;Rate;Number;Inhabitants;2015-2017
+9;12;Excessive and/or frequent menstruation;Bergen;3;Surgical treatment of gynaecological conditions;18.38;211;119288;Rate;Number;Inhabitants;2015-2017
+10;12;Excessive and/or frequent menstruation;Fonna;3;Surgical treatment of gynaecological conditions;26.85;120;44835;Rate;Number;Inhabitants;2015-2017
+11;12;Excessive and/or frequent menstruation;Stavanger;3;Surgical treatment of gynaecological conditions;14.72;140;97665;Rate;Number;Inhabitants;2015-2017
+12;12;Excessive and/or frequent menstruation;Østfold;3;Surgical treatment of gynaecological conditions;20.54;158;73882;Rate;Number;Inhabitants;2015-2017
+13;12;Excessive and/or frequent menstruation;Akershus;3;Surgical treatment of gynaecological conditions;15.79;221;135661;Rate;Number;Inhabitants;2015-2017
+14;12;Excessive and/or frequent menstruation;OUS;3;Surgical treatment of gynaecological conditions;8.76;65;78585;Rate;Number;Inhabitants;2015-2017
+15;12;Excessive and/or frequent menstruation;Lovisenberg;3;Surgical treatment of gynaecological conditions;7.49;26;52573;Rate;Number;Inhabitants;2015-2017
+16;12;Excessive and/or frequent menstruation;Diakonhjemmet;3;Surgical treatment of gynaecological conditions;7.41;27;40362;Rate;Number;Inhabitants;2015-2017
+17;12;Excessive and/or frequent menstruation;Innlandet;3;Surgical treatment of gynaecological conditions;28.05;289;97639;Rate;Number;Inhabitants;2015-2017
+18;12;Excessive and/or frequent menstruation;Vestre Viken;3;Surgical treatment of gynaecological conditions;19.52;253;125306;Rate;Number;Inhabitants;2015-2017
+19;12;Excessive and/or frequent menstruation;Vestfold;3;Surgical treatment of gynaecological conditions;21.74;132;58584;Rate;Number;Inhabitants;2015-2017
+20;12;Excessive and/or frequent menstruation;Telemark;3;Surgical treatment of gynaecological conditions;32.89;146;42927;Rate;Number;Inhabitants;2015-2017
+21;12;Excessive and/or frequent menstruation;Sørlandet;3;Surgical treatment of gynaecological conditions;28.25;219;77341;Rate;Number;Inhabitants;2015-2017
+8888;12;Excessive and/or frequent menstruation;Norway;3;Surgical treatment of gynaecological conditions;20.11;2765;1375110;Rate;Number;Inhabitants;2015-2017
+1;13;Hysterectomy;Finnmark;3;Surgical treatment of gynaecological conditions;23.27;71;30108;Rate;Number;Inhabitants;2015-2017
+2;13;Hysterectomy;UNN;3;Surgical treatment of gynaecological conditions;17.14;133;77413;Rate;Number;Inhabitants;2015-2017
+3;13;Hysterectomy;Nordland;3;Surgical treatment of gynaecological conditions;19.37;109;56144;Rate;Number;Inhabitants;2015-2017
+4;13;Hysterectomy;Helgeland;3;Surgical treatment of gynaecological conditions;26.47;85;31821;Rate;Number;Inhabitants;2015-2017
+5;13;Hysterectomy;Nord-Trøndelag;3;Surgical treatment of gynaecological conditions;26.21;143;54518;Rate;Number;Inhabitants;2015-2017
+6;13;Hysterectomy;St. Olavs;3;Surgical treatment of gynaecological conditions;13.9;177;128837;Rate;Number;Inhabitants;2015-2017
+7;13;Hysterectomy;Møre og Romsdal;3;Surgical treatment of gynaecological conditions;21.85;229;104957;Rate;Number;Inhabitants;2015-2017
+8;13;Hysterectomy;Førde;3;Surgical treatment of gynaecological conditions;13.5;59;43540;Rate;Number;Inhabitants;2015-2017
+9;13;Hysterectomy;Bergen;3;Surgical treatment of gynaecological conditions;11.66;206;178531;Rate;Number;Inhabitants;2015-2017
+10;13;Hysterectomy;Fonna;3;Surgical treatment of gynaecological conditions;17.29;122;70749;Rate;Number;Inhabitants;2015-2017
+11;13;Hysterectomy;Stavanger;3;Surgical treatment of gynaecological conditions;11.87;163;140197;Rate;Number;Inhabitants;2015-2017
+12;13;Hysterectomy;Østfold;3;Surgical treatment of gynaecological conditions;16.43;198;119927;Rate;Number;Inhabitants;2015-2017
+13;13;Hysterectomy;Akershus;3;Surgical treatment of gynaecological conditions;13.99;290;201911;Rate;Number;Inhabitants;2015-2017
+14;13;Hysterectomy;OUS;3;Surgical treatment of gynaecological conditions;11.69;125;109435;Rate;Number;Inhabitants;2015-2017
+15;13;Hysterectomy;Lovisenberg;3;Surgical treatment of gynaecological conditions;10.97;54;62639;Rate;Number;Inhabitants;2015-2017
+16;13;Hysterectomy;Diakonhjemmet;3;Surgical treatment of gynaecological conditions;10.9;61;59811;Rate;Number;Inhabitants;2015-2017
+17;13;Hysterectomy;Innlandet;3;Surgical treatment of gynaecological conditions;21.88;367;166569;Rate;Number;Inhabitants;2015-2017
+18;13;Hysterectomy;Vestre Viken;3;Surgical treatment of gynaecological conditions;21.4;427;196644;Rate;Number;Inhabitants;2015-2017
+19;13;Hysterectomy;Vestfold;3;Surgical treatment of gynaecological conditions;13.75;131;95564;Rate;Number;Inhabitants;2015-2017
+20;13;Hysterectomy;Telemark;3;Surgical treatment of gynaecological conditions;22.06;157;71665;Rate;Number;Inhabitants;2015-2017
+21;13;Hysterectomy;Sørlandet;3;Surgical treatment of gynaecological conditions;16.84;202;120307;Rate;Number;Inhabitants;2015-2017
+8888;13;Hysterectomy;Norway;3;Surgical treatment of gynaecological conditions;16.55;3509;2121287;Rate;Number;Inhabitants;2015-2017
+1;14;Hysterectomy, proportion performed as open;Finnmark;3;Surgical treatment of gynaecological conditions;36.95;26;71;Percentage;Number open;Number hysterectomy;2015-2017
+2;14;Hysterectomy, proportion performed as open;UNN;3;Surgical treatment of gynaecological conditions;40.22;53;133;Percentage;Number open;Number hysterectomy;2015-2017
+3;14;Hysterectomy, proportion performed as open;Nordland;3;Surgical treatment of gynaecological conditions;21.4;23;109;Percentage;Number open;Number hysterectomy;2015-2017
+4;14;Hysterectomy, proportion performed as open;Helgeland;3;Surgical treatment of gynaecological conditions;26.42;23;85;Percentage;Number open;Number hysterectomy;2015-2017
+5;14;Hysterectomy, proportion performed as open;Nord-Trøndelag;3;Surgical treatment of gynaecological conditions;34.96;50;143;Percentage;Number open;Number hysterectomy;2015-2017
+6;14;Hysterectomy, proportion performed as open;St. Olavs;3;Surgical treatment of gynaecological conditions;39.23;69;177;Percentage;Number open;Number hysterectomy;2015-2017
+7;14;Hysterectomy, proportion performed as open;Møre og Romsdal;3;Surgical treatment of gynaecological conditions;33.01;75;229;Percentage;Number open;Number hysterectomy;2015-2017
+8;14;Hysterectomy, proportion performed as open;Førde;3;Surgical treatment of gynaecological conditions;40.67;24;59;Percentage;Number open;Number hysterectomy;2015-2017
+9;14;Hysterectomy, proportion performed as open;Bergen;3;Surgical treatment of gynaecological conditions;13.92;29;206;Percentage;Number open;Number hysterectomy;2015-2017
+10;14;Hysterectomy, proportion performed as open;Fonna;3;Surgical treatment of gynaecological conditions;18.02;22;122;Percentage;Number open;Number hysterectomy;2015-2017
+11;14;Hysterectomy, proportion performed as open;Stavanger;3;Surgical treatment of gynaecological conditions;25.44;41;163;Percentage;Number open;Number hysterectomy;2015-2017
+12;14;Hysterectomy, proportion performed as open;Østfold;3;Surgical treatment of gynaecological conditions;34.56;69;198;Percentage;Number open;Number hysterectomy;2015-2017
+13;14;Hysterectomy, proportion performed as open;Akershus;3;Surgical treatment of gynaecological conditions;34.46;101;290;Percentage;Number open;Number hysterectomy;2015-2017
+14;14;Hysterectomy, proportion performed as open;OUS;3;Surgical treatment of gynaecological conditions;28.38;35;125;Percentage;Number open;Number hysterectomy;2015-2017
+15;14;Hysterectomy, proportion performed as open;Lovisenberg;3;Surgical treatment of gynaecological conditions;22.71;14;54;Percentage;Number open;Number hysterectomy;2015-2017
+16;14;Hysterectomy, proportion performed as open;Diakonhjemmet;3;Surgical treatment of gynaecological conditions;24.28;15;61;Percentage;Number open;Number hysterectomy;2015-2017
+17;14;Hysterectomy, proportion performed as open;Innlandet;3;Surgical treatment of gynaecological conditions;16.75;62;367;Percentage;Number open;Number hysterectomy;2015-2017
+18;14;Hysterectomy, proportion performed as open;Vestre Viken;3;Surgical treatment of gynaecological conditions;16.86;72;427;Percentage;Number open;Number hysterectomy;2015-2017
+19;14;Hysterectomy, proportion performed as open;Vestfold;3;Surgical treatment of gynaecological conditions;13.88;19;131;Percentage;Number open;Number hysterectomy;2015-2017
+20;14;Hysterectomy, proportion performed as open;Telemark;3;Surgical treatment of gynaecological conditions;19.48;31;157;Percentage;Number open;Number hysterectomy;2015-2017
+21;14;Hysterectomy, proportion performed as open;Sørlandet;3;Surgical treatment of gynaecological conditions;29.41;59;202;Percentage;Number open;Number hysterectomy;2015-2017
+8888;14;Hysterectomy, proportion performed as open;Norway;3;Surgical treatment of gynaecological conditions;26.02;913;3509;Percentage;Number open;Number hysterectomy;2015-2017
+1;15;Transcervical surgical treatments;Finnmark;3;Surgical treatment of gynaecological conditions;16.71;51;30108;Rate;Number;Inhabitants;2015-2017
+2;15;Transcervical surgical treatments;UNN;3;Surgical treatment of gynaecological conditions;17.75;137;77413;Rate;Number;Inhabitants;2015-2017
+3;15;Transcervical surgical treatments;Nordland;3;Surgical treatment of gynaecological conditions;16.01;90;56144;Rate;Number;Inhabitants;2015-2017
+4;15;Transcervical surgical treatments;Helgeland;3;Surgical treatment of gynaecological conditions;14.4;45;31821;Rate;Number;Inhabitants;2015-2017
+5;15;Transcervical surgical treatments;Nord-Trøndelag;3;Surgical treatment of gynaecological conditions;17.14;92;54518;Rate;Number;Inhabitants;2015-2017
+6;15;Transcervical surgical treatments;St. Olavs;3;Surgical treatment of gynaecological conditions;25.73;326;128837;Rate;Number;Inhabitants;2015-2017
+7;15;Transcervical surgical treatments;Møre og Romsdal;3;Surgical treatment of gynaecological conditions;16.75;175;104957;Rate;Number;Inhabitants;2015-2017
+8;15;Transcervical surgical treatments;Førde;3;Surgical treatment of gynaecological conditions;12.57;54;43540;Rate;Number;Inhabitants;2015-2017
+9;15;Transcervical surgical treatments;Bergen;3;Surgical treatment of gynaecological conditions;11.69;208;178531;Rate;Number;Inhabitants;2015-2017
+10;15;Transcervical surgical treatments;Fonna;3;Surgical treatment of gynaecological conditions;23.98;168;70749;Rate;Number;Inhabitants;2015-2017
+11;15;Transcervical surgical treatments;Stavanger;3;Surgical treatment of gynaecological conditions;17.08;242;140197;Rate;Number;Inhabitants;2015-2017
+12;15;Transcervical surgical treatments;Østfold;3;Surgical treatment of gynaecological conditions;18.82;230;119927;Rate;Number;Inhabitants;2015-2017
+13;15;Transcervical surgical treatments;Akershus;3;Surgical treatment of gynaecological conditions;13.9;286;201911;Rate;Number;Inhabitants;2015-2017
+14;15;Transcervical surgical treatments;OUS;3;Surgical treatment of gynaecological conditions;18.33;199;109435;Rate;Number;Inhabitants;2015-2017
+15;15;Transcervical surgical treatments;Lovisenberg;3;Surgical treatment of gynaecological conditions;17.56;99;62639;Rate;Number;Inhabitants;2015-2017
+16;15;Transcervical surgical treatments;Diakonhjemmet;3;Surgical treatment of gynaecological conditions;18.2;105;59811;Rate;Number;Inhabitants;2015-2017
+17;15;Transcervical surgical treatments;Innlandet;3;Surgical treatment of gynaecological conditions;19.86;336;166569;Rate;Number;Inhabitants;2015-2017
+18;15;Transcervical surgical treatments;Vestre Viken;3;Surgical treatment of gynaecological conditions;23.78;475;196644;Rate;Number;Inhabitants;2015-2017
+19;15;Transcervical surgical treatments;Vestfold;3;Surgical treatment of gynaecological conditions;17.94;172;95564;Rate;Number;Inhabitants;2015-2017
+20;15;Transcervical surgical treatments;Telemark;3;Surgical treatment of gynaecological conditions;21.52;153;71665;Rate;Number;Inhabitants;2015-2017
+21;15;Transcervical surgical treatments;Sørlandet;3;Surgical treatment of gynaecological conditions;18.89;227;120307;Rate;Number;Inhabitants;2015-2017
+8888;15;Transcervical surgical treatments;Norway;3;Surgical treatment of gynaecological conditions;18.25;3871;2121287;Rate;Number;Inhabitants;2015-2017
+1;16;Pelvic organ prolapse;Finnmark;4;Surgical treatment of prolapse and incontinence;33.92;102;30108;Rate;Number;Inhabitants;2015-2017
+2;16;Pelvic organ prolapse;UNN;4;Surgical treatment of prolapse and incontinence;26.26;208;77413;Rate;Number;Inhabitants;2015-2017
+3;16;Pelvic organ prolapse;Nordland;4;Surgical treatment of prolapse and incontinence;20.7;122;56144;Rate;Number;Inhabitants;2015-2017
+4;16;Pelvic organ prolapse;Helgeland;4;Surgical treatment of prolapse and incontinence;24.7;84;31821;Rate;Number;Inhabitants;2015-2017
+5;16;Pelvic organ prolapse;Nord-Trøndelag;4;Surgical treatment of prolapse and incontinence;27;157;54518;Rate;Number;Inhabitants;2015-2017
+6;16;Pelvic organ prolapse;St. Olavs;4;Surgical treatment of prolapse and incontinence;13.17;166;128837;Rate;Number;Inhabitants;2015-2017
+7;16;Pelvic organ prolapse;Møre og Romsdal;4;Surgical treatment of prolapse and incontinence;20.34;226;104957;Rate;Number;Inhabitants;2015-2017
+8;16;Pelvic organ prolapse;Førde;4;Surgical treatment of prolapse and incontinence;19.01;87;43540;Rate;Number;Inhabitants;2015-2017
+9;16;Pelvic organ prolapse;Bergen;4;Surgical treatment of prolapse and incontinence;19.92;346;178531;Rate;Number;Inhabitants;2015-2017
+10;16;Pelvic organ prolapse;Fonna;4;Surgical treatment of prolapse and incontinence;26.94;194;70749;Rate;Number;Inhabitants;2015-2017
+11;16;Pelvic organ prolapse;Stavanger;4;Surgical treatment of prolapse and incontinence;22.73;301;140197;Rate;Number;Inhabitants;2015-2017
+12;16;Pelvic organ prolapse;Østfold;4;Surgical treatment of prolapse and incontinence;18.72;234;119927;Rate;Number;Inhabitants;2015-2017
+13;16;Pelvic organ prolapse;Akershus;4;Surgical treatment of prolapse and incontinence;14.36;281;201911;Rate;Number;Inhabitants;2015-2017
+14;16;Pelvic organ prolapse;OUS;4;Surgical treatment of prolapse and incontinence;13.08;126;109435;Rate;Number;Inhabitants;2015-2017
+15;16;Pelvic organ prolapse;Lovisenberg;4;Surgical treatment of prolapse and incontinence;9.36;34;62639;Rate;Number;Inhabitants;2015-2017
+16;16;Pelvic organ prolapse;Diakonhjemmet;4;Surgical treatment of prolapse and incontinence;9.52;54;59811;Rate;Number;Inhabitants;2015-2017
+17;16;Pelvic organ prolapse;Innlandet;4;Surgical treatment of prolapse and incontinence;23.74;428;166569;Rate;Number;Inhabitants;2015-2017
+18;16;Pelvic organ prolapse;Vestre Viken;4;Surgical treatment of prolapse and incontinence;18.28;365;196644;Rate;Number;Inhabitants;2015-2017
+19;16;Pelvic organ prolapse;Vestfold;4;Surgical treatment of prolapse and incontinence;13.91;141;95564;Rate;Number;Inhabitants;2015-2017
+20;16;Pelvic organ prolapse;Telemark;4;Surgical treatment of prolapse and incontinence;22.05;170;71665;Rate;Number;Inhabitants;2015-2017
+21;16;Pelvic organ prolapse;Sørlandet;4;Surgical treatment of prolapse and incontinence;19.28;234;120307;Rate;Number;Inhabitants;2015-2017
+8888;16;Pelvic organ prolapse;Norway;4;Surgical treatment of prolapse and incontinence;19.13;4059;2121287;Rate;Number;Inhabitants;2015-2017
+1;17;Urinary incontinence;Finnmark;4;Surgical treatment of prolapse and incontinence;32.34;99;30108;Rate;Number;Inhabitants;2015-2017
+2;17;Urinary incontinence;UNN;4;Surgical treatment of prolapse and incontinence;17.91;139;77413;Rate;Number;Inhabitants;2015-2017
+3;17;Urinary incontinence;Nordland;4;Surgical treatment of prolapse and incontinence;13.04;74;56144;Rate;Number;Inhabitants;2015-2017
+4;17;Urinary incontinence;Helgeland;4;Surgical treatment of prolapse and incontinence;13.57;44;31821;Rate;Number;Inhabitants;2015-2017
+5;17;Urinary incontinence;Nord-Trøndelag;4;Surgical treatment of prolapse and incontinence;26.49;145;54518;Rate;Number;Inhabitants;2015-2017
+6;17;Urinary incontinence;St. Olavs;4;Surgical treatment of prolapse and incontinence;15.36;195;128837;Rate;Number;Inhabitants;2015-2017
+7;17;Urinary incontinence;Møre og Romsdal;4;Surgical treatment of prolapse and incontinence;10.2;106;104957;Rate;Number;Inhabitants;2015-2017
+8;17;Urinary incontinence;Førde;4;Surgical treatment of prolapse and incontinence;15.82;69;43540;Rate;Number;Inhabitants;2015-2017
+9;17;Urinary incontinence;Bergen;4;Surgical treatment of prolapse and incontinence;9.8;172;178531;Rate;Number;Inhabitants;2015-2017
+10;17;Urinary incontinence;Fonna;4;Surgical treatment of prolapse and incontinence;13.63;96;70749;Rate;Number;Inhabitants;2015-2017
+11;17;Urinary incontinence;Stavanger;4;Surgical treatment of prolapse and incontinence;10.28;143;140197;Rate;Number;Inhabitants;2015-2017
+12;17;Urinary incontinence;Østfold;4;Surgical treatment of prolapse and incontinence;11.6;139;119927;Rate;Number;Inhabitants;2015-2017
+13;17;Urinary incontinence;Akershus;4;Surgical treatment of prolapse and incontinence;6.93;143;201911;Rate;Number;Inhabitants;2015-2017
+14;17;Urinary incontinence;OUS;4;Surgical treatment of prolapse and incontinence;8.41;92;109435;Rate;Number;Inhabitants;2015-2017
+15;17;Urinary incontinence;Lovisenberg;4;Surgical treatment of prolapse and incontinence;3.77;18;62639;Rate;Number;Inhabitants;2015-2017
+16;17;Urinary incontinence;Diakonhjemmet;4;Surgical treatment of prolapse and incontinence;7.01;40;59811;Rate;Number;Inhabitants;2015-2017
+17;17;Urinary incontinence;Innlandet;4;Surgical treatment of prolapse and incontinence;13.3;223;166569;Rate;Number;Inhabitants;2015-2017
+18;17;Urinary incontinence;Vestre Viken;4;Surgical treatment of prolapse and incontinence;12.34;245;196644;Rate;Number;Inhabitants;2015-2017
+19;17;Urinary incontinence;Vestfold;4;Surgical treatment of prolapse and incontinence;18.13;177;95564;Rate;Number;Inhabitants;2015-2017
+20;17;Urinary incontinence;Telemark;4;Surgical treatment of prolapse and incontinence;15.51;111;71665;Rate;Number;Inhabitants;2015-2017
+21;17;Urinary incontinence;Sørlandet;4;Surgical treatment of prolapse and incontinence;12.02;144;120307;Rate;Number;Inhabitants;2015-2017
+8888;17;Urinary incontinence;Norway;4;Surgical treatment of prolapse and incontinence;12.33;2614;2121287;Rate;Number;Inhabitants;2015-2017

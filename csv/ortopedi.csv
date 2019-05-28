@@ -1,0 +1,281 @@
+area;level2;level2_no;area_no;Level1;level1_no;value;ll;ul;numerator;denominator;type;name_cil;name_ciu;name_numerator;name_denominator;Period
+1;1;Hofteleddsartrose - operasjonar;Ahus;1;Degenerative leddlidingar;174.498;168.31;180.862;604;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;1;Hofteleddsartrose - operasjonar;Helgelandssykehuset;1;Degenerative leddlidingar;194.303;179.736;209.791;133;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;1;Hofteleddsartrose - operasjonar;Bergen;1;Degenerative leddlidingar;171.112;164.683;177.736;537;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;1;Hofteleddsartrose - operasjonar;Finnmark;1;Degenerative leddlidingar;158.315;144.144;173.55;92;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;1;Hofteleddsartrose - operasjonar;Fonna;1;Degenerative leddlidingar;184.826;174.753;195.346;253;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;1;Hofteleddsartrose - operasjonar;Førde;1;Degenerative leddlidingar;219.421;205.899;233.63;199;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;1;Hofteleddsartrose - operasjonar;Nord-Trøndelag;1;Degenerative leddlidingar;227.552;215.365;240.275;262;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;1;Hofteleddsartrose - operasjonar;Møre og Romsdal;1;Degenerative leddlidingar;199.821;191.362;208.567;423;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;1;Hofteleddsartrose - operasjonar;Stavanger;1;Degenerative leddlidingar;184.553;176.601;192.782;411;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;1;Hofteleddsartrose - operasjonar;Innlandet;1;Degenerative leddlidingar;210.327;203.587;217.244;745;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;1;Hofteleddsartrose - operasjonar;Nordlandssykehuset;1;Degenerative leddlidingar;177.901;167.084;189.253;202;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;1;Hofteleddsartrose - operasjonar;Østfold;1;Degenerative leddlidingar;194.551;186.651;202.707;458;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;1;Hofteleddsartrose - operasjonar;Sørlandet;1;Degenerative leddlidingar;207.551;199.173;216.198;463;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;1;Hofteleddsartrose - operasjonar;St. Olavs;1;Degenerative leddlidingar;194.294;186.284;202.566;444;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;1;Hofteleddsartrose - operasjonar;Telemark;1;Degenerative leddlidingar;195.287;185.31;205.683;289;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;1;Hofteleddsartrose - operasjonar;UNN;1;Degenerative leddlidingar;186.682;177.016;196.747;280;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;1;Hofteleddsartrose - operasjonar;Vestfold;1;Degenerative leddlidingar;186.823;178.145;195.826;349;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;1;Hofteleddsartrose - operasjonar;Vestre Viken;1;Degenerative leddlidingar;211.616;204.998;218.398;775;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;1;Hofteleddsartrose - operasjonar;OUS;1;Degenerative leddlidingar;167.025;160.684;173.568;542;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;1;Hofteleddsartrose - operasjonar;Noreg;1;Degenerative leddlidingar;190.787;;;7460;3981340;Rate;ll;ul;Tal;Innb;2012-2016
+1;2;Kneleddsartrose - operasjonar;Ahus;1;Degenerative leddlidingar;140.432;134.897;146.142;488;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;2;Kneleddsartrose - operasjonar;Helgelandssykehuset;1;Degenerative leddlidingar;138.038;125.766;151.24;94;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;2;Kneleddsartrose - operasjonar;Bergen;1;Degenerative leddlidingar;136.221;130.503;142.133;429;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;2;Kneleddsartrose - operasjonar;Finnmark;1;Degenerative leddlidingar;127.544;114.899;141.231;75;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;2;Kneleddsartrose - operasjonar;Fonna;1;Degenerative leddlidingar;142.68;133.831;151.971;194;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;2;Kneleddsartrose - operasjonar;Førde;1;Degenerative leddlidingar;224.256;210.469;238.738;199;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;2;Kneleddsartrose - operasjonar;Nord-Trøndelag;1;Degenerative leddlidingar;181.422;170.557;192.826;209;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;2;Kneleddsartrose - operasjonar;Møre og Romsdal;1;Degenerative leddlidingar;152.291;144.921;159.949;322;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;2;Kneleddsartrose - operasjonar;Stavanger;1;Degenerative leddlidingar;124.126;117.62;130.909;276;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;2;Kneleddsartrose - operasjonar;Innlandet;1;Degenerative leddlidingar;148.807;143.131;154.662;524;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;2;Kneleddsartrose - operasjonar;Nordlandssykehuset;1;Degenerative leddlidingar;127.32;118.17;137.009;144;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;2;Kneleddsartrose - operasjonar;Østfold;1;Degenerative leddlidingar;153.8;146.771;161.088;360;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;2;Kneleddsartrose - operasjonar;Sørlandet;1;Degenerative leddlidingar;180.553;172.74;188.634;402;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;2;Kneleddsartrose - operasjonar;St. Olavs;1;Degenerative leddlidingar;155.246;148.109;162.644;356;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;2;Kneleddsartrose - operasjonar;Telemark;1;Degenerative leddlidingar;135.01;126.711;143.73;198;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;2;Kneleddsartrose - operasjonar;UNN;1;Degenerative leddlidingar;140.675;132.322;149.424;212;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;2;Kneleddsartrose - operasjonar;Vestfold;1;Degenerative leddlidingar;158.16;150.169;166.478;294;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;2;Kneleddsartrose - operasjonar;Vestre Viken;1;Degenerative leddlidingar;149.713;144.151;155.44;547;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;2;Kneleddsartrose - operasjonar;OUS;1;Degenerative leddlidingar;120.407;115.004;126.014;385;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;2;Kneleddsartrose - operasjonar;Noreg;1;Degenerative leddlidingar;146.036;;;5708;3981340;Rate;ll;ul;Tal;Innb;2012-2016
+1;3;Artroskopi ved degenerative knelidingar;Ahus;1;Degenerative leddlidingar;335.695;323.098;348.672;538;156409;Rate;ll;ul;Tal;Innb;2012-2016
+2;3;Artroskopi ved degenerative knelidingar;Helgelandssykehuset;1;Degenerative leddlidingar;331.671;303.203;362.134;100;30558;Rate;ll;ul;Tal;Innb;2012-2016
+3;3;Artroskopi ved degenerative knelidingar;Bergen;1;Degenerative leddlidingar;367.962;353.865;382.488;514;138429;Rate;ll;ul;Tal;Innb;2012-2016
+4;3;Artroskopi ved degenerative knelidingar;Finnmark;1;Degenerative leddlidingar;443.503;408.517;480.785;119;26330;Rate;ll;ul;Tal;Innb;2012-2016
+5;3;Artroskopi ved degenerative knelidingar;Fonna;1;Degenerative leddlidingar;418.402;395.738;442.062;255;60843;Rate;ll;ul;Tal;Innb;2012-2016
+6;3;Artroskopi ved degenerative knelidingar;Førde;1;Degenerative leddlidingar;631.97;597.867;667.568;257;40986;Rate;ll;ul;Tal;Innb;2012-2016
+7;3;Artroskopi ved degenerative knelidingar;Nord-Trøndelag;1;Degenerative leddlidingar;552.899;524.396;582.587;283;51771;Rate;ll;ul;Tal;Innb;2012-2016
+8;3;Artroskopi ved degenerative knelidingar;Møre og Romsdal;1;Degenerative leddlidingar;670.288;647.217;694;639;95169;Rate;ll;ul;Tal;Innb;2012-2016
+9;3;Artroskopi ved degenerative knelidingar;Stavanger;1;Degenerative leddlidingar;147.475;137.323;158.218;158;102343;Rate;ll;ul;Tal;Innb;2012-2016
+10;3;Artroskopi ved degenerative knelidingar;Innlandet;1;Degenerative leddlidingar;421.496;407.194;436.188;659;158927;Rate;ll;ul;Tal;Innb;2012-2016
+11;3;Artroskopi ved degenerative knelidingar;Nordlandssykehuset;1;Degenerative leddlidingar;326.635;304.711;349.758;165;51028;Rate;ll;ul;Tal;Innb;2012-2016
+12;3;Artroskopi ved degenerative knelidingar;Østfold;1;Degenerative leddlidingar;401.555;384.579;419.096;421;105143;Rate;ll;ul;Tal;Innb;2012-2016
+13;3;Artroskopi ved degenerative knelidingar;Sørlandet;1;Degenerative leddlidingar;382.683;365.751;400.209;384;99650;Rate;ll;ul;Tal;Innb;2012-2016
+14;3;Artroskopi ved degenerative knelidingar;St. Olavs;1;Degenerative leddlidingar;501.006;481.696;520.9;508;100550;Rate;ll;ul;Tal;Innb;2012-2016
+15;3;Artroskopi ved degenerative knelidingar;Telemark;1;Degenerative leddlidingar;280.96;263.086;299.766;184;66158;Rate;ll;ul;Tal;Innb;2012-2016
+16;3;Artroskopi ved degenerative knelidingar;UNN;1;Degenerative leddlidingar;420.603;399.039;443.054;285;67368;Rate;ll;ul;Tal;Innb;2012-2016
+17;3;Artroskopi ved degenerative knelidingar;Vestfold;1;Degenerative leddlidingar;356.319;338.471;374.881;299;83852;Rate;ll;ul;Tal;Innb;2012-2016
+18;3;Artroskopi ved degenerative knelidingar;Vestre Viken;1;Degenerative leddlidingar;346.487;333.983;359.347;580;165839;Rate;ll;ul;Tal;Innb;2012-2016
+19;3;Artroskopi ved degenerative knelidingar;OUS;1;Degenerative leddlidingar;261.099;249.386;273.249;376;141668;Rate;ll;ul;Tal;Innb;2012-2016
+8888;3;Artroskopi ved degenerative knelidingar;Noreg;1;Degenerative leddlidingar;382.807;;;6724;1743021;Rate;ll;ul;Tal;Innb;2012-2016
+1;4;Tommelartrose - operasjonar;Ahus;1;Degenerative leddlidingar;24.1097;21.8771;26.5156;86;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;4;Tommelartrose - operasjonar;Helgelandssykehuset;1;Degenerative leddlidingar;16.5289;12.363;21.6956;11;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;4;Tommelartrose - operasjonar;Bergen;1;Degenerative leddlidingar;14.0175;12.2363;15.9898;45;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;4;Tommelartrose - operasjonar;Finnmark;1;Degenerative leddlidingar;15.536;11.3702;20.772;9;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;4;Tommelartrose - operasjonar;Fonna;1;Degenerative leddlidingar;36.6158;32.2231;41.4478;50;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;4;Tommelartrose - operasjonar;Førde;1;Degenerative leddlidingar;23.6495;19.3311;28.6817;21;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;4;Tommelartrose - operasjonar;Nord-Trøndelag;1;Degenerative leddlidingar;15.4883;12.4117;19.1276;18;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;4;Tommelartrose - operasjonar;Møre og Romsdal;1;Degenerative leddlidingar;21.6184;18.8979;24.6329;46;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;4;Tommelartrose - operasjonar;Stavanger;1;Degenerative leddlidingar;21.2288;18.6438;24.0847;49;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;4;Tommelartrose - operasjonar;Innlandet;1;Degenerative leddlidingar;22.8901;20.6871;25.2768;80;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;4;Tommelartrose - operasjonar;Nordlandssykehuset;1;Degenerative leddlidingar;14.0849;11.1625;17.564;16;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;4;Tommelartrose - operasjonar;Østfold;1;Degenerative leddlidingar;27.7982;24.8747;30.9816;66;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;4;Tommelartrose - operasjonar;Sørlandet;1;Degenerative leddlidingar;13.5951;11.5322;15.9262;31;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;4;Tommelartrose - operasjonar;St. Olavs;1;Degenerative leddlidingar;34.9669;31.6466;38.5461;81;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;4;Tommelartrose - operasjonar;Telemark;1;Degenerative leddlidingar;20.7826;17.6315;24.3623;31;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;4;Tommelartrose - operasjonar;UNN;1;Degenerative leddlidingar;16.0459;13.3233;19.1698;24;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;4;Tommelartrose - operasjonar;Vestfold;1;Degenerative leddlidingar;25.5416;22.4139;28.9988;48;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;4;Tommelartrose - operasjonar;Vestre Viken;1;Degenerative leddlidingar;23.3072;21.163;25.6125;87;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;4;Tommelartrose - operasjonar;OUS;1;Degenerative leddlidingar;12.2454;10.5992;14.0907;40;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;4;Tommelartrose - operasjonar;Noreg;1;Degenerative leddlidingar;21.1123;;;838;3981340;Rate;ll;ul;Tal;Innb;2012-2016
+1;5;Handleddsbrot - operasjonar;Ahus;2;Brot;95.2661;90.7855;99.9177;341;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;5;Handleddsbrot - operasjonar;Helgelandssykehuset;2;Brot;62.8614;54.5317;72.1661;41;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;5;Handleddsbrot - operasjonar;Bergen;2;Brot;109.923;104.834;115.203;352;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;5;Handleddsbrot - operasjonar;Finnmark;2;Brot;69.8662;60.5658;80.2252;41;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;5;Handleddsbrot - operasjonar;Fonna;2;Brot;82.9653;76.261;90.1141;113;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;5;Handleddsbrot - operasjonar;Førde;2;Brot;147.814;136.618;159.719;130;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;5;Handleddsbrot - operasjonar;Nord-Trøndelag;2;Brot;86.5521;79.0413;94.6157;98;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;5;Handleddsbrot - operasjonar;Møre og Romsdal;2;Brot;104.492;98.3976;110.879;220;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;5;Handleddsbrot - operasjonar;Stavanger;2;Brot;86.5612;81.3167;92.0702;206;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;5;Handleddsbrot - operasjonar;Innlandet;2;Brot;80.2095;76.0378;84.5647;280;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;5;Handleddsbrot - operasjonar;Nordlandssykehuset;2;Brot;94.7472;86.8563;103.186;107;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;5;Handleddsbrot - operasjonar;Østfold;2;Brot;114.066;108.024;120.37;267;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;5;Handleddsbrot - operasjonar;Sørlandet;2;Brot;81.2171;76.0345;86.6659;183;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;5;Handleddsbrot - operasjonar;St. Olavs;2;Brot;90.9744;85.5617;96.6461;211;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;5;Handleddsbrot - operasjonar;Telemark;2;Brot;92.4989;85.6412;99.7848;136;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;5;Handleddsbrot - operasjonar;UNN;2;Brot;100.513;93.461;107.962;151;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;5;Handleddsbrot - operasjonar;Vestfold;2;Brot;142.329;134.777;150.209;267;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;5;Handleddsbrot - operasjonar;Vestre Viken;2;Brot;103.614;99.0303;108.36;384;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;5;Handleddsbrot - operasjonar;OUS;2;Brot;78.2584;74.1563;82.5458;284;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;5;Handleddsbrot - operasjonar;Noreg;2;Brot;96.4204;;;3812;3981340;Rate;ll;ul;Tal;Innb;2012-2016
+1;6;Ankelbrot - operasjonar;Ahus;2;Brot;79.7997;75.7465;84.0205;293;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;6;Ankelbrot - operasjonar;Helgelandssykehuset;2;Brot;75.8494;66.3983;86.3294;47;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;6;Ankelbrot - operasjonar;Bergen;2;Brot;80.8517;76.5613;85.3272;267;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;6;Ankelbrot - operasjonar;Finnmark;2;Brot;73.9588;64.4708;84.4881;44;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;6;Ankelbrot - operasjonar;Fonna;2;Brot;76.8772;70.4316;83.7618;105;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;6;Ankelbrot - operasjonar;Førde;2;Brot;86.5044;77.8694;95.8661;74;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;6;Ankelbrot - operasjonar;Nord-Trøndelag;2;Brot;93.2472;85.2079;101.866;100;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;6;Ankelbrot - operasjonar;Møre og Romsdal;2;Brot;89.827;84.1018;95.8509;184;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;6;Ankelbrot - operasjonar;Stavanger;2;Brot;57.5736;53.4194;61.9843;145;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;6;Ankelbrot - operasjonar;Innlandet;2;Brot;71.9539;67.8551;76.2511;234;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;6;Ankelbrot - operasjonar;Nordlandssykehuset;2;Brot;75.6218;68.4412;83.3738;82;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;6;Ankelbrot - operasjonar;Østfold;2;Brot;87.9052;82.5264;93.558;200;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;6;Ankelbrot - operasjonar;Sørlandet;2;Brot;76.3133;71.2904;81.6014;172;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;6;Ankelbrot - operasjonar;St. Olavs;2;Brot;78.105;73.1541;83.3102;186;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;6;Ankelbrot - operasjonar;Telemark;2;Brot;80.2175;73.7072;87.1781;113;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;6;Ankelbrot - operasjonar;UNN;2;Brot;83.5603;77.1168;90.4051;124;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;6;Ankelbrot - operasjonar;Vestfold;2;Brot;79.5962;73.8493;85.6886;143;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;6;Ankelbrot - operasjonar;Vestre Viken;2;Brot;75.0272;71.1188;79.1035;277;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;6;Ankelbrot - operasjonar;OUS;2;Brot;71.1761;67.3953;75.135;280;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;6;Ankelbrot - operasjonar;Noreg;2;Brot;77.1278;;;3069;3981340;Rate;ll;ul;Tal;Innb;2012-2016
+1;7;Hoftebrot - operasjonar;Ahus;2;Brot;230.567;223.033;238.31;722;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;7;Hoftebrot - operasjonar;Helgelandssykehuset;2;Brot;220.777;205.397;237.054;154;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;7;Hoftebrot - operasjonar;Bergen;2;Brot;213.539;206.545;220.717;706;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;7;Hoftebrot - operasjonar;Finnmark;2;Brot;197.367;180.497;215.612;104;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;7;Hoftebrot - operasjonar;Fonna;2;Brot;213.604;203.122;224.503;313;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;7;Hoftebrot - operasjonar;Førde;2;Brot;217.347;204.674;230.655;224;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;7;Hoftebrot - operasjonar;Nord-Trøndelag;2;Brot;219.292;207.498;231.606;261;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;7;Hoftebrot - operasjonar;Møre og Romsdal;2;Brot;220.251;211.733;229.039;509;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;7;Hoftebrot - operasjonar;Stavanger;2;Brot;205.19;196.814;213.838;456;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;7;Hoftebrot - operasjonar;Innlandet;2;Brot;242.027;234.964;249.259;901;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;7;Hoftebrot - operasjonar;Nordlandssykehuset;2;Brot;229.436;217.277;242.125;268;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;7;Hoftebrot - operasjonar;Østfold;2;Brot;242.389;233.518;251.525;566;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;7;Hoftebrot - operasjonar;Sørlandet;2;Brot;222.996;214.345;231.912;501;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;7;Hoftebrot - operasjonar;St. Olavs;2;Brot;226.847;218.204;235.759;521;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;7;Hoftebrot - operasjonar;Telemark;2;Brot;231.702;221.062;242.743;359;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;7;Hoftebrot - operasjonar;UNN;2;Brot;223.729;213.063;234.824;332;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;7;Hoftebrot - operasjonar;Vestfold;2;Brot;229.249;219.729;239.088;437;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;7;Hoftebrot - operasjonar;Vestre Viken;2;Brot;217.207;210.607;223.964;821;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;7;Hoftebrot - operasjonar;OUS;2;Brot;208.729;201.93;215.721;736;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;7;Hoftebrot - operasjonar;Noreg;2;Brot;222.092;;;8892;3981340;Rate;ll;ul;Tal;Innb;2012-2016
+1;8;Skulderbrot - operasjonar;Ahus;2;Brot;25.9332;23.5745;28.4724;89;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;8;Skulderbrot - operasjonar;Helgelandssykehuset;2;Brot;14.9028;11.0074;19.7859;10;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;8;Skulderbrot - operasjonar;Bergen;2;Brot;21.92;19.6871;24.345;71;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;8;Skulderbrot - operasjonar;Finnmark;2;Brot;10.7303;7.28476;15.2821;6;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;8;Skulderbrot - operasjonar;Fonna;2;Brot;19.1544;16.0209;22.7378;26;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;8;Skulderbrot - operasjonar;Førde;2;Brot;33.0187;27.9151;38.824;30;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;8;Skulderbrot - operasjonar;Nord-Trøndelag;2;Brot;28.6237;24.4349;33.3591;33;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;8;Skulderbrot - operasjonar;Møre og Romsdal;2;Brot;18.4526;15.9665;21.2301;40;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;8;Skulderbrot - operasjonar;Stavanger;2;Brot;17.6181;15.2675;20.2412;41;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;8;Skulderbrot - operasjonar;Innlandet;2;Brot;18.1067;16.1715;20.2237;64;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;8;Skulderbrot - operasjonar;Nordlandssykehuset;2;Brot;24.0126;20.1379;28.4386;27;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;8;Skulderbrot - operasjonar;Østfold;2;Brot;32.2044;29.0477;35.6208;76;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;8;Skulderbrot - operasjonar;Sørlandet;2;Brot;16.5769;14.279;19.1448;37;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;8;Skulderbrot - operasjonar;St. Olavs;2;Brot;26.4781;23.5868;29.6319;61;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;8;Skulderbrot - operasjonar;Telemark;2;Brot;20.6365;17.4846;24.2185;31;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;8;Skulderbrot - operasjonar;UNN;2;Brot;13.8194;11.2894;16.7539;21;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;8;Skulderbrot - operasjonar;Vestfold;2;Brot;22.1985;19.2789;25.4493;42;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;8;Skulderbrot - operasjonar;Vestre Viken;2;Brot;24.9157;22.6914;27.3031;92;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;8;Skulderbrot - operasjonar;OUS;2;Brot;19.479;17.4206;21.7371;68;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;8;Skulderbrot - operasjonar;Noreg;2;Brot;21.9188;;;865;3981340;Rate;ll;ul;Tal;Innb;2012-2016
+1;9;Kragebeinsbrot - operasjonar;Ahus;2;Brot;15.6867;14.1416;17.3611;76;486003;Rate;ll;ul;Tal;Innb;2012-2016
+2;9;Kragebeinsbrot - operasjonar;Helgelandssykehuset;2;Brot;9.23085;6.44665;12.8952;7;78180;Rate;ll;ul;Tal;Innb;2012-2016
+3;9;Kragebeinsbrot - operasjonar;Bergen;2;Brot;11.7904;10.3869;13.3358;51;433322;Rate;ll;ul;Tal;Innb;2012-2016
+4;9;Kragebeinsbrot - operasjonar;Finnmark;2;Brot;11.6448;8.45884;15.6763;9;74978;Rate;ll;ul;Tal;Innb;2012-2016
+5;9;Kragebeinsbrot - operasjonar;Fonna;2;Brot;8.38721;6.58309;10.5488;15;177678;Rate;ll;ul;Tal;Innb;2012-2016
+6;9;Kragebeinsbrot - operasjonar;Førde;2;Brot;16.9621;13.6565;20.872;18;108913;Rate;ll;ul;Tal;Innb;2012-2016
+7;9;Kragebeinsbrot - operasjonar;Nord-Trøndelag;2;Brot;13.2619;10.6334;16.3768;18;137006;Rate;ll;ul;Tal;Innb;2012-2016
+8;9;Kragebeinsbrot - operasjonar;Møre og Romsdal;2;Brot;13.9245;11.9504;16.1436;36;259260;Rate;ll;ul;Tal;Innb;2012-2016
+9;9;Kragebeinsbrot - operasjonar;Stavanger;2;Brot;15.6714;13.8784;17.6474;56;351637;Rate;ll;ul;Tal;Innb;2012-2016
+10;9;Kragebeinsbrot - operasjonar;Innlandet;2;Brot;10.4985;9.08854;12.0783;40;395880;Rate;ll;ul;Tal;Innb;2012-2016
+11;9;Kragebeinsbrot - operasjonar;Nordlandssykehuset;2;Brot;9.80513;7.57778;12.5094;13;136196;Rate;ll;ul;Tal;Innb;2012-2016
+12;9;Kragebeinsbrot - operasjonar;Østfold;2;Brot;17.235;15.1236;19.5732;48;283797;Rate;ll;ul;Tal;Innb;2012-2016
+13;9;Kragebeinsbrot - operasjonar;Sørlandet;2;Brot;14.207;12.3267;16.2985;41;292260;Rate;ll;ul;Tal;Innb;2012-2016
+14;9;Kragebeinsbrot - operasjonar;St. Olavs;2;Brot;15.763;13.847;17.8755;49;306134;Rate;ll;ul;Tal;Innb;2012-2016
+15;9;Kragebeinsbrot - operasjonar;Telemark;2;Brot;11.3742;9.19355;13.9403;19;171368;Rate;ll;ul;Tal;Innb;2012-2016
+16;9;Kragebeinsbrot - operasjonar;UNN;2;Brot;10.4603;8.49133;12.7565;20;187883;Rate;ll;ul;Tal;Innb;2012-2016
+17;9;Kragebeinsbrot - operasjonar;Vestfold;2;Brot;14.5301;12.359;16.9892;32;225146;Rate;ll;ul;Tal;Innb;2012-2016
+18;9;Kragebeinsbrot - operasjonar;Vestre Viken;2;Brot;11.5854;10.2343;13.0745;54;470817;Rate;ll;ul;Tal;Innb;2012-2016
+19;9;Kragebeinsbrot - operasjonar;OUS;2;Brot;8.58932;7.49232;9.81706;47;528739;Rate;ll;ul;Tal;Innb;2012-2016
+8888;9;Kragebeinsbrot - operasjonar;Noreg;2;Brot;12.7396;;;649;5105197;Rate;ll;ul;Tal;Innb;2012-2016
+1;10;Prolaps i korsryggen - operasjonar;Ahus;3;Rygglidingar;89.607;85.3783;93.9978;340;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;10;Prolaps i korsryggen - operasjonar;Helgelandssykehuset;3;Rygglidingar;72.958;63.5543;83.4188;44;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;10;Prolaps i korsryggen - operasjonar;Bergen;3;Rygglidingar;70.5618;66.5773;74.7282;235;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;10;Prolaps i korsryggen - operasjonar;Finnmark;3;Rygglidingar;77.5907;67.8774;88.3395;46;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;10;Prolaps i korsryggen - operasjonar;Fonna;3;Rygglidingar;63.8474;57.9725;70.1632;87;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;10;Prolaps i korsryggen - operasjonar;Førde;3;Rygglidingar;69.9682;62.1432;78.5328;58;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;10;Prolaps i korsryggen - operasjonar;Nord-Trøndelag;3;Rygglidingar;123.952;114.622;133.863;132;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;10;Prolaps i korsryggen - operasjonar;Møre og Romsdal;3;Rygglidingar;81.6945;76.1882;87.5035;164;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;10;Prolaps i korsryggen - operasjonar;Stavanger;3;Rygglidingar;94.7664;89.5297;100.247;249;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;10;Prolaps i korsryggen - operasjonar;Innlandet;3;Rygglidingar;79.8273;75.4435;84.413;251;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;10;Prolaps i korsryggen - operasjonar;Nordlandssykehuset;3;Rygglidingar;54.3951;48.27;61.1017;57;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;10;Prolaps i korsryggen - operasjonar;Østfold;3;Rygglidingar;73.726;68.7817;78.9462;166;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;10;Prolaps i korsryggen - operasjonar;Sørlandet;3;Rygglidingar;87.1781;81.8091;92.809;196;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;10;Prolaps i korsryggen - operasjonar;St. Olavs;3;Rygglidingar;91.536;86.1629;97.1613;217;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;10;Prolaps i korsryggen - operasjonar;Telemark;3;Rygglidingar;48.5572;43.4173;54.1615;65;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;10;Prolaps i korsryggen - operasjonar;UNN;3;Rygglidingar;89.7633;83.0471;96.8839;132;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;10;Prolaps i korsryggen - operasjonar;Vestfold;3;Rygglidingar;86.5714;80.5346;92.9563;153;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;10;Prolaps i korsryggen - operasjonar;Vestre Viken;3;Rygglidingar;80.0049;75.9802;84.1964;298;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;10;Prolaps i korsryggen - operasjonar;OUS;3;Rygglidingar;78.6721;74.6738;82.8451;307;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;10;Prolaps i korsryggen - operasjonar;Noreg;3;Rygglidingar;80.0556;;;3198;3981340;Rate;ll;ul;Tal;Innb;2012-2016
+1;11;Spinal stenose i korsryggen - operasjonar;Ahus;3;Rygglidingar;95.3027;90.7712;100.009;334;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;11;Spinal stenose i korsryggen - operasjonar;Helgelandssykehuset;3;Rygglidingar;91.6697;81.7367;102.543;62;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;11;Spinal stenose i korsryggen - operasjonar;Bergen;3;Rygglidingar;104.761;99.7963;109.92;336;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;11;Spinal stenose i korsryggen - operasjonar;Finnmark;3;Rygglidingar;55.7422;47.5223;65.0185;33;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;11;Spinal stenose i korsryggen - operasjonar;Fonna;3;Rygglidingar;77.1176;70.672;84.0037;106;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;11;Spinal stenose i korsryggen - operasjonar;Førde;3;Rygglidingar;74.92;67.0544;83.4907;67;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;11;Spinal stenose i korsryggen - operasjonar;Nord-Trøndelag;3;Rygglidingar;93.7533;85.9776;102.075;108;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;11;Spinal stenose i korsryggen - operasjonar;Møre og Romsdal;3;Rygglidingar;75.5878;70.4268;81.0397;160;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;11;Spinal stenose i korsryggen - operasjonar;Stavanger;3;Rygglidingar;103.396;97.5178;109.55;234;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;11;Spinal stenose i korsryggen - operasjonar;Innlandet;3;Rygglidingar;78.147;74.0389;82.437;274;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;11;Spinal stenose i korsryggen - operasjonar;Nordlandssykehuset;3;Rygglidingar;57.5664;51.4735;64.206;65;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;11;Spinal stenose i korsryggen - operasjonar;Østfold;3;Rygglidingar;61.8811;57.4318;66.5925;144;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;11;Spinal stenose i korsryggen - operasjonar;Sørlandet;3;Rygglidingar;78.182;73.0749;83.5596;174;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;11;Spinal stenose i korsryggen - operasjonar;St. Olavs;3;Rygglidingar;57.9114;53.576;62.5105;132;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;11;Spinal stenose i korsryggen - operasjonar;Telemark;3;Rygglidingar;62.6927;57.0569;68.7582;91;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;11;Spinal stenose i korsryggen - operasjonar;UNN;3;Rygglidingar;57.824;52.5252;63.5219;87;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;11;Spinal stenose i korsryggen - operasjonar;Vestfold;3;Rygglidingar;92.3676;86.2935;98.7704;172;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;11;Spinal stenose i korsryggen - operasjonar;Vestre Viken;3;Rygglidingar;115.151;110.291;120.177;423;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;11;Spinal stenose i korsryggen - operasjonar;OUS;3;Rygglidingar;64.9824;61.0465;69.1217;210;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;11;Spinal stenose i korsryggen - operasjonar;Noreg;3;Rygglidingar;81.843;;;3213;3981340;Rate;ll;ul;Tal;Innb;2012-2016
+1;12;Andre korsryggsmerter - innleggingar;Ahus;3;Rygglidingar;48.8986;45.7529;52.213;182;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;12;Andre korsryggsmerter - innleggingar;Helgelandssykehuset;3;Rygglidingar;83.9287;74.0787;94.797;53;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;12;Andre korsryggsmerter - innleggingar;Bergen;3;Rygglidingar;83.2824;78.9381;87.8089;276;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;12;Andre korsryggsmerter - innleggingar;Finnmark;3;Rygglidingar;86.8607;76.4925;98.2742;51;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;12;Andre korsryggsmerter - innleggingar;Fonna;3;Rygglidingar;98.8182;91.507;106.567;135;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;12;Andre korsryggsmerter - innleggingar;Førde;3;Rygglidingar;106.105;96.549;116.385;92;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;12;Andre korsryggsmerter - innleggingar;Nord-Trøndelag;3;Rygglidingar;103.373;94.9472;112.376;112;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;12;Andre korsryggsmerter - innleggingar;Møre og Romsdal;3;Rygglidingar;63.7127;58.9192;68.8051;131;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;12;Andre korsryggsmerter - innleggingar;Stavanger;3;Rygglidingar;62.7832;58.4442;67.3751;158;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;12;Andre korsryggsmerter - innleggingar;Innlandet;3;Rygglidingar;67.402;63.449;71.5529;221;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;12;Andre korsryggsmerter - innleggingar;Nordlandssykehuset;3;Rygglidingar;97.8108;89.6935;106.493;108;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;12;Andre korsryggsmerter - innleggingar;Østfold;3;Rygglidingar;63.4814;58.9138;68.324;144;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;12;Andre korsryggsmerter - innleggingar;Sørlandet;3;Rygglidingar;55.4034;51.1373;59.9323;125;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;12;Andre korsryggsmerter - innleggingar;St. Olavs;3;Rygglidingar;60.8877;56.5157;65.5125;144;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;12;Andre korsryggsmerter - innleggingar;Telemark;3;Rygglidingar;91.1983;84.1948;98.6556;127;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;12;Andre korsryggsmerter - innleggingar;UNN;3;Rygglidingar;55.7101;50.4637;61.3612;83;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;12;Andre korsryggsmerter - innleggingar;Vestfold;3;Rygglidingar;75.8546;70.2291;81.827;135;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;12;Andre korsryggsmerter - innleggingar;Vestre Viken;3;Rygglidingar;64.8157;61.2015;68.5963;241;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;12;Andre korsryggsmerter - innleggingar;OUS;3;Rygglidingar;45.3598;42.3168;48.5835;174;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;12;Andre korsryggsmerter - innleggingar;Noreg;3;Rygglidingar;67.4706;;;2692;3981340;Rate;ll;ul;Tal;Innb;2012-2016
+1;13;Skade på fremre korsband - operasjonar;Ahus;4;Andre tilstandar;30.1199;27.9289;32.4443;141;486003;Rate;ll;ul;Tal;Innb;2012-2016
+2;13;Skade på fremre korsband - operasjonar;Helgelandssykehuset;4;Andre tilstandar;25.0975;20.2402;30.8452;19;78180;Rate;ll;ul;Tal;Innb;2012-2016
+3;13;Skade på fremre korsband - operasjonar;Bergen;4;Andre tilstandar;47.0181;44.2266;49.9446;212;433322;Rate;ll;ul;Tal;Innb;2012-2016
+4;13;Skade på fremre korsband - operasjonar;Finnmark;4;Andre tilstandar;34.2642;28.5257;40.8733;25;74978;Rate;ll;ul;Tal;Innb;2012-2016
+5;13;Skade på fremre korsband - operasjonar;Fonna;4;Andre tilstandar;32.3253;28.6565;36.3538;57;177678;Rate;ll;ul;Tal;Innb;2012-2016
+6;13;Skade på fremre korsband - operasjonar;Førde;4;Andre tilstandar;51.1287;45.1092;57.7712;53;108913;Rate;ll;ul;Tal;Innb;2012-2016
+7;13;Skade på fremre korsband - operasjonar;Nord-Trøndelag;4;Andre tilstandar;37.1811;32.6264;42.2279;49;137006;Rate;ll;ul;Tal;Innb;2012-2016
+8;13;Skade på fremre korsband - operasjonar;Møre og Romsdal;4;Andre tilstandar;36.5965;33.3309;40.1093;93;259260;Rate;ll;ul;Tal;Innb;2012-2016
+9;13;Skade på fremre korsband - operasjonar;Stavanger;4;Andre tilstandar;32.6164;30.05;35.3542;120;351637;Rate;ll;ul;Tal;Innb;2012-2016
+10;13;Skade på fremre korsband - operasjonar;Innlandet;4;Andre tilstandar;29.8518;27.3756;32.5037;109;395880;Rate;ll;ul;Tal;Innb;2012-2016
+11;13;Skade på fremre korsband - operasjonar;Nordlandssykehuset;4;Andre tilstandar;31.5794;27.3854;36.2562;41;136196;Rate;ll;ul;Tal;Innb;2012-2016
+12;13;Skade på fremre korsband - operasjonar;Østfold;4;Andre tilstandar;22.8572;20.3562;25.5941;61;283797;Rate;ll;ul;Tal;Innb;2012-2016
+13;13;Skade på fremre korsband - operasjonar;Sørlandet;4;Andre tilstandar;27.9624;25.2897;30.849;80;292260;Rate;ll;ul;Tal;Innb;2012-2016
+14;13;Skade på fremre korsband - operasjonar;St. Olavs;4;Andre tilstandar;46.5919;43.2952;50.0787;149;306134;Rate;ll;ul;Tal;Innb;2012-2016
+15;13;Skade på fremre korsband - operasjonar;Telemark;4;Andre tilstandar;12.6874;10.3336;15.4385;20;171368;Rate;ll;ul;Tal;Innb;2012-2016
+16;13;Skade på fremre korsband - operasjonar;UNN;4;Andre tilstandar;32.1647;28.6256;36.0314;60;187883;Rate;ll;ul;Tal;Innb;2012-2016
+17;13;Skade på fremre korsband - operasjonar;Vestfold;4;Andre tilstandar;30.2172;26.989;33.7411;64;225146;Rate;ll;ul;Tal;Innb;2012-2016
+18;13;Skade på fremre korsband - operasjonar;Vestre Viken;4;Andre tilstandar;15.9685;14.3399;17.7404;71;470817;Rate;ll;ul;Tal;Innb;2012-2016
+19;13;Skade på fremre korsband - operasjonar;OUS;4;Andre tilstandar;25.1469;23.3418;27.0656;155;528739;Rate;ll;ul;Tal;Innb;2012-2016
+8888;13;Skade på fremre korsband - operasjonar;Noreg;4;Andre tilstandar;30.9736;;;1579;5105197;Rate;ll;ul;Tal;Innb;2012-2016
+1;14;Hjernerystelse - innleggingar;Ahus;4;Andre tilstandar;64.9387;61.2075;68.8483;229;370737;Rate;ll;ul;Tal;Innb;2012-2016
+2;14;Hjernerystelse - innleggingar;Helgelandssykehuset;4;Andre tilstandar;71.0118;61.8913;81.1639;44;61456;Rate;ll;ul;Tal;Innb;2012-2016
+3;14;Hjernerystelse - innleggingar;Bergen;4;Andre tilstandar;56.556;52.9921;60.304;188;335924;Rate;ll;ul;Tal;Innb;2012-2016
+4;14;Hjernerystelse - innleggingar;Finnmark;4;Andre tilstandar;85.521;75.2465;96.8583;50;58702;Rate;ll;ul;Tal;Innb;2012-2016
+5;14;Hjernerystelse - innleggingar;Fonna;4;Andre tilstandar;93.9428;86.8294;101.49;129;135469;Rate;ll;ul;Tal;Innb;2012-2016
+6;14;Hjernerystelse - innleggingar;Førde;4;Andre tilstandar;81.3375;73.0115;90.3941;71;84077;Rate;ll;ul;Tal;Innb;2012-2016
+7;14;Hjernerystelse - innleggingar;Nord-Trøndelag;4;Andre tilstandar;82.2414;74.7447;90.3188;89;106072;Rate;ll;ul;Tal;Innb;2012-2016
+8;14;Hjernerystelse - innleggingar;Møre og Romsdal;4;Andre tilstandar;82.7766;77.3454;88.5012;174;201630;Rate;ll;ul;Tal;Innb;2012-2016
+9;14;Hjernerystelse - innleggingar;Stavanger;4;Andre tilstandar;108.404;102.67;114.39;273;265081;Rate;ll;ul;Tal;Innb;2012-2016
+10;14;Hjernerystelse - innleggingar;Innlandet;4;Andre tilstandar;83.3225;78.9166;87.9224;274;315870;Rate;ll;ul;Tal;Innb;2012-2016
+11;14;Hjernerystelse - innleggingar;Nordlandssykehuset;4;Andre tilstandar;101.582;93.2708;110.459;111;106963;Rate;ll;ul;Tal;Innb;2012-2016
+12;14;Hjernerystelse - innleggingar;Østfold;4;Andre tilstandar;59.4026;54.9497;64.1325;132;222700;Rate;ll;ul;Tal;Innb;2012-2016
+13;14;Hjernerystelse - innleggingar;Sørlandet;4;Andre tilstandar;84.6649;79.3707;90.222;190;224372;Rate;ll;ul;Tal;Innb;2012-2016
+14;14;Hjernerystelse - innleggingar;St. Olavs;4;Andre tilstandar;34.8675;31.5934;38.3958;83;240031;Rate;ll;ul;Tal;Innb;2012-2016
+15;14;Hjernerystelse - innleggingar;Telemark;4;Andre tilstandar;76.6596;70.2726;83.4935;107;135860;Rate;ll;ul;Tal;Innb;2012-2016
+16;14;Hjernerystelse - innleggingar;UNN;4;Andre tilstandar;55.8824;50.6431;61.5262;83;147894;Rate;ll;ul;Tal;Innb;2012-2016
+17;14;Hjernerystelse - innleggingar;Vestfold;4;Andre tilstandar;57.8634;52.9909;63.079;104;176835;Rate;ll;ul;Tal;Innb;2012-2016
+18;14;Hjernerystelse - innleggingar;Vestre Viken;4;Andre tilstandar;77.5555;73.5779;81.7006;286;363780;Rate;ll;ul;Tal;Innb;2012-2016
+19;14;Hjernerystelse - innleggingar;OUS;4;Andre tilstandar;85.9336;81.683;90.3647;324;427887;Rate;ll;ul;Tal;Innb;2012-2016
+8888;14;Hjernerystelse - innleggingar;Noreg;4;Andre tilstandar;73.8577;;;2943;3981340;Rate;ll;ul;Tal;Innb;2012-2016

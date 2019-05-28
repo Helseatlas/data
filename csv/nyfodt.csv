@@ -1,0 +1,561 @@
+area;level3;level3_no;area_no;level2;level2_no;Level1;level1_no;value;denominator;numerator;type;name_denominator;name_numerator;Period
+2;1;Under 34. uker;UNN/Finnmark;1;Pasienter;1;Innleggelser;885.7;315;279;rate;Fødte;Antall;2009-2014
+4;1;Under 34. uker;Nordland;1;Pasienter;1;Innleggelser;874.1;278;243;rate;Fødte;Antall;2009-2014
+7;1;Under 34. uker;Trøndelag;1;Pasienter;1;Innleggelser;868.8;587;510;rate;Fødte;Antall;2009-2014
+8;1;Under 34. uker;Møre og Romsdal;1;Pasienter;1;Innleggelser;845.4;291;246;rate;Fødte;Antall;2009-2014
+11;1;Under 34. uker;Bergen/Førde;1;Pasienter;1;Innleggelser;845.4;776;656;rate;Fødte;Antall;2009-2014
+12;1;Under 34. uker;Fonna;1;Pasienter;1;Innleggelser;836.2;293;245;rate;Fødte;Antall;2009-2014
+13;1;Under 34. uker;Stavanger;1;Pasienter;1;Innleggelser;887.5;640;568;rate;Fødte;Antall;2009-2014
+14;1;Under 34. uker;Østfold;1;Pasienter;1;Innleggelser;893.5;338;302;rate;Fødte;Antall;2009-2014
+15;1;Under 34. uker;AHUS;1;Pasienter;1;Innleggelser;886.2;668;592;rate;Fødte;Antall;2009-2014
+16;1;Under 34. uker;OUS;1;Pasienter;1;Innleggelser;816.2;1077;879;rate;Fødte;Antall;2009-2014
+19;1;Under 34. uker;Innlandet;1;Pasienter;1;Innleggelser;807.7;442;357;rate;Fødte;Antall;2009-2014
+20;1;Under 34. uker;Vestre Viken;1;Pasienter;1;Innleggelser;961.6;599;576;rate;Fødte;Antall;2009-2014
+21;1;Under 34. uker;Vestfold;1;Pasienter;1;Innleggelser;807.4;270;218;rate;Fødte;Antall;2009-2014
+22;1;Under 34. uker;Telemark;1;Pasienter;1;Innleggelser;834.6;260;217;rate;Fødte;Antall;2009-2014
+23;1;Under 34. uker;Sørlandet;1;Pasienter;1;Innleggelser;900.8;373;336;rate;Fødte;Antall;2009-2014
+8888;1;Under 34. uker;Norge;1;Pasienter;1;Innleggelser;863.6;7207;6224;rate;Fødte;Antall;2009-2014
+2;2;34. til 36.6 uker;UNN/Finnmark;1;Pasienter;1;Innleggelser;490.7;697;342;rate;Fødte;Antall;2009-2014
+4;2;34. til 36.6 uker;Nordland;1;Pasienter;1;Innleggelser;409.1;638;261;rate;Fødte;Antall;2009-2014
+7;2;34. til 36.6 uker;Trøndelag;1;Pasienter;1;Innleggelser;407.9;1368;558;rate;Fødte;Antall;2009-2014
+8;2;34. til 36.6 uker;Møre og Romsdal;1;Pasienter;1;Innleggelser;432.3;687;297;rate;Fødte;Antall;2009-2014
+11;2;34. til 36.6 uker;Bergen/Førde;1;Pasienter;1;Innleggelser;347.8;1754;610;rate;Fødte;Antall;2009-2014
+12;2;34. til 36.6 uker;Fonna;1;Pasienter;1;Innleggelser;585.8;664;389;rate;Fødte;Antall;2009-2014
+13;2;34. til 36.6 uker;Stavanger;1;Pasienter;1;Innleggelser;387.9;1441;559;rate;Fødte;Antall;2009-2014
+14;2;34. til 36.6 uker;Østfold;1;Pasienter;1;Innleggelser;506.7;827;419;rate;Fødte;Antall;2009-2014
+15;2;34. til 36.6 uker;AHUS;1;Pasienter;1;Innleggelser;440.6;1598;704;rate;Fødte;Antall;2009-2014
+16;2;34. til 36.6 uker;OUS;1;Pasienter;1;Innleggelser;422.9;2185;924;rate;Fødte;Antall;2009-2014
+19;2;34. til 36.6 uker;Innlandet;1;Pasienter;1;Innleggelser;427.7;1176;503;rate;Fødte;Antall;2009-2014
+20;2;34. til 36.6 uker;Vestre Viken;1;Pasienter;1;Innleggelser;415.8;1277;531;rate;Fødte;Antall;2009-2014
+21;2;34. til 36.6 uker;Vestfold;1;Pasienter;1;Innleggelser;711.3;613;436;rate;Fødte;Antall;2009-2014
+22;2;34. til 36.6 uker;Telemark;1;Pasienter;1;Innleggelser;636.2;481;306;rate;Fødte;Antall;2009-2014
+23;2;34. til 36.6 uker;Sørlandet;1;Pasienter;1;Innleggelser;592.6;1004;595;rate;Fødte;Antall;2009-2014
+8888;2;34. til 36.6 uker;Norge;1;Pasienter;1;Innleggelser;453;16410;7434;rate;Fødte;Antall;2009-2014
+2;3;Over 36.6 uker (terminfødte);UNN/Finnmark;1;Pasienter;1;Innleggelser;54.7;16700;914;rate;Fødte;Antall;2009-2014
+4;3;Over 36.6 uker (terminfødte);Nordland;1;Pasienter;1;Innleggelser;66.4;12705;844;rate;Fødte;Antall;2009-2014
+7;3;Over 36.6 uker (terminfødte);Trøndelag;1;Pasienter;1;Innleggelser;55.8;29658;1654;rate;Fødte;Antall;2009-2014
+8;3;Over 36.6 uker (terminfødte);Møre og Romsdal;1;Pasienter;1;Innleggelser;55.9;16118;901;rate;Fødte;Antall;2009-2014
+11;3;Over 36.6 uker (terminfødte);Bergen/Førde;1;Pasienter;1;Innleggelser;44.1;37594;1658;rate;Fødte;Antall;2009-2014
+12;3;Over 36.6 uker (terminfødte);Fonna;1;Pasienter;1;Innleggelser;83;11846;983;rate;Fødte;Antall;2009-2014
+13;3;Over 36.6 uker (terminfødte);Stavanger;1;Pasienter;1;Innleggelser;71.2;27704;1972;rate;Fødte;Antall;2009-2014
+14;3;Over 36.6 uker (terminfødte);Østfold;1;Pasienter;1;Innleggelser;66.2;17078;1131;rate;Fødte;Antall;2009-2014
+15;3;Over 36.6 uker (terminfødte);AHUS;1;Pasienter;1;Innleggelser;58.3;32055;1868;rate;Fødte;Antall;2009-2014
+16;3;Over 36.6 uker (terminfødte);OUS;1;Pasienter;1;Innleggelser;51.5;49765;2564;rate;Fødte;Antall;2009-2014
+19;3;Over 36.6 uker (terminfødte);Innlandet;1;Pasienter;1;Innleggelser;49.4;20787;1026;rate;Fødte;Antall;2009-2014
+20;3;Over 36.6 uker (terminfødte);Vestre Viken;1;Pasienter;1;Innleggelser;50.6;28225;1427;rate;Fødte;Antall;2009-2014
+21;3;Over 36.6 uker (terminfødte);Vestfold;1;Pasienter;1;Innleggelser;115.7;12857;1488;rate;Fødte;Antall;2009-2014
+22;3;Over 36.6 uker (terminfødte);Telemark;1;Pasienter;1;Innleggelser;96.8;9527;922;rate;Fødte;Antall;2009-2014
+23;3;Over 36.6 uker (terminfødte);Sørlandet;1;Pasienter;1;Innleggelser;88;19630;1728;rate;Fødte;Antall;2009-2014
+8888;3;Over 36.6 uker (terminfødte);Norge;1;Pasienter;1;Innleggelser;61.6;342249;21080;rate;Fødte;Antall;2009-2014
+2;4;Alle;UNN/Finnmark;1;Pasienter;1;Innleggelser;86.4;17771;1535;rate;Fødte;Antall;2009-2014
+4;4;Alle;Nordland;1;Pasienter;1;Innleggelser;98.7;13656;1348;rate;Fødte;Antall;2009-2014
+7;4;Alle;Trøndelag;1;Pasienter;1;Innleggelser;85.9;31692;2722;rate;Fødte;Antall;2009-2014
+8;4;Alle;Møre og Romsdal;1;Pasienter;1;Innleggelser;84.2;17140;1444;rate;Fødte;Antall;2009-2014
+11;4;Alle;Bergen/Førde;1;Pasienter;1;Innleggelser;72.3;40458;2924;rate;Fødte;Antall;2009-2014
+12;4;Alle;Fonna;1;Pasienter;1;Innleggelser;124.7;12964;1617;rate;Fødte;Antall;2009-2014
+13;4;Alle;Stavanger;1;Pasienter;1;Innleggelser;102.6;30193;3099;rate;Fødte;Antall;2009-2014
+14;4;Alle;Østfold;1;Pasienter;1;Innleggelser;101.2;18305;1852;rate;Fødte;Antall;2009-2014
+15;4;Alle;AHUS;1;Pasienter;1;Innleggelser;91.9;34433;3164;rate;Fødte;Antall;2009-2014
+16;4;Alle;OUS;1;Pasienter;1;Innleggelser;81.9;53323;4367;rate;Fødte;Antall;2009-2014
+19;4;Alle;Innlandet;1;Pasienter;1;Innleggelser;83.1;22695;1886;rate;Fødte;Antall;2009-2014
+20;4;Alle;Vestre Viken;1;Pasienter;1;Innleggelser;83.9;30220;2534;rate;Fødte;Antall;2009-2014
+21;4;Alle;Vestfold;1;Pasienter;1;Innleggelser;155.8;13750;2142;rate;Fødte;Antall;2009-2014
+22;4;Alle;Telemark;1;Pasienter;1;Innleggelser;139.8;10337;1445;rate;Fødte;Antall;2009-2014
+23;4;Alle;Sørlandet;1;Pasienter;1;Innleggelser;125.8;21131;2659;rate;Fødte;Antall;2009-2014
+8888;4;Alle;Norge;1;Pasienter;1;Innleggelser;94.4;368068;34738;rate;Fødte;Antall;2009-2014
+2;5;Under 34. uker;UNN/Finnmark;2;Liggedøgn;1;Innleggelser;43790.5;315;13794;rate;Fødte;Antall;2009-2014
+4;5;Under 34. uker;Nordland;2;Liggedøgn;1;Innleggelser;39996.4;278;11119;rate;Fødte;Antall;2009-2014
+7;5;Under 34. uker;Trøndelag;2;Liggedøgn;1;Innleggelser;35097.1;587;20602;rate;Fødte;Antall;2009-2014
+8;5;Under 34. uker;Møre og Romsdal;2;Liggedøgn;1;Innleggelser;36955.3;291;10754;rate;Fødte;Antall;2009-2014
+11;5;Under 34. uker;Bergen/Førde;2;Liggedøgn;1;Innleggelser;32475.5;776;25201;rate;Fødte;Antall;2009-2014
+12;5;Under 34. uker;Fonna;2;Liggedøgn;1;Innleggelser;33365.2;293;9776;rate;Fødte;Antall;2009-2014
+13;5;Under 34. uker;Stavanger;2;Liggedøgn;1;Innleggelser;33471.9;640;21422;rate;Fødte;Antall;2009-2014
+14;5;Under 34. uker;Østfold;2;Liggedøgn;1;Innleggelser;36600.6;338;12371;rate;Fødte;Antall;2009-2014
+15;5;Under 34. uker;AHUS;2;Liggedøgn;1;Innleggelser;38802.4;668;25920;rate;Fødte;Antall;2009-2014
+16;5;Under 34. uker;OUS;2;Liggedøgn;1;Innleggelser;29025.1;1077;31260;rate;Fødte;Antall;2009-2014
+19;5;Under 34. uker;Innlandet;2;Liggedøgn;1;Innleggelser;32416.3;442;14328;rate;Fødte;Antall;2009-2014
+20;5;Under 34. uker;Vestre Viken;2;Liggedøgn;1;Innleggelser;34190.3;599;20480;rate;Fødte;Antall;2009-2014
+21;5;Under 34. uker;Vestfold;2;Liggedøgn;1;Innleggelser;32992.6;270;8908;rate;Fødte;Antall;2009-2014
+22;5;Under 34. uker;Telemark;2;Liggedøgn;1;Innleggelser;34300;260;8918;rate;Fødte;Antall;2009-2014
+23;5;Under 34. uker;Sørlandet;2;Liggedøgn;1;Innleggelser;38463.8;373;14347;rate;Fødte;Antall;2009-2014
+8888;5;Under 34. uker;Norge;2;Liggedøgn;1;Innleggelser;34577.5;7207;249200;rate;Fødte;Antall;2009-2014
+2;6;34. til 36.6 uker;UNN/Finnmark;2;Liggedøgn;1;Innleggelser;7901;697;5507;rate;Fødte;Antall;2009-2014
+4;6;34. til 36.6 uker;Nordland;2;Liggedøgn;1;Innleggelser;5468.7;638;3489;rate;Fødte;Antall;2009-2014
+7;6;34. til 36.6 uker;Trøndelag;2;Liggedøgn;1;Innleggelser;5295.3;1368;7244;rate;Fødte;Antall;2009-2014
+8;6;34. til 36.6 uker;Møre og Romsdal;2;Liggedøgn;1;Innleggelser;5116.4;687;3515;rate;Fødte;Antall;2009-2014
+11;6;34. til 36.6 uker;Bergen/Førde;2;Liggedøgn;1;Innleggelser;3440.1;1754;6034;rate;Fødte;Antall;2009-2014
+12;6;34. til 36.6 uker;Fonna;2;Liggedøgn;1;Innleggelser;6744;664;4478;rate;Fødte;Antall;2009-2014
+13;6;34. til 36.6 uker;Stavanger;2;Liggedøgn;1;Innleggelser;4112.4;1441;5926;rate;Fødte;Antall;2009-2014
+14;6;34. til 36.6 uker;Østfold;2;Liggedøgn;1;Innleggelser;6662.6;827;5510;rate;Fødte;Antall;2009-2014
+15;6;34. til 36.6 uker;AHUS;2;Liggedøgn;1;Innleggelser;5200.9;1598;8311;rate;Fødte;Antall;2009-2014
+16;6;34. til 36.6 uker;OUS;2;Liggedøgn;1;Innleggelser;4018.3;2185;8780;rate;Fødte;Antall;2009-2014
+19;6;34. til 36.6 uker;Innlandet;2;Liggedøgn;1;Innleggelser;5669.2;1176;6667;rate;Fødte;Antall;2009-2014
+20;6;34. til 36.6 uker;Vestre Viken;2;Liggedøgn;1;Innleggelser;3823.8;1277;4883;rate;Fødte;Antall;2009-2014
+21;6;34. til 36.6 uker;Vestfold;2;Liggedøgn;1;Innleggelser;6727.6;613;4124;rate;Fødte;Antall;2009-2014
+22;6;34. til 36.6 uker;Telemark;2;Liggedøgn;1;Innleggelser;6887.7;481;3313;rate;Fødte;Antall;2009-2014
+23;6;34. til 36.6 uker;Sørlandet;2;Liggedøgn;1;Innleggelser;6335.7;1004;6361;rate;Fødte;Antall;2009-2014
+8888;6;34. til 36.6 uker;Norge;2;Liggedøgn;1;Innleggelser;5127.5;16410;84142;rate;Fødte;Antall;2009-2014
+2;7;Over 36.6 uker (terminfødte);UNN/Finnmark;2;Liggedøgn;1;Innleggelser;307.6;16700;5137;rate;Fødte;Antall;2009-2014
+4;7;Over 36.6 uker (terminfødte);Nordland;2;Liggedøgn;1;Innleggelser;475.1;12705;6036;rate;Fødte;Antall;2009-2014
+7;7;Over 36.6 uker (terminfødte);Trøndelag;2;Liggedøgn;1;Innleggelser;336;29658;9966;rate;Fødte;Antall;2009-2014
+8;7;Over 36.6 uker (terminfødte);Møre og Romsdal;2;Liggedøgn;1;Innleggelser;375.8;16118;6057;rate;Fødte;Antall;2009-2014
+11;7;Over 36.6 uker (terminfødte);Bergen/Førde;2;Liggedøgn;1;Innleggelser;173.2;37594;6510;rate;Fødte;Antall;2009-2014
+12;7;Over 36.6 uker (terminfødte);Fonna;2;Liggedøgn;1;Innleggelser;496.7;11846;5884;rate;Fødte;Antall;2009-2014
+13;7;Over 36.6 uker (terminfødte);Stavanger;2;Liggedøgn;1;Innleggelser;332.1;27704;9200;rate;Fødte;Antall;2009-2014
+14;7;Over 36.6 uker (terminfødte);Østfold;2;Liggedøgn;1;Innleggelser;396;17078;6763;rate;Fødte;Antall;2009-2014
+15;7;Over 36.6 uker (terminfødte);AHUS;2;Liggedøgn;1;Innleggelser;321.8;32055;10314;rate;Fødte;Antall;2009-2014
+16;7;Over 36.6 uker (terminfødte);OUS;2;Liggedøgn;1;Innleggelser;252.1;49765;12545;rate;Fødte;Antall;2009-2014
+19;7;Over 36.6 uker (terminfødte);Innlandet;2;Liggedøgn;1;Innleggelser;327.2;20787;6801;rate;Fødte;Antall;2009-2014
+20;7;Over 36.6 uker (terminfødte);Vestre Viken;2;Liggedøgn;1;Innleggelser;237.7;28225;6710;rate;Fødte;Antall;2009-2014
+21;7;Over 36.6 uker (terminfødte);Vestfold;2;Liggedøgn;1;Innleggelser;518.2;12857;6662;rate;Fødte;Antall;2009-2014
+22;7;Over 36.6 uker (terminfødte);Telemark;2;Liggedøgn;1;Innleggelser;513.5;9527;4892;rate;Fødte;Antall;2009-2014
+23;7;Over 36.6 uker (terminfødte);Sørlandet;2;Liggedøgn;1;Innleggelser;409.9;19630;8046;rate;Fødte;Antall;2009-2014
+8888;7;Over 36.6 uker (terminfødte);Norge;2;Liggedøgn;1;Innleggelser;325.9;342249;111523;rate;Fødte;Antall;2009-2014
+2;8;Alle;UNN/Finnmark;2;Liggedøgn;1;Innleggelser;1375.2;17771;24438;rate;Fødte;Antall;2009-2014
+4;8;Alle;Nordland;2;Liggedøgn;1;Innleggelser;1511.7;13656;20644;rate;Fødte;Antall;2009-2014
+7;8;Alle;Trøndelag;2;Liggedøgn;1;Innleggelser;1193.1;31692;37812;rate;Fødte;Antall;2009-2014
+8;8;Alle;Møre og Romsdal;2;Liggedøgn;1;Innleggelser;1185.9;17140;20326;rate;Fødte;Antall;2009-2014
+11;8;Alle;Bergen/Førde;2;Liggedøgn;1;Innleggelser;932.9;40458;37745;rate;Fødte;Antall;2009-2014
+12;8;Alle;Fonna;2;Liggedøgn;1;Innleggelser;1553.4;12964;20138;rate;Fødte;Antall;2009-2014
+13;8;Alle;Stavanger;2;Liggedøgn;1;Innleggelser;1210.5;30193;36548;rate;Fødte;Antall;2009-2014
+14;8;Alle;Østfold;2;Liggedøgn;1;Innleggelser;1346.3;18305;24644;rate;Fødte;Antall;2009-2014
+15;8;Alle;AHUS;2;Liggedøgn;1;Innleggelser;1293.7;34433;44545;rate;Fødte;Antall;2009-2014
+16;8;Alle;OUS;2;Liggedøgn;1;Innleggelser;986.2;53323;52585;rate;Fødte;Antall;2009-2014
+19;8;Alle;Innlandet;2;Liggedøgn;1;Innleggelser;1224.8;22695;27796;rate;Fødte;Antall;2009-2014
+20;8;Alle;Vestre Viken;2;Liggedøgn;1;Innleggelser;1061.3;30220;32073;rate;Fødte;Antall;2009-2014
+21;8;Alle;Vestfold;2;Liggedøgn;1;Innleggelser;1432.3;13750;19694;rate;Fødte;Antall;2009-2014
+22;8;Alle;Telemark;2;Liggedøgn;1;Innleggelser;1656.5;10337;17123;rate;Fødte;Antall;2009-2014
+23;8;Alle;Sørlandet;2;Liggedøgn;1;Innleggelser;1360.7;21131;28754;rate;Fødte;Antall;2009-2014
+8888;8;Alle;Norge;2;Liggedøgn;1;Innleggelser;1208.6;368068;444865;rate;Fødte;Antall;2009-2014
+2;9;Under 34. uker;UNN/Finnmark;3;Pasienter;2;Antibiotikabehandling;552.4;315;174;rate;Fødte;Antall;2009-2014
+4;9;Under 34. uker;Nordland;3;Pasienter;2;Antibiotikabehandling;500;278;139;rate;Fødte;Antall;2009-2014
+7;9;Under 34. uker;Trøndelag;3;Pasienter;2;Antibiotikabehandling;480.4;587;282;rate;Fødte;Antall;2009-2014
+8;9;Under 34. uker;Møre og Romsdal;3;Pasienter;2;Antibiotikabehandling;491.4;291;143;rate;Fødte;Antall;2009-2014
+11;9;Under 34. uker;Bergen/Førde;3;Pasienter;2;Antibiotikabehandling;586.3;776;455;rate;Fødte;Antall;2009-2014
+12;9;Under 34. uker;Fonna;3;Pasienter;2;Antibiotikabehandling;471;293;138;rate;Fødte;Antall;2009-2014
+13;9;Under 34. uker;Stavanger;3;Pasienter;2;Antibiotikabehandling;595.3;640;381;rate;Fødte;Antall;2009-2014
+14;9;Under 34. uker;Østfold;3;Pasienter;2;Antibiotikabehandling;541.4;338;183;rate;Fødte;Antall;2009-2014
+15;9;Under 34. uker;AHUS;3;Pasienter;2;Antibiotikabehandling;434.1;668;290;rate;Fødte;Antall;2009-2014
+16;9;Under 34. uker;OUS;3;Pasienter;2;Antibiotikabehandling;434.5;1077;468;rate;Fødte;Antall;2009-2014
+19;9;Under 34. uker;Innlandet;3;Pasienter;2;Antibiotikabehandling;407.2;442;180;rate;Fødte;Antall;2009-2014
+20;9;Under 34. uker;Vestre Viken;3;Pasienter;2;Antibiotikabehandling;672.8;599;403;rate;Fødte;Antall;2009-2014
+21;9;Under 34. uker;Vestfold;3;Pasienter;2;Antibiotikabehandling;422.2;270;114;rate;Fødte;Antall;2009-2014
+22;9;Under 34. uker;Telemark;3;Pasienter;2;Antibiotikabehandling;526.9;260;137;rate;Fødte;Antall;2009-2014
+23;9;Under 34. uker;Sørlandet;3;Pasienter;2;Antibiotikabehandling;613.9;373;229;rate;Fødte;Antall;2009-2014
+8888;9;Under 34. uker;Norge;3;Pasienter;2;Antibiotikabehandling;515.6;7207;3716;rate;Fødte;Antall;2009-2014
+2;10;34. til 36.6 uker;UNN/Finnmark;3;Pasienter;2;Antibiotikabehandling;99;697;69;rate;Fødte;Antall;2009-2014
+4;10;34. til 36.6 uker;Nordland;3;Pasienter;2;Antibiotikabehandling;105;638;67;rate;Fødte;Antall;2009-2014
+7;10;34. til 36.6 uker;Trøndelag;3;Pasienter;2;Antibiotikabehandling;74.6;1368;102;rate;Fødte;Antall;2009-2014
+8;10;34. til 36.6 uker;Møre og Romsdal;3;Pasienter;2;Antibiotikabehandling;77.1;687;53;rate;Fødte;Antall;2009-2014
+11;10;34. til 36.6 uker;Bergen/Førde;3;Pasienter;2;Antibiotikabehandling;97.5;1754;171;rate;Fødte;Antall;2009-2014
+12;10;34. til 36.6 uker;Fonna;3;Pasienter;2;Antibiotikabehandling;72.3;664;48;rate;Fødte;Antall;2009-2014
+13;10;34. til 36.6 uker;Stavanger;3;Pasienter;2;Antibiotikabehandling;145;1441;209;rate;Fødte;Antall;2009-2014
+14;10;34. til 36.6 uker;Østfold;3;Pasienter;2;Antibiotikabehandling;89.5;827;74;rate;Fødte;Antall;2009-2014
+15;10;34. til 36.6 uker;AHUS;3;Pasienter;2;Antibiotikabehandling;69.5;1598;111;rate;Fødte;Antall;2009-2014
+16;10;34. til 36.6 uker;OUS;3;Pasienter;2;Antibiotikabehandling;108;2185;236;rate;Fødte;Antall;2009-2014
+19;10;34. til 36.6 uker;Innlandet;3;Pasienter;2;Antibiotikabehandling;74;1176;87;rate;Fødte;Antall;2009-2014
+20;10;34. til 36.6 uker;Vestre Viken;3;Pasienter;2;Antibiotikabehandling;154.3;1277;197;rate;Fødte;Antall;2009-2014
+21;10;34. til 36.6 uker;Vestfold;3;Pasienter;2;Antibiotikabehandling;78.3;613;48;rate;Fødte;Antall;2009-2014
+22;10;34. til 36.6 uker;Telemark;3;Pasienter;2;Antibiotikabehandling;83.2;481;40;rate;Fødte;Antall;2009-2014
+23;10;34. til 36.6 uker;Sørlandet;3;Pasienter;2;Antibiotikabehandling;146.4;1004;147;rate;Fødte;Antall;2009-2014
+8888;10;34. til 36.6 uker;Norge;3;Pasienter;2;Antibiotikabehandling;101.1;16410;1659;rate;Fødte;Antall;2009-2014
+2;11;Over 36.6 uker (terminfødte);UNN/Finnmark;3;Pasienter;2;Antibiotikabehandling;23.2;16700;387;rate;Fødte;Antall;2009-2014
+4;11;Over 36.6 uker (terminfødte);Nordland;3;Pasienter;2;Antibiotikabehandling;30.9;12705;392;rate;Fødte;Antall;2009-2014
+7;11;Over 36.6 uker (terminfødte);Trøndelag;3;Pasienter;2;Antibiotikabehandling;25.2;29658;747;rate;Fødte;Antall;2009-2014
+8;11;Over 36.6 uker (terminfødte);Møre og Romsdal;3;Pasienter;2;Antibiotikabehandling;23.1;16118;373;rate;Fødte;Antall;2009-2014
+11;11;Over 36.6 uker (terminfødte);Bergen/Førde;3;Pasienter;2;Antibiotikabehandling;15.9;37594;598;rate;Fødte;Antall;2009-2014
+12;11;Over 36.6 uker (terminfødte);Fonna;3;Pasienter;2;Antibiotikabehandling;23.6;11846;279;rate;Fødte;Antall;2009-2014
+13;11;Over 36.6 uker (terminfødte);Stavanger;3;Pasienter;2;Antibiotikabehandling;36.7;27704;1016;rate;Fødte;Antall;2009-2014
+14;11;Over 36.6 uker (terminfødte);Østfold;3;Pasienter;2;Antibiotikabehandling;30.4;17078;519;rate;Fødte;Antall;2009-2014
+15;11;Over 36.6 uker (terminfødte);AHUS;3;Pasienter;2;Antibiotikabehandling;20.5;32055;656;rate;Fødte;Antall;2009-2014
+16;11;Over 36.6 uker (terminfødte);OUS;3;Pasienter;2;Antibiotikabehandling;24;49765;1192;rate;Fødte;Antall;2009-2014
+19;11;Over 36.6 uker (terminfødte);Innlandet;3;Pasienter;2;Antibiotikabehandling;21.4;20787;445;rate;Fødte;Antall;2009-2014
+20;11;Over 36.6 uker (terminfødte);Vestre Viken;3;Pasienter;2;Antibiotikabehandling;30.6;28225;864;rate;Fødte;Antall;2009-2014
+21;11;Over 36.6 uker (terminfødte);Vestfold;3;Pasienter;2;Antibiotikabehandling;26.1;12857;336;rate;Fødte;Antall;2009-2014
+22;11;Over 36.6 uker (terminfødte);Telemark;3;Pasienter;2;Antibiotikabehandling;23.9;9527;228;rate;Fødte;Antall;2009-2014
+23;11;Over 36.6 uker (terminfødte);Sørlandet;3;Pasienter;2;Antibiotikabehandling;30.6;19630;600;rate;Fødte;Antall;2009-2014
+8888;11;Over 36.6 uker (terminfødte);Norge;3;Pasienter;2;Antibiotikabehandling;25.2;342249;8632;rate;Fødte;Antall;2009-2014
+2;12;Alle;UNN/Finnmark;3;Pasienter;2;Antibiotikabehandling;35.5;17771;630;rate;Fødte;Antall;2009-2014
+4;12;Alle;Nordland;3;Pasienter;2;Antibiotikabehandling;43.8;13656;598;rate;Fødte;Antall;2009-2014
+7;12;Alle;Trøndelag;3;Pasienter;2;Antibiotikabehandling;35.7;31692;1131;rate;Fødte;Antall;2009-2014
+8;12;Alle;Møre og Romsdal;3;Pasienter;2;Antibiotikabehandling;33.2;17140;569;rate;Fødte;Antall;2009-2014
+11;12;Alle;Bergen/Førde;3;Pasienter;2;Antibiotikabehandling;30.3;40458;1224;rate;Fødte;Antall;2009-2014
+12;12;Alle;Fonna;3;Pasienter;2;Antibiotikabehandling;35.9;12964;465;rate;Fødte;Antall;2009-2014
+13;12;Alle;Stavanger;3;Pasienter;2;Antibiotikabehandling;53.2;30193;1606;rate;Fødte;Antall;2009-2014
+14;12;Alle;Østfold;3;Pasienter;2;Antibiotikabehandling;42.4;18305;776;rate;Fødte;Antall;2009-2014
+15;12;Alle;AHUS;3;Pasienter;2;Antibiotikabehandling;30.7;34433;1057;rate;Fødte;Antall;2009-2014
+16;12;Alle;OUS;3;Pasienter;2;Antibiotikabehandling;35.6;53323;1896;rate;Fødte;Antall;2009-2014
+19;12;Alle;Innlandet;3;Pasienter;2;Antibiotikabehandling;31.4;22695;712;rate;Fødte;Antall;2009-2014
+20;12;Alle;Vestre Viken;3;Pasienter;2;Antibiotikabehandling;48.4;30220;1464;rate;Fødte;Antall;2009-2014
+21;12;Alle;Vestfold;3;Pasienter;2;Antibiotikabehandling;36.2;13750;498;rate;Fødte;Antall;2009-2014
+22;12;Alle;Telemark;3;Pasienter;2;Antibiotikabehandling;39.2;10337;405;rate;Fødte;Antall;2009-2014
+23;12;Alle;Sørlandet;3;Pasienter;2;Antibiotikabehandling;46.2;21131;976;rate;Fødte;Antall;2009-2014
+8888;12;Alle;Norge;3;Pasienter;2;Antibiotikabehandling;38.1;368068;14007;rate;Fødte;Antall;2009-2014
+2;13;Under 34. uker;UNN/Finnmark;4;Behandlingsdøgn;2;Antibiotikabehandling;5015.9;315;1580;rate;Fødte;Antall;2009-2014
+4;13;Under 34. uker;Nordland;4;Behandlingsdøgn;2;Antibiotikabehandling;5550.4;278;1543;rate;Fødte;Antall;2009-2014
+7;13;Under 34. uker;Trøndelag;4;Behandlingsdøgn;2;Antibiotikabehandling;4521.3;587;2654;rate;Fødte;Antall;2009-2014
+8;13;Under 34. uker;Møre og Romsdal;4;Behandlingsdøgn;2;Antibiotikabehandling;8051.5;291;2343;rate;Fødte;Antall;2009-2014
+11;13;Under 34. uker;Bergen/Førde;4;Behandlingsdøgn;2;Antibiotikabehandling;5554.1;776;4310;rate;Fødte;Antall;2009-2014
+12;13;Under 34. uker;Fonna;4;Behandlingsdøgn;2;Antibiotikabehandling;3747.4;293;1098;rate;Fødte;Antall;2009-2014
+13;13;Under 34. uker;Stavanger;4;Behandlingsdøgn;2;Antibiotikabehandling;4650;640;2976;rate;Fødte;Antall;2009-2014
+14;13;Under 34. uker;Østfold;4;Behandlingsdøgn;2;Antibiotikabehandling;5275.1;338;1783;rate;Fødte;Antall;2009-2014
+15;13;Under 34. uker;AHUS;4;Behandlingsdøgn;2;Antibiotikabehandling;5702.1;668;3809;rate;Fødte;Antall;2009-2014
+16;13;Under 34. uker;OUS;4;Behandlingsdøgn;2;Antibiotikabehandling;4292.5;1077;4623;rate;Fødte;Antall;2009-2014
+19;13;Under 34. uker;Innlandet;4;Behandlingsdøgn;2;Antibiotikabehandling;4133.5;442;1827;rate;Fødte;Antall;2009-2014
+20;13;Under 34. uker;Vestre Viken;4;Behandlingsdøgn;2;Antibiotikabehandling;5272.1;599;3158;rate;Fødte;Antall;2009-2014
+21;13;Under 34. uker;Vestfold;4;Behandlingsdøgn;2;Antibiotikabehandling;3592.6;270;970;rate;Fødte;Antall;2009-2014
+22;13;Under 34. uker;Telemark;4;Behandlingsdøgn;2;Antibiotikabehandling;5534.6;260;1439;rate;Fødte;Antall;2009-2014
+23;13;Under 34. uker;Sørlandet;4;Behandlingsdøgn;2;Antibiotikabehandling;5983.9;373;2232;rate;Fødte;Antall;2009-2014
+8888;13;Under 34. uker;Norge;4;Behandlingsdøgn;2;Antibiotikabehandling;5043;7207;36345;rate;Fødte;Antall;2009-2014
+2;14;34. til 36.6 uker;UNN/Finnmark;4;Behandlingsdøgn;2;Antibiotikabehandling;562.4;697;392;rate;Fødte;Antall;2009-2014
+4;14;34. til 36.6 uker;Nordland;4;Behandlingsdøgn;2;Antibiotikabehandling;639.5;638;408;rate;Fødte;Antall;2009-2014
+7;14;34. til 36.6 uker;Trøndelag;4;Behandlingsdøgn;2;Antibiotikabehandling;390.4;1368;534;rate;Fødte;Antall;2009-2014
+8;14;34. til 36.6 uker;Møre og Romsdal;4;Behandlingsdøgn;2;Antibiotikabehandling;489.1;687;336;rate;Fødte;Antall;2009-2014
+11;14;34. til 36.6 uker;Bergen/Førde;4;Behandlingsdøgn;2;Antibiotikabehandling;741.2;1754;1300;rate;Fødte;Antall;2009-2014
+12;14;34. til 36.6 uker;Fonna;4;Behandlingsdøgn;2;Antibiotikabehandling;480.4;664;319;rate;Fødte;Antall;2009-2014
+13;14;34. til 36.6 uker;Stavanger;4;Behandlingsdøgn;2;Antibiotikabehandling;711.3;1441;1025;rate;Fødte;Antall;2009-2014
+14;14;34. til 36.6 uker;Østfold;4;Behandlingsdøgn;2;Antibiotikabehandling;529.6;827;438;rate;Fødte;Antall;2009-2014
+15;14;34. til 36.6 uker;AHUS;4;Behandlingsdøgn;2;Antibiotikabehandling;460.6;1598;736;rate;Fødte;Antall;2009-2014
+16;14;34. til 36.6 uker;OUS;4;Behandlingsdøgn;2;Antibiotikabehandling;540;2185;1180;rate;Fødte;Antall;2009-2014
+19;14;34. til 36.6 uker;Innlandet;4;Behandlingsdøgn;2;Antibiotikabehandling;464.3;1176;546;rate;Fødte;Antall;2009-2014
+20;14;34. til 36.6 uker;Vestre Viken;4;Behandlingsdøgn;2;Antibiotikabehandling;544.2;1277;695;rate;Fødte;Antall;2009-2014
+21;14;34. til 36.6 uker;Vestfold;4;Behandlingsdøgn;2;Antibiotikabehandling;332.8;613;204;rate;Fødte;Antall;2009-2014
+22;14;34. til 36.6 uker;Telemark;4;Behandlingsdøgn;2;Antibiotikabehandling;409.6;481;197;rate;Fødte;Antall;2009-2014
+23;14;34. til 36.6 uker;Sørlandet;4;Behandlingsdøgn;2;Antibiotikabehandling;783.9;1004;787;rate;Fødte;Antall;2009-2014
+8888;14;34. til 36.6 uker;Norge;4;Behandlingsdøgn;2;Antibiotikabehandling;554.4;16410;9097;rate;Fødte;Antall;2009-2014
+2;15;Over 36.6 uker (terminfødte);UNN/Finnmark;4;Behandlingsdøgn;2;Antibiotikabehandling;130.1;16700;2173;rate;Fødte;Antall;2009-2014
+4;15;Over 36.6 uker (terminfødte);Nordland;4;Behandlingsdøgn;2;Antibiotikabehandling;185.9;12705;2362;rate;Fødte;Antall;2009-2014
+7;15;Over 36.6 uker (terminfødte);Trøndelag;4;Behandlingsdøgn;2;Antibiotikabehandling;160;29658;4744;rate;Fødte;Antall;2009-2014
+8;15;Over 36.6 uker (terminfødte);Møre og Romsdal;4;Behandlingsdøgn;2;Antibiotikabehandling;152.9;16118;2464;rate;Fødte;Antall;2009-2014
+11;15;Over 36.6 uker (terminfødte);Bergen/Førde;4;Behandlingsdøgn;2;Antibiotikabehandling;81.1;37594;3047;rate;Fødte;Antall;2009-2014
+12;15;Over 36.6 uker (terminfødte);Fonna;4;Behandlingsdøgn;2;Antibiotikabehandling;139.2;11846;1649;rate;Fødte;Antall;2009-2014
+13;15;Over 36.6 uker (terminfødte);Stavanger;4;Behandlingsdøgn;2;Antibiotikabehandling;184.1;27704;5100;rate;Fødte;Antall;2009-2014
+14;15;Over 36.6 uker (terminfødte);Østfold;4;Behandlingsdøgn;2;Antibiotikabehandling;189.6;17078;3238;rate;Fødte;Antall;2009-2014
+15;15;Over 36.6 uker (terminfødte);AHUS;4;Behandlingsdøgn;2;Antibiotikabehandling;133.7;32055;4286;rate;Fødte;Antall;2009-2014
+16;15;Over 36.6 uker (terminfødte);OUS;4;Behandlingsdøgn;2;Antibiotikabehandling;131.9;49765;6563;rate;Fødte;Antall;2009-2014
+19;15;Over 36.6 uker (terminfødte);Innlandet;4;Behandlingsdøgn;2;Antibiotikabehandling;130.4;20787;2710;rate;Fødte;Antall;2009-2014
+20;15;Over 36.6 uker (terminfødte);Vestre Viken;4;Behandlingsdøgn;2;Antibiotikabehandling;141.6;28225;3997;rate;Fødte;Antall;2009-2014
+21;15;Over 36.6 uker (terminfødte);Vestfold;4;Behandlingsdøgn;2;Antibiotikabehandling;156.2;12857;2008;rate;Fødte;Antall;2009-2014
+22;15;Over 36.6 uker (terminfødte);Telemark;4;Behandlingsdøgn;2;Antibiotikabehandling;144.6;9527;1378;rate;Fødte;Antall;2009-2014
+23;15;Over 36.6 uker (terminfødte);Sørlandet;4;Behandlingsdøgn;2;Antibiotikabehandling;173.4;19630;3404;rate;Fødte;Antall;2009-2014
+8888;15;Over 36.6 uker (terminfødte);Norge;4;Behandlingsdøgn;2;Antibiotikabehandling;143.5;342249;49123;rate;Fødte;Antall;2009-2014
+2;16;Alle;UNN/Finnmark;4;Behandlingsdøgn;2;Antibiotikabehandling;233.2;17771;4145;rate;Fødte;Antall;2009-2014
+4;16;Alle;Nordland;4;Behandlingsdøgn;2;Antibiotikabehandling;315.8;13656;4313;rate;Fødte;Antall;2009-2014
+7;16;Alle;Trøndelag;4;Behandlingsdøgn;2;Antibiotikabehandling;250.3;31692;7932;rate;Fødte;Antall;2009-2014
+8;16;Alle;Møre og Romsdal;4;Behandlingsdøgn;2;Antibiotikabehandling;300.1;17140;5143;rate;Fødte;Antall;2009-2014
+11;16;Alle;Bergen/Førde;4;Behandlingsdøgn;2;Antibiotikabehandling;214;40458;8657;rate;Fødte;Antall;2009-2014
+12;16;Alle;Fonna;4;Behandlingsdøgn;2;Antibiotikabehandling;236.5;12964;3066;rate;Fødte;Antall;2009-2014
+13;16;Alle;Stavanger;4;Behandlingsdøgn;2;Antibiotikabehandling;301.4;30193;9101;rate;Fødte;Antall;2009-2014
+14;16;Alle;Østfold;4;Behandlingsdøgn;2;Antibiotikabehandling;298.2;18305;5459;rate;Fødte;Antall;2009-2014
+15;16;Alle;AHUS;4;Behandlingsdøgn;2;Antibiotikabehandling;256.5;34433;8831;rate;Fødte;Antall;2009-2014
+16;16;Alle;OUS;4;Behandlingsdøgn;2;Antibiotikabehandling;231.9;53323;12366;rate;Fødte;Antall;2009-2014
+19;16;Alle;Innlandet;4;Behandlingsdøgn;2;Antibiotikabehandling;224;22695;5083;rate;Fødte;Antall;2009-2014
+20;16;Alle;Vestre Viken;4;Behandlingsdøgn;2;Antibiotikabehandling;259.8;30220;7850;rate;Fødte;Antall;2009-2014
+21;16;Alle;Vestfold;4;Behandlingsdøgn;2;Antibiotikabehandling;231.4;13750;3182;rate;Fødte;Antall;2009-2014
+22;16;Alle;Telemark;4;Behandlingsdøgn;2;Antibiotikabehandling;291.6;10337;3014;rate;Fødte;Antall;2009-2014
+23;16;Alle;Sørlandet;4;Behandlingsdøgn;2;Antibiotikabehandling;304;21131;6423;rate;Fødte;Antall;2009-2014
+8888;16;Alle;Norge;4;Behandlingsdøgn;2;Antibiotikabehandling;256.9;368068;94565;rate;Fødte;Antall;2009-2014
+2;17;Under 37. uker;UNN/Finnmark;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;44.5;1012;45;rate;Fødte;Antall;2009-2014
+4;17;Under 37. uker;Nordland;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;66.6;916;61;rate;Fødte;Antall;2009-2014
+7;17;Under 37. uker;Trøndelag;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;43;1955;84;rate;Fødte;Antall;2009-2014
+8;17;Under 37. uker;Møre og Romsdal;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;49.1;978;48;rate;Fødte;Antall;2009-2014
+11;17;Under 37. uker;Bergen/Førde;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;27.7;2530;70;rate;Fødte;Antall;2009-2014
+12;17;Under 37. uker;Fonna;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;30.3;957;29;rate;Fødte;Antall;2009-2014
+13;17;Under 37. uker;Stavanger;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;45.2;2081;94;rate;Fødte;Antall;2009-2014
+14;17;Under 37. uker;Østfold;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;52.4;1165;61;rate;Fødte;Antall;2009-2014
+15;17;Under 37. uker;AHUS;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;62.2;2266;141;rate;Fødte;Antall;2009-2014
+16;17;Under 37. uker;OUS;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;56.4;3262;184;rate;Fødte;Antall;2009-2014
+19;17;Under 37. uker;Innlandet;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;44.5;1618;72;rate;Fødte;Antall;2009-2014
+20;17;Under 37. uker;Vestre Viken;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;45.3;1876;85;rate;Fødte;Antall;2009-2014
+21;17;Under 37. uker;Vestfold;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;29.4;883;26;rate;Fødte;Antall;2009-2014
+22;17;Under 37. uker;Telemark;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;48.6;741;36;rate;Fødte;Antall;2009-2014
+23;17;Under 37. uker;Sørlandet;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;62.5;1377;86;rate;Fødte;Antall;2009-2014
+8888;17;Under 37. uker;Norge;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;47.5;23617;1122;rate;Fødte;Antall;2009-2014
+2;18;Over 36.6 uker (terminfødte);UNN/Finnmark;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;10.6;16700;177;rate;Fødte;Antall;2009-2014
+4;18;Over 36.6 uker (terminfødte);Nordland;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;19.9;12705;253;rate;Fødte;Antall;2009-2014
+7;18;Over 36.6 uker (terminfødte);Trøndelag;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;13;29658;385;rate;Fødte;Antall;2009-2014
+8;18;Over 36.6 uker (terminfødte);Møre og Romsdal;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;10;16118;161;rate;Fødte;Antall;2009-2014
+11;18;Over 36.6 uker (terminfødte);Bergen/Førde;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;3.6;37594;135;rate;Fødte;Antall;2009-2014
+12;18;Over 36.6 uker (terminfødte);Fonna;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;12.1;11846;143;rate;Fødte;Antall;2009-2014
+13;18;Over 36.6 uker (terminfødte);Stavanger;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;16;27704;444;rate;Fødte;Antall;2009-2014
+14;18;Over 36.6 uker (terminfødte);Østfold;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;18.9;17078;322;rate;Fødte;Antall;2009-2014
+15;18;Over 36.6 uker (terminfødte);AHUS;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;12.8;32055;411;rate;Fødte;Antall;2009-2014
+16;18;Over 36.6 uker (terminfødte);OUS;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;13.7;49765;683;rate;Fødte;Antall;2009-2014
+19;18;Over 36.6 uker (terminfødte);Innlandet;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;10.5;20787;219;rate;Fødte;Antall;2009-2014
+20;18;Over 36.6 uker (terminfødte);Vestre Viken;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;11;28225;311;rate;Fødte;Antall;2009-2014
+21;18;Over 36.6 uker (terminfødte);Vestfold;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;11.8;12857;152;rate;Fødte;Antall;2009-2014
+22;18;Over 36.6 uker (terminfødte);Telemark;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;6.1;9527;58;rate;Fødte;Antall;2009-2014
+23;18;Over 36.6 uker (terminfødte);Sørlandet;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;14.2;19630;278;rate;Fødte;Antall;2009-2014
+8888;18;Over 36.6 uker (terminfødte);Norge;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;12.1;342249;4132;rate;Fødte;Antall;2009-2014
+2;19;Alle;UNN/Finnmark;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;12.5;17771;222;rate;Fødte;Antall;2009-2014
+4;19;Alle;Nordland;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;23;13656;314;rate;Fødte;Antall;2009-2014
+7;19;Alle;Trøndelag;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;14.8;31692;469;rate;Fødte;Antall;2009-2014
+8;19;Alle;Møre og Romsdal;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;12.2;17140;209;rate;Fødte;Antall;2009-2014
+11;19;Alle;Bergen/Førde;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;5.1;40458;205;rate;Fødte;Antall;2009-2014
+12;19;Alle;Fonna;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;13.3;12964;172;rate;Fødte;Antall;2009-2014
+13;19;Alle;Stavanger;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;17.8;30193;538;rate;Fødte;Antall;2009-2014
+14;19;Alle;Østfold;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;20.9;18305;383;rate;Fødte;Antall;2009-2014
+15;19;Alle;AHUS;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;16;34433;552;rate;Fødte;Antall;2009-2014
+16;19;Alle;OUS;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;16.3;53323;867;rate;Fødte;Antall;2009-2014
+19;19;Alle;Innlandet;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;12.8;22695;291;rate;Fødte;Antall;2009-2014
+20;19;Alle;Vestre Viken;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;13.1;30220;396;rate;Fødte;Antall;2009-2014
+21;19;Alle;Vestfold;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;12.9;13750;178;rate;Fødte;Antall;2009-2014
+22;19;Alle;Telemark;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;9.1;10337;94;rate;Fødte;Antall;2009-2014
+23;19;Alle;Sørlandet;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;17.2;21131;364;rate;Fødte;Antall;2009-2014
+8888;19;Alle;Norge;5;Pasienter med Sepsisdiagnose;2;Antibiotikabehandling;14.3;368068;5254;rate;Fødte;Antall;2009-2014
+2;20;28. til 36.6 uker;UNN/Finnmark;6;Pasienter;3;Respiratorbehandling;77.1;947;73;rate;Fødte;Antall;2009-2014
+4;20;28. til 36.6 uker;Nordland;6;Pasienter;3;Respiratorbehandling;61.5;846;52;rate;Fødte;Antall;2009-2014
+7;20;28. til 36.6 uker;Trøndelag;6;Pasienter;3;Respiratorbehandling;53.6;1830;98;rate;Fødte;Antall;2009-2014
+8;20;28. til 36.6 uker;Møre og Romsdal;6;Pasienter;3;Respiratorbehandling;73.4;927;68;rate;Fødte;Antall;2009-2014
+11;20;28. til 36.6 uker;Bergen/Førde;6;Pasienter;3;Respiratorbehandling;63.5;2347;149;rate;Fødte;Antall;2009-2014
+12;20;28. til 36.6 uker;Fonna;6;Pasienter;3;Respiratorbehandling;48.8;881;43;rate;Fødte;Antall;2009-2014
+13;20;28. til 36.6 uker;Stavanger;6;Pasienter;3;Respiratorbehandling;45.7;1949;89;rate;Fødte;Antall;2009-2014
+14;20;28. til 36.6 uker;Østfold;6;Pasienter;3;Respiratorbehandling;48.6;1110;54;rate;Fødte;Antall;2009-2014
+15;20;28. til 36.6 uker;AHUS;6;Pasienter;3;Respiratorbehandling;46.9;2130;100;rate;Fødte;Antall;2009-2014
+16;20;28. til 36.6 uker;OUS;6;Pasienter;3;Respiratorbehandling;52.7;3037;160;rate;Fødte;Antall;2009-2014
+19;20;28. til 36.6 uker;Innlandet;6;Pasienter;3;Respiratorbehandling;59.1;1540;91;rate;Fødte;Antall;2009-2014
+20;20;28. til 36.6 uker;Vestre Viken;6;Pasienter;3;Respiratorbehandling;31.5;1748;55;rate;Fødte;Antall;2009-2014
+21;20;28. til 36.6 uker;Vestfold;6;Pasienter;3;Respiratorbehandling;48.7;821;40;rate;Fødte;Antall;2009-2014
+22;20;28. til 36.6 uker;Telemark;6;Pasienter;3;Respiratorbehandling;52.6;685;36;rate;Fødte;Antall;2009-2014
+23;20;28. til 36.6 uker;Sørlandet;6;Pasienter;3;Respiratorbehandling;53;1303;69;rate;Fødte;Antall;2009-2014
+8888;20;28. til 36.6 uker;Norge;6;Pasienter;3;Respiratorbehandling;53.3;22101;1177;rate;Fødte;Antall;2009-2014
+2;21;Over 36.6 uker (terminfødte);UNN/Finnmark;6;Pasienter;3;Respiratorbehandling;3.9;16700;65;rate;Fødte;Antall;2009-2014
+4;21;Over 36.6 uker (terminfødte);Nordland;6;Pasienter;3;Respiratorbehandling;3.9;12705;50;rate;Fødte;Antall;2009-2014
+7;21;Over 36.6 uker (terminfødte);Trøndelag;6;Pasienter;3;Respiratorbehandling;3.6;29658;107;rate;Fødte;Antall;2009-2014
+8;21;Over 36.6 uker (terminfødte);Møre og Romsdal;6;Pasienter;3;Respiratorbehandling;5;16118;81;rate;Fødte;Antall;2009-2014
+11;21;Over 36.6 uker (terminfødte);Bergen/Førde;6;Pasienter;3;Respiratorbehandling;2.9;37594;110;rate;Fødte;Antall;2009-2014
+12;21;Over 36.6 uker (terminfødte);Fonna;6;Pasienter;3;Respiratorbehandling;3.5;11846;41;rate;Fødte;Antall;2009-2014
+13;21;Over 36.6 uker (terminfødte);Stavanger;6;Pasienter;3;Respiratorbehandling;2.6;27704;73;rate;Fødte;Antall;2009-2014
+14;21;Over 36.6 uker (terminfødte);Østfold;6;Pasienter;3;Respiratorbehandling;3.1;17078;53;rate;Fødte;Antall;2009-2014
+15;21;Over 36.6 uker (terminfødte);AHUS;6;Pasienter;3;Respiratorbehandling;3.4;32055;109;rate;Fødte;Antall;2009-2014
+16;21;Over 36.6 uker (terminfødte);OUS;6;Pasienter;3;Respiratorbehandling;2.9;49765;143;rate;Fødte;Antall;2009-2014
+19;21;Over 36.6 uker (terminfødte);Innlandet;6;Pasienter;3;Respiratorbehandling;3.3;20787;69;rate;Fødte;Antall;2009-2014
+20;21;Over 36.6 uker (terminfødte);Vestre Viken;6;Pasienter;3;Respiratorbehandling;1.8;28225;52;rate;Fødte;Antall;2009-2014
+21;21;Over 36.6 uker (terminfødte);Vestfold;6;Pasienter;3;Respiratorbehandling;2.3;12857;30;rate;Fødte;Antall;2009-2014
+22;21;Over 36.6 uker (terminfødte);Telemark;6;Pasienter;3;Respiratorbehandling;3.6;9527;34;rate;Fødte;Antall;2009-2014
+23;21;Over 36.6 uker (terminfødte);Sørlandet;6;Pasienter;3;Respiratorbehandling;2.9;19630;57;rate;Fødte;Antall;2009-2014
+8888;21;Over 36.6 uker (terminfødte);Norge;6;Pasienter;3;Respiratorbehandling;3.1;342249;1074;rate;Fødte;Antall;2009-2014
+2;22;Alle;UNN/Finnmark;6;Pasienter;3;Respiratorbehandling;10;17771;177;rate;Fødte;Antall;2009-2014
+4;22;Alle;Nordland;6;Pasienter;3;Respiratorbehandling;10.6;13656;145;rate;Fødte;Antall;2009-2014
+7;22;Alle;Trøndelag;6;Pasienter;3;Respiratorbehandling;8.5;31692;270;rate;Fødte;Antall;2009-2014
+8;22;Alle;Møre og Romsdal;6;Pasienter;3;Respiratorbehandling;11.1;17140;190;rate;Fødte;Antall;2009-2014
+11;22;Alle;Bergen/Førde;6;Pasienter;3;Respiratorbehandling;8.7;40458;354;rate;Fødte;Antall;2009-2014
+12;22;Alle;Fonna;6;Pasienter;3;Respiratorbehandling;9.2;12964;119;rate;Fødte;Antall;2009-2014
+13;22;Alle;Stavanger;6;Pasienter;3;Respiratorbehandling;7.8;30193;237;rate;Fødte;Antall;2009-2014
+14;22;Alle;Østfold;6;Pasienter;3;Respiratorbehandling;7.8;18305;143;rate;Fødte;Antall;2009-2014
+15;22;Alle;AHUS;6;Pasienter;3;Respiratorbehandling;8.7;34433;301;rate;Fødte;Antall;2009-2014
+16;22;Alle;OUS;6;Pasienter;3;Respiratorbehandling;7.9;53323;419;rate;Fødte;Antall;2009-2014
+19;22;Alle;Innlandet;6;Pasienter;3;Respiratorbehandling;8.9;22695;201;rate;Fødte;Antall;2009-2014
+20;22;Alle;Vestre Viken;6;Pasienter;3;Respiratorbehandling;6.3;30220;191;rate;Fødte;Antall;2009-2014
+21;22;Alle;Vestfold;6;Pasienter;3;Respiratorbehandling;6.7;13750;92;rate;Fødte;Antall;2009-2014
+22;22;Alle;Telemark;6;Pasienter;3;Respiratorbehandling;9.5;10337;98;rate;Fødte;Antall;2009-2014
+23;22;Alle;Sørlandet;6;Pasienter;3;Respiratorbehandling;8.1;21131;171;rate;Fødte;Antall;2009-2014
+8888;22;Alle;Norge;6;Pasienter;3;Respiratorbehandling;8.4;368068;3108;rate;Fødte;Antall;2009-2014
+2;23;28. til 36.6 uker;UNN/Finnmark;7;Behandlingsdøgn;3;Respiratorbehandling;317.8;947;301;rate;Fødte;Antall;2009-2014
+4;23;28. til 36.6 uker;Nordland;7;Behandlingsdøgn;3;Respiratorbehandling;318;846;269;rate;Fødte;Antall;2009-2014
+7;23;28. til 36.6 uker;Trøndelag;7;Behandlingsdøgn;3;Respiratorbehandling;192.3;1830;352;rate;Fødte;Antall;2009-2014
+8;23;28. til 36.6 uker;Møre og Romsdal;7;Behandlingsdøgn;3;Respiratorbehandling;454.2;927;421;rate;Fødte;Antall;2009-2014
+11;23;28. til 36.6 uker;Bergen/Førde;7;Behandlingsdøgn;3;Respiratorbehandling;245.4;2347;576;rate;Fødte;Antall;2009-2014
+12;23;28. til 36.6 uker;Fonna;7;Behandlingsdøgn;3;Respiratorbehandling;158.9;881;140;rate;Fødte;Antall;2009-2014
+13;23;28. til 36.6 uker;Stavanger;7;Behandlingsdøgn;3;Respiratorbehandling;240.1;1949;468;rate;Fødte;Antall;2009-2014
+14;23;28. til 36.6 uker;Østfold;7;Behandlingsdøgn;3;Respiratorbehandling;276.6;1110;307;rate;Fødte;Antall;2009-2014
+15;23;28. til 36.6 uker;AHUS;7;Behandlingsdøgn;3;Respiratorbehandling;196.2;2130;418;rate;Fødte;Antall;2009-2014
+16;23;28. til 36.6 uker;OUS;7;Behandlingsdøgn;3;Respiratorbehandling;223.9;3037;680;rate;Fødte;Antall;2009-2014
+19;23;28. til 36.6 uker;Innlandet;7;Behandlingsdøgn;3;Respiratorbehandling;261.7;1540;403;rate;Fødte;Antall;2009-2014
+20;23;28. til 36.6 uker;Vestre Viken;7;Behandlingsdøgn;3;Respiratorbehandling;95.5;1748;167;rate;Fødte;Antall;2009-2014
+21;23;28. til 36.6 uker;Vestfold;7;Behandlingsdøgn;3;Respiratorbehandling;214.4;821;176;rate;Fødte;Antall;2009-2014
+22;23;28. til 36.6 uker;Telemark;7;Behandlingsdøgn;3;Respiratorbehandling;318.2;685;218;rate;Fødte;Antall;2009-2014
+23;23;28. til 36.6 uker;Sørlandet;7;Behandlingsdøgn;3;Respiratorbehandling;498.1;1303;649;rate;Fødte;Antall;2009-2014
+8888;23;28. til 36.6 uker;Norge;7;Behandlingsdøgn;3;Respiratorbehandling;250.9;22101;5545;rate;Fødte;Antall;2009-2014
+2;24;Over 36.6 uker (terminfødte);UNN/Finnmark;7;Behandlingsdøgn;3;Respiratorbehandling;16.4;16700;274;rate;Fødte;Antall;2009-2014
+4;24;Over 36.6 uker (terminfødte);Nordland;7;Behandlingsdøgn;3;Respiratorbehandling;15.5;12705;197;rate;Fødte;Antall;2009-2014
+7;24;Over 36.6 uker (terminfødte);Trøndelag;7;Behandlingsdøgn;3;Respiratorbehandling;18.2;29658;539;rate;Fødte;Antall;2009-2014
+8;24;Over 36.6 uker (terminfødte);Møre og Romsdal;7;Behandlingsdøgn;3;Respiratorbehandling;24.8;16118;400;rate;Fødte;Antall;2009-2014
+11;24;Over 36.6 uker (terminfødte);Bergen/Førde;7;Behandlingsdøgn;3;Respiratorbehandling;7.7;37594;291;rate;Fødte;Antall;2009-2014
+12;24;Over 36.6 uker (terminfødte);Fonna;7;Behandlingsdøgn;3;Respiratorbehandling;12.2;11846;144;rate;Fødte;Antall;2009-2014
+13;24;Over 36.6 uker (terminfødte);Stavanger;7;Behandlingsdøgn;3;Respiratorbehandling;11.9;27704;331;rate;Fødte;Antall;2009-2014
+14;24;Over 36.6 uker (terminfødte);Østfold;7;Behandlingsdøgn;3;Respiratorbehandling;12.8;17078;219;rate;Fødte;Antall;2009-2014
+15;24;Over 36.6 uker (terminfødte);AHUS;7;Behandlingsdøgn;3;Respiratorbehandling;15.9;32055;511;rate;Fødte;Antall;2009-2014
+16;24;Over 36.6 uker (terminfødte);OUS;7;Behandlingsdøgn;3;Respiratorbehandling;11.7;49765;580;rate;Fødte;Antall;2009-2014
+19;24;Over 36.6 uker (terminfødte);Innlandet;7;Behandlingsdøgn;3;Respiratorbehandling;17.5;20787;364;rate;Fødte;Antall;2009-2014
+20;24;Over 36.6 uker (terminfødte);Vestre Viken;7;Behandlingsdøgn;3;Respiratorbehandling;11.8;28225;332;rate;Fødte;Antall;2009-2014
+21;24;Over 36.6 uker (terminfødte);Vestfold;7;Behandlingsdøgn;3;Respiratorbehandling;7.5;12857;96;rate;Fødte;Antall;2009-2014
+22;24;Over 36.6 uker (terminfødte);Telemark;7;Behandlingsdøgn;3;Respiratorbehandling;25.5;9527;243;rate;Fødte;Antall;2009-2014
+23;24;Over 36.6 uker (terminfødte);Sørlandet;7;Behandlingsdøgn;3;Respiratorbehandling;13.5;19630;265;rate;Fødte;Antall;2009-2014
+8888;24;Over 36.6 uker (terminfødte);Norge;7;Behandlingsdøgn;3;Respiratorbehandling;14;342249;4786;rate;Fødte;Antall;2009-2014
+2;25;Alle;UNN/Finnmark;7;Behandlingsdøgn;3;Respiratorbehandling;79.3;17771;1410;rate;Fødte;Antall;2009-2014
+4;25;Alle;Nordland;7;Behandlingsdøgn;3;Respiratorbehandling;79.5;13656;1086;rate;Fødte;Antall;2009-2014
+7;25;Alle;Trøndelag;7;Behandlingsdøgn;3;Respiratorbehandling;67.6;31692;2143;rate;Fødte;Antall;2009-2014
+8;25;Alle;Møre og Romsdal;7;Behandlingsdøgn;3;Respiratorbehandling;116.9;17140;2004;rate;Fødte;Antall;2009-2014
+11;25;Alle;Bergen/Førde;7;Behandlingsdøgn;3;Respiratorbehandling;41.1;40458;1663;rate;Fødte;Antall;2009-2014
+12;25;Alle;Fonna;7;Behandlingsdøgn;3;Respiratorbehandling;47.6;12964;617;rate;Fødte;Antall;2009-2014
+13;25;Alle;Stavanger;7;Behandlingsdøgn;3;Respiratorbehandling;51.4;30193;1551;rate;Fødte;Antall;2009-2014
+14;25;Alle;Østfold;7;Behandlingsdøgn;3;Respiratorbehandling;61.5;18305;1126;rate;Fødte;Antall;2009-2014
+15;25;Alle;AHUS;7;Behandlingsdøgn;3;Respiratorbehandling;91.1;34433;3138;rate;Fødte;Antall;2009-2014
+16;25;Alle;OUS;7;Behandlingsdøgn;3;Respiratorbehandling;57.8;53323;3084;rate;Fødte;Antall;2009-2014
+19;25;Alle;Innlandet;7;Behandlingsdøgn;3;Respiratorbehandling;72.8;22695;1653;rate;Fødte;Antall;2009-2014
+20;25;Alle;Vestre Viken;7;Behandlingsdøgn;3;Respiratorbehandling;68.7;30220;2075;rate;Fødte;Antall;2009-2014
+21;25;Alle;Vestfold;7;Behandlingsdøgn;3;Respiratorbehandling;69.2;13750;952;rate;Fødte;Antall;2009-2014
+22;25;Alle;Telemark;7;Behandlingsdøgn;3;Respiratorbehandling;79.5;10337;822;rate;Fødte;Antall;2009-2014
+23;25;Alle;Sørlandet;7;Behandlingsdøgn;3;Respiratorbehandling;75.8;21131;1602;rate;Fødte;Antall;2009-2014
+8888;25;Alle;Norge;7;Behandlingsdøgn;3;Respiratorbehandling;67.7;368068;24926;rate;Fødte;Antall;2009-2014
+2;26;34. til 36.6 uker;UNN/Finnmark;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);63.1;697;44;rate;Fødte;Antall;2009-2014
+4;26;34. til 36.6 uker;Nordland;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);70.5;638;45;rate;Fødte;Antall;2009-2014
+7;26;34. til 36.6 uker;Trøndelag;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);55.6;1368;76;rate;Fødte;Antall;2009-2014
+8;26;34. til 36.6 uker;Møre og Romsdal;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);32;687;22;rate;Fødte;Antall;2009-2014
+11;26;34. til 36.6 uker;Bergen/Førde;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);96.9;1754;170;rate;Fødte;Antall;2009-2014
+12;26;34. til 36.6 uker;Fonna;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);39.2;664;26;rate;Fødte;Antall;2009-2014
+13;26;34. til 36.6 uker;Stavanger;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);70.8;1441;102;rate;Fødte;Antall;2009-2014
+14;26;34. til 36.6 uker;Østfold;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);67.7;827;56;rate;Fødte;Antall;2009-2014
+15;26;34. til 36.6 uker;AHUS;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);73.2;1598;117;rate;Fødte;Antall;2009-2014
+16;26;34. til 36.6 uker;OUS;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);55.8;2185;122;rate;Fødte;Antall;2009-2014
+19;26;34. til 36.6 uker;Innlandet;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);51;1176;60;rate;Fødte;Antall;2009-2014
+20;26;34. til 36.6 uker;Vestre Viken;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);76;1277;97;rate;Fødte;Antall;2009-2014
+21;26;34. til 36.6 uker;Vestfold;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);65.3;613;40;rate;Fødte;Antall;2009-2014
+22;26;34. til 36.6 uker;Telemark;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);168.4;481;81;rate;Fødte;Antall;2009-2014
+23;26;34. til 36.6 uker;Sørlandet;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);101.6;1004;102;rate;Fødte;Antall;2009-2014
+8888;26;34. til 36.6 uker;Norge;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);70.7;16410;1160;rate;Fødte;Antall;2009-2014
+2;27;Over 36.6 uker (terminfødte);UNN/Finnmark;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);5.3;16700;89;rate;Fødte;Antall;2009-2014
+4;27;Over 36.6 uker (terminfødte);Nordland;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);9.4;12705;119;rate;Fødte;Antall;2009-2014
+7;27;Over 36.6 uker (terminfødte);Trøndelag;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);4.4;29658;131;rate;Fødte;Antall;2009-2014
+8;27;Over 36.6 uker (terminfødte);Møre og Romsdal;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);3.7;16118;60;rate;Fødte;Antall;2009-2014
+11;27;Over 36.6 uker (terminfødte);Bergen/Førde;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);8.7;37594;328;rate;Fødte;Antall;2009-2014
+12;27;Over 36.6 uker (terminfødte);Fonna;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);3.8;11846;45;rate;Fødte;Antall;2009-2014
+13;27;Over 36.6 uker (terminfødte);Stavanger;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);5.8;27704;162;rate;Fødte;Antall;2009-2014
+14;27;Over 36.6 uker (terminfødte);Østfold;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);4.7;17078;80;rate;Fødte;Antall;2009-2014
+15;27;Over 36.6 uker (terminfødte);AHUS;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);7.7;32055;247;rate;Fødte;Antall;2009-2014
+16;27;Over 36.6 uker (terminfødte);OUS;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);4.8;49765;239;rate;Fødte;Antall;2009-2014
+19;27;Over 36.6 uker (terminfødte);Innlandet;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);4.2;20787;87;rate;Fødte;Antall;2009-2014
+20;27;Over 36.6 uker (terminfødte);Vestre Viken;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);4.7;28225;133;rate;Fødte;Antall;2009-2014
+21;27;Over 36.6 uker (terminfødte);Vestfold;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);6.5;12857;84;rate;Fødte;Antall;2009-2014
+22;27;Over 36.6 uker (terminfødte);Telemark;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);13.3;9527;127;rate;Fødte;Antall;2009-2014
+23;27;Over 36.6 uker (terminfødte);Sørlandet;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);8.1;19630;159;rate;Fødte;Antall;2009-2014
+8888;27;Over 36.6 uker (terminfødte);Norge;8;Pasienter;4;Lavt blodsukker (Hypoglykemi);6.1;342249;2090;rate;Fødte;Antall;2009-2014
+2;28;34. til 36.6 uker;UNN/Finnmark;9;Pasienter;5;Lysbehandling (Fototerapi);175;697;122;rate;Fødte;Antall;2009-2014
+4;28;34. til 36.6 uker;Nordland;9;Pasienter;5;Lysbehandling (Fototerapi);203.8;638;130;rate;Fødte;Antall;2009-2014
+7;28;34. til 36.6 uker;Trøndelag;9;Pasienter;5;Lysbehandling (Fototerapi);144;1368;197;rate;Fødte;Antall;2009-2014
+8;28;34. til 36.6 uker;Møre og Romsdal;9;Pasienter;5;Lysbehandling (Fototerapi);184.9;687;127;rate;Fødte;Antall;2009-2014
+11;28;34. til 36.6 uker;Bergen/Førde;9;Pasienter;5;Lysbehandling (Fototerapi);85.5;1754;150;rate;Fødte;Antall;2009-2014
+12;28;34. til 36.6 uker;Fonna;9;Pasienter;5;Lysbehandling (Fototerapi);328.3;664;218;rate;Fødte;Antall;2009-2014
+13;28;34. til 36.6 uker;Stavanger;9;Pasienter;5;Lysbehandling (Fototerapi);133.9;1441;193;rate;Fødte;Antall;2009-2014
+14;28;34. til 36.6 uker;Østfold;9;Pasienter;5;Lysbehandling (Fototerapi);237;827;196;rate;Fødte;Antall;2009-2014
+15;28;34. til 36.6 uker;AHUS;9;Pasienter;5;Lysbehandling (Fototerapi);172.7;1598;276;rate;Fødte;Antall;2009-2014
+16;28;34. til 36.6 uker;OUS;9;Pasienter;5;Lysbehandling (Fototerapi);130;2185;284;rate;Fødte;Antall;2009-2014
+19;28;34. til 36.6 uker;Innlandet;9;Pasienter;5;Lysbehandling (Fototerapi);109.7;1176;129;rate;Fødte;Antall;2009-2014
+20;28;34. til 36.6 uker;Vestre Viken;9;Pasienter;5;Lysbehandling (Fototerapi);135.5;1277;173;rate;Fødte;Antall;2009-2014
+21;28;34. til 36.6 uker;Vestfold;9;Pasienter;5;Lysbehandling (Fototerapi);261;613;160;rate;Fødte;Antall;2009-2014
+22;28;34. til 36.6 uker;Telemark;9;Pasienter;5;Lysbehandling (Fototerapi);368;481;177;rate;Fødte;Antall;2009-2014
+23;28;34. til 36.6 uker;Sørlandet;9;Pasienter;5;Lysbehandling (Fototerapi);168.3;1004;169;rate;Fødte;Antall;2009-2014
+8888;28;34. til 36.6 uker;Norge;9;Pasienter;5;Lysbehandling (Fototerapi);164.6;16410;2701;rate;Fødte;Antall;2009-2014
+2;29;Over 36.6 uker (terminfødte);UNN/Finnmark;9;Pasienter;5;Lysbehandling (Fototerapi);4.6;16700;76;rate;Fødte;Antall;2009-2014
+4;29;Over 36.6 uker (terminfødte);Nordland;9;Pasienter;5;Lysbehandling (Fototerapi);6.6;12705;84;rate;Fødte;Antall;2009-2014
+7;29;Over 36.6 uker (terminfødte);Trøndelag;9;Pasienter;5;Lysbehandling (Fototerapi);4.6;29658;135;rate;Fødte;Antall;2009-2014
+8;29;Over 36.6 uker (terminfødte);Møre og Romsdal;9;Pasienter;5;Lysbehandling (Fototerapi);7.2;16118;116;rate;Fødte;Antall;2009-2014
+11;29;Over 36.6 uker (terminfødte);Bergen/Førde;9;Pasienter;5;Lysbehandling (Fototerapi);2.5;37594;94;rate;Fødte;Antall;2009-2014
+12;29;Over 36.6 uker (terminfødte);Fonna;9;Pasienter;5;Lysbehandling (Fototerapi);21.4;11846;253;rate;Fødte;Antall;2009-2014
+13;29;Over 36.6 uker (terminfødte);Stavanger;9;Pasienter;5;Lysbehandling (Fototerapi);6;27704;165;rate;Fødte;Antall;2009-2014
+14;29;Over 36.6 uker (terminfødte);Østfold;9;Pasienter;5;Lysbehandling (Fototerapi);8;17078;137;rate;Fødte;Antall;2009-2014
+15;29;Over 36.6 uker (terminfødte);AHUS;9;Pasienter;5;Lysbehandling (Fototerapi);9.5;32055;306;rate;Fødte;Antall;2009-2014
+16;29;Over 36.6 uker (terminfødte);OUS;9;Pasienter;5;Lysbehandling (Fototerapi);4.3;49765;214;rate;Fødte;Antall;2009-2014
+19;29;Over 36.6 uker (terminfødte);Innlandet;9;Pasienter;5;Lysbehandling (Fototerapi);3.4;20787;71;rate;Fødte;Antall;2009-2014
+20;29;Over 36.6 uker (terminfødte);Vestre Viken;9;Pasienter;5;Lysbehandling (Fototerapi);4.4;28225;123;rate;Fødte;Antall;2009-2014
+21;29;Over 36.6 uker (terminfødte);Vestfold;9;Pasienter;5;Lysbehandling (Fototerapi);14.2;12857;182;rate;Fødte;Antall;2009-2014
+22;29;Over 36.6 uker (terminfødte);Telemark;9;Pasienter;5;Lysbehandling (Fototerapi);29.1;9527;277;rate;Fødte;Antall;2009-2014
+23;29;Over 36.6 uker (terminfødte);Sørlandet;9;Pasienter;5;Lysbehandling (Fototerapi);6;19630;118;rate;Fødte;Antall;2009-2014
+8888;29;Over 36.6 uker (terminfødte);Norge;9;Pasienter;5;Lysbehandling (Fototerapi);6.9;342249;2351;rate;Fødte;Antall;2009-2014
+2;30;Under 37. uker;UNN/Finnmark;10;Pasienter;6;Intensivbehandling;166;1012;168;rate;Fødte;Antall;2009-2014
+4;30;Under 37. uker;Nordland;10;Pasienter;6;Intensivbehandling;147.4;916;135;rate;Fødte;Antall;2009-2014
+7;30;Under 37. uker;Trøndelag;10;Pasienter;6;Intensivbehandling;124.8;1955;244;rate;Fødte;Antall;2009-2014
+8;30;Under 37. uker;Møre og Romsdal;10;Pasienter;6;Intensivbehandling;135;978;132;rate;Fødte;Antall;2009-2014
+11;30;Under 37. uker;Bergen/Førde;10;Pasienter;6;Intensivbehandling;127.3;2530;322;rate;Fødte;Antall;2009-2014
+12;30;Under 37. uker;Fonna;10;Pasienter;6;Intensivbehandling;112.9;957;108;rate;Fødte;Antall;2009-2014
+13;30;Under 37. uker;Stavanger;10;Pasienter;6;Intensivbehandling;112.9;2081;235;rate;Fødte;Antall;2009-2014
+14;30;Under 37. uker;Østfold;10;Pasienter;6;Intensivbehandling;133;1165;155;rate;Fødte;Antall;2009-2014
+15;30;Under 37. uker;AHUS;10;Pasienter;6;Intensivbehandling;141.2;2266;320;rate;Fødte;Antall;2009-2014
+16;30;Under 37. uker;OUS;10;Pasienter;6;Intensivbehandling;117.7;3262;384;rate;Fødte;Antall;2009-2014
+19;30;Under 37. uker;Innlandet;10;Pasienter;6;Intensivbehandling;101.4;1618;164;rate;Fødte;Antall;2009-2014
+20;30;Under 37. uker;Vestre Viken;10;Pasienter;6;Intensivbehandling;124.2;1876;233;rate;Fødte;Antall;2009-2014
+21;30;Under 37. uker;Vestfold;10;Pasienter;6;Intensivbehandling;126.8;883;112;rate;Fødte;Antall;2009-2014
+22;30;Under 37. uker;Telemark;10;Pasienter;6;Intensivbehandling;151.1;741;112;rate;Fødte;Antall;2009-2014
+23;30;Under 37. uker;Sørlandet;10;Pasienter;6;Intensivbehandling;137.3;1377;189;rate;Fødte;Antall;2009-2014
+8888;30;Under 37. uker;Norge;10;Pasienter;6;Intensivbehandling;127.6;23617;3013;rate;Fødte;Antall;2009-2014
+2;31;Over 36.6 uker (terminfødte);UNN/Finnmark;10;Pasienter;6;Intensivbehandling;7.5;16700;126;rate;Fødte;Antall;2009-2014
+4;31;Over 36.6 uker (terminfødte);Nordland;10;Pasienter;6;Intensivbehandling;7.9;12705;101;rate;Fødte;Antall;2009-2014
+7;31;Over 36.6 uker (terminfødte);Trøndelag;10;Pasienter;6;Intensivbehandling;6.5;29658;193;rate;Fødte;Antall;2009-2014
+8;31;Over 36.6 uker (terminfødte);Møre og Romsdal;10;Pasienter;6;Intensivbehandling;8.4;16118;135;rate;Fødte;Antall;2009-2014
+11;31;Over 36.6 uker (terminfødte);Bergen/Førde;10;Pasienter;6;Intensivbehandling;5.9;37594;220;rate;Fødte;Antall;2009-2014
+12;31;Over 36.6 uker (terminfødte);Fonna;10;Pasienter;6;Intensivbehandling;7.9;11846;94;rate;Fødte;Antall;2009-2014
+13;31;Over 36.6 uker (terminfødte);Stavanger;10;Pasienter;6;Intensivbehandling;6;27704;165;rate;Fødte;Antall;2009-2014
+14;31;Over 36.6 uker (terminfødte);Østfold;10;Pasienter;6;Intensivbehandling;9.3;17078;159;rate;Fødte;Antall;2009-2014
+15;31;Over 36.6 uker (terminfødte);AHUS;10;Pasienter;6;Intensivbehandling;8.7;32055;279;rate;Fødte;Antall;2009-2014
+16;31;Over 36.6 uker (terminfødte);OUS;10;Pasienter;6;Intensivbehandling;8.2;49765;409;rate;Fødte;Antall;2009-2014
+19;31;Over 36.6 uker (terminfødte);Innlandet;10;Pasienter;6;Intensivbehandling;7;20787;145;rate;Fødte;Antall;2009-2014
+20;31;Over 36.6 uker (terminfødte);Vestre Viken;10;Pasienter;6;Intensivbehandling;5.5;28225;156;rate;Fødte;Antall;2009-2014
+21;31;Over 36.6 uker (terminfødte);Vestfold;10;Pasienter;6;Intensivbehandling;8.1;12857;104;rate;Fødte;Antall;2009-2014
+22;31;Over 36.6 uker (terminfødte);Telemark;10;Pasienter;6;Intensivbehandling;10.8;9527;103;rate;Fødte;Antall;2009-2014
+23;31;Over 36.6 uker (terminfødte);Sørlandet;10;Pasienter;6;Intensivbehandling;9.6;19630;188;rate;Fødte;Antall;2009-2014
+8888;31;Over 36.6 uker (terminfødte);Norge;10;Pasienter;6;Intensivbehandling;7.5;342249;2577;rate;Fødte;Antall;2009-2014
+2;32;Alle;UNN/Finnmark;10;Pasienter;6;Intensivbehandling;16.5;17771;294;rate;Fødte;Antall;2009-2014
+4;32;Alle;Nordland;10;Pasienter;6;Intensivbehandling;17.3;13656;236;rate;Fødte;Antall;2009-2014
+7;32;Alle;Trøndelag;10;Pasienter;6;Intensivbehandling;13.8;31692;437;rate;Fødte;Antall;2009-2014
+8;32;Alle;Møre og Romsdal;10;Pasienter;6;Intensivbehandling;15.6;17140;267;rate;Fødte;Antall;2009-2014
+11;32;Alle;Bergen/Førde;10;Pasienter;6;Intensivbehandling;13.4;40458;542;rate;Fødte;Antall;2009-2014
+12;32;Alle;Fonna;10;Pasienter;6;Intensivbehandling;15.6;12964;202;rate;Fødte;Antall;2009-2014
+13;32;Alle;Stavanger;10;Pasienter;6;Intensivbehandling;13.2;30193;400;rate;Fødte;Antall;2009-2014
+14;32;Alle;Østfold;10;Pasienter;6;Intensivbehandling;17.2;18305;314;rate;Fødte;Antall;2009-2014
+15;32;Alle;AHUS;10;Pasienter;6;Intensivbehandling;17.4;34433;599;rate;Fødte;Antall;2009-2014
+16;32;Alle;OUS;10;Pasienter;6;Intensivbehandling;14.9;53323;793;rate;Fødte;Antall;2009-2014
+19;32;Alle;Innlandet;10;Pasienter;6;Intensivbehandling;13.6;22695;309;rate;Fødte;Antall;2009-2014
+20;32;Alle;Vestre Viken;10;Pasienter;6;Intensivbehandling;12.9;30220;389;rate;Fødte;Antall;2009-2014
+21;32;Alle;Vestfold;10;Pasienter;6;Intensivbehandling;15.7;13750;216;rate;Fødte;Antall;2009-2014
+22;32;Alle;Telemark;10;Pasienter;6;Intensivbehandling;20.8;10337;215;rate;Fødte;Antall;2009-2014
+23;32;Alle;Sørlandet;10;Pasienter;6;Intensivbehandling;17.8;21131;377;rate;Fødte;Antall;2009-2014
+8888;32;Alle;Norge;10;Pasienter;6;Intensivbehandling;15.2;368068;5590;rate;Fødte;Antall;2009-2014
+2;33;Under 37. uker;UNN/Finnmark;11;Behandlingsdøgn;6;Intensivbehandling;1819.2;1012;1841;rate;Fødte;Antall;2009-2014
+4;33;Under 37. uker;Nordland;11;Behandlingsdøgn;6;Intensivbehandling;1766.4;916;1618;rate;Fødte;Antall;2009-2014
+7;33;Under 37. uker;Trøndelag;11;Behandlingsdøgn;6;Intensivbehandling;1651.7;1955;3229;rate;Fødte;Antall;2009-2014
+8;33;Under 37. uker;Møre og Romsdal;11;Behandlingsdøgn;6;Intensivbehandling;2264.8;978;2215;rate;Fødte;Antall;2009-2014
+11;33;Under 37. uker;Bergen/Førde;11;Behandlingsdøgn;6;Intensivbehandling;1382.2;2530;3497;rate;Fødte;Antall;2009-2014
+12;33;Under 37. uker;Fonna;11;Behandlingsdøgn;6;Intensivbehandling;1176.6;957;1126;rate;Fødte;Antall;2009-2014
+13;33;Under 37. uker;Stavanger;11;Behandlingsdøgn;6;Intensivbehandling;1182.1;2081;2460;rate;Fødte;Antall;2009-2014
+14;33;Under 37. uker;Østfold;11;Behandlingsdøgn;6;Intensivbehandling;1386.3;1165;1615;rate;Fødte;Antall;2009-2014
+15;33;Under 37. uker;AHUS;11;Behandlingsdøgn;6;Intensivbehandling;1929.8;2266;4373;rate;Fødte;Antall;2009-2014
+16;33;Under 37. uker;OUS;11;Behandlingsdøgn;6;Intensivbehandling;1297.1;3262;4231;rate;Fødte;Antall;2009-2014
+19;33;Under 37. uker;Innlandet;11;Behandlingsdøgn;6;Intensivbehandling;1219.4;1618;1973;rate;Fødte;Antall;2009-2014
+20;33;Under 37. uker;Vestre Viken;11;Behandlingsdøgn;6;Intensivbehandling;1490.9;1876;2797;rate;Fødte;Antall;2009-2014
+21;33;Under 37. uker;Vestfold;11;Behandlingsdøgn;6;Intensivbehandling;1565.1;883;1382;rate;Fødte;Antall;2009-2014
+22;33;Under 37. uker;Telemark;11;Behandlingsdøgn;6;Intensivbehandling;1352.2;741;1002;rate;Fødte;Antall;2009-2014
+23;33;Under 37. uker;Sørlandet;11;Behandlingsdøgn;6;Intensivbehandling;1658;1377;2283;rate;Fødte;Antall;2009-2014
+8888;33;Under 37. uker;Norge;11;Behandlingsdøgn;6;Intensivbehandling;1509.2;23617;35642;rate;Fødte;Antall;2009-2014
+2;34;Over 36.6 uker (terminfødte);UNN/Finnmark;11;Behandlingsdøgn;6;Intensivbehandling;47.9;16700;800;rate;Fødte;Antall;2009-2014
+4;34;Over 36.6 uker (terminfødte);Nordland;11;Behandlingsdøgn;6;Intensivbehandling;52.9;12705;672;rate;Fødte;Antall;2009-2014
+7;34;Over 36.6 uker (terminfødte);Trøndelag;11;Behandlingsdøgn;6;Intensivbehandling;41;29658;1215;rate;Fødte;Antall;2009-2014
+8;34;Over 36.6 uker (terminfødte);Møre og Romsdal;11;Behandlingsdøgn;6;Intensivbehandling;56.3;16118;908;rate;Fødte;Antall;2009-2014
+11;34;Over 36.6 uker (terminfødte);Bergen/Førde;11;Behandlingsdøgn;6;Intensivbehandling;35.9;37594;1351;rate;Fødte;Antall;2009-2014
+12;34;Over 36.6 uker (terminfødte);Fonna;11;Behandlingsdøgn;6;Intensivbehandling;52.1;11846;617;rate;Fødte;Antall;2009-2014
+13;34;Over 36.6 uker (terminfødte);Stavanger;11;Behandlingsdøgn;6;Intensivbehandling;40.1;27704;1110;rate;Fødte;Antall;2009-2014
+14;34;Over 36.6 uker (terminfødte);Østfold;11;Behandlingsdøgn;6;Intensivbehandling;57.7;17078;985;rate;Fødte;Antall;2009-2014
+15;34;Over 36.6 uker (terminfødte);AHUS;11;Behandlingsdøgn;6;Intensivbehandling;51.8;32055;1661;rate;Fødte;Antall;2009-2014
+16;34;Over 36.6 uker (terminfødte);OUS;11;Behandlingsdøgn;6;Intensivbehandling;45.7;49765;2274;rate;Fødte;Antall;2009-2014
+19;34;Over 36.6 uker (terminfødte);Innlandet;11;Behandlingsdøgn;6;Intensivbehandling;45.6;20787;948;rate;Fødte;Antall;2009-2014
+20;34;Over 36.6 uker (terminfødte);Vestre Viken;11;Behandlingsdøgn;6;Intensivbehandling;33.4;28225;944;rate;Fødte;Antall;2009-2014
+21;34;Over 36.6 uker (terminfødte);Vestfold;11;Behandlingsdøgn;6;Intensivbehandling;34.2;12857;440;rate;Fødte;Antall;2009-2014
+22;34;Over 36.6 uker (terminfødte);Telemark;11;Behandlingsdøgn;6;Intensivbehandling;75.6;9527;720;rate;Fødte;Antall;2009-2014
+23;34;Over 36.6 uker (terminfødte);Sørlandet;11;Behandlingsdøgn;6;Intensivbehandling;50.4;19630;989;rate;Fødte;Antall;2009-2014
+8888;34;Over 36.6 uker (terminfødte);Norge;11;Behandlingsdøgn;6;Intensivbehandling;45.7;342249;15634;rate;Fødte;Antall;2009-2014
+2;35;Alle;UNN/Finnmark;11;Behandlingsdøgn;6;Intensivbehandling;148.6;17771;2641;rate;Fødte;Antall;2009-2014
+4;35;Alle;Nordland;11;Behandlingsdøgn;6;Intensivbehandling;167.7;13656;2290;rate;Fødte;Antall;2009-2014
+7;35;Alle;Trøndelag;11;Behandlingsdøgn;6;Intensivbehandling;140.2;31692;4444;rate;Fødte;Antall;2009-2014
+8;35;Alle;Møre og Romsdal;11;Behandlingsdøgn;6;Intensivbehandling;182.2;17140;3123;rate;Fødte;Antall;2009-2014
+11;35;Alle;Bergen/Førde;11;Behandlingsdøgn;6;Intensivbehandling;119.8;40458;4848;rate;Fødte;Antall;2009-2014
+12;35;Alle;Fonna;11;Behandlingsdøgn;6;Intensivbehandling;134.4;12964;1743;rate;Fødte;Antall;2009-2014
+13;35;Alle;Stavanger;11;Behandlingsdøgn;6;Intensivbehandling;118.2;30193;3570;rate;Fødte;Antall;2009-2014
+14;35;Alle;Østfold;11;Behandlingsdøgn;6;Intensivbehandling;142;18305;2600;rate;Fødte;Antall;2009-2014
+15;35;Alle;AHUS;11;Behandlingsdøgn;6;Intensivbehandling;175.2;34433;6034;rate;Fødte;Antall;2009-2014
+16;35;Alle;OUS;11;Behandlingsdøgn;6;Intensivbehandling;122;53323;6505;rate;Fødte;Antall;2009-2014
+19;35;Alle;Innlandet;11;Behandlingsdøgn;6;Intensivbehandling;128.7;22695;2921;rate;Fødte;Antall;2009-2014
+20;35;Alle;Vestre Viken;11;Behandlingsdøgn;6;Intensivbehandling;123.8;30220;3741;rate;Fødte;Antall;2009-2014
+21;35;Alle;Vestfold;11;Behandlingsdøgn;6;Intensivbehandling;132.5;13750;1822;rate;Fødte;Antall;2009-2014
+22;35;Alle;Telemark;11;Behandlingsdøgn;6;Intensivbehandling;166.6;10337;1722;rate;Fødte;Antall;2009-2014
+23;35;Alle;Sørlandet;11;Behandlingsdøgn;6;Intensivbehandling;154.8;21131;3272;rate;Fødte;Antall;2009-2014
+8888;35;Alle;Norge;11;Behandlingsdøgn;6;Intensivbehandling;139.3;368068;51276;rate;Fødte;Antall;2009-2014

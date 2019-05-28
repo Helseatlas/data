@@ -1,0 +1,241 @@
+area;level2;level2_en;area_en;Level1;level1_en;value;denominator;numerator;ll;ul;type;name_numerator;name_denominator;name_cil;name_ciu;Period
+1;1;Shoulder;Finnmark;1;Day surgery, 2011-2013;252.121;74509;192;216.4;287.8;rate;Inhabitants;Number;ll;ul;2011-2013
+2;1;Shoulder;UNN;1;Day surgery, 2011-2013;200.321;186401;382;180.2;220.4;rate;Inhabitants;Number;ll;ul;2011-2013
+3;1;Shoulder;Nordlandsykehuset;1;Day surgery, 2011-2013;144.635;135569;205;124.8;164.5;rate;Inhabitants;Number;ll;ul;2011-2013
+4;1;Shoulder;Helgelandsykehuset;1;Day surgery, 2011-2013;151.037;78005;126;124.5;177.6;rate;Inhabitants;Number;ll;ul;2011-2013
+6;1;Shoulder;Nord-Trøndelag;1;Day surgery, 2011-2013;218.569;136324;313;194.3;242.9;rate;Inhabitants;Number;ll;ul;2011-2013
+7;1;Shoulder;St. Olavs;1;Day surgery, 2011-2013;168.586;302367;499;153.8;183.4;rate;Inhabitants;Number;ll;ul;2011-2013
+8;1;Shoulder;Møre og Romsdal;1;Day surgery, 2011-2013;284.777;257122;754;264.4;305.1;rate;Inhabitants;Number;ll;ul;2011-2013
+10;1;Shoulder;Førde;1;Day surgery, 2011-2013;219.822;108622;249;192.4;247.2;rate;Inhabitants;Number;ll;ul;2011-2013
+11;1;Shoulder;Bergen;1;Day surgery, 2011-2013;133.291;427385;547;122.1;144.5;rate;Inhabitants;Number;ll;ul;2011-2013
+12;1;Shoulder;Fonna;1;Day surgery, 2011-2013;112.621;176173;198;96.9;128.3;rate;Inhabitants;Number;ll;ul;2011-2013
+13;1;Shoulder;Stavanger;1;Day surgery, 2011-2013;74.23;346059;239;64.8;83.7;rate;Inhabitants;Number;ll;ul;2011-2013
+14;1;Shoulder;Østfold;1;Day surgery, 2011-2013;185.074;281088;541;169.5;200.7;rate;Inhabitants;Number;ll;ul;2011-2013
+15;1;Shoulder;Akershus;1;Day surgery, 2011-2013;134.411;373020;501;122.6;146.2;rate;Inhabitants;Number;ll;ul;2011-2013
+16;1;Shoulder;OUS;1;Day surgery, 2011-2013;75.062;623905;406;67.7;82.4;rate;Inhabitants;Number;ll;ul;2011-2013
+17;1;Shoulder;Innlandet;1;Day surgery, 2011-2013;160.81;394389;682;148.7;173;rate;Inhabitants;Number;ll;ul;2011-2013
+18;1;Shoulder;Vestre Viken;1;Day surgery, 2011-2013;131.193;464692;626;120.9;141.5;rate;Inhabitants;Number;ll;ul;2011-2013
+19;1;Shoulder;Vestfold;1;Day surgery, 2011-2013;101.697;223250;237;88.7;114.7;rate;Inhabitants;Number;ll;ul;2011-2013
+20;1;Shoulder;Telemark;1;Day surgery, 2011-2013;78.56;170798;140;65.5;91.6;rate;Inhabitants;Number;ll;ul;2011-2013
+21;1;Shoulder;Sørlandet;1;Day surgery, 2011-2013;133.481;289056;385;120.1;146.8;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;1;Shoulder;Norway;1;Day surgery, 2011-2013;142.774;5048734;7222;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;2;Menisci;Finnmark;1;Day surgery, 2011-2013;256.36;74509;195;220.4;292.3;rate;Inhabitants;Number;ll;ul;2011-2013
+2;2;Menisci;UNN;1;Day surgery, 2011-2013;255.172;186401;482;232.4;278;rate;Inhabitants;Number;ll;ul;2011-2013
+3;2;Menisci;Nordlandsykehuset;1;Day surgery, 2011-2013;199.418;135569;274;175.8;223.1;rate;Inhabitants;Number;ll;ul;2011-2013
+4;2;Menisci;Helgelandsykehuset;1;Day surgery, 2011-2013;183.742;78005;146;153.7;213.7;rate;Inhabitants;Number;ll;ul;2011-2013
+6;2;Menisci;Nord-Trøndelag;1;Day surgery, 2011-2013;319.321;136324;445;289.5;349.1;rate;Inhabitants;Number;ll;ul;2011-2013
+7;2;Menisci;St. Olavs;1;Day surgery, 2011-2013;294.97;302367;878;275.5;314.5;rate;Inhabitants;Number;ll;ul;2011-2013
+8;2;Menisci;Møre og Romsdal;1;Day surgery, 2011-2013;491.052;257122;1297;464.3;517.8;rate;Inhabitants;Number;ll;ul;2011-2013
+10;2;Menisci;Førde;1;Day surgery, 2011-2013;330.42;108622;365;296.4;364.5;rate;Inhabitants;Number;ll;ul;2011-2013
+11;2;Menisci;Bergen;1;Day surgery, 2011-2013;210.014;427385;875;196.1;223.9;rate;Inhabitants;Number;ll;ul;2011-2013
+12;2;Menisci;Fonna;1;Day surgery, 2011-2013;252.166;176173;441;228.6;275.7;rate;Inhabitants;Number;ll;ul;2011-2013
+13;2;Menisci;Stavanger;1;Day surgery, 2011-2013;119.022;346059;406;107.4;130.7;rate;Inhabitants;Number;ll;ul;2011-2013
+14;2;Menisci;Østfold;1;Day surgery, 2011-2013;282.883;281088;821;263.5;302.3;rate;Inhabitants;Number;ll;ul;2011-2013
+15;2;Menisci;Akershus;1;Day surgery, 2011-2013;265.008;373020;999;248.5;281.5;rate;Inhabitants;Number;ll;ul;2011-2013
+16;2;Menisci;OUS;1;Day surgery, 2011-2013;210.816;623905;1212;198.8;222.8;rate;Inhabitants;Number;ll;ul;2011-2013
+17;2;Menisci;Innlandet;1;Day surgery, 2011-2013;302.669;394389;1255;285.8;319.5;rate;Inhabitants;Number;ll;ul;2011-2013
+18;2;Menisci;Vestre Viken;1;Day surgery, 2011-2013;263.712;464692;1255;249.1;278.3;rate;Inhabitants;Number;ll;ul;2011-2013
+19;2;Menisci;Vestfold;1;Day surgery, 2011-2013;279.599;223250;644;258;301.2;rate;Inhabitants;Number;ll;ul;2011-2013
+20;2;Menisci;Telemark;1;Day surgery, 2011-2013;249.269;170798;438;225.8;272.7;rate;Inhabitants;Number;ll;ul;2011-2013
+21;2;Menisci;Sørlandet;1;Day surgery, 2011-2013;266.094;289056;764;247.2;285;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;2;Menisci;Norway;1;Day surgery, 2011-2013;261.177;5048734;13192;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;3;Hallux valgus and hammer toe;Finnmark;1;Day surgery, 2011-2013;108.302;74509;81;84.7;131.9;rate;Inhabitants;Number;ll;ul;2011-2013
+2;3;Hallux valgus and hammer toe;UNN;1;Day surgery, 2011-2013;93.446;186401;178;79.7;107.2;rate;Inhabitants;Number;ll;ul;2011-2013
+3;3;Hallux valgus and hammer toe;Nordlandsykehuset;1;Day surgery, 2011-2013;97.523;135569;138;81.2;113.8;rate;Inhabitants;Number;ll;ul;2011-2013
+4;3;Hallux valgus and hammer toe;Helgelandsykehuset;1;Day surgery, 2011-2013;97.7;78005;79;76.1;119.3;rate;Inhabitants;Number;ll;ul;2011-2013
+6;3;Hallux valgus and hammer toe;Nord-Trøndelag;1;Day surgery, 2011-2013;97.366;136324;138;81.1;113.6;rate;Inhabitants;Number;ll;ul;2011-2013
+7;3;Hallux valgus and hammer toe;St. Olavs;1;Day surgery, 2011-2013;91.294;302367;270;80.4;102.2;rate;Inhabitants;Number;ll;ul;2011-2013
+8;3;Hallux valgus and hammer toe;Møre og Romsdal;1;Day surgery, 2011-2013;115.431;257122;306;102.5;128.4;rate;Inhabitants;Number;ll;ul;2011-2013
+10;3;Hallux valgus and hammer toe;Førde;1;Day surgery, 2011-2013;75.077;108622;84;58.9;91.2;rate;Inhabitants;Number;ll;ul;2011-2013
+11;3;Hallux valgus and hammer toe;Bergen;1;Day surgery, 2011-2013;62.392;427385;255;54.7;70.1;rate;Inhabitants;Number;ll;ul;2011-2013
+12;3;Hallux valgus and hammer toe;Fonna;1;Day surgery, 2011-2013;67.224;176173;117;55.1;79.4;rate;Inhabitants;Number;ll;ul;2011-2013
+13;3;Hallux valgus and hammer toe;Stavanger;1;Day surgery, 2011-2013;64.33;346059;200;55.4;73.3;rate;Inhabitants;Number;ll;ul;2011-2013
+14;3;Hallux valgus and hammer toe;Østfold;1;Day surgery, 2011-2013;95.428;281088;282;84.3;106.6;rate;Inhabitants;Number;ll;ul;2011-2013
+15;3;Hallux valgus and hammer toe;Akershus;1;Day surgery, 2011-2013;114.488;373020;424;103.6;125.4;rate;Inhabitants;Number;ll;ul;2011-2013
+16;3;Hallux valgus and hammer toe;OUS;1;Day surgery, 2011-2013;92.953;623905;521;84.9;101;rate;Inhabitants;Number;ll;ul;2011-2013
+17;3;Hallux valgus and hammer toe;Innlandet;1;Day surgery, 2011-2013;107.199;394389;456;97.3;117.1;rate;Inhabitants;Number;ll;ul;2011-2013
+18;3;Hallux valgus and hammer toe;Vestre Viken;1;Day surgery, 2011-2013;137.932;464692;658;127.4;148.5;rate;Inhabitants;Number;ll;ul;2011-2013
+19;3;Hallux valgus and hammer toe;Vestfold;1;Day surgery, 2011-2013;107.167;223250;253;93.9;120.4;rate;Inhabitants;Number;ll;ul;2011-2013
+20;3;Hallux valgus and hammer toe;Telemark;1;Day surgery, 2011-2013;82.067;170798;151;68.9;95.2;rate;Inhabitants;Number;ll;ul;2011-2013
+21;3;Hallux valgus and hammer toe;Sørlandet;1;Day surgery, 2011-2013;88.453;289056;255;77.6;99.3;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;3;Hallux valgus and hammer toe;Norway;1;Day surgery, 2011-2013;95.976;5048734;4846;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;4;Hand surgery;Finnmark;1;Day surgery, 2011-2013;68.134;74509;51;49.4;86.9;rate;Inhabitants;Number;ll;ul;2011-2013
+2;4;Hand surgery;UNN;1;Day surgery, 2011-2013;79.874;186401;152;67.2;92.6;rate;Inhabitants;Number;ll;ul;2011-2013
+3;4;Hand surgery;Nordlandsykehuset;1;Day surgery, 2011-2013;91.502;135569;127;75.6;107.4;rate;Inhabitants;Number;ll;ul;2011-2013
+4;4;Hand surgery;Helgelandsykehuset;1;Day surgery, 2011-2013;64.616;78005;51;46.8;82.4;rate;Inhabitants;Number;ll;ul;2011-2013
+6;4;Hand surgery;Nord-Trøndelag;1;Day surgery, 2011-2013;67.229;136324;95;53.6;80.8;rate;Inhabitants;Number;ll;ul;2011-2013
+7;4;Hand surgery;St. Olavs;1;Day surgery, 2011-2013;64.267;302367;192;55.2;73.4;rate;Inhabitants;Number;ll;ul;2011-2013
+8;4;Hand surgery;Møre og Romsdal;1;Day surgery, 2011-2013;104.366;257122;274;92;116.8;rate;Inhabitants;Number;ll;ul;2011-2013
+10;4;Hand surgery;Førde;1;Day surgery, 2011-2013;67.023;108622;75;51.8;82.3;rate;Inhabitants;Number;ll;ul;2011-2013
+11;4;Hand surgery;Bergen;1;Day surgery, 2011-2013;86.605;427385;360;77.7;95.6;rate;Inhabitants;Number;ll;ul;2011-2013
+12;4;Hand surgery;Fonna;1;Day surgery, 2011-2013;67.433;176173;119;55.3;79.6;rate;Inhabitants;Number;ll;ul;2011-2013
+13;4;Hand surgery;Stavanger;1;Day surgery, 2011-2013;69.526;346059;218;60.2;78.8;rate;Inhabitants;Number;ll;ul;2011-2013
+14;4;Hand surgery;Østfold;1;Day surgery, 2011-2013;80.054;281088;234;69.8;90.3;rate;Inhabitants;Number;ll;ul;2011-2013
+15;4;Hand surgery;Akershus;1;Day surgery, 2011-2013;56.72;373020;209;49;64.4;rate;Inhabitants;Number;ll;ul;2011-2013
+16;4;Hand surgery;OUS;1;Day surgery, 2011-2013;56.36;623905;319;50.1;62.6;rate;Inhabitants;Number;ll;ul;2011-2013
+17;4;Hand surgery;Innlandet;1;Day surgery, 2011-2013;83.822;394389;354;75;92.6;rate;Inhabitants;Number;ll;ul;2011-2013
+18;4;Hand surgery;Vestre Viken;1;Day surgery, 2011-2013;77.814;464692;370;69.9;85.7;rate;Inhabitants;Number;ll;ul;2011-2013
+19;4;Hand surgery;Vestfold;1;Day surgery, 2011-2013;63.299;223250;146;53;73.6;rate;Inhabitants;Number;ll;ul;2011-2013
+20;4;Hand surgery;Telemark;1;Day surgery, 2011-2013;61.039;170798;109;49.5;72.5;rate;Inhabitants;Number;ll;ul;2011-2013
+21;4;Hand surgery;Sørlandet;1;Day surgery, 2011-2013;63.488;289056;183;54.3;72.7;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;4;Hand surgery;Norway;1;Day surgery, 2011-2013;72.028;5048734;3638;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;5;Carpal tunnel syndrome;Finnmark;1;Day surgery, 2011-2013;97.772;74509;73;75.4;120.2;rate;Inhabitants;Number;ll;ul;2011-2013
+2;5;Carpal tunnel syndrome;UNN;1;Day surgery, 2011-2013;126.253;186401;241;110.3;142.2;rate;Inhabitants;Number;ll;ul;2011-2013
+3;5;Carpal tunnel syndrome;Nordlandsykehuset;1;Day surgery, 2011-2013;124.644;135569;177;106.2;143.1;rate;Inhabitants;Number;ll;ul;2011-2013
+4;5;Carpal tunnel syndrome;Helgelandsykehuset;1;Day surgery, 2011-2013;152.55;78005;128;126;179.1;rate;Inhabitants;Number;ll;ul;2011-2013
+6;5;Carpal tunnel syndrome;Nord-Trøndelag;1;Day surgery, 2011-2013;166.952;136324;238;145.7;188.2;rate;Inhabitants;Number;ll;ul;2011-2013
+7;5;Carpal tunnel syndrome;St. Olavs;1;Day surgery, 2011-2013;130.924;302367;388;117.9;144;rate;Inhabitants;Number;ll;ul;2011-2013
+8;5;Carpal tunnel syndrome;Møre og Romsdal;1;Day surgery, 2011-2013;148.711;257122;398;134.1;163.4;rate;Inhabitants;Number;ll;ul;2011-2013
+10;5;Carpal tunnel syndrome;Førde;1;Day surgery, 2011-2013;113.918;108622;129;94.2;133.7;rate;Inhabitants;Number;ll;ul;2011-2013
+11;5;Carpal tunnel syndrome;Bergen;1;Day surgery, 2011-2013;87.181;427385;357;78.1;96.2;rate;Inhabitants;Number;ll;ul;2011-2013
+12;5;Carpal tunnel syndrome;Fonna;1;Day surgery, 2011-2013;164.708;176173;288;145.7;183.7;rate;Inhabitants;Number;ll;ul;2011-2013
+13;5;Carpal tunnel syndrome;Stavanger;1;Day surgery, 2011-2013;174.713;346059;559;160.1;189.3;rate;Inhabitants;Number;ll;ul;2011-2013
+14;5;Carpal tunnel syndrome;Østfold;1;Day surgery, 2011-2013;150.903;281088;445;136.9;165;rate;Inhabitants;Number;ll;ul;2011-2013
+15;5;Carpal tunnel syndrome;Akershus;1;Day surgery, 2011-2013;123.729;373020;457;112.3;135.1;rate;Inhabitants;Number;ll;ul;2011-2013
+16;5;Carpal tunnel syndrome;OUS;1;Day surgery, 2011-2013;91.271;623905;498;83.2;99.4;rate;Inhabitants;Number;ll;ul;2011-2013
+17;5;Carpal tunnel syndrome;Innlandet;1;Day surgery, 2011-2013;178.997;394389;777;166.3;191.7;rate;Inhabitants;Number;ll;ul;2011-2013
+18;5;Carpal tunnel syndrome;Vestre Viken;1;Day surgery, 2011-2013;104.68;464692;500;95.5;113.9;rate;Inhabitants;Number;ll;ul;2011-2013
+19;5;Carpal tunnel syndrome;Vestfold;1;Day surgery, 2011-2013;134.101;223250;316;119.3;148.9;rate;Inhabitants;Number;ll;ul;2011-2013
+20;5;Carpal tunnel syndrome;Telemark;1;Day surgery, 2011-2013;121.149;170798;221;105.1;137.2;rate;Inhabitants;Number;ll;ul;2011-2013
+21;5;Carpal tunnel syndrome;Sørlandet;1;Day surgery, 2011-2013;132.545;289056;383;119.3;145.8;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;5;Carpal tunnel syndrome;Norway;1;Day surgery, 2011-2013;129.899;5048734;6573;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;6;Tonsillectomy;Finnmark;1;Day surgery, 2011-2013;487.285;74509;355;436.5;538;rate;Inhabitants;Number;ll;ul;2011-2013
+2;6;Tonsillectomy;UNN;1;Day surgery, 2011-2013;294.512;186401;536;269.6;319.5;rate;Inhabitants;Number;ll;ul;2011-2013
+3;6;Tonsillectomy;Nordlandsykehuset;1;Day surgery, 2011-2013;345.636;135569;451;313.7;377.6;rate;Inhabitants;Number;ll;ul;2011-2013
+4;6;Tonsillectomy;Helgelandsykehuset;1;Day surgery, 2011-2013;416.593;78005;307;369.9;463.3;rate;Inhabitants;Number;ll;ul;2011-2013
+6;6;Tonsillectomy;Nord-Trøndelag;1;Day surgery, 2011-2013;245.934;136324;337;219.7;272.2;rate;Inhabitants;Number;ll;ul;2011-2013
+7;6;Tonsillectomy;St. Olavs;1;Day surgery, 2011-2013;211.531;302367;636;195.1;228;rate;Inhabitants;Number;ll;ul;2011-2013
+8;6;Tonsillectomy;Møre og Romsdal;1;Day surgery, 2011-2013;355.232;257122;902;332;378.4;rate;Inhabitants;Number;ll;ul;2011-2013
+10;6;Tonsillectomy;Førde;1;Day surgery, 2011-2013;342.017;108622;370;307.1;376.9;rate;Inhabitants;Number;ll;ul;2011-2013
+11;6;Tonsillectomy;Bergen;1;Day surgery, 2011-2013;245.525;427385;1071;230.8;260.2;rate;Inhabitants;Number;ll;ul;2011-2013
+12;6;Tonsillectomy;Fonna;1;Day surgery, 2011-2013;305.732;176173;557;280.3;331.2;rate;Inhabitants;Number;ll;ul;2011-2013
+13;6;Tonsillectomy;Stavanger;1;Day surgery, 2011-2013;246.671;346059;926;230.7;262.6;rate;Inhabitants;Number;ll;ul;2011-2013
+14;6;Tonsillectomy;Østfold;1;Day surgery, 2011-2013;247.136;281088;670;228.4;265.9;rate;Inhabitants;Number;ll;ul;2011-2013
+15;6;Tonsillectomy;Akershus;1;Day surgery, 2011-2013;282.668;373020;1099;265.9;299.4;rate;Inhabitants;Number;ll;ul;2011-2013
+16;6;Tonsillectomy;OUS;1;Day surgery, 2011-2013;219.442;623905;1356;207.7;231.2;rate;Inhabitants;Number;ll;ul;2011-2013
+17;6;Tonsillectomy;Innlandet;1;Day surgery, 2011-2013;251.136;394389;903;234.7;267.6;rate;Inhabitants;Number;ll;ul;2011-2013
+18;6;Tonsillectomy;Vestre Viken;1;Day surgery, 2011-2013;290.986;464692;1358;275.5;306.5;rate;Inhabitants;Number;ll;ul;2011-2013
+19;6;Tonsillectomy;Vestfold;1;Day surgery, 2011-2013;317.735;223250;681;293.8;341.6;rate;Inhabitants;Number;ll;ul;2011-2013
+20;6;Tonsillectomy;Telemark;1;Day surgery, 2011-2013;301.846;170798;483;274.9;328.8;rate;Inhabitants;Number;ll;ul;2011-2013
+21;6;Tonsillectomy;Sørlandet;1;Day surgery, 2011-2013;268.825;289056;803;250.2;287.4;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;6;Tonsillectomy;Norway;1;Day surgery, 2011-2013;274.439;5048734;13801;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;7;Aural ventilation tube;Finnmark;1;Day surgery, 2011-2013;182.926;74509;129;151.4;214.5;rate;Inhabitants;Number;ll;ul;2011-2013
+2;7;Aural ventilation tube;UNN;1;Day surgery, 2011-2013;166.396;186401;300;147.6;185.2;rate;Inhabitants;Number;ll;ul;2011-2013
+3;7;Aural ventilation tube;Nordlandsykehuset;1;Day surgery, 2011-2013;136.531;135569;172;116.1;157;rate;Inhabitants;Number;ll;ul;2011-2013
+4;7;Aural ventilation tube;Helgelandsykehuset;1;Day surgery, 2011-2013;251.335;78005;181;214.7;288;rate;Inhabitants;Number;ll;ul;2011-2013
+6;7;Aural ventilation tube;Nord-Trøndelag;1;Day surgery, 2011-2013;262.689;136324;345;235;290.4;rate;Inhabitants;Number;ll;ul;2011-2013
+7;7;Aural ventilation tube;St. Olavs;1;Day surgery, 2011-2013;127.758;302367;384;115;140.5;rate;Inhabitants;Number;ll;ul;2011-2013
+8;7;Aural ventilation tube;Møre og Romsdal;1;Day surgery, 2011-2013;206.941;257122;520;189.1;224.7;rate;Inhabitants;Number;ll;ul;2011-2013
+10;7;Aural ventilation tube;Førde;1;Day surgery, 2011-2013;171.21;108622;182;146.3;196.1;rate;Inhabitants;Number;ll;ul;2011-2013
+11;7;Aural ventilation tube;Bergen;1;Day surgery, 2011-2013;87.588;427385;386;78.8;96.3;rate;Inhabitants;Number;ll;ul;2011-2013
+12;7;Aural ventilation tube;Fonna;1;Day surgery, 2011-2013;116.557;176173;213;100.9;132.2;rate;Inhabitants;Number;ll;ul;2011-2013
+13;7;Aural ventilation tube;Stavanger;1;Day surgery, 2011-2013;215.247;346059;853;200.8;229.7;rate;Inhabitants;Number;ll;ul;2011-2013
+14;7;Aural ventilation tube;Østfold;1;Day surgery, 2011-2013;123.218;281088;330;109.9;136.5;rate;Inhabitants;Number;ll;ul;2011-2013
+15;7;Aural ventilation tube;Akershus;1;Day surgery, 2011-2013;111.962;373020;443;101.5;122.4;rate;Inhabitants;Number;ll;ul;2011-2013
+16;7;Aural ventilation tube;OUS;1;Day surgery, 2011-2013;88.244;623905;571;81;95.5;rate;Inhabitants;Number;ll;ul;2011-2013
+17;7;Aural ventilation tube;Innlandet;1;Day surgery, 2011-2013;104.838;394389;362;94;115.7;rate;Inhabitants;Number;ll;ul;2011-2013
+18;7;Aural ventilation tube;Vestre Viken;1;Day surgery, 2011-2013;208.099;464692;981;195.1;221.1;rate;Inhabitants;Number;ll;ul;2011-2013
+19;7;Aural ventilation tube;Vestfold;1;Day surgery, 2011-2013;229.996;223250;482;209.4;250.6;rate;Inhabitants;Number;ll;ul;2011-2013
+20;7;Aural ventilation tube;Telemark;1;Day surgery, 2011-2013;143.806;170798;222;124.9;162.8;rate;Inhabitants;Number;ll;ul;2011-2013
+21;7;Aural ventilation tube;Sørlandet;1;Day surgery, 2011-2013;143.232;289056;428;129.7;156.8;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;7;Aural ventilation tube;Norway;1;Day surgery, 2011-2013;148.366;5048734;7484;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;8;Cataract;Finnmark;1;Day surgery, 2011-2013;646.997;74509;470;588;705.9;rate;Inhabitants;Number;ll;ul;2011-2013
+2;8;Cataract;UNN;1;Day surgery, 2011-2013;639.838;186401;1232;604;675.6;rate;Inhabitants;Number;ll;ul;2011-2013
+3;8;Cataract;Nordlandsykehuset;1;Day surgery, 2011-2013;608.621;135569;907;568.9;648.3;rate;Inhabitants;Number;ll;ul;2011-2013
+4;8;Cataract;Helgelandsykehuset;1;Day surgery, 2011-2013;716.244;78005;642;660.4;772.1;rate;Inhabitants;Number;ll;ul;2011-2013
+6;8;Cataract;Nord-Trøndelag;1;Day surgery, 2011-2013;762.354;136324;1170;718.5;806.2;rate;Inhabitants;Number;ll;ul;2011-2013
+7;8;Cataract;St. Olavs;1;Day surgery, 2011-2013;759.796;302367;2238;728.3;791.3;rate;Inhabitants;Number;ll;ul;2011-2013
+8;8;Cataract;Møre og Romsdal;1;Day surgery, 2011-2013;693.272;257122;1964;662.5;724;rate;Inhabitants;Number;ll;ul;2011-2013
+10;8;Cataract;Førde;1;Day surgery, 2011-2013;876.3;108622;1094;824.1;928.5;rate;Inhabitants;Number;ll;ul;2011-2013
+11;8;Cataract;Bergen;1;Day surgery, 2011-2013;583.989;427385;2403;560.6;607.3;rate;Inhabitants;Number;ll;ul;2011-2013
+12;8;Cataract;Fonna;1;Day surgery, 2011-2013;783.352;176173;1423;742.6;824.1;rate;Inhabitants;Number;ll;ul;2011-2013
+13;8;Cataract;Stavanger;1;Day surgery, 2011-2013;945.45;346059;2674;909.4;981.5;rate;Inhabitants;Number;ll;ul;2011-2013
+14;8;Cataract;Østfold;1;Day surgery, 2011-2013;561.838;281088;1702;535.1;588.6;rate;Inhabitants;Number;ll;ul;2011-2013
+15;8;Cataract;Akershus;1;Day surgery, 2011-2013;588.204;373020;1986;562.1;614.4;rate;Inhabitants;Number;ll;ul;2011-2013
+16;8;Cataract;OUS;1;Day surgery, 2011-2013;622.656;623905;3193;600.8;644.5;rate;Inhabitants;Number;ll;ul;2011-2013
+17;8;Cataract;Innlandet;1;Day surgery, 2011-2013;613.822;394389;2889;591.3;636.4;rate;Inhabitants;Number;ll;ul;2011-2013
+18;8;Cataract;Vestre Viken;1;Day surgery, 2011-2013;839.133;464692;4004;813.1;865.1;rate;Inhabitants;Number;ll;ul;2011-2013
+19;8;Cataract;Vestfold;1;Day surgery, 2011-2013;829.571;223250;2016;793.3;865.9;rate;Inhabitants;Number;ll;ul;2011-2013
+20;8;Cataract;Telemark;1;Day surgery, 2011-2013;933.148;170798;1802;889.9;976.4;rate;Inhabitants;Number;ll;ul;2011-2013
+21;8;Cataract;Sørlandet;1;Day surgery, 2011-2013;791.177;289056;2275;758.6;823.7;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;8;Cataract;Norway;1;Day surgery, 2011-2013;711.409;5048734;36084;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;9;Droppy eyelids;Finnmark;1;Day surgery, 2011-2013;123.493;74509;93;98.4;148.6;rate;Inhabitants;Number;ll;ul;2011-2013
+2;9;Droppy eyelids;UNN;1;Day surgery, 2011-2013;157.773;186401;305;140;175.5;rate;Inhabitants;Number;ll;ul;2011-2013
+3;9;Droppy eyelids;Nordlandsykehuset;1;Day surgery, 2011-2013;153.255;135569;219;132.9;173.6;rate;Inhabitants;Number;ll;ul;2011-2013
+4;9;Droppy eyelids;Helgelandsykehuset;1;Day surgery, 2011-2013;184.794;78005;155;155.6;214;rate;Inhabitants;Number;ll;ul;2011-2013
+6;9;Droppy eyelids;Nord-Trøndelag;1;Day surgery, 2011-2013;244.601;136324;355;219.1;270.1;rate;Inhabitants;Number;ll;ul;2011-2013
+7;9;Droppy eyelids;St. Olavs;1;Day surgery, 2011-2013;233.866;302367;691;216.4;251.3;rate;Inhabitants;Number;ll;ul;2011-2013
+8;9;Droppy eyelids;Møre og Romsdal;1;Day surgery, 2011-2013;145.62;257122;393;131.2;160;rate;Inhabitants;Number;ll;ul;2011-2013
+10;9;Droppy eyelids;Førde;1;Day surgery, 2011-2013;85.28;108622;98;68.3;102.2;rate;Inhabitants;Number;ll;ul;2011-2013
+11;9;Droppy eyelids;Bergen;1;Day surgery, 2011-2013;132.168;427385;539;121;143.3;rate;Inhabitants;Number;ll;ul;2011-2013
+12;9;Droppy eyelids;Fonna;1;Day surgery, 2011-2013;184.53;176173;325;164.4;204.6;rate;Inhabitants;Number;ll;ul;2011-2013
+13;9;Droppy eyelids;Stavanger;1;Day surgery, 2011-2013;102.37;346059;306;90.8;113.9;rate;Inhabitants;Number;ll;ul;2011-2013
+14;9;Droppy eyelids;Østfold;1;Day surgery, 2011-2013;134.86;281088;407;121.7;148;rate;Inhabitants;Number;ll;ul;2011-2013
+15;9;Droppy eyelids;Akershus;1;Day surgery, 2011-2013;190.34;373020;685;176;204.6;rate;Inhabitants;Number;ll;ul;2011-2013
+16;9;Droppy eyelids;OUS;1;Day surgery, 2011-2013;86.194;623905;457;78.2;94.1;rate;Inhabitants;Number;ll;ul;2011-2013
+17;9;Droppy eyelids;Innlandet;1;Day surgery, 2011-2013;128.899;394389;578;118.3;139.5;rate;Inhabitants;Number;ll;ul;2011-2013
+18;9;Droppy eyelids;Vestre Viken;1;Day surgery, 2011-2013;96.425;464692;461;87.6;105.2;rate;Inhabitants;Number;ll;ul;2011-2013
+19;9;Droppy eyelids;Vestfold;1;Day surgery, 2011-2013;129.529;223250;307;115;144;rate;Inhabitants;Number;ll;ul;2011-2013
+20;9;Droppy eyelids;Telemark;1;Day surgery, 2011-2013;205.607;170798;387;185;226.2;rate;Inhabitants;Number;ll;ul;2011-2013
+21;9;Droppy eyelids;Sørlandet;1;Day surgery, 2011-2013;203.967;289056;591;187.5;220.4;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;9;Droppy eyelids;Norway;1;Day surgery, 2011-2013;145.092;5048734;7352;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;10;Ingunial hernia;Finnmark;1;Day surgery, 2011-2013;124.109;74509;96;99.2;149;rate;Inhabitants;Number;ll;ul;2011-2013
+2;10;Ingunial hernia;UNN;1;Day surgery, 2011-2013;121.238;186401;234;105.7;136.8;rate;Inhabitants;Number;ll;ul;2011-2013
+3;10;Ingunial hernia;Nordlandsykehuset;1;Day surgery, 2011-2013;125.736;135569;181;107.4;144.1;rate;Inhabitants;Number;ll;ul;2011-2013
+4;10;Ingunial hernia;Helgelandsykehuset;1;Day surgery, 2011-2013;110.742;78005;93;88;133.5;rate;Inhabitants;Number;ll;ul;2011-2013
+6;10;Ingunial hernia;Nord-Trøndelag;1;Day surgery, 2011-2013;131.124;136324;191;112.4;149.9;rate;Inhabitants;Number;ll;ul;2011-2013
+7;10;Ingunial hernia;St. Olavs;1;Day surgery, 2011-2013;116.889;302367;350;104.6;129.1;rate;Inhabitants;Number;ll;ul;2011-2013
+8;10;Ingunial hernia;Møre og Romsdal;1;Day surgery, 2011-2013;123.089;257122;335;109.9;136.3;rate;Inhabitants;Number;ll;ul;2011-2013
+10;10;Ingunial hernia;Førde;1;Day surgery, 2011-2013;124.457;108622;145;104.1;144.8;rate;Inhabitants;Number;ll;ul;2011-2013
+11;10;Ingunial hernia;Bergen;1;Day surgery, 2011-2013;131.508;427385;547;120.5;142.5;rate;Inhabitants;Number;ll;ul;2011-2013
+12;10;Ingunial hernia;Fonna;1;Day surgery, 2011-2013;127.757;176173;229;111.2;144.3;rate;Inhabitants;Number;ll;ul;2011-2013
+13;10;Ingunial hernia;Stavanger;1;Day surgery, 2011-2013;113.712;346059;366;102;125.5;rate;Inhabitants;Number;ll;ul;2011-2013
+14;10;Ingunial hernia;Østfold;1;Day surgery, 2011-2013;115.364;281088;338;103;127.7;rate;Inhabitants;Number;ll;ul;2011-2013
+15;10;Ingunial hernia;Akershus;1;Day surgery, 2011-2013;123.087;373020;450;111.7;134.5;rate;Inhabitants;Number;ll;ul;2011-2013
+16;10;Ingunial hernia;OUS;1;Day surgery, 2011-2013;121.512;623905;671;112.2;130.8;rate;Inhabitants;Number;ll;ul;2011-2013
+17;10;Ingunial hernia;Innlandet;1;Day surgery, 2011-2013;137.621;394389;594;126.4;148.8;rate;Inhabitants;Number;ll;ul;2011-2013
+18;10;Ingunial hernia;Vestre Viken;1;Day surgery, 2011-2013;130.651;464692;617;120.3;141;rate;Inhabitants;Number;ll;ul;2011-2013
+19;10;Ingunial hernia;Vestfold;1;Day surgery, 2011-2013;132.8;223250;306;117.9;147.7;rate;Inhabitants;Number;ll;ul;2011-2013
+20;10;Ingunial hernia;Telemark;1;Day surgery, 2011-2013;128.272;170798;235;111.8;144.8;rate;Inhabitants;Number;ll;ul;2011-2013
+21;10;Ingunial hernia;Sørlandet;1;Day surgery, 2011-2013;124.518;289056;360;111.7;137.4;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;10;Ingunial hernia;Norway;1;Day surgery, 2011-2013;124.773;5048734;6338;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;11;Varicose;Finnmark;1;Day surgery, 2011-2013;75.488;74509;57;55.8;95.2;rate;Inhabitants;Number;ll;ul;2011-2013
+2;11;Varicose;UNN;1;Day surgery, 2011-2013;90.041;186401;171;76.5;103.5;rate;Inhabitants;Number;ll;ul;2011-2013
+3;11;Varicose;Nordlandsykehuset;1;Day surgery, 2011-2013;119.762;135569;167;101.6;138;rate;Inhabitants;Number;ll;ul;2011-2013
+4;11;Varicose;Helgelandsykehuset;1;Day surgery, 2011-2013;77.142;78005;63;58;96.3;rate;Inhabitants;Number;ll;ul;2011-2013
+6;11;Varicose;Nord-Trøndelag;1;Day surgery, 2011-2013;124.53;136324;172;105.9;143.2;rate;Inhabitants;Number;ll;ul;2011-2013
+7;11;Varicose;St. Olavs;1;Day surgery, 2011-2013;115.468;302367;342;103.2;127.7;rate;Inhabitants;Number;ll;ul;2011-2013
+8;11;Varicose;Møre og Romsdal;1;Day surgery, 2011-2013;145.837;257122;380;131.1;160.5;rate;Inhabitants;Number;ll;ul;2011-2013
+10;11;Varicose;Førde;1;Day surgery, 2011-2013;165.111;108622;182;141;189.2;rate;Inhabitants;Number;ll;ul;2011-2013
+11;11;Varicose;Bergen;1;Day surgery, 2011-2013;187.521;427385;771;174.3;200.8;rate;Inhabitants;Number;ll;ul;2011-2013
+12;11;Varicose;Fonna;1;Day surgery, 2011-2013;126.91;176173;219;110.1;143.7;rate;Inhabitants;Number;ll;ul;2011-2013
+13;11;Varicose;Stavanger;1;Day surgery, 2011-2013;125.824;346059;407;113.5;138.1;rate;Inhabitants;Number;ll;ul;2011-2013
+14;11;Varicose;Østfold;1;Day surgery, 2011-2013;135.923;281088;399;122.6;149.3;rate;Inhabitants;Number;ll;ul;2011-2013
+15;11;Varicose;Akershus;1;Day surgery, 2011-2013;86.721;373020;326;77.3;96.2;rate;Inhabitants;Number;ll;ul;2011-2013
+16;11;Varicose;OUS;1;Day surgery, 2011-2013;124.713;623905;713;115.5;133.9;rate;Inhabitants;Number;ll;ul;2011-2013
+17;11;Varicose;Innlandet;1;Day surgery, 2011-2013;104.373;394389;439;94.5;114.2;rate;Inhabitants;Number;ll;ul;2011-2013
+18;11;Varicose;Vestre Viken;1;Day surgery, 2011-2013;104.991;464692;502;95.8;114.2;rate;Inhabitants;Number;ll;ul;2011-2013
+19;11;Varicose;Vestfold;1;Day surgery, 2011-2013;141.506;223250;331;126.2;156.8;rate;Inhabitants;Number;ll;ul;2011-2013
+20;11;Varicose;Telemark;1;Day surgery, 2011-2013;139.016;170798;249;121.7;156.3;rate;Inhabitants;Number;ll;ul;2011-2013
+21;11;Varicose;Sørlandet;1;Day surgery, 2011-2013;169.9;289056;489;154.8;185;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;11;Varicose;Norway;1;Day surgery, 2011-2013;126.335;5048734;6379;;;rate;Inhabitants;Number;ll;ul;2011-2013
+1;12;Haemorrhoids;Finnmark;1;Day surgery, 2011-2013;240.165;74509;183;205.3;275;rate;Inhabitants;Number;ll;ul;2011-2013
+2;12;Haemorrhoids;UNN;1;Day surgery, 2011-2013;230.931;186401;437;209.2;252.6;rate;Inhabitants;Number;ll;ul;2011-2013
+3;12;Haemorrhoids;Nordlandsykehuset;1;Day surgery, 2011-2013;131.466;135569;182;112.3;150.6;rate;Inhabitants;Number;ll;ul;2011-2013
+4;12;Haemorrhoids;Helgelandsykehuset;1;Day surgery, 2011-2013;202.118;78005;164;171;233.3;rate;Inhabitants;Number;ll;ul;2011-2013
+6;12;Haemorrhoids;Nord-Trøndelag;1;Day surgery, 2011-2013;92.035;136324;128;76;108.1;rate;Inhabitants;Number;ll;ul;2011-2013
+7;12;Haemorrhoids;St. Olavs;1;Day surgery, 2011-2013;185.342;302367;549;169.8;200.9;rate;Inhabitants;Number;ll;ul;2011-2013
+8;12;Haemorrhoids;Møre og Romsdal;1;Day surgery, 2011-2013;146.348;257122;381;131.6;161.1;rate;Inhabitants;Number;ll;ul;2011-2013
+10;12;Haemorrhoids;Førde;1;Day surgery, 2011-2013;142.606;108622;156;120.1;165.1;rate;Inhabitants;Number;ll;ul;2011-2013
+11;12;Haemorrhoids;Bergen;1;Day surgery, 2011-2013;137.463;427385;571;126.2;148.8;rate;Inhabitants;Number;ll;ul;2011-2013
+12;12;Haemorrhoids;Fonna;1;Day surgery, 2011-2013;202.222;176173;353;181.1;223.3;rate;Inhabitants;Number;ll;ul;2011-2013
+13;12;Haemorrhoids;Stavanger;1;Day surgery, 2011-2013;235.505;346059;771;218.8;252.2;rate;Inhabitants;Number;ll;ul;2011-2013
+14;12;Haemorrhoids;Østfold;1;Day surgery, 2011-2013;111.348;281088;323;99.2;123.5;rate;Inhabitants;Number;ll;ul;2011-2013
+15;12;Haemorrhoids;Akershus;1;Day surgery, 2011-2013;134.539;373020;507;122.8;146.3;rate;Inhabitants;Number;ll;ul;2011-2013
+16;12;Haemorrhoids;OUS;1;Day surgery, 2011-2013;111.697;623905;650;103;120.4;rate;Inhabitants;Number;ll;ul;2011-2013
+17;12;Haemorrhoids;Innlandet;1;Day surgery, 2011-2013;338.019;394389;1437;320.4;355.6;rate;Inhabitants;Number;ll;ul;2011-2013
+18;12;Haemorrhoids;Vestre Viken;1;Day surgery, 2011-2013;155.349;464692;741;144.2;166.5;rate;Inhabitants;Number;ll;ul;2011-2013
+19;12;Haemorrhoids;Vestfold;1;Day surgery, 2011-2013;129.41;223250;298;114.7;144.1;rate;Inhabitants;Number;ll;ul;2011-2013
+20;12;Haemorrhoids;Telemark;1;Day surgery, 2011-2013;97.967;170798;174;83.3;112.6;rate;Inhabitants;Number;ll;ul;2011-2013
+21;12;Haemorrhoids;Sørlandet;1;Day surgery, 2011-2013;111.621;289056;321;99.4;123.8;rate;Inhabitants;Number;ll;ul;2011-2013
+8888;12;Haemorrhoids;Norway;1;Day surgery, 2011-2013;164.818;5048734;8326;;;rate;Inhabitants;Number;ll;ul;2011-2013
