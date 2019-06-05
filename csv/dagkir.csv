@@ -1,4 +1,4 @@
-area;level2;level2_no;area_no;level1;level1_no;value;lci;uci;denominator;numerator;type;name_cil;name_ciu;name_denominator;name_numerator;period
+area;level2;level2_name;area_name;level1;level1_name;value;lci;uci;denominator;numerator;type;name_cil;name_ciu;name_denominator;name_numerator;period
 1;1;Skulderreseksjoner;Finnmark;1;Helseatlas - Dagkirurgi, 2011-2013;252.121;216.4;287.8;74509;192;Rate;Nedre_KI;Øvre_KI;Innbyggere;Antall inngrep;2011-2013
 2;1;Skulderreseksjoner;UNN;1;Helseatlas - Dagkirurgi, 2011-2013;200.321;180.2;220.4;186401;382;Rate;Nedre_KI;Øvre_KI;Innbyggere;Antall inngrep;2011-2013
 3;1;Skulderreseksjoner;Nordlandsykehuset;1;Helseatlas - Dagkirurgi, 2011-2013;144.635;124.8;164.5;135569;205;Rate;Nedre_KI;Øvre_KI;Innbyggere;Antall inngrep;2011-2013

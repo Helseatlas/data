@@ -1,4 +1,4 @@
-area;level2;level2_no;area_no;level1;level1_no;value;numerator;denominator;type;name_numerator;name_denominator;period
+area;level2;level2_name;area_name;level1;level1_name;value;numerator;denominator;type;name_numerator;name_denominator;period
 1;1;Alle konsultasjoner;Finnmark;1;Allmennlegetjenesten;5272.66;27024;5054;Rate;Antall;Innbyggere;2013-2015
 2;1;Alle konsultasjoner;UNN;1;Allmennlegetjenesten;5927.34;81637;13700;Rate;Antall;Innbyggere;2013-2015
 3;1;Alle konsultasjoner;Nordland;1;Allmennlegetjenesten;5815.4;63026;10815;Rate;Antall;Innbyggere;2013-2015

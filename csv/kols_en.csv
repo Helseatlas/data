@@ -1,4 +1,4 @@
-area;level2;level2_en;area_en;level1;level1_en;value;numerator;denominator;type;name_numerator;name_denominator;period
+area;level2;level2_name;area_name;level1;level1_name;value;numerator;denominator;type;name_numerator;name_denominator;period
 1;1;Persons with RGP or emergency primary healthcare consultations;Finnmark;1;RGP and emergency primary healthcare;249.3;937;38184;Rate. Number per 10,000 population;Number;Inhabitants;2013-2015
 2;1;Persons with RGP or emergency primary healthcare consultations;UNN;1;RGP and emergency primary healthcare;182.6;1756;95215;Rate. Number per 10,000 population;Number;Inhabitants;2013-2015
 3;1;Persons with RGP or emergency primary healthcare consultations;Nordland;1;RGP and emergency primary healthcare;200.5;1467;70961;Rate. Number per 10,000 population;Number;Inhabitants;2013-2015

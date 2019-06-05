@@ -1,4 +1,4 @@
-area;level3;level3_no;area_no;level2;level2_no;level1;level1_no;value;denominator;numerator;type;name_denominator;name_numerator;period
+area;level3;level3_name;area_name;level2;level2_name;level1;level1_name;value;denominator;numerator;type;name_denominator;name_numerator;period
 2;1;Under 34. uker;UNN/Finnmark;1;Pasienter;1;Innleggelser;885.7;315;279;rate;Fødte;Antall;2009-2014
 4;1;Under 34. uker;Nordland;1;Pasienter;1;Innleggelser;874.1;278;243;rate;Fødte;Antall;2009-2014
 7;1;Under 34. uker;Trøndelag;1;Pasienter;1;Innleggelser;868.8;587;510;rate;Fødte;Antall;2009-2014

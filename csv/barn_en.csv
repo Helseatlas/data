@@ -1,4 +1,4 @@
-area;level3;level3_en;area_en;level2;level2_en;level1;level1_en;value;denominator;numerator;type;name_cil;name_ciu;name_denominator;name_numerator;period
+area;level3;level3_name;area_name;level2;level2_name;level1;level1_name;value;denominator;numerator;type;name_cil;name_ciu;name_denominator;name_numerator;period
 1;1;All contacts;Finnmark;1;Primary healthcare;1;Children 0–16 years, total;158098;15332;24086;Rate;ll;ul;Inhabitants;Number;2011-2014
 2;1;All contacts;UNN;1;Primary healthcare;1;Children 0–16 years, total;160652;37609;60291;Rate;ll;ul;Inhabitants;Number;2011-2014
 3;1;All contacts;Nordland;1;Primary healthcare;1;Children 0–16 years, total;154949;43186;66383;Rate;ll;ul;Inhabitants;Number;2011-2014

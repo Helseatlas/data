@@ -1,4 +1,4 @@
-area;level2;level2_no;area_no;level1;level1_no;value;ll;ul;numerator;denominator;type;name_cil;name_ciu;name_numerator;name_denominator;period
+area;level2;level2_name;area_name;level1;level1_name;value;ll;ul;numerator;denominator;type;name_cil;name_ciu;name_numerator;name_denominator;period
 1;1;Hofteleddsartrose - operasjonar;Ahus;1;Degenerative leddlidingar;174.498;168.31;180.862;604;370737;Rate;ll;ul;Tal;Innb;2012-2016
 2;1;Hofteleddsartrose - operasjonar;Helgelandssykehuset;1;Degenerative leddlidingar;194.303;179.736;209.791;133;61456;Rate;ll;ul;Tal;Innb;2012-2016
 3;1;Hofteleddsartrose - operasjonar;Bergen;1;Degenerative leddlidingar;171.112;164.683;177.736;537;335924;Rate;ll;ul;Tal;Innb;2012-2016
