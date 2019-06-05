@@ -1,4 +1,4 @@
-year;area;level2;level2_name;area_name;level1;level1_name;value;numerator;denominator;type;name_numerator;name_denominator;period
+year;area;level2;level2_name;area_name;level1;level1_name;value;numerator;denominator;type;numerator_name;denominator_name;period
 2015;1;1;Skulderkirurgi (Acromion);Finnmark;1;Dagkirurgi;270.9;210;75758;rate;antall;innbyggere;2013-2017
 2016;1;1;Skulderkirurgi (Acromion);Finnmark;1;Dagkirurgi;244.5;191;76149;rate;antall;innbyggere;2013-2017
 2014;1;1;Skulderkirurgi (Acromion);Finnmark;1;Dagkirurgi;346.1;266;75605;rate;antall;innbyggere;2013-2017

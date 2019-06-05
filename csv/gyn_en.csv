@@ -1,4 +1,4 @@
-area;level2;level2_name;area_name;level1;level1_name;value;numerator;denominator;type;name_numerator;name_denominator;period
+area;level2;level2_name;area_name;level1;level1_name;value;numerator;denominator;type;numerator_name;denominator_name;period
 1;1;Postmenopausal bleeding;Finnmark;1;Diagnosis and assessment;98.26;137;13818;Rate;Number;Inhabitants;2015-2017
 2;1;Postmenopausal bleeding;UNN;1;Diagnosis and assessment;114.92;413;36027;Rate;Number;Inhabitants;2015-2017
 3;1;Postmenopausal bleeding;Nordland;1;Diagnosis and assessment;87.85;239;27320;Rate;Number;Inhabitants;2015-2017

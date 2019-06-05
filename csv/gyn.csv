@@ -1,4 +1,4 @@
-area;level2;level2_name;area_name;level1;level1_name;value;numerator;denominator;type;name_numerator;name_denominator;period
+area;level2;level2_name;area_name;level1;level1_name;value;numerator;denominator;type;numerator_name;denominator_name;period
 1;1;Postmenopausale blødninger;Finnmark;1;Diagnostikk og utredninger;98.26;137;13818;Rate;Antall;Innbyggere;2015-2017
 2;1;Postmenopausale blødninger;UNN;1;Diagnostikk og utredninger;114.82;412;36027;Rate;Antall;Innbyggere;2015-2017
 3;1;Postmenopausale blødninger;Nordland;1;Diagnostikk og utredninger;87.85;239;27320;Rate;Antall;Innbyggere;2015-2017

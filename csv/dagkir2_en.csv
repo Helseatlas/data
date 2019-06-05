@@ -1,4 +1,4 @@
-year;area;level2;level2_name;area_name;level1;level1_name;value;numerator;denominator;type;name_numerator;name_denominator;period
+year;area;level2;level2_name;area_name;level1;level1_name;value;numerator;denominator;type;numerator_name;denominator_name;period
 2015;1;1;Shoulder surgery (acromion resection);Finnmark;1;Day Surgery;270.9;210;75758;rate;number;inhabitants;2013-2017
 2016;1;1;Shoulder surgery (acromion resection);Finnmark;1;Day Surgery;244.5;191;76149;rate;number;inhabitants;2013-2017
 2014;1;1;Shoulder surgery (acromion resection);Finnmark;1;Day Surgery;346.1;266;75605;rate;number;inhabitants;2013-2017
