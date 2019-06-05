@@ -1,4 +1,4 @@
-area;level3;level3_en;area_en;level2;level2_en;Level1;level1_en;value;denominator;numerator;type;name_denominator;name_numerator;Period
+area;level3;level3_en;area_en;level2;level2_en;level1;level1_en;value;denominator;numerator;type;name_denominator;name_numerator;period
 2;1;Less than 34.0 weeks;UNN/Finnmark;1;Patients;1;Admissions;885.7;315;279;rate;born;number;2009-2014
 4;1;Less than 34.0 weeks;Nordland;1;Patients;1;Admissions;874.1;278;243;rate;born;number;2009-2014
 7;1;Less than 34.0 weeks;Trøndelag;1;Patients;1;Admissions;868.8;587;510;rate;born;number;2009-2014

@@ -1,4 +1,4 @@
-area;level2;level2_no;area_no;Level1;level1_no;value;numerator;denominator;type;name_numerator;name_denominator;Period
+area;level2;level2_no;area_no;level1;level1_no;value;numerator;denominator;type;name_numerator;name_denominator;period
 1;1;Personer hos fastlege eller legevakt;Finnmark;1;Fastlege og legevakt;249.3;937;38184;Rate;Antall;Innbyggere;2013-2015
 2;1;Personer hos fastlege eller legevakt;UNN;1;Fastlege og legevakt;182.6;1756;95215;Rate;Antall;Innbyggere;2013-2015
 3;1;Personer hos fastlege eller legevakt;Nordland;1;Fastlege og legevakt;200.5;1467;70961;Rate;Antall;Innbyggere;2013-2015
