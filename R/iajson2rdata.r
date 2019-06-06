@@ -94,7 +94,7 @@ iajson2rdata <- function(json_file = NULL, rdata_file = NULL) {
         numerater <- data.frame(extra[, paste0("values", post)][2])
         denominator <- data.frame(extra[, paste0("values", post)][1])
         name_numerater <- extra[, paste0("name", post)][2]
-        denominator_name <- extra[, paste0("name", post)][1]
+        name_denominator <- extra[, paste0("name", post)][1]
         # nolint start
         ref_numerater <- data.frame(extra[, paste0("comparisonValues", post)][2])
         ref_denominator <- data.frame(extra[, paste0("comparisonValues", post)][1])
@@ -163,8 +163,8 @@ iajson2rdata <- function(json_file = NULL, rdata_file = NULL) {
         combined["numerater"] <- numerater
         ref_combined["numerater"] <- ref_numerater
 
-        combined["denominator_name"] <- denominator_name
-        ref_combined["denominator_name"] <- denominator_name
+        combined["name_denominator"] <- name_denominator
+        ref_combined["name_denominator"] <- name_denominator
 
         combined["denominator"] <- denominator
         ref_combined["denominator"] <- ref_denominator
