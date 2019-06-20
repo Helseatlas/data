@@ -1,4 +1,4 @@
-area;level2;level2_name;area_name;level1;level1_name;value;denominator;numerator;ll;ul;type;numerator_name;denominator_name;name_cil;name_ciu;period
+area;level1;level1_name;area_name;atlas;atlas_name;value;denominator;numerator;ll;ul;type;numerator_name;denominator_name;name_cil;name_ciu;period
 1;1;Shoulder;Finnmark;1;Day surgery, 2011-2013;252.121;74509;192;216.4;287.8;rate;Inhabitants;Number;ll;ul;2011-2013
 2;1;Shoulder;UNN;1;Day surgery, 2011-2013;200.321;186401;382;180.2;220.4;rate;Inhabitants;Number;ll;ul;2011-2013
 3;1;Shoulder;Nordlandsykehuset;1;Day surgery, 2011-2013;144.635;135569;205;124.8;164.5;rate;Inhabitants;Number;ll;ul;2011-2013
