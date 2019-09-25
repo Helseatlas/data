@@ -82,7 +82,7 @@ NULL
 #' @name dagkir2_en
 NULL
 
-#' Dataset with data from the ortopedic healthcare atlas
+#' Dataset with data from the orthopaedic healthcare atlas
 #'
 #' @docType data
 #' @keywords datasets
@@ -103,9 +103,16 @@ NULL
 #' @name gyn_en
 NULL
 
-#' Dataset with data from the birth healthcare atlas
+#' Dataset with data from the obstetrics healthcare atlas
 #'
 #' @docType data
 #' @keywords datasets
 #' @name fodsel
+NULL
+
+#' Dataset with data from the obstetrics healthcare atlas, english version
+#'
+#' @docType data
+#' @keywords datasets
+#' @name fodsel_en
 NULL
