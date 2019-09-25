@@ -3,8 +3,8 @@
 \docType{data}
 \name{ortopedi}
 \alias{ortopedi}
-\title{Dataset with data from the ortopedic healthcare atlas}
+\title{Dataset with data from the orthopaedic healthcare atlas}
 \description{
-Dataset with data from the ortopedic healthcare atlas
+Dataset with data from the orthopaedic healthcare atlas
 }
 \keyword{datasets}

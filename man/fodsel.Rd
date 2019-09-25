@@ -3,8 +3,8 @@
 \docType{data}
 \name{fodsel}
 \alias{fodsel}
-\title{Dataset with data from the birth healthcare atlas}
+\title{Dataset with data from the obstetrics healthcare atlas}
 \description{
-Dataset with data from the birth healthcare atlas
+Dataset with data from the obstetrics healthcare atlas
 }
 \keyword{datasets}
