@@ -34,6 +34,9 @@ csv2rdata <- function() {
   fodsel <- utils::read.csv(file = "csv/fodsel.csv", sep = ";")
   usethis::use_data(fodsel, overwrite = TRUE)
 
+  fodsel_en <- utils::read.csv(file = "csv/fodsel_en.csv", sep = ";")
+  usethis::use_data(fodsel_en, overwrite = TRUE)
+  
   gyn <- utils::read.csv(file = "csv/gyn.csv", sep = ";")
   usethis::use_data(gyn, overwrite = TRUE)
 
