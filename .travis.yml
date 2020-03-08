@@ -1,36 +1,13 @@
 language: r
-sudo: false
 cache: packages
-warnings_are_errors: true
 
-matrix:
-  include:
-    - os: linux
-      dist: xenial
-      r: release
-      env: 
-        - DIST=xenial
-        - AFTER_JOBS=true
-    - os: linux
-      dist: xenial
-      r: devel
-      env: 
-        - DIST=xenial
-        - AFTER_JOBS=false
-    - os: windows
-      r: release
-      env: 
-        - DIST=windows
-        - AFTER_JOBS=false
-  allow_failures:
-    - os: windows
+r:
+  - oldrel
+  - release
 
 env:
   global:
     - _R_CHECK_TESTS_NLINES_=0
-
-repos:
-  CRAN: https://cloud.r-project.org
 
 r_packages:
   - covr
@@ -38,13 +15,9 @@ r_packages:
   - roxygen2
   - pkgdown
 
-script:
-  - R CMD build .
-  - R CMD check *tar.gz
-
 after_script:
   - |
-    if [[ "$AFTER_JOBS" == "true" ]] && [[ "$TRAVIS_EVENT_TYPE" == "push" ]]; then
+    if [[ "$TRAVIS_R_VERSION_STRING" == "release" ]] && [[ "$TRAVIS_EVENT_TYPE" == "push" ]]; then
       Rscript -e 'lintr::lint_package()'
     fi
 
@@ -56,12 +29,11 @@ after_success:
 deploy:
   provider: pages                         # Specify the gh-pages deployment method
   skip_cleanup: true                      # Don't remove files
-  github_token: $GITHUB_TOKEN             # Set in travis-ci.org dashboard
+  token: $GITHUB_TOKEN             # Set in travis-ci.org dashboard
   local_dir: docs                         # Deploy the docs folder
   on:
     branch: master
-    condition: "$AFTER_JOBS = true"
-    type: push
+    condition: $TRAVIS_R_VERSION_STRING == "release"
 
 notifications:
   email:
