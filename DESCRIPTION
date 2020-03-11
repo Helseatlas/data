@@ -1,7 +1,7 @@
 Package: data
 Type: Package
 Title: Package containing data for the Helseatlas website
-Version: 0.1
+Version: 0.1.0.9000
 Date: 2019-05-13
 Author: SKDE/Helse Førde HF
 Maintainer: Arnfinn Hykkerud Steindal <arnfinn.steindal@skde.no>
