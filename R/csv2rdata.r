@@ -1,60 +1,60 @@
 # Save all csv files as rdata files
 
 # for i in *.csv; do
-# echo "${i%.*} <- utils::read.csv(file = 'csv/$i', sep = ';')" >> ../R/csv2rdata.r
+# echo "${i%.*} <- read.csv2(file = 'csv/$i', sep = ';')" >> ../R/csv2rdata.r
 # echo "usethis::use_data(${i%.*}, overwrite = TRUE)" >> ../R/csv2rdata.r
 # echo "" >> ../R/csv2rdata.r
 # done
 
 csv2rdata <- function() {
-  barn <- utils::read.csv(file = "csv/barn.csv", sep = ";")
+  barn <- read.csv2(file = "csv/barn.csv", encoding = "UTF-8")
   usethis::use_data(barn, overwrite = TRUE)
 
-  barn_en <- utils::read.csv(file = "csv/barn_en.csv", sep = ";")
+  barn_en <- read.csv2(file = "csv/barn_en.csv", encoding = "UTF-8")
   usethis::use_data(barn_en, overwrite = TRUE)
 
-  dagkir <- utils::read.csv(file = "csv/dagkir.csv", sep = ";")
+  dagkir <- read.csv2(file = "csv/dagkir.csv", encoding = "UTF-8")
   usethis::use_data(dagkir, overwrite = TRUE)
 
-  dagkir2 <- utils::read.csv(file = "csv/dagkir2.csv", sep = ";")
+  dagkir2 <- read.csv2(file = "csv/dagkir2.csv", encoding = "UTF-8")
   usethis::use_data(dagkir2, overwrite = TRUE)
 
-  dagkir2_en <- utils::read.csv(file = "csv/dagkir2_en.csv", sep = ";")
+  dagkir2_en <- read.csv2(file = "csv/dagkir2_en.csv", encoding = "UTF-8")
   usethis::use_data(dagkir2_en, overwrite = TRUE)
 
-  dagkir_en <- utils::read.csv(file = "csv/dagkir_en.csv", sep = ";")
+  dagkir_en <- read.csv2(file = "csv/dagkir_en.csv", encoding = "UTF-8")
   usethis::use_data(dagkir_en, overwrite = TRUE)
 
-  eldre <- utils::read.csv(file = "csv/eldre.csv", sep = ";")
+  eldre <- read.csv2(file = "csv/eldre.csv", encoding = "UTF-8")
   usethis::use_data(eldre, overwrite = TRUE)
 
-  eldre_en <- utils::read.csv(file = "csv/eldre_en.csv", sep = ";")
+  eldre_en <- read.csv2(file = "csv/eldre_en.csv", encoding = "UTF-8")
   usethis::use_data(eldre_en, overwrite = TRUE)
 
-  fodsel <- utils::read.csv(file = "csv/fodsel.csv", sep = ";")
+  fodsel <- read.csv2(file = "csv/fodsel.csv", encoding = "UTF-8")
   usethis::use_data(fodsel, overwrite = TRUE)
 
-  fodsel_en <- utils::read.csv(file = "csv/fodsel_en.csv", sep = ";")
+  fodsel_en <- read.csv2(file = "csv/fodsel_en.csv", encoding = "UTF-8")
   usethis::use_data(fodsel_en, overwrite = TRUE)
   
-  gyn <- utils::read.csv(file = "csv/gyn.csv", sep = ";")
+  gyn <- read.csv2(file = "csv/gyn.csv", encoding = "UTF-8")
   usethis::use_data(gyn, overwrite = TRUE)
 
-  gyn_en <- utils::read.csv(file = "csv/gyn_en.csv", sep = ";")
+  gyn_en <- read.csv2(file = "csv/gyn_en.csv", encoding = "UTF-8")
   usethis::use_data(gyn_en, overwrite = TRUE)
 
-  kols <- utils::read.csv(file = "csv/kols.csv", sep = ";")
+  kols <- read.csv2(file = "csv/kols.csv", encoding = "UTF-8")
   usethis::use_data(kols, overwrite = TRUE)
 
-  kols_en <- utils::read.csv(file = "csv/kols_en.csv", sep = ";")
+  kols_en <- read.csv2(file = "csv/kols_en.csv", encoding = "UTF-8")
   usethis::use_data(kols_en, overwrite = TRUE)
 
-  nyfodt <- utils::read.csv(file = "csv/nyfodt.csv", sep = ";")
+  nyfodt <- read.csv2(file = "csv/nyfodt.csv", encoding = "UTF-8")
   usethis::use_data(nyfodt, overwrite = TRUE)
 
-  nyfodt_en <- utils::read.csv(file = "csv/nyfodt_en.csv", sep = ";")
+  nyfodt_en <- read.csv2(file = "csv/nyfodt_en.csv", encoding = "UTF-8")
   usethis::use_data(nyfodt_en, overwrite = TRUE)
 
-  ortopedi <- utils::read.csv(file = "csv/ortopedi.csv", sep = ";")
+  ortopedi <- read.csv2(file = "csv/ortopedi.csv", encoding = "UTF-8")
   usethis::use_data(ortopedi, overwrite = TRUE)
 }
