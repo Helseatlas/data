@@ -3,8 +3,10 @@ cache: packages
 warnings_are_errors: false
 
 r:
+  - 3.3
   - oldrel
   - release
+  - devel
 
 env:
   global:
