@@ -4,7 +4,9 @@ warnings_are_errors: false
 
 r:
   - 3.3
-  - oldrel
+  - 3.4
+  - 3.5
+  - 3.6
   - release
   - devel
 
