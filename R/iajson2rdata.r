@@ -23,7 +23,7 @@ iajson2rdata <- function(json_file = NULL, rdata_file = NULL) {
   tbl <- tibble::as_tibble(json_data$geographies)
 
   # Names of areas are located in json_data$geographies$features$name
-  area <- data.frame(tbl$features)$name
+  area <- as.factor(data.frame(tbl$features)$name)
 
   # Name of reference areas are located in json_data$geographies$comparisonFeatures$name
   # nolint start
@@ -47,7 +47,7 @@ iajson2rdata <- function(json_file = NULL, rdata_file = NULL) {
   for (i in 1:length(themes$name)) {
 
     # Names for first level
-    level1 <- themes$name[i]
+    level1 <- as.factor(themes$name[i])
 
     # Evereything else is stored in next_level
     next_level <- data.frame(themes$indicators[i])
@@ -77,7 +77,7 @@ iajson2rdata <- function(json_file = NULL, rdata_file = NULL) {
       if (!is.na(next_level$id[j])) {
 
         # Names for the second level
-        level2 <- next_level$name[j]
+        level2 <- as.factor(next_level$name[j])
         level3 <- NULL
         # Names for the third level, if it exists
         level3 <- try(next_level$date[j])
